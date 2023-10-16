@@ -52,6 +52,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-10-16】[yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 * 【2023-10-15】[yuliskov / SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 * 【2023-10-15】[CatVodTVOfficial / TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) - 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。
 * 【2023-10-15】[constanline / XQuickEnergy](https://github.com/constanline/XQuickEnergy) - 
