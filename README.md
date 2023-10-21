@@ -1,6 +1,21 @@
 # github-trending
 ## All language
 
+* 【2023-10-21】[lyswhut / lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
+* 【2023-10-21】[epicweb-dev / full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) - Learn the foundational skills of building full stack web applications.
+* 【2023-10-21】[xlang-ai / OpenAgents](https://github.com/xlang-ai/OpenAgents) - OpenAgents: An Open Platform for Language Agents in the Wild
+* 【2023-10-21】[strapi / strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+* 【2023-10-21】[JustArchiNET / ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+* 【2023-10-21】[luosiallen / latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
+* 【2023-10-21】[espnet / espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
+* 【2023-10-21】[thuml / Time-Series-Library](https://github.com/thuml/Time-Series-Library) - A Library for Advanced Deep Time Series Models.
+* 【2023-10-21】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+* 【2023-10-21】[haiibo / OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B/B+、树莓派4B、R66S、R68S、M68S、H66K、H68K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
+* 【2023-10-21】[egametang / ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
+* 【2023-10-21】[maotoumao / MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+* 【2023-10-21】[YunaiV / ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+* 【2023-10-21】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+* 【2023-10-21】[yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3) - 🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
 * 【2023-10-20】[OpenBMB / XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 * 【2023-10-20】[ionic-team / ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 * 【2023-10-20】[Alex313031 / thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
@@ -112,6 +127,18 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-10-21】[apache / druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
+* 【2023-10-21】[supertokens / supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+* 【2023-10-21】[react-native-video / react-native-video](https://github.com/react-native-video/react-native-video) - A <Video /> component for react-native
+* 【2023-10-21】[xkcoding / spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+* 【2023-10-21】[spring-projects / spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
+* 【2023-10-21】[alibaba / canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
+* 【2023-10-21】[redisson / redisson](https://github.com/redisson/redisson) - Redisson - Easy Redis Java client with features of In-Memory Data Grid. Sync/Async/RxJava/Reactive API. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache ...
+* 【2023-10-21】[bazelbuild / bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
+* 【2023-10-21】[apache / rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+* 【2023-10-21】[apache / doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+* 【2023-10-21】[bcgit / bc-java](https://github.com/bcgit/bc-java) - Bouncy Castle Java Distribution (Mirror)
+* 【2023-10-21】[zccbbg / wms-ruoyi](https://github.com/zccbbg/wms-ruoyi) - 若依wms是一套基于若依的wms仓库管理系统，支持lodop和网页打印入库单、出库单。包括仓库/库区/货架管理，出入库管理，客户/供应商/承运商，库存看板、库存记录等功能。
 * 【2023-10-20】[spring-projects / spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 * 【2023-10-20】[openjdk / jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 * 【2023-10-20】[OpenRefine / OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
@@ -250,6 +277,23 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-10-21】[donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+* 【2023-10-21】[danielgross / localpilot](https://github.com/danielgross/localpilot) - 
+* 【2023-10-21】[huggingface / pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more
+* 【2023-10-21】[PixArt-alpha / PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
+* 【2023-10-21】[Kanaries / pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+* 【2023-10-21】[ray-project / ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+* 【2023-10-21】[neuralmagic / deepsparse](https://github.com/neuralmagic/deepsparse) - Sparsity-aware deep learning inference runtime for CPUs
+* 【2023-10-21】[THUDM / CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
+* 【2023-10-21】[dbt-labs / dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+* 【2023-10-21】[networkx / networkx](https://github.com/networkx/networkx) - Network Analysis in Python
+* 【2023-10-21】[alibaba-damo-academy / FunASR](https://github.com/alibaba-damo-academy/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.
+* 【2023-10-21】[Qiskit / qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
+* 【2023-10-21】[tiangolo / fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+* 【2023-10-21】[lixi5338619 / lxSpider](https://github.com/lixi5338619/lxSpider) - 爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉、知乎》
+* 【2023-10-21】[jiajiaxd / Steamauto](https://github.com/jiajiaxd/Steamauto) - 免费开源的网易BUFF、悠悠有品、Steam的全自动收发货解决方案
+* 【2023-10-21】[dongrixinyu / JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
+* 【2023-10-21】[Dod-o / Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code) - 手写实现李航《统计学习方法》书中全部算法
 * 【2023-10-20】[SigmaHQ / sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 * 【2023-10-20】[ansible / ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 * 【2023-10-20】[huggingface / peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
@@ -385,6 +429,24 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-10-21】[TongchengOpenSource / AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
+* 【2023-10-21】[Mazars-Tech / AD_Miner](https://github.com/Mazars-Tech/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses
+* 【2023-10-21】[sveltejs / svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+* 【2023-10-21】[odoo / odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
+* 【2023-10-21】[vercel / next.js](https://github.com/vercel/next.js) - The React Framework
+* 【2023-10-21】[gchq / CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+* 【2023-10-21】[tjy-gitnub / win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+* 【2023-10-21】[OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
+* 【2023-10-21】[dream-num / Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+* 【2023-10-21】[krasimir / react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
+* 【2023-10-21】[serverless / serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+* 【2023-10-21】[formio / formio.js](https://github.com/formio/formio.js) - JavaScript powered Forms with JSON Form Builder
+* 【2023-10-21】[pot-app / pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognize.
+* 【2023-10-21】[sunner / ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+* 【2023-10-21】[import-js / eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+* 【2023-10-21】[openlayers / openlayers](https://github.com/openlayers/openlayers) - OpenLayers
+* 【2023-10-21】[Sunny-117 / js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
+* 【2023-10-21】[Tencent / westore](https://github.com/Tencent/westore) - 小程序项目分层架构
 * 【2023-10-20】[badges / shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 * 【2023-10-20】[midudev / curso-node-js](https://github.com/midudev/curso-node-js) - Curso de Node.js desde cero
 * 【2023-10-20】[cypress-io / cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -519,6 +581,22 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-10-21】[lightningnetwork / lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
+* 【2023-10-21】[containerd / containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+* 【2023-10-21】[uber-go / zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+* 【2023-10-21】[containers / podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+* 【2023-10-21】[go-micro / go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+* 【2023-10-21】[teamhanko / hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
+* 【2023-10-21】[cloudflare / cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+* 【2023-10-21】[prometheus / prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+* 【2023-10-21】[kubernetes-sigs / kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
+* 【2023-10-21】[influxdata / telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+* 【2023-10-21】[go-playground / validator](https://github.com/go-playground/validator) - 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+* 【2023-10-21】[prometheus / client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
+* 【2023-10-21】[projectdiscovery / nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+* 【2023-10-21】[aws / karpenter](https://github.com/aws/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+* 【2023-10-21】[kyverno / kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
+* 【2023-10-21】[nntaoli-project / goex](https://github.com/nntaoli-project/goex) - Cryptocurrency Exchange Rest API SDK For Golang Wrapper Support okx,huobi,binance
 * 【2023-10-20】[stakater / Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
 * 【2023-10-20】[runatlantis / atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 * 【2023-10-20】[spf13 / cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -644,6 +722,20 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-10-21】[taosdata / TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
+* 【2023-10-21】[madler / zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
+* 【2023-10-21】[ggerganov / llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+* 【2023-10-21】[wg / wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+* 【2023-10-21】[MrNeRF / gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - 3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!
+* 【2023-10-21】[spdk / spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit
+* 【2023-10-21】[redcanaryco / atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
+* 【2023-10-21】[earlephilhower / arduino-pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards
+* 【2023-10-21】[Kitware / CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
+* 【2023-10-21】[coturn / coturn](https://github.com/coturn/coturn) - coturn TURN server project
+* 【2023-10-21】[marella / ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
+* 【2023-10-21】[citusdata / citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
+* 【2023-10-21】[OnionUI / Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
+* 【2023-10-21】[SeeFlowerX / stackplz](https://github.com/SeeFlowerX/stackplz) - 基于eBPF的堆栈追踪工具
 * 【2023-10-20】[apache / age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 * 【2023-10-20】[nanopb / nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 * 【2023-10-20】[confluentinc / librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
@@ -736,6 +828,21 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-10-21】[apache / kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
+* 【2023-10-21】[scylladb / scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
+* 【2023-10-21】[openvinotoolkit / openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
+* 【2023-10-21】[abseil / abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
+* 【2023-10-21】[tensorflow / tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+* 【2023-10-21】[facebook / hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
+* 【2023-10-21】[flutter / engine](https://github.com/flutter/engine) - The Flutter engine
+* 【2023-10-21】[wang-xinyu / tensorrtx](https://github.com/wang-xinyu/tensorrtx) - Implementation of popular deep learning networks with TensorRT network definition API
+* 【2023-10-21】[NVIDIA / nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
+* 【2023-10-21】[gem5 / gem5](https://github.com/gem5/gem5) - The official repository for the gem5 computer-system architecture simulator.
+* 【2023-10-21】[google / filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+* 【2023-10-21】[zeek / zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+* 【2023-10-21】[qgis / QGIS](https://github.com/qgis/QGIS) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+* 【2023-10-21】[skypjack / entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+* 【2023-10-21】[luooofan / miniob-2022](https://github.com/luooofan/miniob-2022) - https://open.oceanbase.com/competition/index
 * 【2023-10-20】[pytorch / executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
 * 【2023-10-20】[NVIDIA / TensorRT](https://github.com/NVIDIA/TensorRT) - NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications.
 * 【2023-10-20】[google-deepmind / mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
@@ -842,6 +949,15 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-10-21】[bulianglin / psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
+* 【2023-10-21】[serpapi / awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
+* 【2023-10-21】[openshift / openshift-docs](https://github.com/openshift/openshift-docs) - OpenShift 3 and 4 product and community documentation
+* 【2023-10-21】[google / styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+* 【2023-10-21】[thedev-id / thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
+* 【2023-10-21】[akshitagupta15june / PetMe](https://github.com/akshitagupta15june/PetMe) - PetMe is an all-in-one platform that allows animals to be adopted, donated to pet lovers, and provides emergency medical care to stray animals in need. Star this repo⭐
+* 【2023-10-21】[khan4019 / front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions) - Help the front End community to rock interview
+* 【2023-10-21】[mspnp / AzureNamingTool](https://github.com/mspnp/AzureNamingTool) - The Azure Naming Tool is a .NET 7 Blazor application, with a RESTful API. The UI consists of several pages to allow the configuration and generation of Azure Resource names. The API provides a programmatic interface for the functionality.
+* 【2023-10-21】[zuramai / mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
 * 【2023-10-20】[freddier / hyperblog](https://github.com/freddier/hyperblog) - Un blog increíble para el curso de Git y Github de Platzi
 * 【2023-10-20】[microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 * 【2023-10-20】[SuperSimpleDev / html-css-course-2022](https://github.com/SuperSimpleDev/html-css-course-2022) - 
@@ -944,6 +1060,15 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-10-21】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
+* 【2023-10-21】[lipis / flag-icons](https://github.com/lipis/flag-icons) - 🎏 A curated collection of all country flags in SVG — plus the CSS for easier integration
+* 【2023-10-21】[emetdas / Youtube-code](https://github.com/emetdas/Youtube-code) - web design master project for beginner to advanced
+* 【2023-10-21】[septiandwica / kado](https://github.com/septiandwica/kado) - flower
+* 【2023-10-21】[Screenly / Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
+* 【2023-10-21】[chimma666 / restaurant-file](https://github.com/chimma666/restaurant-file) - this is a restaurant menu page where you can show your creativity by adding new features
+* 【2023-10-21】[promet / provus-meridian-demo](https://github.com/promet/provus-meridian-demo) - Meridian Demo Site
+* 【2023-10-21】[caracal-js / Incognito](https://github.com/caracal-js/Incognito) - Source code.
+* 【2023-10-21】[OpenClassrooms-Student-Center / 7697016-Front-End.1](https://github.com/OpenClassrooms-Student-Center/7697016-Front-End.1) - 
 * 【2023-10-20】[primefaces / primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 * 【2023-10-20】[missing-semester-cn / missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 * 【2023-10-20】[MultiverseLearningProducts / Lightbulb-Selectors](https://github.com/MultiverseLearningProducts/Lightbulb-Selectors) - 
@@ -1021,6 +1146,24 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-10-21】[codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+* 【2023-10-21】[CyberSecurityUP / OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide) - OSWE, OSEP, OSED, OSEE
+* 【2023-10-21】[modularml / mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+* 【2023-10-21】[zju3dv / 4K4D](https://github.com/zju3dv/4K4D) - 4K4D: Real-Time 4D View Synthesis at 4K Resolution
+* 【2023-10-21】[e2b-dev / awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+* 【2023-10-21】[ByteByteGoHq / ml-bytebytego](https://github.com/ByteByteGoHq/ml-bytebytego) - 
+* 【2023-10-21】[zhanymkanov / fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+* 【2023-10-21】[danluu / post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
+* 【2023-10-21】[qianguyihao / Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+* 【2023-10-21】[szabgab / awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
+* 【2023-10-21】[Thinkright20 / Profile-Badges](https://github.com/Thinkright20/Profile-Badges) - 🛡️ A list of all profile badges and how to obtain each one 🛡️
+* 【2023-10-21】[Nikhilthadani / MERN-AI-ChatBot](https://github.com/Nikhilthadani/MERN-AI-ChatBot) - 
+* 【2023-10-21】[lanceliao / china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
+* 【2023-10-21】[yinggaozhen / awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。⏰脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
+* 【2023-10-21】[shinezyy / micro-arch-training](https://github.com/shinezyy/micro-arch-training) - How to make undergraduates or new graduates ready for advanced computer architecture research or modern CPU design
+* 【2023-10-21】[githubXiaowangzi / NP-Manager](https://github.com/githubXiaowangzi/NP-Manager) - Apk控制流混淆；Apk-Dex2C；Res资源混淆；Dex、jar、smali文件的相互转换； Dex、Pdf文件合并； Apk、dex、jar混淆和字符串加密； Apk签名、共存、去除签名校验、对话框取消、去除VPN/代理检测； Res资源混淆； Dex、AXML、ARSC文件编辑及翻译；字符串加密(Apk、dex)； 一键添加Xposed检测，一键添加弹窗、对话框； axml反编译/回编译； 一键LOG注入，一键去除所有弹窗(Toast)； 一键注入字符串解密LOG，Dex文件换包名； 一键添加禁止截屏，一键添加Apk崩溃日志记录； Apk超级混淆3.0--高效率直接对dex混淆，支持混淆四大组件，支持多dex； Apk功能--DEX混淆对抗；屏幕取色器；屏幕标尺。
+* 【2023-10-21】[qd-today / templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+* 【2023-10-21】[ddgksf2013 / Rewrite](https://github.com/ddgksf2013/Rewrite) - 
 * 【2023-10-20】[davidetaibi / Microservices_Project_List](https://github.com/davidetaibi/Microservices_Project_List) - A curated List of project that migrated to microservices
 * 【2023-10-20】[projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 * 【2023-10-20】[sudheerj / angular-interview-questions](https://github.com/sudheerj/angular-interview-questions) - List of 300 Angular Interview Questions and answers
