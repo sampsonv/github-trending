@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2023-11-02】[php-youtubers / directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
+* 【2023-11-02】[highcharts / highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
+* 【2023-11-02】[Azure / MS-AMP](https://github.com/Azure/MS-AMP) - Microsoft Automatic Mixed Precision Library
+* 【2023-11-02】[yunjey / pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 * 【2023-11-01】[cisagov / LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a free and open logging and protective monitoring solution serving all organizations.
 * 【2023-11-01】[microsoft / PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 * 【2023-11-01】[OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
@@ -230,6 +234,16 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-11-02】[SuperMonster003 / AutoJs6](https://github.com/SuperMonster003/AutoJs6) - 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)
+* 【2023-11-02】[dromara / hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless. Support monitoring web, database, os, middleware, cloudnative, network and more.
+* 【2023-11-02】[apache / fineract](https://github.com/apache/fineract) - Apache Fineract
+* 【2023-11-02】[grpc / grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
+* 【2023-11-02】[traccar / traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+* 【2023-11-02】[micrometer-metrics / micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
+* 【2023-11-02】[zfdang / Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
+* 【2023-11-02】[SeleniumHQ / selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+* 【2023-11-02】[DuGuQiuBai / Java](https://github.com/DuGuQiuBai/Java) - 27天成为Java大神
+* 【2023-11-02】[apache / hadoop](https://github.com/apache/hadoop) - Apache Hadoop
 * 【2023-11-01】[apache / pinot](https://github.com/apache/pinot) - Apache Pinot - A realtime distributed OLAP datastore
 * 【2023-11-01】[apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 * 【2023-11-01】[AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps on Android smartphones.
@@ -497,6 +511,12 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-11-02】[iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
+* 【2023-11-02】[lm-sys / FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+* 【2023-11-02】[togethercomputer / RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
+* 【2023-11-02】[SkyworkAI / Skywork](https://github.com/SkyworkAI/Skywork) - Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc. 天工系列模型在3.2TB高质量多语言和代码数据上进行预训练。我们开源了模型参数，训练数据，评估数据，评估方法。
+* 【2023-11-02】[microsoft / qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+* 【2023-11-02】[pathwaycom / llm-app](https://github.com/pathwaycom/llm-app) - LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines.
 * 【2023-11-01】[CycodeLabs / raven](https://github.com/CycodeLabs/raven) - RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD)
 * 【2023-11-01】[MIC-DKFZ / nnUNet](https://github.com/MIC-DKFZ/nnUNet) - 
 * 【2023-11-01】[PaddlePaddle / PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
@@ -772,6 +792,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-11-02】[Automattic / mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+* 【2023-11-02】[TonyJiangWJ / Ant-Forest](https://github.com/TonyJiangWJ/Ant-Forest) - 基于AutoJS的蚂蚁森林收能量脚本
 * 【2023-11-01】[iamadamdev / bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 * 【2023-11-01】[sveltejs / kit](https://github.com/sveltejs/kit) - web development, streamlined
 * 【2023-11-01】[xnl-h4ck3r / XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for relfected query params, show hidden elements and enable disabled elements.
@@ -1051,6 +1073,18 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-11-02】[kubernetes / ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
+* 【2023-11-02】[prometheus / node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+* 【2023-11-02】[elastic / go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
+* 【2023-11-02】[miekg / dns](https://github.com/miekg/dns) - DNS library in Go
+* 【2023-11-02】[GREENHAT7 / pxplan](https://github.com/GREENHAT7/pxplan) - CVE-2023-2023
+* 【2023-11-02】[hktalent / scan4all](https://github.com/hktalent/scan4all) - Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+* 【2023-11-02】[moonD4rk / HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+* 【2023-11-02】[Shopify / toxiproxy](https://github.com/Shopify/toxiproxy) - ⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+* 【2023-11-02】[gaoyb7 / 115drive-webdav](https://github.com/gaoyb7/115drive-webdav) - 115 网盘 WebDAV 服务
+* 【2023-11-02】[theRank / chinese-holidays-calendar](https://github.com/theRank/chinese-holidays-calendar) - Calendar of Public Holidays in China & Automatic Alarm Clock 中国大陆节假日安排 日历订阅 自动节假日闹钟
+* 【2023-11-02】[guonaihong / gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---> gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
+* 【2023-11-02】[ConnectAI-E / Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
 * 【2023-11-01】[rsc / unix](https://github.com/rsc/unix) - Old Unix programs running on modern computers.
 * 【2023-11-01】[treeverse / lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 * 【2023-11-01】[pingcap / tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
@@ -1315,6 +1349,10 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-11-02】[ARMmbed / mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
+* 【2023-11-02】[libfuse / sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
+* 【2023-11-02】[c-ares / c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
+* 【2023-11-02】[riscv-collab / riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) - GNU toolchain for RISC-V, including GCC
 * 【2023-11-01】[blasty / unwyze](https://github.com/blasty/unwyze) - 
 * 【2023-11-01】[jemalloc / jemalloc](https://github.com/jemalloc/jemalloc) - 
 * 【2023-11-01】[fw876 / helloworld](https://github.com/fw876/helloworld) - 
@@ -1526,6 +1564,15 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-11-02】[google / sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
+* 【2023-11-02】[ckcr4lyf / EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32
+* 【2023-11-02】[progschj / ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
+* 【2023-11-02】[intel / intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
+* 【2023-11-02】[li-plus / chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs
+* 【2023-11-02】[ton-blockchain / ton](https://github.com/ton-blockchain/ton) - Main TON monorepo
+* 【2023-11-02】[mongodb / mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+* 【2023-11-02】[isl-org / Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
+* 【2023-11-02】[mahuifa / QMDemo](https://github.com/mahuifa/QMDemo) - Qt日常开发的一些功能模块或者Qt库、三方库的使用Demo，例如FFmpeg、OpenCV、Web、QGraphicsView、OpenGL、网络编程、数据库、QSS样式表、QtChart图表绘制等。
 * 【2023-11-01】[Rahiche / riveo_page_curl](https://github.com/Rahiche/riveo_page_curl) - Riveo page curl effect in flutter
 * 【2023-11-01】[luau-lang / luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 * 【2023-11-01】[myzxcg / RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR) - Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...
@@ -1747,6 +1794,11 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-11-02】[fool2fish / dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
+* 【2023-11-02】[SeldonIO / seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
+* 【2023-11-02】[lwinmoepaing / html-and-css-beginner-to-super-beginner-ebook](https://github.com/lwinmoepaing/html-and-css-beginner-to-super-beginner-ebook) - 
+* 【2023-11-02】[vasturiano / 3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
+* 【2023-11-02】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
 * 【2023-11-01】[facebookresearch / fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 * 【2023-11-01】[fengdu78 / Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 * 【2023-11-01】[daattali / beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -1939,6 +1991,10 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-11-02】[starknet-edu / starknetbook](https://github.com/starknet-edu/starknetbook) - Mastering Starknet. By the Starknet community
+* 【2023-11-02】[felipethomas / site-portfolio](https://github.com/felipethomas/site-portfolio) - Site que representa o portfólio de Felipe Thomas
+* 【2023-11-02】[HermanMartinus / bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
+* 【2023-11-02】[titaniumnetwork-dev / alloy](https://github.com/titaniumnetwork-dev/alloy) - A web proxy for use in combating web filters.
 * 【2023-11-01】[qq8e / qq](https://github.com/qq8e/qq) - 8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多
 * 【2023-11-01】[GDSCxGMIT / Giting-LinkedIn](https://github.com/GDSCxGMIT/Giting-LinkedIn) - Portfolio Website Template
 * 【2023-11-01】[orf / simple](https://github.com/orf/simple) - Simple is a clone of Obtvse written in Python running on Flask.
@@ -2095,6 +2151,18 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-11-02】[artichokeee / test-assignments](https://github.com/artichokeee/test-assignments) - Список тестовых заданий для ручных тестировщиков и автоматизаторов
+* 【2023-11-02】[afshinea / stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
+* 【2023-11-02】[agmmnn / awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
+* 【2023-11-02】[mhadidg / software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
+* 【2023-11-02】[karanwxliaa / Research-for-UG-Students](https://github.com/karanwxliaa/Research-for-UG-Students) - Research programs for Undergraduate students
+* 【2023-11-02】[academic / awesome-datascience](https://github.com/academic/awesome-datascience) - 📝 An awesome Data Science repository to learn and apply for real world problems.
+* 【2023-11-02】[Mwaseemzakir / Learn-Dot-Net](https://github.com/Mwaseemzakir/Learn-Dot-Net) - This repository contains list of all books for DotNet Developers
+* 【2023-11-02】[febobo / web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
+* 【2023-11-02】[alaskasquirrel / Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
+* 【2023-11-02】[fangzesheng / free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
+* 【2023-11-02】[cutethotw / ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
+* 【2023-11-02】[shengyp / doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
 * 【2023-11-01】[georgezouq / awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 * 【2023-11-01】[KathanP19 / HowToHunt](https://github.com/KathanP19/HowToHunt) - Collection of methodology and test case for various web vulnerabilities.
 * 【2023-11-01】[KAYOKG / BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) - 📚 Biblioteca de livros essenciais da área da programação.
