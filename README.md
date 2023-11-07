@@ -1,6 +1,13 @@
 # github-trending
 ## All language
 
+* 【2023-11-07】[bevyengine / bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+* 【2023-11-07】[TheChance101 / beep-beep](https://github.com/TheChance101/beep-beep) - 
+* 【2023-11-07】[milanm / DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap by seniority level.
+* 【2023-11-07】[qdrant / qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+* 【2023-11-07】[LayerZero-Labs / solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) - example contracts
+* 【2023-11-07】[google / jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+* 【2023-11-07】[openwrt / packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 * 【2023-11-06】[Kuingsmile / clash-core](https://github.com/Kuingsmile/clash-core) - backup of clash core
 * 【2023-11-06】[nz-m / SocialEcho](https://github.com/nz-m/SocialEcho) - Social networking platform with automated content moderation and context-based authentication system
 * 【2023-11-06】[girafe-ai / ml-course](https://github.com/girafe-ai/ml-course) - Open Machine Learning course
@@ -268,6 +275,11 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-11-07】[seata / seata](https://github.com/seata/seata) - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+* 【2023-11-07】[cinit / QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
+* 【2023-11-07】[castorini / anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
+* 【2023-11-07】[M66B / FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
+* 【2023-11-07】[Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) - [Forge Mod] Building Tools and Aesthetic Technology
 * 【2023-11-06】[skylot / jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 * 【2023-11-06】[openhab / openhab-addons](https://github.com/openhab/openhab-addons) - Add-ons for openHAB
 * 【2023-11-06】[alipay / fury](https://github.com/alipay/fury) - A blazing fast multi-language serialization framework powered by jit and zero-copy
@@ -574,6 +586,17 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-11-07】[dreamgaussian / dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation
+* 【2023-11-07】[kovidgoyal / calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+* 【2023-11-07】[imoneoi / openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
+* 【2023-11-07】[MorvanZhou / Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学
+* 【2023-11-07】[yihong0618 / tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle) - Telegram bing bot DALL-E 3
+* 【2023-11-07】[microsoft / DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
+* 【2023-11-07】[aladdinpersson / Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - A resource for learning about Machine learning & Deep Learning
+* 【2023-11-07】[kivy / python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
+* 【2023-11-07】[reactive-python / reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
+* 【2023-11-07】[drivendata / cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+* 【2023-11-07】[mootdx / mootdx](https://github.com/mootdx/mootdx) - 通达信数据读取的一个简便使用封装
 * 【2023-11-06】[deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 * 【2023-11-06】[pytube / pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 * 【2023-11-06】[tiangolo / sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -895,6 +918,16 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-11-07】[advplyr / audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
+* 【2023-11-07】[pat-jj / TextbookKG](https://github.com/pat-jj/TextbookKG) - TxBKG - Knowledge Graph Generation for Any PDFs
+* 【2023-11-07】[sadanandpai / frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges) - Collection of frontend challenges for learning and interviews
+* 【2023-11-07】[jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+* 【2023-11-07】[koodo-reader / koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+* 【2023-11-07】[adrianhajdin / project_react_native_jobs](https://github.com/adrianhajdin/project_react_native_jobs) - 
+* 【2023-11-07】[USTC-Hackergame / hackergame2023-writeups](https://github.com/USTC-Hackergame/hackergame2023-writeups) - 中国科学技术大学第十届信息安全大赛的官方与非官方题解
+* 【2023-11-07】[elrebelde21 / NovaBot-MD](https://github.com/elrebelde21/NovaBot-MD) - ʜᴏʟᴀ 👋 ʙɪᴇɴᴠᴇɴɪᴅᴏ 💫 ᴀʟ ʀᴇᴘᴏsɪᴛᴏʀɪᴏ ᴏғɪᴄɪᴀʟ ᴅᴇʟ ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ, ᴇs ᴜɴ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ ғᴜɴᴄɪᴏɴᴀʟ ᴄᴏɴ ʟᴀ ᴠᴇʀsɪᴏɴ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ, ᴀǫᴜɪ sᴇ ʀᴇᴀʟɪᴢᴀʀᴀɴ ᴀᴄᴛᴜʟɪᴢᴀᴄɪᴏɴᴇs, sɪ ᴛᴇ ᴀɢʀᴀᴅᴀ ᴇʟ ʙᴏᴛ ᴍᴇ ᴘᴜᴇᴅᴇ ʀᴇɢᴀʟᴀs ᴜɴᴀ 🌟?, ᴇsᴘᴇʀᴏ ᴛᴇ ɢᴜsᴛᴇ 🤗
+* 【2023-11-07】[UnblockNeteaseMusic / server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
+* 【2023-11-07】[IvanHanloth / Easy-Send](https://github.com/IvanHanloth/Easy-Send) - 一个简单易用的跨设备、跨平台文件文本传输程序。
 * 【2023-11-06】[flybywiresim / aircraft](https://github.com/flybywiresim/aircraft) - The A32NX & A380X Project are community driven open source projects to create a free airbus aircraft in Microsoft Flight Simulator that is as close to reality as possible.
 * 【2023-11-06】[Hackl0us / SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 * 【2023-11-06】[rolling-scopes-school / tasks](https://github.com/rolling-scopes-school/tasks) - 
@@ -1211,6 +1244,16 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-11-07】[xmdhs / clash2singbox](https://github.com/xmdhs/clash2singbox) - 将 clash.meta 格式的配置文件或链接转换为 sing-box 格式
+* 【2023-11-07】[AlexxIT / go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+* 【2023-11-07】[Jinnrry / PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
+* 【2023-11-07】[rclone / rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+* 【2023-11-07】[tailscale / tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+* 【2023-11-07】[cli / cli](https://github.com/cli/cli) - GitHub’s official command line tool
+* 【2023-11-07】[portainer / portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+* 【2023-11-07】[techschool / simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go
+* 【2023-11-07】[bettercap / bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+* 【2023-11-07】[trustwallet / assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 * 【2023-11-06】[championswimmer / onepixel_backend](https://github.com/championswimmer/onepixel_backend) - 
 * 【2023-11-05】[daeuniverse / dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
 * 【2023-11-05】[v2rayA / v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
@@ -1513,6 +1556,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-11-07】[ish-app / ish](https://github.com/ish-app/ish) - Linux shell for iOS
+* 【2023-11-07】[n64decomp / sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 * 【2023-11-06】[acidanthera / OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 * 【2023-11-06】[mgba-emu / mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 * 【2023-11-06】[fwupd / fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
@@ -1750,6 +1795,14 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-11-07】[tdlib / telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
+* 【2023-11-07】[simdjson / simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
+* 【2023-11-07】[godotengine / godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
+* 【2023-11-07】[minetest / minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
+* 【2023-11-07】[SFML / SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
+* 【2023-11-07】[danielkrupinski / Osiris](https://github.com/danielkrupinski/Osiris) - Free and open-source game hack for Counter-Strike 2, written in modern C++. For Windows and Linux.
+* 【2023-11-07】[nillerusr / source-engine](https://github.com/nillerusr/source-engine) - Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
+* 【2023-11-07】[hrydgard / ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.
 * 【2023-11-06】[trojan-gfw / trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 * 【2023-11-06】[FlaxEngine / FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 * 【2023-11-06】[nefarius / ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
@@ -2009,6 +2062,10 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-11-07】[wsvincent / awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
+* 【2023-11-07】[vking34 / books](https://github.com/vking34/books) - List of books for Software Engineer
+* 【2023-11-07】[gsanchezd / fdsw-github](https://github.com/gsanchezd/fdsw-github) - 
+* 【2023-11-07】[geeeeeeeek / videoproject](https://github.com/geeeeeeeek/videoproject) - 基于python的视频点播网站，视频点播系统，python+Django开发的视频管理系统 - 毕业设计 - 课程设计
 * 【2023-11-06】[frainzy1477 / luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 * 【2023-11-06】[twitter / twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 * 【2023-11-06】[kevquirk / simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
@@ -2226,6 +2283,9 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-11-07】[sindresorhus / github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+* 【2023-11-07】[ratatui-org / ratatui-book](https://github.com/ratatui-org/ratatui-book) - Ratatui Documentation
+* 【2023-11-07】[apache / incubator](https://github.com/apache/incubator) - Apache Incubator Website
 * 【2023-11-06】[ronggang / transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
 * 【2023-11-06】[adobe-fonts / source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 * 【2023-11-05】[An0nUD4Y / Evilginx2-Phishlets](https://github.com/An0nUD4Y/Evilginx2-Phishlets) - Evilginx3 Phishlets version (0.2.3 & above) Only For Testing/Learning Purposes
@@ -2408,6 +2468,15 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-11-07】[farhanashrafdev / 90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md
+* 【2023-11-07】[imran-parray / Mind-Maps](https://github.com/imran-parray/Mind-Maps) - Mind-Maps of Several Things
+* 【2023-11-07】[ritchieng / the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+* 【2023-11-07】[0x4D31 / awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
+* 【2023-11-07】[Semporia / Clash](https://github.com/Semporia/Clash) - Clash for Windows & ClashX Pro 自用节点订阅、分流规则、参考配置
+* 【2023-11-07】[sadanandpai / frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
+* 【2023-11-07】[DustinWin / clash-tutorials](https://github.com/DustinWin/clash-tutorials) - Clash 教程合集——安装、配置、自定义规则
+* 【2023-11-07】[OBenner / data-engineering-interview-questions](https://github.com/OBenner/data-engineering-interview-questions) - More than 2000+ Data engineer interview questions.
+* 【2023-11-07】[willwulfken / MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 * 【2023-11-06】[DustinWin / clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
 * 【2023-11-06】[EAimTY / tuic](https://github.com/EAimTY/tuic) - 
 * 【2023-11-06】[AndrewStetsenko / tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
