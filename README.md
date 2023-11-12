@@ -1,6 +1,13 @@
 # github-trending
 ## All language
 
+* 【2023-11-12】[ishan0102 / vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
+* 【2023-11-12】[jbranchaud / til](https://github.com/jbranchaud/til) - 📝 Today I Learned
+* 【2023-11-12】[githubnext / monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+* 【2023-11-12】[Azure / azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+* 【2023-11-12】[lapce / floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
+* 【2023-11-12】[chatwoot / chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+* 【2023-11-12】[dortania / OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 * 【2023-11-11】[daveshap / OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - Early experiment to create fully autonomous agent swarms
 * 【2023-11-11】[SawyerHood / draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 * 【2023-11-11】[expo / expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -309,6 +316,16 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-11-12】[simplelocalize / simplelocalize-cli](https://github.com/simplelocalize/simplelocalize-cli) - Command-line tool for SimpleLocalize
+* 【2023-11-12】[DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+* 【2023-11-12】[L-codes / Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg) - Neo-reGeorg is a project that seeks to aggressively refactor reGeorg
+* 【2023-11-12】[javaparser / javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+* 【2023-11-12】[Grt1228 / chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4 Api Client for Java
+* 【2023-11-12】[DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) - Datadog APM client for Java
+* 【2023-11-12】[aws / aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) - The official AWS SDK for Java - Version 2
+* 【2023-11-12】[woowacourse-precourse / java-christmas-6](https://github.com/woowacourse-precourse/java-christmas-6) - 
+* 【2023-11-12】[Charles7c / continew-admin](https://github.com/Charles7c/continew-admin) - ContiNew Admin 中后台管理框架/脚手架，Continue New Admin，持续以最新流行技术栈构建，拥抱变化，迭代优化。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、Sa-Token、MyBatis Plus、Redisson、Liquibase、JustAuth、Easy Excel、Hutool、TypeScript、Vite4 等。
+* 【2023-11-12】[dromara / forest](https://github.com/dromara/forest) - A high-level and lightweight declarative HTTP client framework for Java. it makes sending HTTP requests in Java easier.
 * 【2023-11-11】[SPLWare / esProc](https://github.com/SPLWare/esProc) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently.
 * 【2023-11-11】[xiaonuobase / Snowy](https://github.com/xiaonuobase/Snowy) - 💖Snowy是一款国内首个国密前后分离快速开发平台，采用Vue3+AntDesignVue3 + Vite+SpringBoot+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，真正做到：前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
 * 【2023-11-10】[apereo / cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
@@ -634,6 +651,13 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-11-12】[guoyww / AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
+* 【2023-11-12】[huggingface / diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+* 【2023-11-12】[edmund-code / muse-eeg](https://github.com/edmund-code/muse-eeg) - 
+* 【2023-11-12】[gventuri / pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
+* 【2023-11-12】[shibing624 / textgen](https://github.com/shibing624/textgen) - TextGen: Implementation of Text Generation models, include LLaMA, BLOOM, GPT2, BART, T5, SongNet and so on. 文本生成模型，实现了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的训练和预测，开箱即用。
+* 【2023-11-12】[hellonlp / classifier-multi-label](https://github.com/hellonlp/classifier-multi-label) - 多标签文本分类，多标签分类，文本分类, multi-label, classifier, text classification, BERT, seq2seq，attention, multi-label-classification
+* 【2023-11-12】[SWHL / AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections) - AI比赛经验帖子 & 训练和测试技巧帖子 集锦（收集整理各种人工智能比赛经验帖）
 * 【2023-11-11】[JayZeeDesign / openai-experiments](https://github.com/JayZeeDesign/openai-experiments) - 
 * 【2023-11-11】[modelscope / modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 * 【2023-11-11】[elebumm / RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
@@ -994,6 +1018,13 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-11-12】[projectdiscovery / nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension) - Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
+* 【2023-11-12】[studio-freight / lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
+* 【2023-11-12】[wechat-miniprogram / miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例
+* 【2023-11-12】[node-red / node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+* 【2023-11-12】[invertase / react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+* 【2023-11-12】[100xDevs-hkirat / all-assignments](https://github.com/100xDevs-hkirat/all-assignments) - 
+* 【2023-11-12】[wkylin / pro-react-admin](https://github.com/wkylin/pro-react-admin) - 基于React: v18.x.x/Webpack: v5.x.x//Vite: 4.x.x/React Router v6.x.x/ Antd: v5..x.x/Typescript: v5.x.x/Fetch Api/等最新版本进行构建的企业级中台前端基础模板...
 * 【2023-11-11】[safak / nextadmin](https://github.com/safak/nextadmin) - 
 * 【2023-11-11】[lmsqueezy / nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - A Next.js billing app with Lemon Squeezy
 * 【2023-11-11】[dirk1983 / chatgpt](https://github.com/dirk1983/chatgpt) - 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
@@ -1342,6 +1373,14 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-11-12】[cosmos / cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - ⛓️ A Framework for Building High Value Public Blockchains ✨
+* 【2023-11-12】[ethereum-optimism / optimism](https://github.com/ethereum-optimism/optimism) - Optimism is Ethereum, scaled.
+* 【2023-11-12】[valyala / fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+* 【2023-11-12】[onsi / ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+* 【2023-11-12】[Melkeydev / go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
+* 【2023-11-12】[grafana / tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+* 【2023-11-12】[ThingsPanel / ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go) - The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.
+* 【2023-11-12】[cherish-chat / xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 * 【2023-11-11】[evmos / evmos](https://github.com/evmos/evmos) - Evmos is the first decentralized EVM chain on the Cosmos Network. It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.
 * 【2023-11-11】[gitpod-io / gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 * 【2023-11-11】[traefik / traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1679,6 +1718,17 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-11-12】[php / php-src](https://github.com/php/php-src) - The PHP Interpreter
+* 【2023-11-12】[blender / blender](https://github.com/blender/blender) - Official mirror of Blender
+* 【2023-11-12】[Tencent / xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
+* 【2023-11-12】[xdp-project / xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
+* 【2023-11-12】[54zorb / Zorb-Framework](https://github.com/54zorb/Zorb-Framework) - 一个轻量级嵌入式框架
+* 【2023-11-12】[NVIDIA / cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
+* 【2023-11-12】[glennrp / libpng](https://github.com/glennrp/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
+* 【2023-11-12】[DragonQuestHero / Medusa](https://github.com/DragonQuestHero/Medusa) - Radical Windows ARK
+* 【2023-11-12】[Azure / azure-iot-sdk-c](https://github.com/Azure/azure-iot-sdk-c) - A C99 SDK for connecting devices to Microsoft Azure IoT services
+* 【2023-11-12】[armink / SFUD](https://github.com/armink/SFUD) - An using JEDEC's SFDP standard serial (SPI) flash universal driver library | 一款使用 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库
+* 【2023-11-12】[ClimbSnail / HoloCubic_AIO](https://github.com/ClimbSnail/HoloCubic_AIO) - HoloCubic超多功能AIO固件 基于esp32-arduino的天气时钟、相册、视频播放、桌面投屏、web服务、bilibili粉丝等
 * 【2023-11-11】[freebsd / freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 * 【2023-11-11】[eclipse / paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
 * 【2023-11-11】[baidu / dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
@@ -1949,6 +1999,10 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-11-12】[pixie-io / pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
+* 【2023-11-12】[efchatz / pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
+* 【2023-11-12】[openxla / iree](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
+* 【2023-11-12】[google / skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 * 【2023-11-11】[Abhishek-Saini / educational](https://github.com/Abhishek-Saini/educational) - Educational Codes
 * 【2023-11-11】[risc0 / risc0](https://github.com/risc0/risc0) - RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
 * 【2023-11-11】[p-ranav / argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
@@ -2239,6 +2293,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-11-12】[snakemake / snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
+* 【2023-11-12】[ruiduobao / gaode_MAP_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
+* 【2023-11-12】[x-dr / chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 * 【2023-11-11】[microsoft / LLaVA-Med](https://github.com/microsoft/LLaVA-Med) - Large Language-and-Vision Assistant for BioMedicine, built towards multimodal GPT-4 level capabilities.
 * 【2023-11-11】[deep-learning-mit / staging](https://github.com/deep-learning-mit/staging) - 
 * 【2023-11-11】[knative / docs](https://github.com/knative/docs) - User documentation for Knative components.
@@ -2476,6 +2533,10 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-11-12】[web-dev-open / pizza](https://github.com/web-dev-open/pizza) - 
+* 【2023-11-12】[cli-guidelines / cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
+* 【2023-11-12】[shuhongfan / sl-express](https://github.com/shuhongfan/sl-express) - 神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品： - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息等。 - 后台系统管理：基于vue开发，PC端使用，公司内部管理员用户使用，可以进行基础数据维护、订单管理、运单管理等。
+* 【2023-11-12】[liuzhihang / halo-theme-hao](https://github.com/liuzhihang/halo-theme-hao) - 
 * 【2023-11-11】[wendywarren / customizing-bootstrap](https://github.com/wendywarren/customizing-bootstrap) - 
 * 【2023-11-11】[jlord / hello](https://github.com/jlord/hello) - [Fork-n-Go] A simple personal page. Demo:
 * 【2023-11-11】[EthicalSource / contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
@@ -2684,6 +2745,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-11-12】[Cyfrin / security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - 
+* 【2023-11-12】[azat-io / you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - 📚 Russian translation of "You Don't Know JS" book series
 * 【2023-11-11】[creapunk / CLN17](https://github.com/creapunk/CLN17) - Compact closed-loop stepper motor driver designed for NEMA17 motors
 * 【2023-11-11】[mbzuai-oryx / groundingLMM](https://github.com/mbzuai-oryx/groundingLMM) - Grounding Large Multimodal Model (GLaMM), the first-of-its-kind model capable of generating natural language responses that are seamlessly integrated with object segmentation masks.
 * 【2023-11-11】[anoma / namada-testnets](https://github.com/anoma/namada-testnets) - Testnet configurations and coordination for the Namada network.
