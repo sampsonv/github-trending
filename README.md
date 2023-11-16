@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2023-11-16】[craftzdog / dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
+* 【2023-11-16】[netbootxyz / netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE.
+* 【2023-11-16】[MerlinKodo / clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
+* 【2023-11-16】[rust-lang / rustlings](https://github.com/rust-lang/rustlings) - 🦀 Small exercises to get you used to reading and writing Rust code!
 * 【2023-11-15】[disler / multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
 * 【2023-11-15】[atomicals / atomicals-js](https://github.com/atomicals/atomicals-js) - Atomicals CLI and Javascript Library
 * 【2023-11-15】[langgenius / dify](https://github.com/langgenius/dify) - The next-gen development platform - Easily build and operate generative AI applications. Create Assistants API and GPTs based on any LLMs.
@@ -332,6 +336,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-11-16】[javasmall / bigsai-algorithm](https://github.com/javasmall/bigsai-algorithm) - bigsai的数据结构与算法、LeetCode图解、剑指offer图解文章专栏，致力于最好懂的数据结构与算法专栏
+* 【2023-11-16】[MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+* 【2023-11-16】[jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 * 【2023-11-15】[mybatis / mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
 * 【2023-11-15】[Activiti / Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
 * 【2023-11-15】[CoderLeixiaoshuai / java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！
@@ -683,6 +690,14 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-11-16】[dmlc / dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+* 【2023-11-16】[sockysec / Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
+* 【2023-11-16】[python / cpython](https://github.com/python/cpython) - The Python programming language
+* 【2023-11-16】[cloud804d / mirrors-pengzhile-pandora](https://github.com/cloud804d/mirrors-pengzhile-pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+* 【2023-11-16】[turboderp / exllamav2](https://github.com/turboderp/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
+* 【2023-11-16】[thewhiteh4t / FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
+* 【2023-11-16】[deepinsight / insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
+* 【2023-11-16】[nerfstudio-project / nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 * 【2023-11-15】[unifyai / ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 * 【2023-11-15】[outlines-dev / outlines](https://github.com/outlines-dev/outlines) - Guided Text Generation
 * 【2023-11-15】[eriklindernoren / ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
@@ -1069,6 +1084,15 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-11-16】[FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+* 【2023-11-16】[plankanban / planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
+* 【2023-11-16】[dejwid / food-ordering](https://github.com/dejwid/food-ordering) - 
+* 【2023-11-16】[johnfactotum / foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
+* 【2023-11-16】[3Kmfi6HP / EDtunnel](https://github.com/3Kmfi6HP/EDtunnel) - Use Cloudflare pages and worker serverless to implement VLESS protocol
+* 【2023-11-16】[hiteshchoudhary / apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
+* 【2023-11-16】[twbs / bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+* 【2023-11-16】[parallax / jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
+* 【2023-11-16】[aframevr / aframe](https://github.com/aframevr/aframe) - 🅰️Web framework for building virtual reality experiences.
 * 【2023-11-15】[facebook / lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 * 【2023-11-15】[chetanverma16 / react-portfolio-template](https://github.com/chetanverma16/react-portfolio-template) - Modern React Portfolio Template (FREE)
 * 【2023-11-15】[goldfire / howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
@@ -1446,6 +1470,11 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-11-16】[libp2p / go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
+* 【2023-11-16】[OwO-Network / DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+* 【2023-11-16】[cert-manager / cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
+* 【2023-11-16】[jaegertracing / jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
+* 【2023-11-16】[songquanpeng / wechat-server](https://github.com/songquanpeng/wechat-server) - 微信公众号的后端，为其他系统提供微信登录验证功能
 * 【2023-11-15】[hashicorp / terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 * 【2023-11-15】[pressly / goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 * 【2023-11-15】[seaweedfs / seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
@@ -1817,6 +1846,10 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-11-16】[libbpf / libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
+* 【2023-11-16】[AprilRobotics / apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
+* 【2023-11-16】[lem0nSec / ShellGhost](https://github.com/lem0nSec/ShellGhost) - A memory-based evasion technique which makes shellcode invisible from process start to end.
+* 【2023-11-16】[Foundry376 / Mailspring](https://github.com/Foundry376/Mailspring) - 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 * 【2023-11-15】[umlaeute / v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
 * 【2023-11-15】[hathach / tinyusb](https://github.com/hathach/tinyusb) - An open source cross-platform USB stack for embedded system
 * 【2023-11-15】[gojue / ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
@@ -2112,6 +2145,14 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-11-16】[IntelRealSense / librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
+* 【2023-11-16】[open-telemetry / opentelemetry-cpp](https://github.com/open-telemetry/opentelemetry-cpp) - The OpenTelemetry C++ Client
+* 【2023-11-16】[open-source-parsers / jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
+* 【2023-11-16】[cyberbotics / webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
+* 【2023-11-16】[Haivision / srt](https://github.com/Haivision/srt) - Secure, Reliable, Transport
+* 【2023-11-16】[facontidavide / PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
+* 【2023-11-16】[nuggslet / MGSM2Fix](https://github.com/nuggslet/MGSM2Fix) - A fix that adds pixel perfect scaling, scanlines and a script debugger to the original Metal Gear Solid within the Master Collection.
+* 【2023-11-16】[wangyu- / udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 * 【2023-11-15】[OSGeo / gdal](https://github.com/OSGeo/gdal) - GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
 * 【2023-11-15】[WasmEdge / WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 * 【2023-11-15】[uNetworking / uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -2419,6 +2460,10 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-11-16】[bikashdev01 / Section-code](https://github.com/bikashdev01/Section-code) - 
+* 【2023-11-16】[goproxy / goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+* 【2023-11-16】[radmanplays / radmanplays.github.io](https://github.com/radmanplays/radmanplays.github.io) - Play Minecraft in any browser!
+* 【2023-11-16】[phil-opp / blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 * 【2023-11-15】[Tacogamerman / ByeBlocker](https://github.com/Tacogamerman/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 * 【2023-11-15】[airbnb / lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 * 【2023-11-14】[TandoorRecipes / recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -2664,6 +2709,11 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-11-16】[wanteddev / wanted-sans](https://github.com/wanteddev/wanted-sans) - 곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul
+* 【2023-11-16】[cyz / ada-lovelace-page](https://github.com/cyz/ada-lovelace-page) - 
+* 【2023-11-16】[TheBridge-FullStackDeveloper / rick-and-morty-characters](https://github.com/TheBridge-FullStackDeveloper/rick-and-morty-characters) - 
+* 【2023-11-16】[romeojeremiah / javascript-projects-for-beginners](https://github.com/romeojeremiah/javascript-projects-for-beginners) - Repository for all (future) 100+ JavaScript projects for beginners created on JSBeginners.com.
+* 【2023-11-16】[b374k / b374k](https://github.com/b374k/b374k) - PHP Webshell with handy features
 * 【2023-11-15】[creativetimofficial / vue-material-kit](https://github.com/creativetimofficial/vue-material-kit) - Vue Material Kit - Open Source Material Design UI Kit
 * 【2023-11-15】[Training360 / html5-halado](https://github.com/Training360/html5-halado) - HTML5 haladó tanfolyam anyaga.
 * 【2023-11-15】[FilipJirsak-Czechitas / j2w-ukol06](https://github.com/FilipJirsak-Czechitas/j2w-ukol06) - Zadání úkolu č. 7.
@@ -2888,6 +2938,13 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-11-16】[mbeaudru / modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+* 【2023-11-16】[vectara / hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
+* 【2023-11-16】[devisasari / awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
+* 【2023-11-16】[996icu / 996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+* 【2023-11-16】[vuejs / awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+* 【2023-11-16】[PJLab-ADG / GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving
+* 【2023-11-16】[geeeeeeeek / code_products](https://github.com/geeeeeeeek/code_products) - python系统设计， python毕业设计推荐，python/vue课程设计，java毕业设计
 * 【2023-11-15】[pandora-next / deploy](https://github.com/pandora-next/deploy) - PandoraNext部署文档仓库。
 * 【2023-11-15】[iuricode / readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
 * 【2023-11-15】[piyushsachdeva / AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero) - 
