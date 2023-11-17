@@ -1,6 +1,21 @@
 # github-trending
 ## All language
 
+* 【2023-11-17】[loro-dev / loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app.
+* 【2023-11-17】[dotnet / core](https://github.com/dotnet/core) - Home repository for .NET Core
+* 【2023-11-17】[dotnet / eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
+* 【2023-11-17】[BuilderIO / gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+* 【2023-11-17】[google-deepmind / graphcast](https://github.com/google-deepmind/graphcast) - 
+* 【2023-11-17】[unkeyed / unkey](https://github.com/unkeyed/unkey) - Open Source API Key Management
+* 【2023-11-17】[dotnet / aspire](https://github.com/dotnet/aspire) - .NET Aspire
+* 【2023-11-17】[udlbook / udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
+* 【2023-11-17】[all-in-aigc / gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
+* 【2023-11-17】[AntonioErdeljac / next13-trello](https://github.com/AntonioErdeljac/next13-trello) - 
+* 【2023-11-17】[ant-design / ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+* 【2023-11-17】[LouisShark / chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all chatgpt's system prompt
+* 【2023-11-17】[hyperium / hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+* 【2023-11-17】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
+* 【2023-11-17】[yangkang2021 / nerf-learn](https://github.com/yangkang2021/nerf-learn) - 记录对nerf各种算法、应用、软件等等的学习过程
 * 【2023-11-16】[craftzdog / dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 * 【2023-11-16】[netbootxyz / netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE.
 * 【2023-11-16】[MerlinKodo / clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
@@ -336,6 +351,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-11-17】[springdoc / springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
+* 【2023-11-17】[TechEmpower / FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 * 【2023-11-16】[javasmall / bigsai-algorithm](https://github.com/javasmall/bigsai-algorithm) - bigsai的数据结构与算法、LeetCode图解、剑指offer图解文章专栏，致力于最好懂的数据结构与算法专栏
 * 【2023-11-16】[MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 * 【2023-11-16】[jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -690,6 +707,15 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-11-17】[baichuan-inc / Baichuan2](https://github.com/baichuan-inc/Baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
+* 【2023-11-17】[cubiq / ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - 
+* 【2023-11-17】[guillaumekln / faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
+* 【2023-11-17】[martinvigo / email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
+* 【2023-11-17】[S-LoRA / S-LoRA](https://github.com/S-LoRA/S-LoRA) - S-LoRA: Serving Thousands of Concurrent LoRA Adapters
+* 【2023-11-17】[openai / evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+* 【2023-11-17】[shashankvemuri / Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
+* 【2023-11-17】[crynux-ai / h-node](https://github.com/crynux-ai/h-node) - Crynux Node for the Hydrogen(H) Network
+* 【2023-11-17】[alibaba / tidevice](https://github.com/alibaba/tidevice) - tidevice can be used to communicate with iPhone device
 * 【2023-11-16】[dmlc / dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 * 【2023-11-16】[sockysec / Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
 * 【2023-11-16】[python / cpython](https://github.com/python/cpython) - The Python programming language
@@ -1084,6 +1110,13 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-11-17】[bypassiwastaken / skiovox-helper](https://github.com/bypassiwastaken/skiovox-helper) - An extension to make the browsing experience in the Skiovox exploit smoother.
+* 【2023-11-17】[InterstellarNetwork / Interstellar](https://github.com/InterstellarNetwork/Interstellar) - Interstellar is one of the best proxies with blazing fast speeds and tons of games.
+* 【2023-11-17】[mermaid-js / mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+* 【2023-11-17】[electerm / electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
+* 【2023-11-17】[sahandghavidel / mern-estate](https://github.com/sahandghavidel/mern-estate) - Real Estate app using MERN and tailwind css
+* 【2023-11-17】[DataDog / documentation](https://github.com/DataDog/documentation) - The source for Datadog's documentation site.
+* 【2023-11-17】[iamxjb / winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) - 微慕小程序开源版-WordPress版微信小程序
 * 【2023-11-16】[FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 * 【2023-11-16】[plankanban / planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 * 【2023-11-16】[dejwid / food-ordering](https://github.com/dejwid/food-ordering) - 
@@ -1470,6 +1503,13 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-11-17】[kubernetes-sigs / aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
+* 【2023-11-17】[gravitational / teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
+* 【2023-11-17】[spiffe / spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
+* 【2023-11-17】[NVIDIA / k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
+* 【2023-11-17】[metallb / metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
+* 【2023-11-17】[google / go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
+* 【2023-11-17】[grpc-ecosystem / go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 * 【2023-11-16】[libp2p / go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 * 【2023-11-16】[OwO-Network / DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 * 【2023-11-16】[cert-manager / cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
@@ -1846,6 +1886,12 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-11-17】[google / security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+* 【2023-11-17】[grafana / beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services
+* 【2023-11-17】[torproject / tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
+* 【2023-11-17】[esnet / iperf](https://github.com/esnet/iperf) - iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool
+* 【2023-11-17】[FreeRTOS / FreeRTOS](https://github.com/FreeRTOS/FreeRTOS) - 'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.
+* 【2023-11-17】[eunomia-bpf / bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe & Syscall hook & Plugins
 * 【2023-11-16】[libbpf / libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
 * 【2023-11-16】[AprilRobotics / apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
 * 【2023-11-16】[lem0nSec / ShellGhost](https://github.com/lem0nSec/ShellGhost) - A memory-based evasion technique which makes shellcode invisible from process start to end.
@@ -2145,6 +2191,9 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-11-17】[qt / qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
+* 【2023-11-17】[commaai / opendbc](https://github.com/commaai/opendbc) - democratize access to car decoder rings
+* 【2023-11-17】[Brendan-Kirtlan / Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode) - Encodes a file into a video format to store on a cloud video hosting service
 * 【2023-11-16】[IntelRealSense / librealsense](https://github.com/IntelRealSense/librealsense) - Intel® RealSense™ SDK
 * 【2023-11-16】[open-telemetry / opentelemetry-cpp](https://github.com/open-telemetry/opentelemetry-cpp) - The OpenTelemetry C++ Client
 * 【2023-11-16】[open-source-parsers / jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
@@ -2460,6 +2509,11 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-11-17】[microsoft / dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
+* 【2023-11-17】[harisahmad59 / Hypefolio](https://github.com/harisahmad59/Hypefolio) - Hypefolio is a feature-rich portfolio website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
+* 【2023-11-17】[wangzhiye-tiancai / mysupervisor_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) - 收集“导师评价”相关资源，及原“导师评价网”存档数据
+* 【2023-11-17】[microsoft / language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
+* 【2023-11-17】[Gogh-Co / Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 * 【2023-11-16】[bikashdev01 / Section-code](https://github.com/bikashdev01/Section-code) - 
 * 【2023-11-16】[goproxy / goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 * 【2023-11-16】[radmanplays / radmanplays.github.io](https://github.com/radmanplays/radmanplays.github.io) - Play Minecraft in any browser!
@@ -2709,6 +2763,12 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-11-17】[wozulong / ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper) - 一个简单的Chrome插件，用来帮助你登录ChatGPT。
+* 【2023-11-17】[fork-commit-merge / fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) - Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!
+* 【2023-11-17】[dhg / Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
+* 【2023-11-17】[ayusharma / birthday](https://github.com/ayusharma/birthday) - A Happy Birthday animation design in CSS3, HTML5
+* 【2023-11-17】[congchu / web-porfolio](https://github.com/congchu/web-porfolio) - 개발자를 위한 쉽고 빠른 웹 포트폴리오 만들기
+* 【2023-11-17】[chokcoco / CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 * 【2023-11-16】[wanteddev / wanted-sans](https://github.com/wanteddev/wanted-sans) - 곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul
 * 【2023-11-16】[cyz / ada-lovelace-page](https://github.com/cyz/ada-lovelace-page) - 
 * 【2023-11-16】[TheBridge-FullStackDeveloper / rick-and-morty-characters](https://github.com/TheBridge-FullStackDeveloper/rick-and-morty-characters) - 
@@ -2938,6 +2998,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-11-17】[linexjlin / GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+* 【2023-11-17】[LucasPDiniz / 403-Bypass](https://github.com/LucasPDiniz/403-Bypass) - Bypass 403 pages
+* 【2023-11-17】[CollabCodeTech / backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
+* 【2023-11-17】[twf-nikhila / Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) - 🟢 2023 Deals Live - Black Friday & Cyber Monday, Christmas & Holidays Deals for Developers, Techies, & Entrepreneurs,
 * 【2023-11-16】[mbeaudru / modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 * 【2023-11-16】[vectara / hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
 * 【2023-11-16】[devisasari / awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
