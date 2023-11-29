@@ -1,6 +1,18 @@
 # github-trending
 ## All language
 
+* 【2023-11-29】[opa334 / TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
+* 【2023-11-29】[jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
+* 【2023-11-29】[BurntSushi / ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+* 【2023-11-29】[yairm210 / Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+* 【2023-11-29】[pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* 【2023-11-29】[Ma-Lab-Berkeley / CRATE](https://github.com/Ma-Lab-Berkeley/CRATE) - Code for CRATE (Coding RAte reduction TransformEr).
+* 【2023-11-29】[ShinoKana / multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene) - based on bgstaal/multipleWindow3dScene
+* 【2023-11-29】[goniszewski / grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
+* 【2023-11-29】[zennomi / Seg-Mirror](https://github.com/zennomi/Seg-Mirror) - Kính chiếu yêuuuu quỷ seg hiện raaa
+* 【2023-11-29】[googleapis / google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
+* 【2023-11-29】[datawhalechina / thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
+* 【2023-11-29】[Uahh / ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
 * 【2023-11-26】[bgstaal / multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 * 【2023-11-26】[wesbos / hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
 * 【2023-11-26】[AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -395,6 +407,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-11-29】[shenzepeng / suyoushop](https://github.com/shenzepeng/suyoushop) - 
+* 【2023-11-29】[qos-ch / logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java.
+* 【2023-11-29】[OpenFeign / feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 * 【2023-11-26】[spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
 * 【2023-11-26】[hei-school / poja-even](https://github.com/hei-school/poja-even) - 
 * 【2023-11-26】[vladmihalcea / hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) - The Hypersistence Utils library (previously known as Hibernate Types) gives you Spring and Hibernate utilities that can help you get the most out of your data access layer.
@@ -773,6 +788,18 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-11-29】[adidas / lakehouse-engine](https://github.com/adidas/lakehouse-engine) - The Lakehouse Engine is a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.
+* 【2023-11-29】[bmaltais / kohya_ss](https://github.com/bmaltais/kohya_ss) - 
+* 【2023-11-29】[pennersr / django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+* 【2023-11-29】[Yvictor / TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
+* 【2023-11-29】[crytic / slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
+* 【2023-11-29】[SpecterOps / Nemesis](https://github.com/SpecterOps/Nemesis) - An offensive data enrichment pipeline
+* 【2023-11-29】[yule-BUAA / MergeLM](https://github.com/yule-BUAA/MergeLM) - Codebase for Merging Language Models
+* 【2023-11-29】[patrickloeber / snake-ai-pytorch](https://github.com/patrickloeber/snake-ai-pytorch) - 
+* 【2023-11-29】[LiLittleCat / awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+* 【2023-11-29】[mkshing / ziplora-pytorch](https://github.com/mkshing/ziplora-pytorch) - Implementation of "ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs"
+* 【2023-11-29】[kagisearch / vectordb](https://github.com/kagisearch/vectordb) - A minimal Python package for storing and retrieving text using chunking, embeddings, and vector search.
+* 【2023-11-29】[voicepaw / so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 * 【2023-11-26】[sh-lee-prml / HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp) - The official implementation of HierSpeech++
 * 【2023-11-26】[hylarucoder / svd-webui](https://github.com/hylarucoder/svd-webui) - 
 * 【2023-11-26】[passivestar / quickmenu](https://github.com/passivestar/quickmenu) - Blender addon that simplifies access to useful operators and adds missing functionality
@@ -1235,6 +1262,11 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-11-29】[ToolJet / ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+* 【2023-11-29】[plotly / plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
+* 【2023-11-29】[jason5ng32 / MyIP](https://github.com/jason5ng32/MyIP) - IP 工具箱。可以查看本机IP、挂代理后的IP信息、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性等。An alternative to ip.skk.moe service.
+* 【2023-11-29】[brix / crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+* 【2023-11-29】[zhimin-dev / iptv-checker](https://github.com/zhimin-dev/iptv-checker) - a iptv-checker tool for chrome extension, check your playlist is available
 * 【2023-11-26】[friuns2 / BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 * 【2023-11-26】[sampotts / plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 * 【2023-11-26】[google / zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1674,6 +1706,14 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-11-29】[minchenzz / ierc-miner](https://github.com/minchenzz/ierc-miner) - 
+* 【2023-11-29】[tidwall / gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+* 【2023-11-29】[xataio / pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
+* 【2023-11-29】[tektoncd / pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
+* 【2023-11-29】[opencontainers / runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
+* 【2023-11-29】[go-admin-team / go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro
+* 【2023-11-29】[bnb-chain / bsc](https://github.com/bnb-chain/bsc) - A BNB Smart Chain client based on the go-ethereum fork
+* 【2023-11-29】[stefanprodan / podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 * 【2023-11-26】[jpillora / chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 * 【2023-11-26】[ngoduykhanh / wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 * 【2023-11-26】[teslamotors / vehicle-command](https://github.com/teslamotors/vehicle-command) - 
@@ -2101,6 +2141,13 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-11-29】[naev / naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres.
+* 【2023-11-29】[Monster-GM / NewBlackbox](https://github.com/Monster-GM/NewBlackbox) - new Blackbox
+* 【2023-11-29】[haiwen / seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+* 【2023-11-29】[factionsecurity / faction](https://github.com/factionsecurity/faction) - Pen Test Report Generation and Assessment Collaboration
+* 【2023-11-29】[nanomsg / nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging
+* 【2023-11-29】[fontforge / fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
+* 【2023-11-29】[tinyproxy / tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 * 【2023-11-26】[radareorg / radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 * 【2023-11-26】[pgbackrest / pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 * 【2023-11-25】[azure-rtos / threadx](https://github.com/azure-rtos/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
@@ -2443,6 +2490,10 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-11-29】[bitcookies / winrar-keygen](https://github.com/bitcookies/winrar-keygen) - Principle of WinRAR key generation.
+* 【2023-11-29】[danmar / cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+* 【2023-11-29】[BehaviorTree / BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
+* 【2023-11-29】[epezent / implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 * 【2023-11-26】[finos / perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 * 【2023-11-26】[cisco / openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 * 【2023-11-25】[spotify / voyager](https://github.com/spotify/voyager) - 🛰️ Voyager is an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
@@ -2796,6 +2847,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-11-29】[tansuotv / IPTVindex](https://github.com/tansuotv/IPTVindex) - Enjoy IPTV !
+* 【2023-11-29】[google / material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+* 【2023-11-29】[EvilCult / iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) - IPTV 国内+国外 电视台直播源m3u文件, 收集&汇总&本地源脚本
 * 【2023-11-26】[arcanis / secretsanta](https://github.com/arcanis/secretsanta) - Host secret santa without leaking your guests' informations 🎄
 * 【2023-11-26】[KG-Coding-with-Prashant-Sir / JavaScript_Complete_YouTube](https://github.com/KG-Coding-with-Prashant-Sir/JavaScript_Complete_YouTube) - 
 * 【2023-11-26】[Adamant-im / AIPs](https://github.com/Adamant-im/AIPs) - ADAMANT Improvement Proposal repository
@@ -3084,6 +3138,11 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-11-29】[codingstella / cool-responsive-portfolio](https://github.com/codingstella/cool-responsive-portfolio) - 
+* 【2023-11-29】[Kalvium-Program / lab-brrgrr](https://github.com/Kalvium-Program/lab-brrgrr) - 
+* 【2023-11-29】[artemsheludko / flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll) - Flexible-Jekyll is a simple and clean theme for Jekyll
+* 【2023-11-29】[itscodenation / int-u3l3-23-24-student-exercises](https://github.com/itscodenation/int-u3l3-23-24-student-exercises) - 
+* 【2023-11-29】[christorange / VerticalFox](https://github.com/christorange/VerticalFox) - Firefox theme with Edge like auto-hide vertical tab bar and minimalism design. Powerd by Sidebery.
 * 【2023-11-26】[mustbebuilt / javascript-objects-json-lab](https://github.com/mustbebuilt/javascript-objects-json-lab) - 
 * 【2023-11-26】[jeycaarce / message](https://github.com/jeycaarce/message) - 
 * 【2023-11-26】[EvaMarco / Bridging-the-Design-Dev-Gap-workshop](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop) - "Code your Penpot designs seamlessly in our workshop. Step-by-step exercises to reveal the pontential of the integration of design and development. Elevate your collaboration skills with Penpot."
@@ -3341,6 +3400,15 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-11-29】[HuskyDG / magisk-files](https://github.com/HuskyDG/magisk-files) - 
+* 【2023-11-29】[joevess / IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合好趣网直播源+月光宝盒Box直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+* 【2023-11-29】[atomone-hub / genesis](https://github.com/atomone-hub/genesis) - declaration of genesis
+* 【2023-11-29】[cncf / curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
+* 【2023-11-29】[afshinea / stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
+* 【2023-11-29】[m3y54m / Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - A roadmap for those who want to build a career as an Embedded Systems Engineer, along with a curated list of learning resources
+* 【2023-11-29】[youssefHosni / Data-Science-Interview-Questions-Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) - Curated list of data science interview questions and answers
+* 【2023-11-29】[cyb3rxp / awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A collection of sources of documentation, as well as field best practices, to build/run a SOC
+* 【2023-11-29】[ynwynw / allProject](https://github.com/ynwynw/allProject) - springboot 电商书城 springboot酒店预订管理管理 springboot超市管理系统 springboot + vue 超市管理系统 springboot 人事oa管理系统 springboot 房屋租赁系统 springboot 个人博客系统 springboot + vue 宠物交易/租赁系统 springboot 宠物商城 springboot 花店商城系统 （有报告） springboot 教务管理系统 springboot景区旅游系统 springboot电影购票系统 springboot网上商城 springboot网上商城-仿小米 springboot网上商城-仿天猫 springboot+vue图书管理系统 springboot+vue 教务管理系统 …
 * 【2023-11-26】[awslabs / aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 * 【2023-11-26】[cap-so / cap](https://github.com/cap-so/cap) - Beautiful, shareable screen recordings. Open-source and privacy-friendly.
 * 【2023-11-26】[Boese0601 / MagicDance](https://github.com/Boese0601/MagicDance) - MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer
