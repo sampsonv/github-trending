@@ -1,6 +1,12 @@
 # github-trending
 ## All language
 
+* 【2023-12-01】[federico-busato / Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
+* 【2023-12-01】[epfLLM / meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
+* 【2023-12-01】[mlabonne / llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+* 【2023-12-01】[roboflow / multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA. 🔥
+* 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
+* 【2023-12-01】[gonglei007 / GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
 * 【2023-11-30】[OthersideAI / self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - 
 * 【2023-11-30】[NVIDIA / Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 * 【2023-11-30】[makeplane / plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -415,6 +421,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-12-01】[shenzepeng / album-system](https://github.com/shenzepeng/album-system) - 
+* 【2023-12-01】[bumptech / glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
+* 【2023-12-01】[oracle / opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 * 【2023-11-30】[makemyownlife / platform-sms](https://github.com/makemyownlife/platform-sms) - 简单的短信网关服务，提供客户端 SDK ，支持阿里云，腾讯云，亿美短信发送，适用于中小型公司。您的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果您觉得还不错，请点上一颗小星星。
 * 【2023-11-29】[shenzepeng / suyoushop](https://github.com/shenzepeng/suyoushop) - 
 * 【2023-11-29】[qos-ch / logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java.
@@ -797,6 +806,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-12-01】[secdev / scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+* 【2023-12-01】[srbhr / Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
+* 【2023-12-01】[plenumlab / rce-finder](https://github.com/plenumlab/rce-finder) - A tool to find good RCE
+* 【2023-12-01】[keras-team / keras](https://github.com/keras-team/keras) - Deep Learning for humans
+* 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 * 【2023-11-30】[yogeshojha / rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with…
 * 【2023-11-30】[IEIT-Yuan / Yuan-2.0](https://github.com/IEIT-Yuan/Yuan-2.0) - Yuan 2.0 Large Language Model
 * 【2023-11-30】[EnVision-Research / LucidDreamer](https://github.com/EnVision-Research/LucidDreamer) - Official implementation of "LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching"
@@ -1280,6 +1294,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
+* 【2023-12-01】[WenyanLiu / CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp) - Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
 * 【2023-11-30】[jsdom / jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 * 【2023-11-30】[francoischalifour / medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 * 【2023-11-30】[denysdovhan / wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -1727,6 +1743,13 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-12-01】[dreddsa5dies / goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
+* 【2023-12-01】[angelofallars / htmx-go](https://github.com/angelofallars/htmx-go) - </> Build awesome HTMX + Go projects faster.
+* 【2023-12-01】[pkg / errors](https://github.com/pkg/errors) - Simple error handling primitives
+* 【2023-12-01】[emirpasic / gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
+* 【2023-12-01】[openfaas / faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+* 【2023-12-01】[tilt-dev / tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
+* 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 * 【2023-11-30】[evanw / esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 * 【2023-11-30】[secengjeff / awskillswitch](https://github.com/secengjeff/awskillswitch) - Lambda function that streamlines containment of an AWS account compromise
 * 【2023-11-30】[bepass-org / smartSNI](https://github.com/bepass-org/smartSNI) - A simple single file smart sni proxy with doh and dot written in go
@@ -2166,6 +2189,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-12-01】[VirusTotal / yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife
+* 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 * 【2023-11-30】[raspberrypi / firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
 * 【2023-11-30】[rofl0r / proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 * 【2023-11-30】[cesanta / mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server
@@ -2522,6 +2547,11 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-12-01】[nasa / fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
+* 【2023-12-01】[zeromq / libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
+* 【2023-12-01】[google / highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
+* 【2023-12-01】[async-profiler / async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
+* 【2023-12-01】[x64dbg / x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 * 【2023-11-30】[buaacyw / GaussianEditor](https://github.com/buaacyw/GaussianEditor) - 
 * 【2023-11-30】[wesnoth / wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 * 【2023-11-30】[Light-City / CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
@@ -2887,6 +2917,13 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-12-01】[google / docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
+* 【2023-12-01】[wikihidden4 / HIdden-Wiki](https://github.com/wikihidden4/HIdden-Wiki) - https://thehiddenwiki2022.com
+* 【2023-12-01】[pdf2htmlEX / pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
+* 【2023-12-01】[tc39 / proposal-promise-with-resolvers](https://github.com/tc39/proposal-promise-with-resolvers) - 
+* 【2023-12-01】[shahednasser / awesome-resources](https://github.com/shahednasser/awesome-resources) - 😎 List of helpful resources added by the community for the community!
+* 【2023-12-01】[microsoft / ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
+* 【2023-12-01】[terkelg / awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 * 【2023-11-30】[awesome-assistants / awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 * 【2023-11-30】[tarpetra / welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet) - A verified list of darknet markets and services with links for educational reference.
 * 【2023-11-30】[Tencent / tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram) - A Wechat MiniProgram UI components lib for TDesign.
@@ -3185,6 +3222,13 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-12-01】[Viiiikedy / Hexo-Korean-Learning](https://github.com/Viiiikedy/Hexo-Korean-Learning) - This is for Korean Learning of Vicky💕 .Hope you could also enjoy the journey of language learning like her✔️
+* 【2023-12-01】[VineeTagarwaL-code / OrganLink](https://github.com/VineeTagarwaL-code/OrganLink) - OrganLink aims to connect Donors and needy peoples to save lives ! 💖
+* 【2023-12-01】[Viiiikedy / Hexo-CS-Learning](https://github.com/Viiiikedy/Hexo-CS-Learning) - ✔️This is for Vicky's CS Learning. Hope you could also learn something from here.✨
+* 【2023-12-01】[aalmiray / java-champions](https://github.com/aalmiray/java-champions) - A list of Java Champions
+* 【2023-12-01】[Francesc116 / TD](https://github.com/Francesc116/TD) - 
+* 【2023-12-01】[maykbrito / nlw-10-copa](https://github.com/maykbrito/nlw-10-copa) - Calendário pessoal de jogos da Copa 2022
+* 【2023-12-01】[sabslikesobs / pip.wtf](https://github.com/sabslikesobs/pip.wtf) - Inline dependencies for small Python scripts.
 * 【2023-11-30】[LearnOpenGL-CN / LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
 * 【2023-11-30】[Viiiikedy / Hexo-Quant-Learning-Book](https://github.com/Viiiikedy/Hexo-Quant-Learning-Book) - This is for Finance (Quant)Learning of Vicky💕.Hope you could also enjoy the journey of finding your own business here.
 * 【2023-11-30】[zxcodes / Calculator](https://github.com/zxcodes/Calculator) - A Calculator App built with HTML, CSS, and JavaScript. It also has a Dark Mode.
@@ -3451,6 +3495,14 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-12-01】[sdg-1 / consulting-handbook](https://github.com/sdg-1/consulting-handbook) - A guide for technical professionals looking to start consulting
+* 【2023-12-01】[nihalsid / mesh-gpt](https://github.com/nihalsid/mesh-gpt) - MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers
+* 【2023-12-01】[itgoyo / TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
+* 【2023-12-01】[fempire / women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
+* 【2023-12-01】[arbackes / Livro_Python](https://github.com/arbackes/Livro_Python) - 
+* 【2023-12-01】[IDEA-Research / T-Rex](https://github.com/IDEA-Research/T-Rex) - Detect and count any objects by visual prompting
+* 【2023-12-01】[Bogdanp / awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
+* 【2023-12-01】[leereilly / games](https://github.com/leereilly/games) - 🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 * 【2023-11-30】[coder2gwy / coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 * 【2023-11-30】[friuns2 / Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 * 【2023-11-30】[1mrat / gpt-stats](https://github.com/1mrat/gpt-stats) - Stats for Custom Chat GPTs not created by OpenAI
