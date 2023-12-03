@@ -1,6 +1,12 @@
 # github-trending
 ## All language
 
+* 【2023-12-03】[pytorch-labs / gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
+* 【2023-12-03】[dangeng / visual_anagrams](https://github.com/dangeng/visual_anagrams) - Code for the paper "Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models"
+* 【2023-12-03】[microsoft / TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
+* 【2023-12-03】[google-deepmind / materials_discovery](https://github.com/google-deepmind/materials_discovery) - 
+* 【2023-12-03】[HumanAIGC / AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+* 【2023-12-03】[kotlin-hands-on / advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) - The Advent of Code template project for Kotlin
 * 【2023-12-02】[autonomousvision / mip-splatting](https://github.com/autonomousvision/mip-splatting) - Mip-Splatting: Alias-free 3D Gaussian Splatting
 * 【2023-12-02】[EmergeTools / Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
 * 【2023-12-02】[notmahi / dobb-e](https://github.com/notmahi/dobb-e) - Dobb·E: An open-source, general framework for learning household robotic manipulation
@@ -428,6 +434,10 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-12-03】[FongMi / CatVodSpider](https://github.com/FongMi/CatVodSpider) - 
+* 【2023-12-03】[awspring / spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS
+* 【2023-12-03】[hibernate / hibernate-orm](https://github.com/hibernate/hibernate-orm) - Hibernate's core Object/Relational Mapping functionality
+* 【2023-12-03】[weibocom / rill-flow](https://github.com/weibocom/rill-flow) - 
 * 【2023-12-02】[jwtk / jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 * 【2023-12-01】[shenzepeng / album-system](https://github.com/shenzepeng/album-system) - 
 * 【2023-12-01】[bumptech / glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
@@ -814,6 +824,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-12-03】[mlc-ai / mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+* 【2023-12-03】[Azure / azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
 * 【2023-12-02】[Avaiga / taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 * 【2023-12-02】[swaggyP36000 / TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!
 * 【2023-12-02】[francozappa / bluffs](https://github.com/francozappa/bluffs) - Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023]
@@ -1307,6 +1319,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-12-03】[PavelDoGreat / WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
+* 【2023-12-03】[aquasecurity / cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 * 【2023-12-02】[elementor / elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
 * 【2023-12-02】[shaka-project / shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 * 【2023-12-02】[diegomura / react-pdf](https://github.com/diegomura/react-pdf) - 📄 Create PDF files using React
@@ -1761,6 +1775,12 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-12-03】[sqlc-dev / sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
+* 【2023-12-03】[siderolabs / talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
+* 【2023-12-03】[anchore / grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
+* 【2023-12-03】[aquasecurity / kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+* 【2023-12-03】[coredns / coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
+* 【2023-12-03】[juicedata / juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 * 【2023-12-02】[kosmos-io / kosmos](https://github.com/kosmos-io/kosmos) - 
 * 【2023-12-02】[kubernetes-sigs / cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 * 【2023-12-02】[google / gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -2216,6 +2236,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-12-03】[henrypp / simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
+* 【2023-12-03】[OP-TEE / optee_os](https://github.com/OP-TEE/optee_os) - Trusted side of the TEE
 * 【2023-12-02】[haproxy / haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
 * 【2023-12-02】[koekeishiya / skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 * 【2023-12-02】[nothings / stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
@@ -2577,6 +2599,10 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-12-03】[IfcOpenShell / IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) - Open source IFC library and geometry engine
+* 【2023-12-03】[AlibabaResearch / AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) - A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Alibaba DAMO Academy.
+* 【2023-12-03】[MaorSabag / TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller) - CPP AV/EDR Killer
+* 【2023-12-03】[marcoslucianops / DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models
 * 【2023-12-02】[Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 * 【2023-12-02】[OpenAtomFoundation / pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with Redis developed by Qihoo's infrastructure team.
 * 【2023-12-02】[mysql / mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
@@ -2952,6 +2978,13 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-12-03】[flutter / super_dash](https://github.com/flutter/super_dash) - 
+* 【2023-12-03】[cphxj123 / Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex) - dol北极星扩展
+* 【2023-12-03】[unfoldadmin / django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+* 【2023-12-03】[tc39 / proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Declarations
+* 【2023-12-03】[justin-himself / NVIDIA-VGPU-Driver-Archive](https://github.com/justin-himself/NVIDIA-VGPU-Driver-Archive) - This repository provides an archive for NVIDIA vGPU drivers.
+* 【2023-12-03】[USC-GVL / Agent-Driver](https://github.com/USC-GVL/Agent-Driver) - A Language Agent for Autonomous Driving
+* 【2023-12-03】[OWASP / www-project-ai-security-and-privacy-guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide) - OWASP Foundation Web Respository
 * 【2023-12-02】[kmille / freetar](https://github.com/kmille/freetar) - freetar - an alternative frontend for ultimate-guitar.com
 * 【2023-12-02】[mouredev / adeviento-web](https://github.com/mouredev/adeviento-web) - Proyecto web asociado al "Calendario de aDEViento" de la comunidad. Una actividad en la que del 1 al 24 de diciembre se sortea un regalo relacionado con el aprendizaje de programación y desarrollo de software.
 * 【2023-12-02】[coolwanglu / pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
@@ -3261,6 +3294,11 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-12-03】[Godiesc / firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
+* 【2023-12-03】[itscodenation / int-u3-project-23-24-starter-code](https://github.com/itscodenation/int-u3-project-23-24-starter-code) - 
+* 【2023-12-03】[carbon-design-system / carbon-tutorial-nextjs](https://github.com/carbon-design-system/carbon-tutorial-nextjs) - 
+* 【2023-12-03】[Mohanmaali144 / ShashwatProject](https://github.com/Mohanmaali144/ShashwatProject) - 
+* 【2023-12-03】[Preshy62 / skylineict-cohort31](https://github.com/Preshy62/skylineict-cohort31) - 
 * 【2023-12-02】[Jabir0 / K2-E-Commerce](https://github.com/Jabir0/K2-E-Commerce) - 
 * 【2023-12-02】[Muh-Ikbal / kelompok-3](https://github.com/Muh-Ikbal/kelompok-3) - 
 * 【2023-12-02】[TheBridge-FullStackDeveloper / fetch-async-await](https://github.com/TheBridge-FullStackDeveloper/fetch-async-await) - 
@@ -3543,6 +3581,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-12-03】[Kyuu-Ji / Awesome-Azure-Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) - A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.
+* 【2023-12-03】[Alikhll / golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
+* 【2023-12-03】[Kaustubh-Natuskar / moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
+* 【2023-12-03】[ydb-platform / ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 * 【2023-12-02】[tayllan / awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 * 【2023-12-02】[forpaindream / AltiumDesignerLibPkg-dream](https://github.com/forpaindream/AltiumDesignerLibPkg-dream) - 自制的AD封装库，基于AD20
 * 【2023-12-02】[lizhe00 / AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians) - Code of "Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling"
