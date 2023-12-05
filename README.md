@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2023-12-05】[excalidraw / excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+* 【2023-12-05】[TabbyML / tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+* 【2023-12-05】[DSPBluePrints / FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints) - 游戏戴森球计划的**工厂**蓝图仓库
 * 【2023-12-04】[laravel / pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
 * 【2023-12-04】[rust-lang / rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 * 【2023-12-04】[unslothai / unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
@@ -442,6 +445,14 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-12-05】[williamfiset / Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
+* 【2023-12-05】[w2016561536 / android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) - xposed安卓虚拟摄像头 android virtual camera on xposed hook
+* 【2023-12-05】[apache / netbeans](https://github.com/apache/netbeans) - Apache NetBeans
+* 【2023-12-05】[woheller69 / browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support
+* 【2023-12-05】[M66B / NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
+* 【2023-12-05】[mapstruct / mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
+* 【2023-12-05】[guyijie1211 / JustLive-Android](https://github.com/guyijie1211/JustLive-Android) - 📱一个整合国内多个直播平台内容的App
+* 【2023-12-05】[portfolio-performance / portfolio](https://github.com/portfolio-performance/portfolio) - Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
 * 【2023-12-04】[janishar / mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * 【2023-12-04】[s4kibs4mi / java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2023
 * 【2023-12-03】[FongMi / CatVodSpider](https://github.com/FongMi/CatVodSpider) - 
@@ -834,6 +845,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-12-05】[avgupta456 / github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+* 【2023-12-05】[sagemath / sage](https://github.com/sagemath/sage) - Main repository of SageMath. Now open for Issues and Pull Requests.
 * 【2023-12-04】[JayZeeDesign / research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers
 * 【2023-12-04】[VikParuchuri / marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 * 【2023-12-04】[cheshire-cat-ai / core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
@@ -1338,6 +1351,15 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-12-05】[popcorn-official / popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
+* 【2023-12-05】[andersontr15 / clean-code-javascript-es](https://github.com/andersontr15/clean-code-javascript-es) - Clean Code traducido al Español
+* 【2023-12-05】[neetcode-gh / leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
+* 【2023-12-05】[LeCoupa / awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+* 【2023-12-05】[pythongosssss / ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Enhancements & experiments for ComfyUI, mostly focusing on UI features
+* 【2023-12-05】[mailcow / mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
+* 【2023-12-05】[kska32 / ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
+* 【2023-12-05】[unconv / gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
+* 【2023-12-05】[JannisX11 / blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 * 【2023-12-04】[shadowcz007 / comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 
 * 【2023-12-04】[goabstract / Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 * 【2023-12-04】[qzz0518 / coss](https://github.com/qzz0518/coss) - 
@@ -1801,6 +1823,14 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-12-05】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+* 【2023-12-05】[ffuf / ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+* 【2023-12-05】[fyne-io / fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
+* 【2023-12-05】[zitadel / oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+* 【2023-12-05】[elastic / beats](https://github.com/elastic/beats) - 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+* 【2023-12-05】[siglens / siglens](https://github.com/siglens/siglens) - Observability at 100x Efficiency
+* 【2023-12-05】[tomnomnom / gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+* 【2023-12-05】[rqlite / rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 * 【2023-12-04】[google / syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
 * 【2023-12-04】[ViRb3 / wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 * 【2023-12-04】[Consensys / gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
@@ -2268,6 +2298,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-12-05】[streetpea / chiaki4deck](https://github.com/streetpea/chiaki4deck) - Fork of Chiaki (Open Source Playstation Remote Play) with Enhancements for Steam Deck and Documentation around how to use
+* 【2023-12-05】[hashcat / hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 * 【2023-12-04】[moonlight-stream / moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 * 【2023-12-04】[yitter / IdGenerator](https://github.com/yitter/IdGenerator) - 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。
 * 【2023-12-04】[jakkra / ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
@@ -2635,6 +2667,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-12-05】[CMU-Perceptual-Computing-Lab / openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+* 【2023-12-05】[StudioCherno / Walnut](https://github.com/StudioCherno/Walnut) - Walnut is a simple application framework for Vulkan and Dear ImGui apps
 * 【2023-12-04】[mudler / LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 * 【2023-12-04】[Warzone2100 / warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
 * 【2023-12-04】[meshtastic / firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
@@ -3020,6 +3054,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-12-05】[Trixarian / NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch) - Unofficial Patches for NetherSX2
 * 【2023-12-04】[anonystick / anonystick](https://github.com/anonystick/anonystick) - 
 * 【2023-12-04】[wangzhe3224 / awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 * 【2023-12-04】[Meekdai / Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
@@ -3339,6 +3374,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-12-05】[mwidera / iac-labs](https://github.com/mwidera/iac-labs) - Infrastructure as Code exercises
+* 【2023-12-05】[DzarelDeveloper / ForYou](https://github.com/DzarelDeveloper/ForYou) - Message for you ( Crush )
 * 【2023-12-04】[progit / progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 * 【2023-12-04】[learn-co-curriculum / phase-0-css-graffiti-lab](https://github.com/learn-co-curriculum/phase-0-css-graffiti-lab) - 
 * 【2023-12-04】[yandex-praktikum / slozhno-sosredotochitsya](https://github.com/yandex-praktikum/slozhno-sosredotochitsya) - Проект "Сложно сосредоточиться"
@@ -3631,6 +3668,11 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-12-05】[wpzzz / blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) - 
+* 【2023-12-05】[greatfrontend / awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) - Curated front end system design resources for interviews and learning
+* 【2023-12-05】[dair-ai / ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
+* 【2023-12-05】[ZiqiaoPeng / SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk) - This is the official source for our paper "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis"
+* 【2023-12-05】[getsurfboard / surfboard](https://github.com/getsurfboard/surfboard) - 
 * 【2023-12-04】[hacktivist123 / DevOps-Learning-Plan](https://github.com/hacktivist123/DevOps-Learning-Plan) - This is my DevOps learning plan for the year 2024
 * 【2023-12-04】[liuchong / awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps.
 * 【2023-12-04】[khangich / machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
