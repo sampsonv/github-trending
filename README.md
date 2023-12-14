@@ -1,6 +1,12 @@
 # github-trending
 ## All language
 
+* 【2023-12-14】[amitsangani / Llama-2](https://github.com/amitsangani/Llama-2) - All the projects related to Llama
+* 【2023-12-14】[wy876 / POC](https://github.com/wy876/POC) - 2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了100多个poc/exp
+* 【2023-12-14】[lean-dojo / LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
+* 【2023-12-14】[bricks-cloud / BricksLLM](https://github.com/bricks-cloud/BricksLLM) - Simplifying LLM ops in production
+* 【2023-12-14】[Tencent / tmagic-editor](https://github.com/Tencent/tmagic-editor) - 
+* 【2023-12-14】[lsky-org / lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 * 【2023-12-13】[illacloud / illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 * 【2023-12-13】[mistralai / mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 * 【2023-12-13】[HuolalaTech / page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
@@ -498,6 +504,11 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2023-12-14】[javastacks / spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) - Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。
+* 【2023-12-14】[mainpropath / AI-SmartFuse-Framework](https://github.com/mainpropath/AI-SmartFuse-Framework) - 
+* 【2023-12-14】[j-easy / easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
+* 【2023-12-14】[jetty / jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
+* 【2023-12-14】[molihuan / mlhfileselectorlib](https://github.com/molihuan/mlhfileselectorlib) - 🔥🔥🔥Android文件选择器 路径选择器，自动申请存储权限，支持安卓4.4 ~ 13,支持Android/data和Android/obb目录访问，支持自定义UI，支持SD卡.(Provide file or path selection, automatically apply for storage permission, support Android 4.4 to 13, support Android/data and Android/obb directory access, support custom UI,Support SD card.
 * 【2023-12-13】[Netflix / zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 * 【2023-12-13】[diffplug / spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 * 【2023-12-13】[LibrePDF / OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺
@@ -932,6 +943,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2023-12-14】[confident-ai / deepeval](https://github.com/confident-ai/deepeval) - The Evaluation Framework for LLMs
+* 【2023-12-14】[DevilXD / TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
+* 【2023-12-14】[dusty-nv / jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
+* 【2023-12-14】[Tongjilibo / bert4torch](https://github.com/Tongjilibo/bert4torch) - An elegent pytorch implement of transformers
+* 【2023-12-14】[Ricardokevins / Bert-In-Relation-Extraction](https://github.com/Ricardokevins/Bert-In-Relation-Extraction) - 使用Bert完成实体之间关系抽取
 * 【2023-12-13】[cookiecutter / cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 * 【2023-12-13】[guoqincode / AnimateAnyone-unofficial](https://github.com/guoqincode/AnimateAnyone-unofficial) - Unofficial Implementation of Animate Anyone
 * 【2023-12-13】[open-compass / MixtralKit](https://github.com/open-compass/MixtralKit) - A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI
@@ -1487,6 +1503,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2023-12-14】[morris / vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
+* 【2023-12-14】[Asfak00 / DSA-learning](https://github.com/Asfak00/DSA-learning) - It is a document repository. I'm learning DSA so I created this repository to note down all the things, that might benefit many others. In this repository, I have tried to cover all the important topics of data structures and algorithms.
+* 【2023-12-14】[in28minutes / spring-microservices-v2](https://github.com/in28minutes/spring-microservices-v2) - Microservices + Spring Boot 2 + Spring Cloud + Docker + Kubernetes - https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/. Latest Repo - http://github.com/in28minutes/spring-microservices-v3
 * 【2023-12-13】[grommet / grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 * 【2023-12-13】[jhuckaby / Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 * 【2023-12-13】[matter-labs / zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs) - zkSync Era Documentation
@@ -1992,6 +2011,9 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2023-12-14】[charmbracelet / huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
+* 【2023-12-14】[hakluke / hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
+* 【2023-12-14】[cilium / hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 * 【2023-12-13】[databus23 / helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 * 【2023-12-12】[chaseSpace / k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - 
 * 【2023-12-12】[Loyalsoldier / geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，同时支持定制 V2Ray dat 格式路由规则文件 geoip.dat 和 MaxMind mmdb 格式文件 Country.mmdb。Enhanced edition of GeoIP files for V2Ray, Xray-core, Trojan-Go, Clash and Leaf, with replaced CN IPv4 CIDR available from ipip.net, appended CIDR lists and more.
@@ -2503,6 +2525,13 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2023-12-14】[gcc-mirror / gcc](https://github.com/gcc-mirror/gcc) - 
+* 【2023-12-14】[openssh / openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
+* 【2023-12-14】[TobyLobster / multiply_test](https://github.com/TobyLobster/multiply_test) - Comparing 6502 multiply routines
+* 【2023-12-14】[kamailio / kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
+* 【2023-12-14】[ZipArchive / ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
+* 【2023-12-14】[tmux / tmux](https://github.com/tmux/tmux) - tmux source code
+* 【2023-12-14】[OpenCloudOS / nettrace](https://github.com/OpenCloudOS/nettrace) - nettrace is a eBPF-based tool to trace network packet and diagnose network problem.
 * 【2023-12-13】[vedderb / bldc](https://github.com/vedderb/bldc) - The VESC motor control firmware
 * 【2023-12-13】[m0nad / Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 * 【2023-12-13】[linux-can / can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
@@ -2905,6 +2934,11 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2023-12-14】[YimMenu / YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
+* 【2023-12-14】[PixarAnimationStudios / OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
+* 【2023-12-14】[OpenXRay / xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
+* 【2023-12-14】[mavlink / qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
+* 【2023-12-14】[android / ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 * 【2023-12-13】[MihailRis / VoxelEngine-Cpp](https://github.com/MihailRis/VoxelEngine-Cpp) - Minecraft-like game engine in C++ with OpenGL
 * 【2023-12-13】[ratgdo / esphome-ratgdo](https://github.com/ratgdo/esphome-ratgdo) - ratgdo for ESPHome
 * 【2023-12-13】[trustwallet / wallet-core](https://github.com/trustwallet/wallet-core) - Cross-platform, cross-blockchain wallet library.
@@ -3325,6 +3359,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2023-12-14】[Instruction-Tuning-with-GPT-4 / GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
+* 【2023-12-14】[Proektsoftbg / Calcpad](https://github.com/Proektsoftbg/Calcpad) - Free and open source software for mathematical and engineering calculations.
+* 【2023-12-14】[netnr / kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
 * 【2023-12-13】[markmead / hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 * 【2023-12-13】[mattcone / markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
 * 【2023-12-13】[TencentARC / SmartEdit](https://github.com/TencentARC/SmartEdit) - 
@@ -3673,6 +3710,9 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2023-12-14】[jtriley-eth / the-ethereum-virtual-machine](https://github.com/jtriley-eth/the-ethereum-virtual-machine) - 
+* 【2023-12-14】[Gozargah / gozargah.github.io](https://github.com/Gozargah/gozargah.github.io) - 
+* 【2023-12-14】[QNetITQ / WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
 * 【2023-12-13】[fdnd-task / fix-the-flow-ui-events](https://github.com/fdnd-task/fix-the-flow-ui-events) - Verschillende User Interface events uitproberen
 * 【2023-12-13】[devopsbyraham / jenkins-java-project](https://github.com/devopsbyraham/jenkins-java-project) - 
 * 【2023-12-13】[ronaldchan333 / QR-Code-Scan](https://github.com/ronaldchan333/QR-Code-Scan) - 
@@ -3996,6 +4036,9 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2023-12-14】[dreamoving / dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
+* 【2023-12-14】[libin9iOak / ja-netfilter-all](https://github.com/libin9iOak/ja-netfilter-all) - 
+* 【2023-12-14】[kenshin9000 / ConceptARC-Representations](https://github.com/kenshin9000/ConceptARC-Representations) - ConceptARC_Extract_Object_GPT4_API_Examples
 * 【2023-12-13】[Az0x7 / vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) - This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter
 * 【2023-12-13】[pengsida / learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 * 【2023-12-13】[vvictoryuki / AnimateZero](https://github.com/vvictoryuki/AnimateZero) - Official PyTorch implementation for the paper "AnimateZero: Video Diffusion Models are Zero-Shot Image Animators"
