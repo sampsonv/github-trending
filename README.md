@@ -1,6 +1,12 @@
 # github-trending
 ## All language
 
+* 【2024-01-01】[Universidade-Livre / rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
+* 【2024-01-01】[safak / next14-tutorial](https://github.com/safak/next14-tutorial) - 
+* 【2024-01-01】[anasfik / flutter-spy](https://github.com/anasfik/flutter-spy) - Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
+* 【2024-01-01】[Tongji-KGLLM / RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) - 
+* 【2024-01-01】[rails / rubocop-rails-omakase](https://github.com/rails/rubocop-rails-omakase) - Omakase Ruby styling for Rails
+* 【2024-01-01】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 * 【2023-12-31】[jasonjmcghee / rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Apple Silicon.
 * 【2023-12-31】[Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 * 【2023-12-31】[midudev / porfolio.dev](https://github.com/midudev/porfolio.dev) - Ejemplo de porfolio para programadores y desarrolladores
@@ -602,6 +608,11 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-01-01】[cBioPortal / cbioportal](https://github.com/cBioPortal/cbioportal) - cBioPortal for Cancer Genomics
+* 【2024-01-01】[Hongmiao0207 / chatgpt-java](https://github.com/Hongmiao0207/chatgpt-java) - ChatGPT Java, it supports some of OpenAI's official interfaces (all interfaces will be supported in the future) and provides a conversational mode based on command-line chat.
+* 【2024-01-01】[jhy / jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
+* 【2024-01-01】[discord-jda / JDA](https://github.com/discord-jda/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
+* 【2024-01-01】[CaffeineMC / sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
 * 【2023-12-31】[The-Aether-Team / The-Aether](https://github.com/The-Aether-Team/The-Aether) - The original "The Aether" mod, rewritten and ported to modern Minecraft versions.
 * 【2023-12-31】[apache / incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2023-12-31】[bytedeco / javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
@@ -1089,6 +1100,15 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-01】[dvmazur / mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
+* 【2024-01-01】[DLYuanGod / TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V) - TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
+* 【2024-01-01】[RootKit-Org / AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - World's Best AI Aimbot - CS2, Valorant, Fortnite, APEX, every game
+* 【2024-01-01】[oppo-us-research / SpacetimeGaussians](https://github.com/oppo-us-research/SpacetimeGaussians) - 
+* 【2024-01-01】[DeniJsonC / WaveNet](https://github.com/DeniJsonC/WaveNet) - [PG 2023] WaveNet: Wave-Aware Image Enhancement
+* 【2024-01-01】[tssovi / grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview) - 
+* 【2024-01-01】[flet-dev / flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+* 【2024-01-01】[unum-cloud / uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
+* 【2024-01-01】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client
 * 【2023-12-31】[emadshanab / Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection) - Nuclei Templates Collection
 * 【2023-12-31】[ModelTC / lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 * 【2023-12-31】[minghanqin / LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting"
@@ -1749,6 +1769,12 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-01】[ordinals-wallet / bellscriptions](https://github.com/ordinals-wallet/bellscriptions) - 
+* 【2024-01-01】[Ninjas-Code-official / Enatega-Multi-Vendor-Food-Delivery-System](https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
+* 【2024-01-01】[lukeed / clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
+* 【2024-01-01】[ashutosh1919 / masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
+* 【2024-01-01】[UI-Lovelace-Minimalist / UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a "theme" for HomeAssistant
+* 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 * 【2023-12-31】[talebook / talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
 * 【2023-12-31】[SoilLabs / Solana-Foam](https://github.com/SoilLabs/Solana-Foam) - Foam mint and claim script
 * 【2023-12-31】[koajs / koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
@@ -2323,6 +2349,10 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-01-01】[amir20 / dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+* 【2024-01-01】[FiloSottile / age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+* 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
+* 【2024-01-01】[szluyu99 / gin-vue-blog](https://github.com/szluyu99/gin-vue-blog) - Golang 全栈博客，支持 Docker Compose 一键部署。基于最新前后端技术栈 Vue3、TS、Unocs 、Redis 等。前端包含博文展示前台、博客后台管理系统。后端包含 JWT 鉴权、RBAC 权限控制等。代码质量高注释全接口文档完善，适合前后端开发者学习。
 * 【2023-12-31】[anthdm / ffaas](https://github.com/anthdm/ffaas) - Fast function as a service platform powered by WASM
 * 【2023-12-31】[jesseduffield / lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 * 【2023-12-31】[aaamoon / copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 将Github Copilot Chat请求转换为ChatGPT请求，免费使用GPT-4模型
@@ -2898,6 +2928,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 * 【2023-12-31】[flowdriveai / flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
 * 【2023-12-31】[sekigon-gonnoc / Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
 * 【2023-12-31】[TsudaKageyu / minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
@@ -3354,6 +3385,9 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-01】[hackerhouse-opensource / SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) - Patching "signtool.exe" to accept expired certificates for code-signing.
+* 【2024-01-01】[scummvm / scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository
+* 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 * 【2023-12-31】[zrax / pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 * 【2023-12-31】[cloudflare / workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 * 【2023-12-29】[kroma-network / tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU
@@ -3824,6 +3858,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-01】[nndl / nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+* 【2024-01-01】[gurusabarish / hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
+* 【2024-01-01】[Carlettoh / NotebooksProcesamientoIA](https://github.com/Carlettoh/NotebooksProcesamientoIA) - Notebooks realizados durante la asignatura de procesamiento de imagen por IA
 * 【2023-12-31】[cipher387 / linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day) - In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".
 * 【2023-12-31】[jerry-git / learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
 * 【2023-12-31】[vishaltewatia / code](https://github.com/vishaltewatia/code) - 
@@ -4223,6 +4260,9 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-01】[reduxjs / redux-essentials-example-app](https://github.com/reduxjs/redux-essentials-example-app) - Example app for the Redux Essentials tutorial
+* 【2024-01-01】[codewithsadee / portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
+* 【2024-01-01】[TWBug / GoldCardHenge](https://github.com/TWBug/GoldCardHenge) - 
 * 【2023-12-31】[vishaltewatia / propose-your-gf](https://github.com/vishaltewatia/propose-your-gf) - 
 * 【2023-12-31】[OpenClassrooms-Student-Center / Print-it-JS](https://github.com/OpenClassrooms-Student-Center/Print-it-JS) - Projet découverte JS
 * 【2023-12-31】[shayne / hwinfo-streamdeck](https://github.com/shayne/hwinfo-streamdeck) - Monitor sensor readings with this HWiNFO64 Stream Deck Plugin
@@ -4592,6 +4632,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-01】[ossu / bioinformatics](https://github.com/ossu/bioinformatics) - 🔬 Path to a free self-taught education in Bioinformatics!
+* 【2024-01-01】[Archmage83 / tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
+* 【2024-01-01】[liguge / Journals-of-Prognostics-and-Health-Management](https://github.com/liguge/Journals-of-Prognostics-and-Health-Management) - 智能故障诊断和寿命预测期刊（Journals of Intelligent Fault Diagnosis and Remaining Useful Life）
+* 【2024-01-01】[Oliver-242 / HUST-Operating-System-PKE](https://github.com/Oliver-242/HUST-Operating-System-PKE) - 华中科技大学2020级操作系统实验（PKE）
 * 【2023-12-31】[kuchin / awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 * 【2023-12-31】[cuda-mode / resource-stream](https://github.com/cuda-mode/resource-stream) - CUDA related news and material links
 * 【2023-12-31】[successfulstudy / promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐
