@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-01-13】[subquery / subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
+* 【2024-01-13】[meilisearch / meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+* 【2024-01-13】[maybe-finance / maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+* 【2024-01-13】[morethanwords / tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 * 【2024-01-12】[keiyoushi / extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Tachiyomi app.
 * 【2024-01-12】[keiyoushi / extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of the extensions for the Tachiyomi app.
 * 【2024-01-12】[atuinsh / atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -1191,6 +1195,12 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-13】[datamllab / LongLM](https://github.com/datamllab/LongLM) - LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
+* 【2024-01-13】[NVIDIA / trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
+* 【2024-01-13】[hogan-tech / leetcode-solution](https://github.com/hogan-tech/leetcode-solution) - Explore diverse LeetCode solutions in Python, C++, JavaScript, SQL, and TypeScript. Ideal for interview prep, learning, and code practice in multiple programming languages.
+* 【2024-01-13】[mosaicml / composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
+* 【2024-01-13】[TheKingOfDuck / fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - Web Pentesting Fuzz 字典,一个就够了。
+* 【2024-01-13】[OneBST / GGanalysis](https://github.com/OneBST/GGanalysis) - 抽卡游戏概率分析工具包 A simple and efficient computing package for analysis gacha in game
 * 【2024-01-12】[buaavrcg / BakedAvatar](https://github.com/buaavrcg/BakedAvatar) - Pytorch Code for "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
 * 【2024-01-12】[jupyterlab / jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 * 【2024-01-12】[HarborYuan / ovsam](https://github.com/HarborYuan/ovsam) - 
@@ -1922,6 +1932,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-13】[HumanSignal / label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 * 【2024-01-12】[midudev / preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) - Preguntas típicas sobre React para entrevistas de trabajo ⚛️
 * 【2024-01-12】[necolas / react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 * 【2024-01-12】[Dash-Industry-Forum / dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
@@ -3140,6 +3151,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-13】[Hugobros3 / shady](https://github.com/Hugobros3/shady) - Research shading language IR
+* 【2024-01-13】[impact-eintr / LinuxC](https://github.com/impact-eintr/LinuxC) - 听说C与Linux更搭配哦～ 内容包括：C基础 C++面向对象编程 基础数据结构 linux系统编程以及一些操作系统的相关知识
 * 【2024-01-12】[espeak-ng / espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 * 【2024-01-12】[openvswitch / ovs](https://github.com/openvswitch/ovs) - Open vSwitch
 * 【2024-01-12】[espressif / esp32-camera](https://github.com/espressif/esp32-camera) - 
@@ -3642,6 +3655,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-13】[falcosecurity / falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 * 【2024-01-12】[linkdd / aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
 * 【2024-01-12】[hku-mars / M-detector](https://github.com/hku-mars/M-detector) - 
 * 【2024-01-12】[AGWA / git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
@@ -4135,6 +4149,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-13】[rust-lang / this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 * 【2024-01-12】[namastedev / namaste-frontend-system-design](https://github.com/namastedev/namaste-frontend-system-design) - 
 * 【2024-01-12】[ahmadbilaldev / langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 * 【2024-01-09】[cnymw / GolangStudy](https://github.com/cnymw/GolangStudy) - 《GolangStudy》：从简单到难最全总结，go基础，数据结构，算法，设计模式
@@ -4556,6 +4571,11 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-13】[itscodenation / int-u3l6-23-24-student-exercises](https://github.com/itscodenation/int-u3l6-23-24-student-exercises) - 
+* 【2024-01-13】[apu52 / Travel_Website](https://github.com/apu52/Travel_Website) - This repo contains my project on Travel Website✈️using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos. You can contribute to this open source repository.🤖
+* 【2024-01-13】[kleo / evilportals](https://github.com/kleo/evilportals) - A collection of captive portals for phishing using a WiFi Pineapple
+* 【2024-01-13】[Soheil-Rasouli / internet-origin](https://github.com/Soheil-Rasouli/internet-origin) - 
+* 【2024-01-13】[houshanren / hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 * 【2024-01-12】[itscodenation / flw1-u2l2-23-24-student-exercises](https://github.com/itscodenation/flw1-u2l2-23-24-student-exercises) - 
 * 【2024-01-12】[okfn / ckanext-datahub](https://github.com/okfn/ckanext-datahub) - Plugin for datahub
 * 【2024-01-12】[diffbot / rss-anything](https://github.com/diffbot/rss-anything) - Transform any old website with a list of links into an RSS Feed
@@ -4967,6 +4987,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-13】[duty-machine / news](https://github.com/duty-machine/news) - 免翻墙阅读海外媒体的中文文章
+* 【2024-01-13】[imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 * 【2024-01-12】[cyberfascinate / ISC2-CC-Study-Material](https://github.com/cyberfascinate/ISC2-CC-Study-Material) - ISC2-CC-Study-Material
 * 【2024-01-12】[upb-lea / Inkscape_electric_Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Electrical symbol library for the vector graphics program Inkscape.
 * 【2024-01-12】[LadyKerr / github-certification-guide](https://github.com/LadyKerr/github-certification-guide) - Resources to help you get GitHub certified ✨
