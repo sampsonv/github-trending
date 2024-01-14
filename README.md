@@ -1,6 +1,11 @@
 # github-trending
 ## All language
 
+* 【2024-01-14】[AIGCDesignGroup / ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything) - 
+* 【2024-01-14】[ruby / ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+* 【2024-01-14】[ArchiveBox / ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+* 【2024-01-14】[flutter / flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+* 【2024-01-14】[danny-avila / LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 * 【2024-01-13】[subquery / subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
 * 【2024-01-13】[meilisearch / meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 * 【2024-01-13】[maybe-finance / maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
@@ -675,6 +680,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-01-14】[SherlockGougou / BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) - 🔥🔥🔥 BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。
 * 【2024-01-12】[qi4L / JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial. JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。
 * 【2024-01-12】[apache / maven](https://github.com/apache/maven) - Apache Maven core
 * 【2024-01-11】[allure-framework / allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
@@ -1195,6 +1201,12 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-14】[NVIDIA / NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+* 【2024-01-14】[Azure / azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
+* 【2024-01-14】[holoviz / panel](https://github.com/holoviz/panel) - Panel: The powerful data exploration & web app framework for Python
+* 【2024-01-14】[Tele-AI / Telechat](https://github.com/Tele-AI/Telechat) - 
+* 【2024-01-14】[EntySec / SeaShell](https://github.com/EntySec/SeaShell) - SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information.
+* 【2024-01-14】[Gozargah / Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 * 【2024-01-13】[datamllab / LongLM](https://github.com/datamllab/LongLM) - LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
 * 【2024-01-13】[NVIDIA / trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
 * 【2024-01-13】[hogan-tech / leetcode-solution](https://github.com/hogan-tech/leetcode-solution) - Explore diverse LeetCode solutions in Python, C++, JavaScript, SQL, and TypeScript. Ideal for interview prep, learning, and code practice in multiple programming languages.
@@ -1932,6 +1944,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-14】[alyssaxuu / screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+* 【2024-01-14】[prabathLK / PRABATH-MD](https://github.com/prabathLK/PRABATH-MD) - 🇱🇰 Multi-device whatsapp bot 🎉
 * 【2024-01-13】[HumanSignal / label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 * 【2024-01-12】[midudev / preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) - Preguntas típicas sobre React para entrevistas de trabajo ⚛️
 * 【2024-01-12】[necolas / react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
@@ -2548,6 +2562,9 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-01-14】[berachain / polaris](https://github.com/berachain/polaris) - Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.
+* 【2024-01-14】[gogf / gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+* 【2024-01-14】[Potterli20 / trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) - 
 * 【2024-01-12】[ardanlabs / service](https://github.com/ardanlabs/service) - Starter-kit for writing services in Go using Kubernetes.
 * 【2024-01-12】[deepflowio / deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 * 【2024-01-12】[nsqio / nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
@@ -3151,6 +3168,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-14】[EpicGames / raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+* 【2024-01-14】[tenclass / mvisor](https://github.com/tenclass/mvisor) - A mini x86 hypervisor
 * 【2024-01-13】[Hugobros3 / shady](https://github.com/Hugobros3/shady) - Research shading language IR
 * 【2024-01-13】[impact-eintr / LinuxC](https://github.com/impact-eintr/LinuxC) - 听说C与Linux更搭配哦～ 内容包括：C基础 C++面向对象编程 基础数据结构 linux系统编程以及一些操作系统的相关知识
 * 【2024-01-12】[espeak-ng / espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
@@ -3655,6 +3674,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-14】[spaceandtimelabs / blitzar](https://github.com/spaceandtimelabs/blitzar) - Zero-knowledge proof acceleration with GPUs for C++ and Rust
+* 【2024-01-14】[huifeng-kooboo / DT](https://github.com/huifeng-kooboo/DT) - You can make any desktop application by Dt Framework, 基于QT开发的组件式框架DT.
 * 【2024-01-13】[falcosecurity / falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 * 【2024-01-12】[linkdd / aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
 * 【2024-01-12】[hku-mars / M-detector](https://github.com/hku-mars/M-detector) - 
@@ -4149,6 +4170,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-14】[mawerty / Is-Prime](https://github.com/mawerty/Is-Prime) - O(1) Algorithm to check if number is prime that works in 95%+ cases.
+* 【2024-01-14】[vidio-boy / Eaglercraft1.5.2](https://github.com/vidio-boy/Eaglercraft1.5.2) - Eaglercraft javascript runtime. Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available.
+* 【2024-01-14】[skills / code-with-codespaces](https://github.com/skills/code-with-codespaces) - Develop code using GitHub Codespaces and Visual Studio Code!
 * 【2024-01-13】[rust-lang / this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 * 【2024-01-12】[namastedev / namaste-frontend-system-design](https://github.com/namastedev/namaste-frontend-system-design) - 
 * 【2024-01-12】[ahmadbilaldev / langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
@@ -4571,6 +4595,10 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-14】[shelcia / dynamic-portfolio](https://github.com/shelcia/dynamic-portfolio) - Dynamic Portfolio helps you create simple websites by just filling out forms.
+* 【2024-01-14】[HansNewbie / hansnewbie.github.io](https://github.com/HansNewbie/hansnewbie.github.io) - My page to list stuff that I kind of make as hobby 😄
+* 【2024-01-14】[Viglino / font-gis](https://github.com/Viglino/font-gis) - Icon font and SVG for use with GIS and spatial analysis tools
+* 【2024-01-14】[creativetimofficial / argon-dashboard-react](https://github.com/creativetimofficial/argon-dashboard-react) - React version of Argon Dashboard
 * 【2024-01-13】[itscodenation / int-u3l6-23-24-student-exercises](https://github.com/itscodenation/int-u3l6-23-24-student-exercises) - 
 * 【2024-01-13】[apu52 / Travel_Website](https://github.com/apu52/Travel_Website) - This repo contains my project on Travel Website✈️using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos. You can contribute to this open source repository.🤖
 * 【2024-01-13】[kleo / evilportals](https://github.com/kleo/evilportals) - A collection of captive portals for phishing using a WiFi Pineapple
@@ -4987,6 +5015,11 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-14】[GorvGoyl / Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+* 【2024-01-14】[yeyintminthuhtut / Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
+* 【2024-01-14】[Loy6410 / ios16-tweaks](https://github.com/Loy6410/ios16-tweaks) - A continuously updated list of working iOS 16 semi-jailbreak tweaks.
+* 【2024-01-14】[NaomiLe1811 / Unity_Cheat_Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet) - 
+* 【2024-01-14】[osurf / ozdy](https://github.com/osurf/ozdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2024-01-13】[duty-machine / news](https://github.com/duty-machine/news) - 免翻墙阅读海外媒体的中文文章
 * 【2024-01-13】[imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 * 【2024-01-12】[cyberfascinate / ISC2-CC-Study-Material](https://github.com/cyberfascinate/ISC2-CC-Study-Material) - ISC2-CC-Study-Material
