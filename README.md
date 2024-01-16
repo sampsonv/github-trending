@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-01-16】[Stellarium / stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+* 【2024-01-16】[tachiyomiorg / website](https://github.com/tachiyomiorg/website) - Official website for the Tachiyomi app.
 * 【2024-01-15】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 * 【2024-01-15】[MooreThreads / Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) - 
 * 【2024-01-15】[tachiyomiorg / extensions](https://github.com/tachiyomiorg/extensions) - Source extensions for the Tachiyomi app.
@@ -687,6 +689,10 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-01-16】[linlinjava / litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+* 【2024-01-16】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
+* 【2024-01-16】[PhilippC / keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+* 【2024-01-16】[itwanger / paicoding](https://github.com/itwanger/paicoding) - ⭐️一款好用又强大的开源社区，基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等主流技术栈，附详细教程，包括Java、Spring、MySQL、Redis、微服务&分布式、消息队列等核心知识点。学编程，就上技术派😁。
 * 【2024-01-15】[xCollateral / VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
 * 【2024-01-15】[MCRcortex / nvidium](https://github.com/MCRcortex/nvidium) - Fast minecraft rendering backend for sodium (nvidia only)
 * 【2024-01-15】[Mahmud0808 / ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - Express yourself with colors
@@ -1212,6 +1218,12 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-16】[Vozec / CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
+* 【2024-01-16】[lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
+* 【2024-01-16】[HaujetZhao / CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - CapsWriter 的离线版，一个好用的 PC 端的语音输入工具
+* 【2024-01-16】[DougDougGithub / Babagaboosh](https://github.com/DougDougGithub/Babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
+* 【2024-01-16】[tony9402 / baekjoon](https://github.com/tony9402/baekjoon) - 코딩테스트 대비 문제집(Baekjoon Online Judge)
+* 【2024-01-16】[trustedsec / social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 * 【2024-01-15】[VikParuchuri / surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 * 【2024-01-15】[EstrellaXD / Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 * 【2024-01-15】[TheCyb3rAlpha / BobTheSmuggler](https://github.com/TheCyb3rAlpha/BobTheSmuggler) - "Bob the Smuggler": A tool that leverages HTML Smuggling Attack and allows you to create HTML files with embedded 7z/zip archives. The tool would compress your binary (EXE/DLL) into 7z/zip file format, then XOR encrypt the archive and then hides inside PNG/GIF image file format (Image Polyglots).
@@ -1961,6 +1973,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-16】[Starlk7 / Magiceden-Launchpad-Bot](https://github.com/Starlk7/Magiceden-Launchpad-Bot) - Bot for mint on Magiceden Launchpad in Solana and BTC networks
+* 【2024-01-16】[LNReader / lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
+* 【2024-01-16】[YouTransfer / YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 * 【2024-01-15】[lockfale / OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 * 【2024-01-15】[PrismarineJS / mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 * 【2024-01-15】[NoneDay / CellReport](https://github.com/NoneDay/CellReport) - CellReport 是一个netcore实现的、以复杂统计报表为核心目标的制作、运行工具。支持数据看板、大屏制作。你可以使用数据库、excel文件、api服务、已有报表等为数据源，通过内置的集合函数组织数据，以类excel界面设计最终呈现结果。
@@ -2582,6 +2597,13 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-01-16】[dutchcoders / transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+* 【2024-01-16】[loxilb-io / loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
+* 【2024-01-16】[zero-proxy / zero-proxy](https://github.com/zero-proxy/zero-proxy) - 最轻量、高效、透明、稳定的多币种矿池代理、矿池中转。支持 BTC, ETC, RVN, NicaHash, XNA, ETHW, Ergo 等币种。自定义抽水账号及比例，高性能数据中转算法，无任何share损耗。具有高效的抽水算法，保证精确抽水。支持多端口监听及多矿池连接，同时接入3000+矿机性能稳定且不掉线。The lightest, most efficient, transparent, and stable multi-cryptocurrency mining pool proxy.
+* 【2024-01-16】[synctv-org / synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video, long-distance relationship
+* 【2024-01-16】[tmrts / go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+* 【2024-01-16】[Azure / azqr](https://github.com/Azure/azqr) - Azure Quick Review
+* 【2024-01-16】[peak / s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 * 【2024-01-15】[openziti / zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 * 【2024-01-15】[quii / learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 * 【2024-01-15】[yqchilde / wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
@@ -3192,6 +3214,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-16】[mwpenny / portal64-still-alive](https://github.com/mwpenny/portal64-still-alive) - A demake of Portal for the Nintendo 64
 * 【2024-01-15】[GPUOpen-LibrariesAndSDKs / VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library
 * 【2024-01-15】[yshui / picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 * 【2024-01-14】[EpicGames / raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
@@ -3700,6 +3723,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-16】[RPCSX / rpcsx](https://github.com/RPCSX/rpcsx) - 
 * 【2024-01-15】[Seneca-244200 / OOP-Workshops](https://github.com/Seneca-244200/OOP-Workshops) - 
 * 【2024-01-15】[s-kachroo / SamsungPractice](https://github.com/s-kachroo/SamsungPractice) - Problems for Samsung Research Institute, India - 3 hours Online Test.
 * 【2024-01-15】[m417z / CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC) - Privilege escalation using the XAML diagnostics API (CVE-2023-36003)
@@ -4201,6 +4225,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-16】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
+* 【2024-01-16】[kevin-powell / funky-nav](https://github.com/kevin-powell/funky-nav) - 
+* 【2024-01-16】[iinc0gnit0 / BlackPhish](https://github.com/iinc0gnit0/BlackPhish) - 🔱 [ Phishing Made Easy ] 🔱 (In Beta)
 * 【2024-01-15】[Chr1skyy / Egzamin-Zawodowy-E14-EE09-INF03](https://github.com/Chr1skyy/Egzamin-Zawodowy-E14-EE09-INF03) - 
 * 【2024-01-15】[EricksonAtHome / blackeye](https://github.com/EricksonAtHome/blackeye) - BLACKEYE v2.0 | New Phishing tool with localtunnel
 * 【2024-01-14】[mawerty / Is-Prime](https://github.com/mawerty/Is-Prime) - O(1) Algorithm to check if number is prime that works in 95%+ cases.
@@ -4628,6 +4655,9 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-16】[moelzanaty3 / react-18-workshop](https://github.com/moelzanaty3/react-18-workshop) - The Boat you need to master React 18
+* 【2024-01-16】[KillYoy / DiscordNight](https://github.com/KillYoy/DiscordNight) - An actual Dark/Nightmode Theme for Discord/BetterDiscord
+* 【2024-01-16】[Corrupteddisk / SpotifycloneWeb](https://github.com/Corrupteddisk/SpotifycloneWeb) - I'm trying to make a clone of Spotify using HTML,CSS,Javascript.
 * 【2024-01-15】[vishaltewatia / Thankyoubook](https://github.com/vishaltewatia/Thankyoubook) - 
 * 【2024-01-14】[shelcia / dynamic-portfolio](https://github.com/shelcia/dynamic-portfolio) - Dynamic Portfolio helps you create simple websites by just filling out forms.
 * 【2024-01-14】[HansNewbie / hansnewbie.github.io](https://github.com/HansNewbie/hansnewbie.github.io) - My page to list stuff that I kind of make as hobby 😄
@@ -5049,6 +5079,15 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-16】[KAIST-VICLab / FMA-Net](https://github.com/KAIST-VICLab/FMA-Net) - 
+* 【2024-01-16】[Learn-with-Sumit / rnext](https://github.com/Learn-with-Sumit/rnext) - Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit
+* 【2024-01-16】[razetime / ngn-k-tutorial](https://github.com/razetime/ngn-k-tutorial) - An ngn/k tutorial.
+* 【2024-01-16】[tachiyomiorg / tachiyomi-preview](https://github.com/tachiyomiorg/tachiyomi-preview) - Tachiyomi preview build repo.
+* 【2024-01-16】[lfranke / TRIPS](https://github.com/lfranke/TRIPS) - 
+* 【2024-01-16】[pluja / awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+* 【2024-01-16】[daniloraisi / go-ahead](https://github.com/daniloraisi/go-ahead) - Projeto Go Ahead
+* 【2024-01-16】[skot / bitaxe](https://github.com/skot/bitaxe) - Open source ASIC Bitcoin miner hardware
+* 【2024-01-16】[Rem0o / FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 * 【2024-01-15】[danielmiessler / fabric](https://github.com/danielmiessler/fabric) - An AI Augmentation framework for helping people integrate AI into their lives.
 * 【2024-01-15】[cloudcommunity / Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 * 【2024-01-15】[jenndryden / Canadian-Tech-Internships-Summer-2024](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) - Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2024
