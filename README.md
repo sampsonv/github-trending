@@ -689,6 +689,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-01-17】[scwang90 / SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+* 【2024-01-17】[quarkusio / quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) - Quarkus quickstart code
+* 【2024-01-17】[isHarryh / Ark-Pets](https://github.com/isHarryh/Ark-Pets) - Arknights Desktop Pets | 明日方舟桌宠
 * 【2024-01-16】[linlinjava / litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 * 【2024-01-16】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
 * 【2024-01-16】[PhilippC / keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
@@ -1218,6 +1221,10 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-17】[microsoft / JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+* 【2024-01-17】[testerSunshine / 12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
+* 【2024-01-17】[drunkdream / weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
+* 【2024-01-17】[BRlkl / AGI-Samantha](https://github.com/BRlkl/AGI-Samantha) - AGI has been achieved externally
 * 【2024-01-16】[Vozec / CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
 * 【2024-01-16】[lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 * 【2024-01-16】[HaujetZhao / CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - CapsWriter 的离线版，一个好用的 PC 端的语音输入工具
@@ -2597,6 +2604,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-01-17】[FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 * 【2024-01-16】[dutchcoders / transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 * 【2024-01-16】[loxilb-io / loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
 * 【2024-01-16】[zero-proxy / zero-proxy](https://github.com/zero-proxy/zero-proxy) - 最轻量、高效、透明、稳定的多币种矿池代理、矿池中转。支持 BTC, ETC, RVN, NicaHash, XNA, ETHW, Ergo 等币种。自定义抽水账号及比例，高性能数据中转算法，无任何share损耗。具有高效的抽水算法，保证精确抽水。支持多端口监听及多矿池连接，同时接入3000+矿机性能稳定且不掉线。The lightest, most efficient, transparent, and stable multi-cryptocurrency mining pool proxy.
@@ -3214,6 +3222,12 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-17】[limine-bootloader / limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
+* 【2024-01-17】[c22dev / Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner and Superviser for TrollStore
+* 【2024-01-17】[amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
+* 【2024-01-17】[bfengj / eBPFeXPLOIT](https://github.com/bfengj/eBPFeXPLOIT) - Exploit tool implemented using ebpf.
+* 【2024-01-17】[libgit2 / libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
+* 【2024-01-17】[ClemensElflein / OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 * 【2024-01-16】[mwpenny / portal64-still-alive](https://github.com/mwpenny/portal64-still-alive) - A demake of Portal for the Nintendo 64
 * 【2024-01-15】[GPUOpen-LibrariesAndSDKs / VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library
 * 【2024-01-15】[yshui / picom](https://github.com/yshui/picom) - A lightweight compositor for X11
@@ -4225,6 +4239,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-17】[BitgetLimited / v3-bitget-api-sdk](https://github.com/BitgetLimited/v3-bitget-api-sdk) - 
 * 【2024-01-16】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
 * 【2024-01-16】[kevin-powell / funky-nav](https://github.com/kevin-powell/funky-nav) - 
 * 【2024-01-16】[iinc0gnit0 / BlackPhish](https://github.com/iinc0gnit0/BlackPhish) - 🔱 [ Phishing Made Easy ] 🔱 (In Beta)
@@ -4655,6 +4670,12 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-17】[codedamn-classrooms / react-vite-playground](https://github.com/codedamn-classrooms/react-vite-playground) - 
+* 【2024-01-17】[Sriparno08 / Openpedia](https://github.com/Sriparno08/Openpedia) - The Open Source Guide!
+* 【2024-01-17】[swarnade / webdesign-switch](https://github.com/swarnade/webdesign-switch) - An Website Where Develop can Copy The Design Of Various Button And Implement It In Their Site
+* 【2024-01-17】[dchristl / esp32_nat_router_extended](https://github.com/dchristl/esp32_nat_router_extended) - a simple ESP32 NAT Router with some additional features
+* 【2024-01-17】[Jagroop2001 / AcmeRockets](https://github.com/Jagroop2001/AcmeRockets) - Acme Rocket
+* 【2024-01-17】[VladilenItStep / maket](https://github.com/VladilenItStep/maket) - 
 * 【2024-01-16】[moelzanaty3 / react-18-workshop](https://github.com/moelzanaty3/react-18-workshop) - The Boat you need to master React 18
 * 【2024-01-16】[KillYoy / DiscordNight](https://github.com/KillYoy/DiscordNight) - An actual Dark/Nightmode Theme for Discord/BetterDiscord
 * 【2024-01-16】[Corrupteddisk / SpotifycloneWeb](https://github.com/Corrupteddisk/SpotifycloneWeb) - I'm trying to make a clone of Spotify using HTML,CSS,Javascript.
@@ -5079,6 +5100,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-17】[danieldurnea / FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
+* 【2024-01-17】[Haxxnet / Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
+* 【2024-01-17】[Wechat-ggGitHub / Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+* 【2024-01-17】[mxssl / sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide
 * 【2024-01-16】[KAIST-VICLab / FMA-Net](https://github.com/KAIST-VICLab/FMA-Net) - 
 * 【2024-01-16】[Learn-with-Sumit / rnext](https://github.com/Learn-with-Sumit/rnext) - Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit
 * 【2024-01-16】[razetime / ngn-k-tutorial](https://github.com/razetime/ngn-k-tutorial) - An ngn/k tutorial.
