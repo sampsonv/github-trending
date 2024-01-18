@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-01-18】[TencentARC / PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
+* 【2024-01-18】[vanna-ai / vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+* 【2024-01-18】[react-native-webview / react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
+* 【2024-01-18】[marcnewlin / hi_my_name_is_keyboard](https://github.com/marcnewlin/hi_my_name_is_keyboard) - 
 * 【2024-01-16】[Stellarium / stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * 【2024-01-16】[tachiyomiorg / website](https://github.com/tachiyomiorg/website) - Official website for the Tachiyomi app.
 * 【2024-01-15】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
@@ -689,6 +693,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-01-18】[aliyunvideo / MONE_demo_opensource_android](https://github.com/aliyunvideo/MONE_demo_opensource_android) - 阿里视频云终端SDK UI组件及demo
 * 【2024-01-17】[scwang90 / SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 * 【2024-01-17】[quarkusio / quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) - Quarkus quickstart code
 * 【2024-01-17】[isHarryh / Ark-Pets](https://github.com/isHarryh/Ark-Pets) - Arknights Desktop Pets | 明日方舟桌宠
@@ -1221,6 +1226,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-18】[fishaudio / fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
+* 【2024-01-18】[Andre0512 / hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages.
+* 【2024-01-18】[xaitax / SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
+* 【2024-01-18】[piddnad / DDColor](https://github.com/piddnad/DDColor) - [ICCV 2023] Official implementation of "DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders"
+* 【2024-01-18】[EmbraceAGI / LangGPT](https://github.com/EmbraceAGI/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 * 【2024-01-17】[microsoft / JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 * 【2024-01-17】[testerSunshine / 12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 * 【2024-01-17】[drunkdream / weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
@@ -1980,6 +1990,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-18】[module-federation / module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
+* 【2024-01-18】[postmanlabs / newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
+* 【2024-01-18】[isanchop / stuhack](https://github.com/isanchop/stuhack) - Chrome extension for studocu premium free
 * 【2024-01-16】[Starlk7 / Magiceden-Launchpad-Bot](https://github.com/Starlk7/Magiceden-Launchpad-Bot) - Bot for mint on Magiceden Launchpad in Solana and BTC networks
 * 【2024-01-16】[LNReader / lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 * 【2024-01-16】[YouTransfer / YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
@@ -2604,6 +2617,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-01-18】[JoyalAJohney / Realtime-Distributed-Chat](https://github.com/JoyalAJohney/Realtime-Distributed-Chat) - High throughput 🚀 low latency - realtime chat built in Go and React ❤️
 * 【2024-01-17】[FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 * 【2024-01-16】[dutchcoders / transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 * 【2024-01-16】[loxilb-io / loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
@@ -3222,6 +3236,9 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-18】[TheWover / donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
+* 【2024-01-18】[ginsudev / YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) - The best tweak for YouTube Music iOS.
+* 【2024-01-18】[Seneca-144100 / IPC-Workshops](https://github.com/Seneca-144100/IPC-Workshops) - 
 * 【2024-01-17】[limine-bootloader / limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
 * 【2024-01-17】[c22dev / Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner and Superviser for TrollStore
 * 【2024-01-17】[amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
@@ -3737,6 +3754,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-18】[eclipse-iceoryx / iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - Eclipse iceoryx™ - true zero-copy inter-process-communication
 * 【2024-01-16】[RPCSX / rpcsx](https://github.com/RPCSX/rpcsx) - 
 * 【2024-01-15】[Seneca-244200 / OOP-Workshops](https://github.com/Seneca-244200/OOP-Workshops) - 
 * 【2024-01-15】[s-kachroo / SamsungPractice](https://github.com/s-kachroo/SamsungPractice) - Problems for Samsung Research Institute, India - 3 hours Online Test.
@@ -4239,6 +4257,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-18】[iuricode / recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 * 【2024-01-17】[BitgetLimited / v3-bitget-api-sdk](https://github.com/BitgetLimited/v3-bitget-api-sdk) - 
 * 【2024-01-16】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
 * 【2024-01-16】[kevin-powell / funky-nav](https://github.com/kevin-powell/funky-nav) - 
@@ -4670,6 +4689,14 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-18】[KubeDev / kube-news](https://github.com/KubeDev/kube-news) - 
+* 【2024-01-18】[rolling-scopes-school / HTML-builder](https://github.com/rolling-scopes-school/HTML-builder) - 
+* 【2024-01-18】[AI-ANK / C3-Voice-Assistant-UI](https://github.com/AI-ANK/C3-Voice-Assistant-UI) - 
+* 【2024-01-18】[Rahulvaishnav9 / Login-Page-Again](https://github.com/Rahulvaishnav9/Login-Page-Again) - 
+* 【2024-01-18】[danihek / Themecord](https://github.com/danihek/Themecord) - Discord theme will always match your wallpaper!
+* 【2024-01-18】[digitalinnovationone / js-emoji-memory-game](https://github.com/digitalinnovationone/js-emoji-memory-game) - Um jogo da memória criado com JS Vanilla
+* 【2024-01-18】[learntocloud / learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
+* 【2024-01-18】[framgia / framgia.github.io](https://github.com/framgia/framgia.github.io) - 
 * 【2024-01-17】[codedamn-classrooms / react-vite-playground](https://github.com/codedamn-classrooms/react-vite-playground) - 
 * 【2024-01-17】[Sriparno08 / Openpedia](https://github.com/Sriparno08/Openpedia) - The Open Source Guide!
 * 【2024-01-17】[swarnade / webdesign-switch](https://github.com/swarnade/webdesign-switch) - An Website Where Develop can Copy The Design Of Various Button And Implement It In Their Site
@@ -5100,6 +5127,12 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-18】[darknet-onion-links / darknet-onion-links-catalog](https://github.com/darknet-onion-links/darknet-onion-links-catalog) - TOR DARKENET
+* 【2024-01-18】[1003715231 / gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
+* 【2024-01-18】[lzw-lzw / LEGO](https://github.com/lzw-lzw/LEGO) - LEGO:Language-Enhanced Multi-modal Grounding Model
+* 【2024-01-18】[pilsonguitars / centrifugalDustSeparator](https://github.com/pilsonguitars/centrifugalDustSeparator) - Centrifugal Dust Separator
+* 【2024-01-18】[ruesandora / BEVM](https://github.com/ruesandora/BEVM) - 
+* 【2024-01-18】[alaskasquirrel / Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱 📧 newsletter RSS 荟萃 News
 * 【2024-01-17】[danieldurnea / FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 * 【2024-01-17】[Haxxnet / Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 * 【2024-01-17】[Wechat-ggGitHub / Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
