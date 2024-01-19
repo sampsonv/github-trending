@@ -1,6 +1,12 @@
 # github-trending
 ## All language
 
+* 【2024-01-19】[mihonapp / mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
+* 【2024-01-19】[RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+* 【2024-01-19】[rails / rails](https://github.com/rails/rails) - Ruby on Rails
+* 【2024-01-19】[Dooy / chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - chatgpt web, midjourney, gpts,tts, whisper 一套ui全搞定
+* 【2024-01-19】[roothide / Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for ios14.0~17.0 (A8~A17,M1+M2)
+* 【2024-01-19】[facebookresearch / dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 * 【2024-01-18】[TencentARC / PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
 * 【2024-01-18】[vanna-ai / vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 * 【2024-01-18】[react-native-webview / react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
@@ -693,6 +699,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-01-19】[86dbs / dbsyncer](https://github.com/86dbs/dbsyncer) - DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 * 【2024-01-18】[aliyunvideo / MONE_demo_opensource_android](https://github.com/aliyunvideo/MONE_demo_opensource_android) - 阿里视频云终端SDK UI组件及demo
 * 【2024-01-17】[scwang90 / SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 * 【2024-01-17】[quarkusio / quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) - Quarkus quickstart code
@@ -1226,6 +1233,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-19】[gnuboard / g6](https://github.com/gnuboard/g6) - 
+* 【2024-01-19】[can-kat / cstealer](https://github.com/can-kat/cstealer) - [BIG UPDATE] A discord token grabber, crypto wallet stealer, cookie stealer, password stealer, file stealer etc. app written in Python.
 * 【2024-01-18】[fishaudio / fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
 * 【2024-01-18】[Andre0512 / hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages.
 * 【2024-01-18】[xaitax / SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
@@ -1990,6 +1999,15 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-19】[kleampa / not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
+* 【2024-01-19】[Shopify / eng-intern-assessment-react](https://github.com/Shopify/eng-intern-assessment-react) - A Starter repo for Shopify React Intern assessments
+* 【2024-01-19】[MrXujiang / h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
+* 【2024-01-19】[adamchainz / django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
+* 【2024-01-19】[Xatta-Trone / medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension) - Read medium.com and medium based articles using google web cache.
+* 【2024-01-19】[adam-p / markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+* 【2024-01-19】[vitejs / awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
+* 【2024-01-19】[docker / welcome-to-docker](https://github.com/docker/welcome-to-docker) - 
+* 【2024-01-19】[cloudera / hue](https://github.com/cloudera/hue) - Open source SQL Query Assistant service for Databases/Warehouses
 * 【2024-01-18】[module-federation / module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
 * 【2024-01-18】[postmanlabs / newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 * 【2024-01-18】[isanchop / stuhack](https://github.com/isanchop/stuhack) - Chrome extension for studocu premium free
@@ -2617,6 +2635,11 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-01-19】[arpitbbhayani / database-fundamentals](https://github.com/arpitbbhayani/database-fundamentals) - Prototype implementations of database internal concepts and algorithms.
+* 【2024-01-19】[nicocha30 / ligolo-ng](https://github.com/nicocha30/ligolo-ng) - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
+* 【2024-01-19】[kffl / speedbump](https://github.com/kffl/speedbump) - TCP proxy for simulating variable, yet predictable network latency 🌐⏳
+* 【2024-01-19】[vektra / mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
+* 【2024-01-19】[aws / amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 * 【2024-01-18】[JoyalAJohney / Realtime-Distributed-Chat](https://github.com/JoyalAJohney/Realtime-Distributed-Chat) - High throughput 🚀 low latency - realtime chat built in Go and React ❤️
 * 【2024-01-17】[FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 * 【2024-01-16】[dutchcoders / transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -3236,6 +3259,9 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-19】[sched-ext / scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
+* 【2024-01-19】[SecWiki / windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits Windows平台提权漏洞集合
+* 【2024-01-19】[buzzm / postgresbson](https://github.com/buzzm/postgresbson) - postgres support for BSON
 * 【2024-01-18】[TheWover / donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
 * 【2024-01-18】[ginsudev / YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 * 【2024-01-18】[Seneca-144100 / IPC-Workshops](https://github.com/Seneca-144100/IPC-Workshops) - 
@@ -3754,6 +3780,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-19】[apple / foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
+* 【2024-01-19】[JakubMelka / PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
 * 【2024-01-18】[eclipse-iceoryx / iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - Eclipse iceoryx™ - true zero-copy inter-process-communication
 * 【2024-01-16】[RPCSX / rpcsx](https://github.com/RPCSX/rpcsx) - 
 * 【2024-01-15】[Seneca-244200 / OOP-Workshops](https://github.com/Seneca-244200/OOP-Workshops) - 
@@ -4257,6 +4285,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-19】[rvaidun / befake](https://github.com/rvaidun/befake) - view bereals without posting your own :)
+* 【2024-01-19】[cstate / cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
+* 【2024-01-19】[vasturiano / react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 * 【2024-01-18】[iuricode / recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 * 【2024-01-17】[BitgetLimited / v3-bitget-api-sdk](https://github.com/BitgetLimited/v3-bitget-api-sdk) - 
 * 【2024-01-16】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
@@ -4689,6 +4720,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-19】[CodeSpace-Academy / sdf-student-projects](https://github.com/CodeSpace-Academy/sdf-student-projects) - 
+* 【2024-01-19】[monstrousdev / themes](https://github.com/monstrousdev/themes) - Discord themes
 * 【2024-01-18】[KubeDev / kube-news](https://github.com/KubeDev/kube-news) - 
 * 【2024-01-18】[rolling-scopes-school / HTML-builder](https://github.com/rolling-scopes-school/HTML-builder) - 
 * 【2024-01-18】[AI-ANK / C3-Voice-Assistant-UI](https://github.com/AI-ANK/C3-Voice-Assistant-UI) - 
@@ -5127,6 +5160,11 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-19】[Ostorlab / KEV](https://github.com/Ostorlab/KEV) - Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
+* 【2024-01-19】[quoctinnguyen8 / Clean-Code---Tieng-Viet](https://github.com/quoctinnguyen8/Clean-Code---Tieng-Viet) - Clean Code Tiếng Việt: Bản dịch 6 chương đầu từ quyển "Clean Code - A Handbook of Agile Software Craftsmanship" - Robert C. Martin et. al.
+* 【2024-01-19】[wgwang / awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型
+* 【2024-01-19】[slowmist / Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
+* 【2024-01-19】[Admol / SystemDesign](https://github.com/Admol/SystemDesign) - 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide）
 * 【2024-01-18】[darknet-onion-links / darknet-onion-links-catalog](https://github.com/darknet-onion-links/darknet-onion-links-catalog) - TOR DARKENET
 * 【2024-01-18】[1003715231 / gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
 * 【2024-01-18】[lzw-lzw / LEGO](https://github.com/lzw-lzw/LEGO) - LEGO:Language-Enhanced Multi-modal Grounding Model
