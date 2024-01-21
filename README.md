@@ -1,6 +1,12 @@
 # github-trending
 ## All language
 
+* 【2024-01-21】[Andre0512 / pyhOn](https://github.com/Andre0512/pyhOn) - Control hOn devices with python
+* 【2024-01-21】[Codium-ai / AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - code generation tool that surpasses most human competitors in CodeContests
+* 【2024-01-21】[hustvl / Vim](https://github.com/hustvl/Vim) - Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model
+* 【2024-01-21】[collabora / WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
+* 【2024-01-21】[srikanth235 / privy](https://github.com/srikanth235/privy) - Your private coding assistant
+* 【2024-01-21】[dotnet / runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 * 【2024-01-20】[ejoy / ant](https://github.com/ejoy/ant) - Ant game engine
 * 【2024-01-20】[spatie / holidays](https://github.com/spatie/holidays) - Calculate which days you don't have to work!
 * 【2024-01-20】[google-deepmind / alphageometry](https://github.com/google-deepmind/alphageometry) - 
@@ -711,6 +717,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-01-21】[GTNewHorizons / Angelica](https://github.com/GTNewHorizons/Angelica) - OptiFine replacement for 1.7.10
 * 【2024-01-20】[apache / parquet-mr](https://github.com/apache/parquet-mr) - Apache Parquet
 * 【2024-01-20】[houbb / sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 * 【2024-01-20】[mymagicpower / AIAS](https://github.com/mymagicpower/AIAS) - AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。
@@ -1248,6 +1255,13 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-21】[robusta-dev / krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
+* 【2024-01-21】[kovidgoyal / kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+* 【2024-01-21】[explosion / spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
+* 【2024-01-21】[IST-DASLab / marlin](https://github.com/IST-DASLab/marlin) - FP16xINT4 LLM inference kernel that can achieve near-ideal ~4x speedups up to medium batchsizes of 16-32 tokens.
+* 【2024-01-21】[HIT-SCIR / Chinese-Mixtral-8x7B](https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B) - 中文Mixtral-8x7B（Chinese-Mixtral-8x7B）
+* 【2024-01-21】[sysdig / wafer](https://github.com/sysdig/wafer) - 
+* 【2024-01-21】[nachifur / MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
 * 【2024-01-20】[Ciphey / Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * 【2024-01-20】[ZHO-ZHO-ZHO / ComfyUI-PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker) - Unofficial implementation of PhotoMaker for ComfyUI
 * 【2024-01-20】[msd0pe-1 / cve-maker](https://github.com/msd0pe-1/cve-maker) - Tool to find CVEs and Exploits.
@@ -2019,6 +2033,10 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-21】[JC144 / EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
+* 【2024-01-21】[bvaughn / react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
+* 【2024-01-21】[Sharkgrammer / clockface.json](https://github.com/Sharkgrammer/clockface.json) - VSCode inspired watch face for Sense and Versa 3
+* 【2024-01-21】[F9y4ng / GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染(自用脚本), 优雅的搜索引擎助手等等。The open source codes are used in Greasemonkey scripts for desktop browsers, such as Font Rendering (Font Rendering.user.js), and Search Engine Assistant (Google & Baidu Switcher.user.js), etc.
 * 【2024-01-20】[31b4 / Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
 * 【2024-01-20】[aFarkas / lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 * 【2024-01-20】[nhn / tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
@@ -2658,6 +2676,9 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-01-21】[kubewharf / godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks
+* 【2024-01-21】[hashicorp / golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
+* 【2024-01-21】[luraproject / lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 * 【2024-01-20】[yeasy / docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 * 【2024-01-20】[fluxcd / flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 * 【2024-01-20】[bufbuild / protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate
@@ -3285,6 +3306,9 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-21】[AnonymousAAArdvark / qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
+* 【2024-01-21】[pnggroup / libpng](https://github.com/pnggroup/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
+* 【2024-01-21】[mitre-cyber-academy / 2024-ectf-insecure-example](https://github.com/mitre-cyber-academy/2024-ectf-insecure-example) - Insecure reference example for the 2024 Collegiate eCTF
 * 【2024-01-20】[janoglezcampos / llvm-yx-callobfuscator](https://github.com/janoglezcampos/llvm-yx-callobfuscator) - LLVM plugin to transparently apply stack spoofing and indirect syscalls to Windows x64 native calls at compile time.
 * 【2024-01-20】[ipxe / ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 * 【2024-01-20】[google / sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
@@ -3809,6 +3833,9 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-21】[pixpark / gpupixel](https://github.com/pixpark/gpupixel) - Cross-Platform AI Beauty Effects Library, Achieving Commercial-Grade Beauty Effects. Written in C++11, Based on OpenGL/ES and VNN.
+* 【2024-01-21】[senzee1984 / MutationGate](https://github.com/senzee1984/MutationGate) - Use hardware breakpoint to dynamically change SSN in run-time
+* 【2024-01-21】[unicode-org / icu](https://github.com/unicode-org/icu) - The home of the ICU project source code.
 * 【2024-01-20】[inferflow / inferflow](https://github.com/inferflow/inferflow) - Inferflow is an efficient and highly configurable inference engine for large language models (LLMs).
 * 【2024-01-19】[apple / foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 * 【2024-01-19】[JakubMelka / PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
@@ -4315,6 +4342,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-21】[Null-byte-00 / LOTL](https://github.com/Null-byte-00/LOTL) - Living Off The Land (LOTL) persistent Reverse shell
+* 【2024-01-21】[microsoft / SATechnicalOnboarding](https://github.com/microsoft/SATechnicalOnboarding) - This is a repo for the Microsoft Learn Student Ambassador Technical Onboarding Process.
 * 【2024-01-20】[MiyakoYakota / search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) - 
 * 【2024-01-20】[bmacGTPM / 361-Spring-2024](https://github.com/bmacGTPM/361-Spring-2024) - 
 * 【2024-01-20】[samber / awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -4754,6 +4783,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-21】[Animesh606 / WeatherForcasting](https://github.com/Animesh606/WeatherForcasting) - 
+* 【2024-01-21】[doshea / xword](https://github.com/doshea/xword) - A Rails-powered crossword app
 * 【2024-01-20】[msys2 / msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 * 【2024-01-20】[UPay-USDT / USDT-Payment-Gateway](https://github.com/UPay-USDT/USDT-Payment-Gateway) - UPay - USDT Payment Gateway (USDT 收款支付网关)
 * 【2024-01-20】[Comfy-Themes / Discord](https://github.com/Comfy-Themes/Discord) - Stay comfy while talking to your friends
@@ -5201,6 +5232,11 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-21】[gregorojstersek / resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
+* 【2024-01-21】[systemdesignfightclub / SDFC](https://github.com/systemdesignfightclub/SDFC) - Roadmap and Resource Compilation for System Design Fight Club
+* 【2024-01-21】[matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+* 【2024-01-21】[opennukit / Nukit-Open-Air-Purifier](https://github.com/opennukit/Nukit-Open-Air-Purifier) - Nukit Open Air Purifiers are Open Hardware devices for improving indoor air quality. They are designed to be used with North American standard HVAC filters and PC fans. They are often an improvement over commercial air purifiers as they are quieter per m3 CADR delivered, have a lower cost of ownership per year, and are easily repairable.
+* 【2024-01-21】[iamHuFei / HVVault](https://github.com/iamHuFei/HVVault) - 梳理【护网高利用率POC】并集成Nuclei模板仓库，针对解决网上同一资产漏洞一键检测工具参次不齐问题。
 * 【2024-01-20】[Lucaslhm / Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) - A collective of different IRs for the Flipper
 * 【2024-01-20】[xiaohucode / yidaRule](https://github.com/xiaohucode/yidaRule) - yida规则仓库
 * 【2024-01-20】[ashishps1 / awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - This repository contains tips and resources to prepare for behavioral interviews.
