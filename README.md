@@ -1,6 +1,11 @@
 # github-trending
 ## All language
 
+* 【2024-01-22】[rustdesk / rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+* 【2024-01-22】[mingrammer / diagrams](https://github.com/mingrammer/diagrams) - 🎨 Diagram as Code for prototyping cloud system architectures
+* 【2024-01-22】[ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+* 【2024-01-22】[oven-sh / bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+* 【2024-01-22】[sst / demo-ai-app](https://github.com/sst/demo-ai-app) - Sample AI movies app built with ❍ Ion
 * 【2024-01-21】[Andre0512 / pyhOn](https://github.com/Andre0512/pyhOn) - Control hOn devices with python
 * 【2024-01-21】[Codium-ai / AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - code generation tool that surpasses most human competitors in CodeContests
 * 【2024-01-21】[hustvl / Vim](https://github.com/hustvl/Vim) - Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model
@@ -717,6 +722,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-01-22】[FabricMC / fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
+* 【2024-01-22】[Enndfp / simple-framework](https://github.com/Enndfp/simple-framework) - SimpleFramework 是一个简易版的 Spring 框架，专注于实现 Spring 的三大核心功能：IOC（控制反转）、AOP（面向切面编程）和 MVC（模型-视图-控制器）。该项目旨在通过重新构建这些关键功能，为开发者提供深入理解 Spring 框架架构和设计理念的机会，同时也是一种提升 Java 开发技术能力的实践。
 * 【2024-01-21】[GTNewHorizons / Angelica](https://github.com/GTNewHorizons/Angelica) - OptiFine replacement for 1.7.10
 * 【2024-01-20】[apache / parquet-mr](https://github.com/apache/parquet-mr) - Apache Parquet
 * 【2024-01-20】[houbb / sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
@@ -1255,6 +1262,10 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-22】[FDX100 / Auto_Tor_IP_changer](https://github.com/FDX100/Auto_Tor_IP_changer) - change your Ip address automatically This tool based on tor project
+* 【2024-01-22】[TencentARC / GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+* 【2024-01-22】[IAHispano / Applio](https://github.com/IAHispano/Applio) - Ultimate voice cloning tool, meticulously optimized for unrivaled power, modularity, and user-friendly experience.
+* 【2024-01-22】[zhuangshaobin / Vlogger](https://github.com/zhuangshaobin/Vlogger) - Make Your Dream A Vlog
 * 【2024-01-21】[robusta-dev / krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 * 【2024-01-21】[kovidgoyal / kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 * 【2024-01-21】[explosion / spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -2033,6 +2044,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-22】[LiteLoaderQQNT / LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 * 【2024-01-21】[JC144 / EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
 * 【2024-01-21】[bvaughn / react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 * 【2024-01-21】[Sharkgrammer / clockface.json](https://github.com/Sharkgrammer/clockface.json) - VSCode inspired watch face for Sense and Versa 3
@@ -3306,6 +3318,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-22】[Awesome-HarmonyOS / HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * 【2024-01-21】[AnonymousAAArdvark / qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 * 【2024-01-21】[pnggroup / libpng](https://github.com/pnggroup/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
 * 【2024-01-21】[mitre-cyber-academy / 2024-ectf-insecure-example](https://github.com/mitre-cyber-academy/2024-ectf-insecure-example) - Insecure reference example for the 2024 Collegiate eCTF
@@ -3833,6 +3846,10 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
+* 【2024-01-22】[flyinghead / flycast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
+* 【2024-01-22】[Maplespe / ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
+* 【2024-01-22】[tbnobody / OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles Inverters
 * 【2024-01-21】[pixpark / gpupixel](https://github.com/pixpark/gpupixel) - Cross-Platform AI Beauty Effects Library, Achieving Commercial-Grade Beauty Effects. Written in C++11, Based on OpenGL/ES and VNN.
 * 【2024-01-21】[senzee1984 / MutationGate](https://github.com/senzee1984/MutationGate) - Use hardware breakpoint to dynamically change SSN in run-time
 * 【2024-01-21】[unicode-org / icu](https://github.com/unicode-org/icu) - The home of the ICU project source code.
@@ -4342,6 +4359,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-22】[alura-es-cursos / js-curso-2](https://github.com/alura-es-cursos/js-curso-2) - 
+* 【2024-01-22】[nicknochnack / MLTradingBot](https://github.com/nicknochnack/MLTradingBot) - 
 * 【2024-01-21】[Null-byte-00 / LOTL](https://github.com/Null-byte-00/LOTL) - Living Off The Land (LOTL) persistent Reverse shell
 * 【2024-01-21】[microsoft / SATechnicalOnboarding](https://github.com/microsoft/SATechnicalOnboarding) - This is a repo for the Microsoft Learn Student Ambassador Technical Onboarding Process.
 * 【2024-01-20】[MiyakoYakota / search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) - 
@@ -4783,6 +4802,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-22】[ykdojo / OpenStream](https://github.com/ykdojo/OpenStream) - OpenStream is an open-source project for creating a free tool that records screen and webcam footage simultaneously. It's designed for content creators and developed collaboratively through our community on Discord.
 * 【2024-01-21】[Animesh606 / WeatherForcasting](https://github.com/Animesh606/WeatherForcasting) - 
 * 【2024-01-21】[doshea / xword](https://github.com/doshea/xword) - A Rails-powered crossword app
 * 【2024-01-20】[msys2 / msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
@@ -5232,6 +5252,11 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-22】[a16z-infra / llm-app-stack](https://github.com/a16z-infra/llm-app-stack) - 
+* 【2024-01-22】[WadQamar10 / My-Hunting-Methodology-](https://github.com/WadQamar10/My-Hunting-Methodology-) - My Private Bug Hunting Methodology
+* 【2024-01-22】[CodingChallegesFYI / SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
+* 【2024-01-22】[programthink / books](https://github.com/programthink/books) - 【编程随想】收藏的电子书清单（多个学科，含下载链接）
+* 【2024-01-22】[ossu / data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 * 【2024-01-21】[gregorojstersek / resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
 * 【2024-01-21】[systemdesignfightclub / SDFC](https://github.com/systemdesignfightclub/SDFC) - Roadmap and Resource Compilation for System Design Fight Club
 * 【2024-01-21】[matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
