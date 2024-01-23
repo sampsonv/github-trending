@@ -1,6 +1,13 @@
 # github-trending
 ## All language
 
+* 【2024-01-23】[apernet / OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
+* 【2024-01-23】[majacinka / crewai-experiments](https://github.com/majacinka/crewai-experiments) - Experiments with local as well as models available through an api
+* 【2024-01-23】[n8n-io / n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+* 【2024-01-23】[thijsvanloef / palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
+* 【2024-01-23】[jammsen / docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server) - Docker container to easily provision and manage Palworld Forest Dedicated Server
+* 【2024-01-23】[jonbarron / camp_zipnerf](https://github.com/jonbarron/camp_zipnerf) - 
+* 【2024-01-23】[hiddify / hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 * 【2024-01-22】[rustdesk / rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 * 【2024-01-22】[mingrammer / diagrams](https://github.com/mingrammer/diagrams) - 🎨 Diagram as Code for prototyping cloud system architectures
 * 【2024-01-22】[ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -722,6 +729,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-01-23】[spring-guides / gs-rest-service](https://github.com/spring-guides/gs-rest-service) - Building a RESTful Web Service :: Learn how to create a RESTful web service with Spring.
+* 【2024-01-23】[xspanger3770 / GlobalQuake](https://github.com/xspanger3770/GlobalQuake) - Experimental application for monitoring earthquakes world-wide in near real time. Capable of issuing its own earthquake early warnings (EEW).
 * 【2024-01-22】[FabricMC / fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 * 【2024-01-22】[Enndfp / simple-framework](https://github.com/Enndfp/simple-framework) - SimpleFramework 是一个简易版的 Spring 框架，专注于实现 Spring 的三大核心功能：IOC（控制反转）、AOP（面向切面编程）和 MVC（模型-视图-控制器）。该项目旨在通过重新构建这些关键功能，为开发者提供深入理解 Spring 框架架构和设计理念的机会，同时也是一种提升 Java 开发技术能力的实践。
 * 【2024-01-21】[GTNewHorizons / Angelica](https://github.com/GTNewHorizons/Angelica) - OptiFine replacement for 1.7.10
@@ -1262,6 +1271,12 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-23】[father-bot / chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
+* 【2024-01-23】[huggingface / nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
+* 【2024-01-23】[gabrielchua / RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Visualise and explore your RAG documents
+* 【2024-01-23】[IncomeStreamSurfer / chatgptassistantautoblogger](https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger) - This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites
+* 【2024-01-23】[huggingface / datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
+* 【2024-01-23】[krishnaik06 / Google-Gemini-Crash-Course](https://github.com/krishnaik06/Google-Gemini-Crash-Course) - 
 * 【2024-01-22】[FDX100 / Auto_Tor_IP_changer](https://github.com/FDX100/Auto_Tor_IP_changer) - change your Ip address automatically This tool based on tor project
 * 【2024-01-22】[TencentARC / GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 * 【2024-01-22】[IAHispano / Applio](https://github.com/IAHispano/Applio) - Ultimate voice cloning tool, meticulously optimized for unrivaled power, modularity, and user-friendly experience.
@@ -2044,6 +2059,10 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-23】[openspeedtest / Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
+* 【2024-01-23】[sindresorhus / execa](https://github.com/sindresorhus/execa) - Process execution for humans
+* 【2024-01-23】[sahandghavidel / mern-blog](https://github.com/sahandghavidel/mern-blog) - MERN blog using tailwind css
+* 【2024-01-23】[mdn / dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 * 【2024-01-22】[LiteLoaderQQNT / LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 * 【2024-01-21】[JC144 / EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
 * 【2024-01-21】[bvaughn / react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
@@ -2688,6 +2707,10 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-01-23】[singchia / geminio](https://github.com/singchia/geminio) - ♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等
+* 【2024-01-23】[hay-kot / homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
+* 【2024-01-23】[ropnop / kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
+* 【2024-01-23】[bazelbuild / bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
 * 【2024-01-21】[kubewharf / godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks
 * 【2024-01-21】[hashicorp / golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
 * 【2024-01-21】[luraproject / lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
@@ -3846,6 +3869,9 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-23】[AlexandreRouma / SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
+* 【2024-01-23】[AHXR / ghost](https://github.com/AHXR/ghost) - 👻 RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
+* 【2024-01-23】[SivanLaai / rime-pure](https://github.com/SivanLaai/rime-pure) - 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】
 * 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 * 【2024-01-22】[flyinghead / flycast](https://github.com/flyinghead/flycast) - Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator
 * 【2024-01-22】[Maplespe / ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11
@@ -5252,6 +5278,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-23】[gijsdev / ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
+* 【2024-01-23】[iam-veeramalla / Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero) - Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.
+* 【2024-01-23】[tramcar / awesome-job-boards](https://github.com/tramcar/awesome-job-boards) - 
+* 【2024-01-23】[SatoshiVM / svm-pioneer-airdrop](https://github.com/SatoshiVM/svm-pioneer-airdrop) - 
 * 【2024-01-22】[a16z-infra / llm-app-stack](https://github.com/a16z-infra/llm-app-stack) - 
 * 【2024-01-22】[WadQamar10 / My-Hunting-Methodology-](https://github.com/WadQamar10/My-Hunting-Methodology-) - My Private Bug Hunting Methodology
 * 【2024-01-22】[CodingChallegesFYI / SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
