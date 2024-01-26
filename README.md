@@ -1,6 +1,13 @@
 # github-trending
 ## All language
 
+* 【2024-01-26】[YangLing0818 / RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster) - Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)
+* 【2024-01-26】[lamini-ai / prompt-engineering-open-llms](https://github.com/lamini-ai/prompt-engineering-open-llms) - 
+* 【2024-01-26】[sunface / rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book
+* 【2024-01-26】[vikhyat / moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+* 【2024-01-26】[lamini-ai / simple-rag](https://github.com/lamini-ai/simple-rag) - 
+* 【2024-01-26】[ZHO-ZHO-ZHO / ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID) - Unofficial implementation of InstantID for ComfyUI
+* 【2024-01-26】[vvandk / kinit](https://github.com/vvandk/kinit) - FastAPI + vue3 前后端分离后台管理系统，包含PC端，微信小程序端。PC 端使用：Vue3+Typescript+Vite+Element Plus，小程序使用：Uni-APP + uview ui，接口使用：FastAPI+Pydantic+SQLAlchemy 2.0+Mysql。异步存储，RBAC 权限管理，定时任务，部门管理等功能。
 * 【2024-01-25】[LiheYoung / Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data
 * 【2024-01-25】[alura-cursos / spotify-imersao](https://github.com/alura-cursos/spotify-imersao) - 
 * 【2024-01-25】[xNul / palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
@@ -736,6 +743,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-01-26】[stacksimplify / aws-eks-kubernetes-masterclass](https://github.com/stacksimplify/aws-eks-kubernetes-masterclass) - AWS EKS Kubernetes - Masterclass | DevOps, Microservices
 * 【2024-01-25】[jinho-yoo-jack / wanted-preonboarding-challenge-backend-16](https://github.com/jinho-yoo-jack/wanted-preonboarding-challenge-backend-16) - 원티드 프리온보딩 백엔드 챌린지 사전과제
 * 【2024-01-25】[GaoSSR / OnePRO](https://github.com/GaoSSR/OnePRO) - 轻量级算法驱动优惠叠加器
 * 【2024-01-25】[awsdocs / aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide) - Supplementary resources for the AWS Lambda Developer Guide
@@ -1282,6 +1290,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-26】[googleapis / google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
+* 【2024-01-26】[3DTopia / 3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes
+* 【2024-01-26】[TaskingAI / TaskingAI](https://github.com/TaskingAI/TaskingAI) - The open source platform for AI-native application development.
+* 【2024-01-26】[BishopFox / cloudfoxable](https://github.com/BishopFox/cloudfoxable) - Create your own vulnerable by design AWS penetration testing playground
+* 【2024-01-26】[mos9527 / pyncm](https://github.com/mos9527/pyncm) - 第三方网易云音乐 Python API
 * 【2024-01-25】[sqlalchemy / sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 * 【2024-01-25】[crowsonkb / k-diffusion](https://github.com/crowsonkb/k-diffusion) - Karras et al. (2022) diffusion models for PyTorch
 * 【2024-01-25】[InternLM / HuixiangDou](https://github.com/InternLM/HuixiangDou) - HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance
@@ -2079,6 +2092,10 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-26】[testing-library / react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
+* 【2024-01-26】[aymene69 / stremio-jackett](https://github.com/aymene69/stremio-jackett) - Elevate your Stremio experience with seamless access to Jackett torrent links, effortlessly fetching torrents for your selected movies within the Stremio interface.
+* 【2024-01-26】[rollup / plugins](https://github.com/rollup/plugins) - 🍣 The one-stop shop for official Rollup plugins
+* 【2024-01-26】[expressjs / express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 * 【2024-01-25】[plasma-umass / scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 * 【2024-01-25】[fouber / lottery](https://github.com/fouber/lottery) - 年会抽奖程序
 * 【2024-01-24】[tj / commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
@@ -2734,6 +2751,9 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-01-26】[projectdiscovery / cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
+* 【2024-01-26】[boyter / scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+* 【2024-01-26】[ollama / ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 * 【2024-01-25】[ffenix113 / zigbee_home](https://github.com/ffenix113/zigbee_home) - Project to provide functionality similar to ESPHome but for Zigbee instead of WiFi for nRF52
 * 【2024-01-25】[projectdiscovery / naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 * 【2024-01-25】[litmuschaos / litmus](https://github.com/litmuschaos/litmus) - Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q
@@ -3372,6 +3392,11 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-26】[nrfconnect / sdk-zephyr](https://github.com/nrfconnect/sdk-zephyr) - NCS downstream of https://github.com/zephyrproject-rtos/zephyr
+* 【2024-01-26】[apple-oss-distributions / xnu](https://github.com/apple-oss-distributions/xnu) - 
+* 【2024-01-26】[linux-nvme / nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
+* 【2024-01-26】[P001water / yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式
+* 【2024-01-26】[remzi-arpacidusseau / ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects) - Projects for an undergraduate OS course
 * 【2024-01-25】[RedSiege / GraphStrike](https://github.com/RedSiege/GraphStrike) - Cobalt Strike HTTPS beaconing over Microsoft Graph API
 * 【2024-01-25】[Maldev-Academy / RemoteTLSCallbackInjection](https://github.com/Maldev-Academy/RemoteTLSCallbackInjection) - Utilizing TLS callbacks to execute a payload without spawning any threads in a remote process
 * 【2024-01-25】[remzi-arpacidusseau / ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
@@ -3907,6 +3932,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-26】[swordbluesword / PalWorld-NetCrack](https://github.com/swordbluesword/PalWorld-NetCrack) - 
+* 【2024-01-26】[microsoft / WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 * 【2024-01-24】[Maplespe / DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add blur effect to global system title bar, support win10 and win11.
 * 【2024-01-24】[UE4SS-RE / RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
 * 【2024-01-23】[AlexandreRouma / SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
@@ -4425,6 +4452,10 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-26】[mixmark-io / turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+* 【2024-01-26】[AhmadIbrahiim / Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js
+* 【2024-01-26】[huangjch526 / IFAST_official](https://github.com/huangjch526/IFAST_official) - 
+* 【2024-01-26】[schemaorg / schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 * 【2024-01-25】[vovannat / darknet-markets-links](https://github.com/vovannat/darknet-markets-links) - A verified list of darknet markets and services with links for educational reference.
 * 【2024-01-25】[novice88 / jetbra](https://github.com/novice88/jetbra) - An activation tool for jetbrains family products,including plugins
 * 【2024-01-24】[Ayushparikh-code / Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!
@@ -4873,6 +4904,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-26】[RodrigoHarder / imersao-frontend](https://github.com/RodrigoHarder/imersao-frontend) - 
+* 【2024-01-26】[waelmas / frameless-bitb](https://github.com/waelmas/frameless-bitb) - A new approach to Browser In The Browser (BITB) without the use of iframes, allowing the bypass of traditional framebusters implemented by login pages like Microsoft and the use with Evilginx.
 * 【2024-01-25】[mrrfv / open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 * 【2024-01-25】[MUKAPP / LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme) - LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致
 * 【2024-01-24】[alura-es-cursos / 2035-logica-programacion-2](https://github.com/alura-es-cursos/2035-logica-programacion-2) - Curso de lógica de programación 2 - Alura Latam
@@ -5331,6 +5364,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-26】[praveen1994dec / Knowledge_Base](https://github.com/praveen1994dec/Knowledge_Base) - This repository all all the tools related documents for your reference
+* 【2024-01-26】[cncf / mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring: LFX Mentorship + Summer of Code
+* 【2024-01-26】[woltapp / engineering-internship-2024](https://github.com/woltapp/engineering-internship-2024) - The pre-assignment for frontend / backend internship applicants
+* 【2024-01-26】[wjf0214 / qd-templates](https://github.com/wjf0214/qd-templates) - 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。
 * 【2024-01-25】[ai-boost / awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
 * 【2024-01-25】[drshahizan / SLR-FC](https://github.com/drshahizan/SLR-FC) - Systematic Literature Review (SLR) Using AI
 * 【2024-01-25】[janvinsha / gooutwithme](https://github.com/janvinsha/gooutwithme) - 
