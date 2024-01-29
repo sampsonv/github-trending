@@ -1,6 +1,14 @@
 # github-trending
 ## All language
 
+* 【2024-01-29】[leptonai / search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
+* 【2024-01-29】[rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+* 【2024-01-29】[FalconForceTeam / SOAPHound](https://github.com/FalconForceTeam/SOAPHound) - SOAPHound is a custom-developed .NET data collector tool which can be used to enumerate Active Directory environments via the Active Directory Web Services (ADWS) protocol.
+* 【2024-01-29】[leptonai / leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
+* 【2024-01-29】[Rapha-Borges / oke-free](https://github.com/Rapha-Borges/oke-free) - Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre
+* 【2024-01-29】[Ucas-HaoranWei / Vary-toy](https://github.com/Ucas-HaoranWei/Vary-toy) - Official code implementation of Vary-toy (Small Language Model Meets with Reinforced Vision Vocabulary)
+* 【2024-01-29】[tree-sitter / tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+* 【2024-01-29】[ReVanced / revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 * 【2024-01-28】[andrewnguonly / Lumos](https://github.com/andrewnguonly/Lumos) - A RAG LLM co-pilot for browsing the web, powered by local LLMs
 * 【2024-01-28】[tiny-craft / tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 * 【2024-01-28】[lencx / Noi](https://github.com/lencx/Noi) - 🦄 AI + Tools + Plugins + Community
@@ -1299,6 +1307,12 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-01-29】[simonw / llm](https://github.com/simonw/llm) - Access large language models from the command-line
+* 【2024-01-29】[mealie-recipes / mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+* 【2024-01-29】[zhuyiche / llava-phi](https://github.com/zhuyiche/llava-phi) - 
+* 【2024-01-29】[EternalWraith / PalEdit](https://github.com/EternalWraith/PalEdit) - A simple tool for Editing and Generating Pals within PalWorld Saves
+* 【2024-01-29】[h4x0r-dz / CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897) - CVE-2024-23897
+* 【2024-01-29】[JerBouma / FinanceToolkit](https://github.com/JerBouma/FinanceToolkit) - Transparent and Efficient Financial Analysis
 * 【2024-01-28】[cheahjs / palworld-save-tools](https://github.com/cheahjs/palworld-save-tools) - Tools for converting PalWorld .sav files to JSON and back
 * 【2024-01-28】[Mihaiii / llm_steer](https://github.com/Mihaiii/llm_steer) - Steer LLM outputs towards a certain topic/subject and enhance response capabilities using activation engineering by adding steering vectors
 * 【2024-01-27】[assafelovic / gpt-newspaper](https://github.com/assafelovic/gpt-newspaper) - 
@@ -2104,6 +2118,11 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-01-29】[amin4139 / share_file](https://github.com/amin4139/share_file) - 
+* 【2024-01-29】[chrisgoringe / cg-use-everywhere](https://github.com/chrisgoringe/cg-use-everywhere) - 
+* 【2024-01-29】[BretFisher / udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Docker Mastery Udemy course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
+* 【2024-01-29】[atom / atom](https://github.com/atom/atom) - The hackable text editor
+* 【2024-01-29】[victornpb / undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 * 【2024-01-28】[bpmn-io / bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 * 【2024-01-28】[slackapi / slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action!
 * 【2024-01-28】[TheBeastLT / torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper) - 
@@ -2770,6 +2789,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-01-29】[Hoshinonyaruko / palworld-go](https://github.com/Hoshinonyaruko/palworld-go) - Pal World all-in-one webui for pc and mobile devices.
+* 【2024-01-29】[gwuhaolin / lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 * 【2024-01-28】[eosphoros-ai / liteio](https://github.com/eosphoros-ai/liteio) - LiteIO is a cloud-native block device service that uses multiple storage engines, including SPDK and LVM, to achieve high performance. It is specifically designed for Kubernetes in a hyper-converged architecture, allowing for block device provisioning across the entire cluster.
 * 【2024-01-28】[gorcon / rcon-cli](https://github.com/gorcon/rcon-cli) - RCON client for executing queries on game server.
 * 【2024-01-28】[projectdiscovery / interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
@@ -3416,6 +3437,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-01-29】[duck-sec / CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe) - A modification to fortra's CVE-2023-28252 exploit, compiled to exe
+* 【2024-01-29】[amd / xdna-driver](https://github.com/amd/xdna-driver) - 
 * 【2024-01-28】[henrypp / memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 * 【2024-01-28】[rhboot / shim](https://github.com/rhboot/shim) - UEFI shim loader
 * 【2024-01-27】[floesen / EventLogCrasher](https://github.com/floesen/EventLogCrasher) - 
@@ -3964,6 +3987,10 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-01-29】[XRPLF / rippled](https://github.com/XRPLF/rippled) - Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
+* 【2024-01-29】[SourMesen / Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, PCE, SMS/GG) for Windows, Linux and macOS
+* 【2024-01-29】[rutura / The-C-20-Masterclass-Source-Code](https://github.com/rutura/The-C-20-Masterclass-Source-Code) - Source code for the C++ 20 Masterclass on udemy
+* 【2024-01-29】[AlexanderDzhoganov / ComfyTextures](https://github.com/AlexanderDzhoganov/ComfyTextures) - Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models
 * 【2024-01-28】[zodiacon / QuickAsm](https://github.com/zodiacon/QuickAsm) - 
 * 【2024-01-27】[localcc / PalworldModdingKit](https://github.com/localcc/PalworldModdingKit) - A modding kit for Palworld
 * 【2024-01-27】[radj307 / ARRCON](https://github.com/radj307/ARRCON) - Lightweight Source RCON client that works on Windows, macOS, & Linux.
@@ -4487,6 +4514,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-01-29】[kanton-bern / hellodata-be](https://github.com/kanton-bern/hellodata-be) - The Open-Source Enterprise Data Platform in a single Portal
+* 【2024-01-29】[nota-lang / bene](https://github.com/nota-lang/bene) - An EPUB Reading System
 * 【2024-01-28】[Shivraj-Chavan / DigitalAnalogCLock](https://github.com/Shivraj-Chavan/DigitalAnalogCLock) - 
 * 【2024-01-28】[addyosmani / essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns) - Repo for my 'Learning JavaScript Design Patterns' book
 * 【2024-01-28】[vidio-boy / Eaglercraft1.8.8](https://github.com/vidio-boy/Eaglercraft1.8.8) - Eaglercraft 1.8.8 javascript runtime. Multiplayer worlds available. Customizable profile, skins, settings, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available.
@@ -4945,6 +4974,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-01-29】[kepano / flexoki-obsidian](https://github.com/kepano/flexoki-obsidian) - An inky color scheme for Obsidian
+* 【2024-01-29】[kenngigz / App-For-PC](https://github.com/kenngigz/App-For-PC) - App For Edit Photo And Video
 * 【2024-01-28】[tcmmichaelb139 / obsidian-tokyonight](https://github.com/tcmmichaelb139/obsidian-tokyonight) - Tokyo Night theme for Obsidian
 * 【2024-01-28】[Ritwika-14 / CoupEarn](https://github.com/Ritwika-14/CoupEarn) - Earn by selling your unused coupons.
 * 【2024-01-28】[calcom / font](https://github.com/calcom/font) - The home for our Cal Sans font.
@@ -5413,6 +5444,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-01-29】[s2underground / GhostNet](https://github.com/s2underground/GhostNet) - GhostNet
+* 【2024-01-29】[gaganode / gaga_android_sdk](https://github.com/gaganode/gaga_android_sdk) - gaga_android_sdk
+* 【2024-01-29】[cmsc330spring24 / cmsc330spring24](https://github.com/cmsc330spring24/cmsc330spring24) - 
+* 【2024-01-29】[xszyou / Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.
 * 【2024-01-28】[burpheart / Palworld-Reverse-Note](https://github.com/burpheart/Palworld-Reverse-Note) - Palworld SAVE Reverse Note / 幻兽帕鲁逆向笔记
 * 【2024-01-28】[passivestar / godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot minimal editor theme
 * 【2024-01-28】[mozilla / gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
