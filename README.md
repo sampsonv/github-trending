@@ -1,6 +1,14 @@
 # github-trending
 ## All language
 
+* 【2024-02-04】[OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
+* 【2024-02-04】[allenai / OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
+* 【2024-02-04】[Sanster / IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+* 【2024-02-04】[devfullcycle / imersao17](https://github.com/devfullcycle/imersao17) - 
+* 【2024-02-04】[bclswl0827 / ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
+* 【2024-02-04】[Lightning-AI / pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.
+* 【2024-02-04】[snyk / leaky-vessels-static-detector](https://github.com/snyk/leaky-vessels-static-detector) - Static detection tool for runc and Docker "Leaky Vessels" vulnerabilities
+* 【2024-02-04】[soybeanjs / soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。
 * 【2024-02-03】[code100x / daily-code](https://github.com/code100x/daily-code) - 
 * 【2024-02-03】[AILab-CVC / YOLO-World](https://github.com/AILab-CVC/YOLO-World) - Real-Time Open-Vocabulary Object Detection
 * 【2024-02-03】[actions / runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -786,6 +794,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-02-04】[AlmasB / FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
+* 【2024-02-04】[liyupi / yuzi-generator](https://github.com/liyupi/yuzi-generator) - 基于 React + Spring Boot + Picocli + 对象存储的代码生成器共享平台，又分为 3 个循序渐进的子项目：基于命令行的本地代码生成器 + 代码生成器制作工具 + 在线代码生成器平台。实践 Java 命令行应用开发、FreeMarker 模板引擎、多种设计模式、对象存储、十几种优化方法、复杂业务的拆解和系统设计、分布式任务调度系统、Vert.x 响应式编程等
 * 【2024-02-02】[xuchengsheng / wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - wx-dump-4j是一款基于Java开发的微信数据分析工具。它不仅可以准确显示您的好友数、群聊数和当日的消息总量，还提供了过去15天内的每日消息统计功能，让您清晰了解自己的社交活跃度。此外它还能够识别并展示最近一个月内与您互动最频繁的前10位联系人。它还支持导出微信的聊天记录、联系人和群聊信息，甚至可以查看超过三天限制的朋友圈历史记录。
 * 【2024-02-01】[mqttsnet / thinglinks](https://github.com/mqttsnet/thinglinks) - a high-performance, high-throughput, and highly scalable IoT platform! A single instance can support millions of connections. It offers powerful custom extension capabilities. Built with Netty as the communication layer component, it supports plugin-based development and integration!
 * 【2024-01-31】[theonedev / onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
@@ -1339,6 +1349,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-02-04】[PromtEngineer / localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+* 【2024-02-04】[Slowerzs / ThievingFox](https://github.com/Slowerzs/ThievingFox) - 
+* 【2024-02-04】[caronc / apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+* 【2024-02-04】[iperov / DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
+* 【2024-02-04】[krau / kmua-bot](https://github.com/krau/kmua-bot) - 🍥✨ A 💕 Telegram❄️ Bot🍰
 * 【2024-02-03】[lich0821 / WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.
 * 【2024-02-03】[zaigie / palworld-server-tool](https://github.com/zaigie/palworld-server-tool) - 基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.
 * 【2024-02-03】[getredash / redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -2168,6 +2183,10 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-02-04】[alphagov / govuk-frontend](https://github.com/alphagov/govuk-frontend) - GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
+* 【2024-02-04】[josStorer / chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+* 【2024-02-04】[mattboldt / typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
+* 【2024-02-04】[m3u8playlist / dp](https://github.com/m3u8playlist/dp) - 
 * 【2024-02-03】[handsontable / handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 * 【2024-02-02】[the-code-crusader / ValentinesSite](https://github.com/the-code-crusader/ValentinesSite) - Quick little static site I created to ask a girl to be my valentine!
 * 【2024-02-02】[yarnpkg / yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
@@ -2849,6 +2868,9 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-02-04】[glasskube / glasskube](https://github.com/glasskube/glasskube) - 🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.
+* 【2024-02-04】[gofireflyio / aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
+* 【2024-02-04】[authzed / spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
 * 【2024-02-03】[Telmate / terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 * 【2024-02-03】[blast-io / blast](https://github.com/blast-io/blast) - 
 * 【2024-02-03】[owncloud / ocis](https://github.com/owncloud/ocis) - ⚛️ ownCloud Infinite Scale Stack
@@ -3509,6 +3531,9 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-02-04】[codeplea / genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
+* 【2024-02-04】[dgllghr / stanchion](https://github.com/dgllghr/stanchion) - A SQLite extension that brings column-oriented tables to SQLite
+* 【2024-02-04】[xCuri0 / ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) - Resizable BAR for (almost) any UEFI system
 * 【2024-02-03】[snyk / leaky-vessels-dynamic-detector](https://github.com/snyk/leaky-vessels-dynamic-detector) - Leaky Vessels Dynamic Detector
 * 【2024-02-03】[GNOME / libxml2](https://github.com/GNOME/libxml2) - Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2
 * 【2024-02-03】[redeflesq / firewall-bypass](https://github.com/redeflesq/firewall-bypass) - Download data from the internet bypassing the firewall using process injection
@@ -4070,6 +4095,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-02-04】[versatica / mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
 * 【2024-02-03】[v8 / v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 * 【2024-02-03】[bpftrace / bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 * 【2024-02-02】[timeplus-io / proton](https://github.com/timeplus-io/proton) - A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse.
@@ -4605,6 +4631,10 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-02-04】[lukin / keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
+* 【2024-02-04】[codrops / StickySections](https://github.com/codrops/StickySections) - Some ideas of how sticky sections can be animated while exiting the viewport.
+* 【2024-02-04】[tc39 / proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
+* 【2024-02-04】[paulgp / applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
 * 【2024-02-03】[missuo / Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) - Build a free image hosting with Telegraph
 * 【2024-02-03】[Aemulo / Release](https://github.com/Aemulo/Release) - 
 * 【2024-02-02】[hilmanski / freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
@@ -5076,6 +5106,12 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-02-04】[Helpmecoder6655 / valentine-day-card](https://github.com/Helpmecoder6655/valentine-day-card) - 
+* 【2024-02-04】[fabiorochafg / joomla-3-blank-template](https://github.com/fabiorochafg/joomla-3-blank-template) - A blank template for Joomla 3.0.
+* 【2024-02-04】[EricFormar / clima-app](https://github.com/EricFormar/clima-app) - Proyecto creado con React y Typescript que obtiene los datos del clima de una API. To Formar with ❤️
+* 【2024-02-04】[rutuja091 / car-rental-and-booking-system-Group-project-1-ICP-7](https://github.com/rutuja091/car-rental-and-booking-system-Group-project-1-ICP-7) - 
+* 【2024-02-04】[benaston / buttons.css](https://github.com/benaston/buttons.css) - CSS3 button experiments.
+* 【2024-02-04】[sssain / simple-portfolio](https://github.com/sssain/simple-portfolio) - 📃 a simple portfolio template.
 * 【2024-02-02】[space-wizards / docs](https://github.com/space-wizards/docs) - Documentation side for Space Station 14 and RobustToolbox
 * 【2024-02-02】[avnibilgin / dotfiles](https://github.com/avnibilgin/dotfiles) - My config files
 * 【2024-02-02】[apna-college / Delta-Projects](https://github.com/apna-college/Delta-Projects) - All Delta students can create a PR to this repo to merge their projects.
@@ -5558,6 +5594,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-02-04】[cmhungsteve / Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
+* 【2024-02-04】[goldcoders / DSA](https://github.com/goldcoders/DSA) - Free Premium Books For Learning Data Structure and Algorithm
+* 【2024-02-04】[iggredible / Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
+* 【2024-02-04】[Tgo1014 / GridLauncher](https://github.com/Tgo1014/GridLauncher) - 
 * 【2024-02-03】[RawChat / RawChat](https://github.com/RawChat/RawChat) - 
 * 【2024-02-03】[taowen / awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 * 【2024-02-03】[microsoft / microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
