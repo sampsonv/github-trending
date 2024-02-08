@@ -1,6 +1,14 @@
 # github-trending
 ## All language
 
+* 【2024-02-08】[zanfranceschi / rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
+* 【2024-02-08】[logseq / logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+* 【2024-02-08】[thu-vu92 / local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
+* 【2024-02-08】[tauri-apps / tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+* 【2024-02-08】[atopile / atopile](https://github.com/atopile/atopile) - A tool to create electronic circuit boards with code. Find our docs here: https://atopile.io/getting-started/
+* 【2024-02-08】[backstage / backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+* 【2024-02-08】[reqable / re-editor](https://github.com/reqable/re-editor) - Re-Editor is a powerful lightweight text and code editor widget.
+* 【2024-02-08】[divyam234 / teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 * 【2024-02-07】[mitsuhiko / rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 * 【2024-02-07】[huggingface / chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 * 【2024-02-07】[google / oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
@@ -810,6 +818,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-02-08】[GlassyAmadeus / CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) - The Poc for CVE-2024-20931
+* 【2024-02-08】[langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) - 
+* 【2024-02-08】[ytyht226 / taskflow](https://github.com/ytyht226/taskflow) - taskflow是一款轻量、简单易用、可灵活扩展的通用任务编排框架，基于有向无环图(DAG)的方式实现，框架提供了组件复用、同步/异步编排、条件判断、分支选择等能力，可以根据不同的业务场景对任意的业务流程进行编排
 * 【2024-02-06】[MirnaGama / hospital-management-api](https://github.com/MirnaGama/hospital-management-api) - Hospital Management API built in Spring Boot
 * 【2024-02-06】[EssentialsX / Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 * 【2024-02-06】[IrisShaders / Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
@@ -1370,6 +1381,13 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-02-08】[kevingduck / ChatGPT-phone](https://github.com/kevingduck/ChatGPT-phone) - Demo of twilio
+* 【2024-02-08】[dvcoolarun / web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
+* 【2024-02-08】[narfindustries / http-garden](https://github.com/narfindustries/http-garden) - Differential testing and fuzzing of HTTP servers and proxies
+* 【2024-02-08】[Doubiiu / DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) - DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors
+* 【2024-02-08】[apple / ml-mgie](https://github.com/apple/ml-mgie) - 
+* 【2024-02-08】[defog-ai / sql-eval](https://github.com/defog-ai/sql-eval) - Code for sql generation evaluation
+* 【2024-02-08】[phidatahq / phidata](https://github.com/phidatahq/phidata) - Build AI Assistants using function calling
 * 【2024-02-07】[FujiwaraChoki / MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviepPy.
 * 【2024-02-07】[segmind / segmoe](https://github.com/segmind/segmoe) - 
 * 【2024-02-07】[d60 / twikit](https://github.com/d60/twikit) - Twitter API wrapper for Python with **no API key required** | Without api key | Free | Twitter scraper | Twitter Bot
@@ -2221,6 +2239,10 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-02-08】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
+* 【2024-02-08】[jinenge / tvbox](https://github.com/jinenge/tvbox) - TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用
+* 【2024-02-08】[namdosanwannabe / be-my-valentine](https://github.com/namdosanwannabe/be-my-valentine) - Simple JavaScript Project
+* 【2024-02-08】[safak / next-animated-portfolio](https://github.com/safak/next-animated-portfolio) - 
 * 【2024-02-07】[GovindCodes / ValentineWish](https://github.com/GovindCodes/ValentineWish) - Wish Valentine's Day to Your loved ones like a Nerd.
 * 【2024-02-07】[givanz / VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 * 【2024-02-07】[gulpjs / gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
@@ -2913,6 +2935,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 * 【2024-02-07】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 * 【2024-02-06】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 * 【2024-02-05】[fluxcd / flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -3580,6 +3603,9 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-02-08】[xroche / httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
+* 【2024-02-08】[hfiref0x / UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
+* 【2024-02-08】[libexpat / libexpat](https://github.com/libexpat/libexpat) - 🌿 Fast streaming XML parser written in C99 with >90% test coverage; moved from SourceForge to GitHub
 * 【2024-02-07】[stacksmashing / pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
 * 【2024-02-07】[ARM-software / arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
 * 【2024-02-07】[umutsevdi / wear-pico](https://github.com/umutsevdi/wear-pico) - An open source Smartwatch firmware written in C for the Raspberry Pi Pico
@@ -4151,6 +4177,12 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-02-08】[tenstorrent-metal / tt-metal](https://github.com/tenstorrent-metal/tt-metal) - ttnn - a python API and OP library. TT-Metalium - a low level kernel programming model.
+* 【2024-02-08】[OneLoneCoder / olcUTIL_Geometry2D](https://github.com/OneLoneCoder/olcUTIL_Geometry2D) - A Single-Header 2D Geometry Analysis Library
+* 【2024-02-08】[OpenGene / fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)
+* 【2024-02-08】[RibShark / SafeDiscShim](https://github.com/RibShark/SafeDiscShim) - SafeDiscShim is a compatibility tool that allows for SafeDisc protected games which utilize the insecure Macrovision Security Driver ("secdrv.sys") to run on modern versions of Windows .
+* 【2024-02-08】[llvm / torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
+* 【2024-02-08】[osquery / osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 * 【2024-02-07】[libjxl / libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 * 【2024-02-05】[finalburnneo / FBNeo](https://github.com/finalburnneo/FBNeo) - FinalBurn Neo - We are Team FBNeo.
 * 【2024-02-05】[mumble-voip / mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
@@ -4690,6 +4722,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-02-08】[rajaprerak / rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
 * 【2024-02-06】[jgm / djot](https://github.com/jgm/djot) - A light markup language
 * 【2024-02-05】[janraasch / hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 * 【2024-02-04】[lukin / keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
@@ -5167,6 +5200,9 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-02-08】[echelon-theme / echelon](https://github.com/echelon-theme/echelon) - A old Mozilla Firefox theme for Firefox 115 ESR.
+* 【2024-02-08】[ironhack-labs / lab-react-iron-travels](https://github.com/ironhack-labs/lab-react-iron-travels) - 
+* 【2024-02-08】[elipapa / markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 * 【2024-02-06】[hiteshchoudhary / fun-with-tailwind](https://github.com/hiteshchoudhary/fun-with-tailwind) - A fun repo to play with tailwind
 * 【2024-02-06】[Naezr / ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 * 【2024-02-06】[aafifr / Flower](https://github.com/aafifr/Flower) - 
@@ -5661,6 +5697,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-02-08】[QwenLM / Qwen1.5](https://github.com/QwenLM/Qwen1.5) - Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
+* 【2024-02-08】[perixtar / 2024-Tech-OA](https://github.com/perixtar/2024-Tech-OA) - List of Tech Company OAs. Save your time from finding them all over the internet.
 * 【2024-02-07】[majidrezarahnavard / way_of_freedom](https://github.com/majidrezarahnavard/way_of_freedom) - methods to access free internet
 * 【2024-02-07】[yaelwrites / Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 * 【2024-02-07】[JeffSackmann / tennis_atp](https://github.com/JeffSackmann/tennis_atp) - ATP Tennis Rankings, Results, and Stats
