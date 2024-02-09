@@ -1,6 +1,12 @@
 # github-trending
 ## All language
 
+* 【2024-02-09】[0xacme / ERC404](https://github.com/0xacme/ERC404) - 
+* 【2024-02-09】[lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
+* 【2024-02-09】[ejoy / vaststars](https://github.com/ejoy/vaststars) - A game demo for Ant engine
+* 【2024-02-09】[emmett-framework / granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
+* 【2024-02-09】[run-llama / llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
+* 【2024-02-09】[go-acme / lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 * 【2024-02-08】[zanfranceschi / rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 * 【2024-02-08】[logseq / logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 * 【2024-02-08】[thu-vu92 / local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
@@ -818,6 +824,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-02-09】[line / armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies, including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.
+* 【2024-02-09】[confluentinc / kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy for Kafka
 * 【2024-02-08】[GlassyAmadeus / CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) - The Poc for CVE-2024-20931
 * 【2024-02-08】[langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) - 
 * 【2024-02-08】[ytyht226 / taskflow](https://github.com/ytyht226/taskflow) - taskflow是一款轻量、简单易用、可灵活扩展的通用任务编排框架，基于有向无环图(DAG)的方式实现，框架提供了组件复用、同步/异步编排、条件判断、分支选择等能力，可以根据不同的业务场景对任意的业务流程进行编排
@@ -1381,6 +1389,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-02-09】[deepseek-ai / DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) - 
+* 【2024-02-09】[metavoiceio / metavoice-src](https://github.com/metavoiceio/metavoice-src) - AI for human-level speech intelligence
+* 【2024-02-09】[AnythingInAnyScene / anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
+* 【2024-02-09】[baaivision / EVA](https://github.com/baaivision/EVA) - EVA Series: Visual Representation Fantasies from BAAI
+* 【2024-02-09】[tsujuifu / pytorch_mgie](https://github.com/tsujuifu/pytorch_mgie) - A Gradio demo of MGIE
 * 【2024-02-08】[kevingduck / ChatGPT-phone](https://github.com/kevingduck/ChatGPT-phone) - Demo of twilio
 * 【2024-02-08】[dvcoolarun / web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
 * 【2024-02-08】[narfindustries / http-garden](https://github.com/narfindustries/http-garden) - Differential testing and fuzzing of HTTP servers and proxies
@@ -2239,6 +2252,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-02-09】[rocketseat-education / nlw-expert-html-css-js](https://github.com/rocketseat-education/nlw-expert-html-css-js) - A quiz to test your knowledge
 * 【2024-02-08】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 * 【2024-02-08】[jinenge / tvbox](https://github.com/jinenge/tvbox) - TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用
 * 【2024-02-08】[namdosanwannabe / be-my-valentine](https://github.com/namdosanwannabe/be-my-valentine) - Simple JavaScript Project
@@ -2935,6 +2949,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-02-09】[kubewharf / kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-Cluster Kubernetes Orchestration
+* 【2024-02-09】[naiba / nezha](https://github.com/naiba/nezha) - Self-hosted, lightweight server and website monitoring and O&M tool
 * 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 * 【2024-02-07】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 * 【2024-02-06】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
@@ -3603,6 +3619,13 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-02-09】[tsoding / raylib.js](https://github.com/tsoding/raylib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript
+* 【2024-02-09】[npurson / vscode-server-toolchain-workaround](https://github.com/npurson/vscode-server-toolchain-workaround) - Workaround for the raised toolchain requirements of VS Code Server 1.86+
+* 【2024-02-09】[gluster / glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
+* 【2024-02-09】[Xeeynamo / sotn-decomp](https://github.com/Xeeynamo/sotn-decomp) - Decompilation of Castlevania: Symphony of the Night (PSX+Saturn)
+* 【2024-02-09】[48d31kh413k / 1337-Piscine-42](https://github.com/48d31kh413k/1337-Piscine-42) - June Piscine 2021 from 1337 Benguerir 42 Network.
+* 【2024-02-09】[Rakashazi / emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha) - Multi-platform computer & game console emulation system including supporting code (EmuFramework) and core engine (Imagine)
+* 【2024-02-09】[LongSoft / UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor
 * 【2024-02-08】[xroche / httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
 * 【2024-02-08】[hfiref0x / UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 * 【2024-02-08】[libexpat / libexpat](https://github.com/libexpat/libexpat) - 🌿 Fast streaming XML parser written in C99 with >90% test coverage; moved from SourceForge to GitHub
@@ -4177,6 +4200,11 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-02-09】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
+* 【2024-02-09】[CN-annotation-team / leveldb-chinese-annotated](https://github.com/CN-annotation-team/leveldb-chinese-annotated) - leveldb chinese annotation
+* 【2024-02-09】[Lyall / GBFRelinkFix](https://github.com/Lyall/GBFRelinkFix) - A fix for Granblue Fantasy: Relink that adds support for custom resolutions, ultrawide and more.
+* 【2024-02-09】[bulletphysics / bullet3](https://github.com/bulletphysics/bullet3) - Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+* 【2024-02-09】[KhronosGroup / Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) - One stop solution for all Vulkan samples
 * 【2024-02-08】[tenstorrent-metal / tt-metal](https://github.com/tenstorrent-metal/tt-metal) - ttnn - a python API and OP library. TT-Metalium - a low level kernel programming model.
 * 【2024-02-08】[OneLoneCoder / olcUTIL_Geometry2D](https://github.com/OneLoneCoder/olcUTIL_Geometry2D) - A Single-Header 2D Geometry Analysis Library
 * 【2024-02-08】[OpenGene / fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)
@@ -4722,6 +4750,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-02-09】[git-disl / PokeLLMon](https://github.com/git-disl/PokeLLMon) - PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models
+* 【2024-02-09】[cryptpad / cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+* 【2024-02-09】[goitacademy / vanilla-app-template](https://github.com/goitacademy/vanilla-app-template) - 
 * 【2024-02-08】[rajaprerak / rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
 * 【2024-02-06】[jgm / djot](https://github.com/jgm/djot) - A light markup language
 * 【2024-02-05】[janraasch / hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
@@ -5200,6 +5231,9 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-02-09】[vishaltewatia / Rose-Day](https://github.com/vishaltewatia/Rose-Day) - 
+* 【2024-02-09】[MTM6201-Web-Dev-II / Picture-This](https://github.com/MTM6201-Web-Dev-II/Picture-This) - Starter files for the MTM6201 - Web Dev II - Picture This assignment
+* 【2024-02-09】[yforku / template](https://github.com/yforku/template) - Template
 * 【2024-02-08】[echelon-theme / echelon](https://github.com/echelon-theme/echelon) - A old Mozilla Firefox theme for Firefox 115 ESR.
 * 【2024-02-08】[ironhack-labs / lab-react-iron-travels](https://github.com/ironhack-labs/lab-react-iron-travels) - 
 * 【2024-02-08】[elipapa / markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
@@ -5697,6 +5731,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-02-09】[dymensionxyz / chain-registry](https://github.com/dymensionxyz/chain-registry) - 
+* 【2024-02-09】[farcasterxyz / protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
+* 【2024-02-09】[satellite-image-deep-learning / techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
+* 【2024-02-09】[NoobieDog / TPM-Sniffing](https://github.com/NoobieDog/TPM-Sniffing) - A repo for TPM sniffing greatness
 * 【2024-02-08】[QwenLM / Qwen1.5](https://github.com/QwenLM/Qwen1.5) - Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-02-08】[perixtar / 2024-Tech-OA](https://github.com/perixtar/2024-Tech-OA) - List of Tech Company OAs. Save your time from finding them all over the internet.
 * 【2024-02-07】[majidrezarahnavard / way_of_freedom](https://github.com/majidrezarahnavard/way_of_freedom) - methods to access free internet
