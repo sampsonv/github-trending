@@ -1,6 +1,14 @@
 # github-trending
 ## All language
 
+* 【2024-02-10】[GoogleCloudPlatform / localllm](https://github.com/GoogleCloudPlatform/localllm) - 
+* 【2024-02-10】[MatthiasGrandl / loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
+* 【2024-02-10】[rocketseat-education / nlw-expert-react-native](https://github.com/rocketseat-education/nlw-expert-react-native) - A food delivery mobile app
+* 【2024-02-10】[rocketseat-education / nlw-expert-nodejs](https://github.com/rocketseat-education/nlw-expert-nodejs) - Real-time voting system built with Node.js
+* 【2024-02-10】[rocketseat-education / nlw-expert-react](https://github.com/rocketseat-education/nlw-expert-react) - Automatic convert audio notes to text with React
+* 【2024-02-10】[RustPython / RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+* 【2024-02-10】[qqqkoko123 / qianghongbao](https://github.com/qqqkoko123/qianghongbao) - 本插件适用： 1.8.0.45最新版的微信红包，收到红包AI智能播报，抢完并回复“感谢老板”； 2.V8.9.23的QQ普通红包，拼手气红包以及口令红包，在抢完的同时自动发送"感谢老板"防封； 3.支付宝10.3.26.8210最新版支付宝拼手气红包； 4.适用最新版钉钉6.5.55.6拼手气红包。 5.适用4.0.20的最新版企业微信 6.适用23.5.0的最新版抖音红包
+* 【2024-02-10】[jitwxs / 163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 云音乐歌词获取【网易云、QQ音乐】
 * 【2024-02-09】[0xacme / ERC404](https://github.com/0xacme/ERC404) - 
 * 【2024-02-09】[lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 * 【2024-02-09】[ejoy / vaststars](https://github.com/ejoy/vaststars) - A game demo for Ant engine
@@ -824,6 +832,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-02-10】[Slimefun / Slimefun4](https://github.com/Slimefun/Slimefun4) - Slimefun 4 - A unique Spigot/Paper plugin that looks and feels like a modpack. We've been giving you backpacks, jetpacks, reactors and much more since 2013.
+* 【2024-02-10】[rocketseat-education / nlw-expert-java](https://github.com/rocketseat-education/nlw-expert-java) - 
+* 【2024-02-10】[jithrew / PantryMate](https://github.com/jithrew/PantryMate) - PantryMate is an application designed for efficient and user-friendly management of household pantries, aimed at reducing food waste and improving organization.
 * 【2024-02-09】[line / armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies, including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.
 * 【2024-02-09】[confluentinc / kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy for Kafka
 * 【2024-02-08】[GlassyAmadeus / CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) - The Poc for CVE-2024-20931
@@ -1389,6 +1400,12 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-02-10】[time-series-foundation-models / lag-llama](https://github.com/time-series-foundation-models/lag-llama) - 
+* 【2024-02-10】[Vahe1994 / AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf
+* 【2024-02-10】[alexmolas / microsearch](https://github.com/alexmolas/microsearch) - 
+* 【2024-02-10】[MrForExample / ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack) - An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
+* 【2024-02-10】[WillianFuks / tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) - Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.
+* 【2024-02-10】[rocketseat-education / nlw-expert-python](https://github.com/rocketseat-education/nlw-expert-python) - A barcode generator
 * 【2024-02-09】[deepseek-ai / DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) - 
 * 【2024-02-09】[metavoiceio / metavoice-src](https://github.com/metavoiceio/metavoice-src) - AI for human-level speech intelligence
 * 【2024-02-09】[AnythingInAnyScene / anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
@@ -2252,6 +2269,11 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-02-10】[snyk-workshops / EH-Patch-Todo-App](https://github.com/snyk-workshops/EH-Patch-Todo-App) - 
+* 【2024-02-10】[midudev / tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
+* 【2024-02-10】[MorpheusAIs / Morpheus](https://github.com/MorpheusAIs/Morpheus) - Morpheus - A Network For Powering Smart Agents - Compute + Code + Capital + Community
+* 【2024-02-10】[canove / whaticket-community](https://github.com/canove/whaticket-community) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
+* 【2024-02-10】[PaPerseller / chn-iplist](https://github.com/PaPerseller/chn-iplist) - Chnroutes rules for routers、Shadowrocket、Quantumult、acl、v2rayNG、v2rayN、pac、Qv2ray、NekoRay、Nekobox、v2rayA、RouterOS、sing-box、v2ray config file.
 * 【2024-02-09】[rocketseat-education / nlw-expert-html-css-js](https://github.com/rocketseat-education/nlw-expert-html-css-js) - A quiz to test your knowledge
 * 【2024-02-08】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 * 【2024-02-08】[jinenge / tvbox](https://github.com/jinenge/tvbox) - TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用
@@ -2949,6 +2971,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-02-10】[ahmetb / kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 * 【2024-02-09】[kubewharf / kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-Cluster Kubernetes Orchestration
 * 【2024-02-09】[naiba / nezha](https://github.com/naiba/nezha) - Self-hosted, lightweight server and website monitoring and O&M tool
 * 【2024-02-08】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
@@ -3619,6 +3642,9 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-02-10】[Xre0uS / MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
+* 【2024-02-10】[riscv-software-src / riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
+* 【2024-02-10】[agvxov / cursed_c](https://github.com/agvxov/cursed_c) - An attempt to create the worst C program ever by repeatedly abusing obscure features. See c.c for the core code. Note that there were no version restraints imposed and extensions are also included.
 * 【2024-02-09】[tsoding / raylib.js](https://github.com/tsoding/raylib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript
 * 【2024-02-09】[npurson / vscode-server-toolchain-workaround](https://github.com/npurson/vscode-server-toolchain-workaround) - Workaround for the raised toolchain requirements of VS Code Server 1.86+
 * 【2024-02-09】[gluster / glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
@@ -4200,6 +4226,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-02-10】[geoffdavis / esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection
 * 【2024-02-09】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
 * 【2024-02-09】[CN-annotation-team / leveldb-chinese-annotated](https://github.com/CN-annotation-team/leveldb-chinese-annotated) - leveldb chinese annotation
 * 【2024-02-09】[Lyall / GBFRelinkFix](https://github.com/Lyall/GBFRelinkFix) - A fix for Granblue Fantasy: Relink that adds support for custom resolutions, ultrawide and more.
@@ -4750,6 +4777,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-02-10】[nikhilmwarrier / jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper) - Generate a scorecard for JEE using NTA's answer keys
+* 【2024-02-10】[CUHK-TCSS1089 / 2023PolyU-Astron-project](https://github.com/CUHK-TCSS1089/2023PolyU-Astron-project) - 
 * 【2024-02-09】[git-disl / PokeLLMon](https://github.com/git-disl/PokeLLMon) - PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models
 * 【2024-02-09】[cryptpad / cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 * 【2024-02-09】[goitacademy / vanilla-app-template](https://github.com/goitacademy/vanilla-app-template) - 
@@ -5231,6 +5260,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-02-10】[diydiagnostics / App2-HelloWorld2024](https://github.com/diydiagnostics/App2-HelloWorld2024) - 
 * 【2024-02-09】[vishaltewatia / Rose-Day](https://github.com/vishaltewatia/Rose-Day) - 
 * 【2024-02-09】[MTM6201-Web-Dev-II / Picture-This](https://github.com/MTM6201-Web-Dev-II/Picture-This) - Starter files for the MTM6201 - Web Dev II - Picture This assignment
 * 【2024-02-09】[yforku / template](https://github.com/yforku/template) - Template
@@ -5731,6 +5761,12 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-02-10】[ruesandora / mangata-AVS](https://github.com/ruesandora/mangata-AVS) - 
+* 【2024-02-10】[speedyapply / swe-college-jobs](https://github.com/speedyapply/swe-college-jobs) - The most comprehensive SWE internship & new graduate job list on GitHub.
+* 【2024-02-10】[dwisiswant0 / awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
+* 【2024-02-10】[cursedpkt / MITMonster](https://github.com/cursedpkt/MITMonster) - A monster cheatsheet on MITM attacks
+* 【2024-02-10】[bsovs / Fall2024-Internships](https://github.com/bsovs/Fall2024-Internships) - Collection of Fall 2023 tech internships!
+* 【2024-02-10】[lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 * 【2024-02-09】[dymensionxyz / chain-registry](https://github.com/dymensionxyz/chain-registry) - 
 * 【2024-02-09】[farcasterxyz / protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
 * 【2024-02-09】[satellite-image-deep-learning / techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
