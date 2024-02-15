@@ -1,6 +1,13 @@
 # github-trending
 ## All language
 
+* 【2024-02-15】[BCG-X-Official / agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
+* 【2024-02-15】[Lunakepio / Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
+* 【2024-02-15】[Vectorized / dn404](https://github.com/Vectorized/dn404) - Implementation of a co-joined ERC20 and ERC721 pair.
+* 【2024-02-15】[adamcohenhillel / ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.
+* 【2024-02-15】[storybookjs / storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+* 【2024-02-15】[webdriverio / webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+* 【2024-02-15】[saurabhnemade / will-you-be-my-valentine](https://github.com/saurabhnemade/will-you-be-my-valentine) - A simple application to impress your loved ones on valentines day!!
 * 【2024-02-14】[gitbutlerapp / gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 * 【2024-02-14】[ashishpatel26 / LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
 * 【2024-02-14】[nushell / nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -857,6 +864,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-02-15】[Chipppppppppp / LIME](https://github.com/Chipppppppppp/LIME) - 
 * 【2024-02-14】[helidon-io / helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
 * 【2024-02-14】[pinterest / psc](https://github.com/pinterest/psc) - PubSubClient (PSC)
 * 【2024-02-14】[HuanCheng65 / TiebaLite](https://github.com/HuanCheng65/TiebaLite) - 贴吧 Lite
@@ -1442,6 +1450,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-02-15】[justakazh / sicat](https://github.com/justakazh/sicat) - The useful exploit finder
+* 【2024-02-15】[ncbi / GeneGPT](https://github.com/ncbi/GeneGPT) - Code and data for GeneGPT.
+* 【2024-02-15】[BAAI-DCAI / Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
 * 【2024-02-14】[pantsbuild / pants](https://github.com/pantsbuild/pants) - The Pants Build System
 * 【2024-02-14】[ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 * 【2024-02-14】[Textualize / toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -2338,6 +2349,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-02-15】[DzarelDeveloper / HappyValentine](https://github.com/DzarelDeveloper/HappyValentine) - 
+* 【2024-02-15】[Dogfalo / materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 * 【2024-02-14】[zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 * 【2024-02-14】[discuitnet / discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 * 【2024-02-14】[11ty / eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
@@ -3736,6 +3749,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-02-15】[NLnetLabs / unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 * 【2024-02-14】[reveng007 / DarkWidow](https://github.com/reveng007/DarkWidow) - Indirect Dynamic Syscall, SSN + Syscall address sorting via Modified TartarusGate approach + Remote Process Injection via APC Early Bird + Spawns a sacrificial Process as target process + (ACG+BlockDll) mitigation policy on spawned process + PPID spoofing + Api resolving from TIB + API hashing
 * 【2024-02-14】[portapack-mayhem / mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
 * 【2024-02-14】[opa334 / Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
@@ -4328,6 +4342,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-02-15】[SteveMacenski / slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
 * 【2024-02-14】[willem-pennings / balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
 * 【2024-02-14】[arplaboratory / learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.
 * 【2024-02-14】[e2002 / yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
@@ -4891,6 +4906,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-02-15】[amankapilak / Ask-Her-Out](https://github.com/amankapilak/Ask-Her-Out) - 
+* 【2024-02-15】[asynchronousJavascriptor / level2](https://github.com/asynchronousJavascriptor/level2) - 
+* 【2024-02-15】[TheAlgorithms / TheAlgorithms.github.io](https://github.com/TheAlgorithms/TheAlgorithms.github.io) - This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html
 * 【2024-02-14】[byquangthanh / valentine.github.io](https://github.com/byquangthanh/valentine.github.io) - Will you be my valentine project for my girlfriend
 * 【2024-02-14】[balta-io / carnacode-balta-2024-desafio-01](https://github.com/balta-io/carnacode-balta-2024-desafio-01) - 
 * 【2024-02-14】[noob-hackers / seeu](https://github.com/noob-hackers/seeu) - SeeU is a camera hacking tool which is used to hack selfie camera of devices....
@@ -5383,6 +5401,14 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-02-15】[mabelolivera10 / floresamarillasycorazones](https://github.com/mabelolivera10/floresamarillasycorazones) - 
+* 【2024-02-15】[mabelolivera10 / cartaprogramadores](https://github.com/mabelolivera10/cartaprogramadores) - 
+* 【2024-02-15】[KiKaraage / ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
+* 【2024-02-15】[YCLA-Coding / webreels](https://github.com/YCLA-Coding/webreels) - 
+* 【2024-02-15】[hossaini-f / css-envelope-letter-animation](https://github.com/hossaini-f/css-envelope-letter-animation) - Animated Envelope Animation Using CSS and HTML
+* 【2024-02-15】[Set-Creative-Studio / cube-boilerplate](https://github.com/Set-Creative-Studio/cube-boilerplate) - A simple CUBE CSS boilerplate for Set Studio
+* 【2024-02-15】[hedyorg / hedy](https://github.com/hedyorg/hedy) - Hedy is a gradual programming language to teach children programming. Gradual languages use different language levels, where each level adds new concepts and syntactic complexity. At the end of the Hedy level sequence, kids master a subset of syntactically valid Python.
+* 【2024-02-15】[cascadefox / cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 * 【2024-02-14】[AlexxAdrian / heart_letter](https://github.com/AlexxAdrian/heart_letter) - letter of hearts to give as a gift
 * 【2024-02-13】[picocss / pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 * 【2024-02-13】[availproject / availproject.github.io](https://github.com/availproject/availproject.github.io) - Official Documentation for the Avail Project.
@@ -5895,6 +5921,11 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-02-15】[thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+* 【2024-02-15】[daveshap / PostLaborEconomics](https://github.com/daveshap/PostLaborEconomics) - Collaborative book to promote the idea of Post Labor Economics
+* 【2024-02-15】[Nothing-Developer-Programme / Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
+* 【2024-02-15】[noislabs / randdrop-snapshots](https://github.com/noislabs/randdrop-snapshots) - 
+* 【2024-02-15】[alexngn / intro-to-system-design](https://github.com/alexngn/intro-to-system-design) - A repository for system design resources.
 * 【2024-02-14】[andrewekhalel / MLQuestions](https://github.com/andrewekhalel/MLQuestions) - Machine Learning and Computer Vision Engineer - Technical Interview Questions
 * 【2024-02-14】[ReactNativeNews / React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps. Curation curtesy of
 * 【2024-02-14】[bjrjk / CVE-2022-4262](https://github.com/bjrjk/CVE-2022-4262) - Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.
