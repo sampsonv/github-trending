@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-02-18】[astral-sh / uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+* 【2024-02-18】[google / generative-ai-dart](https://github.com/google/generative-ai-dart) - Google AI SDK for Dart
+* 【2024-02-18】[ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+* 【2024-02-18】[MichaelCade / 90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.
 * 【2024-02-17】[kijai / ComfyUI-DiffusersStableCascade](https://github.com/kijai/ComfyUI-DiffusersStableCascade) - Simple inference with StableCascade using diffusers in ComfyUI
 * 【2024-02-17】[reorproject / reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 * 【2024-02-17】[gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
@@ -1469,6 +1473,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-02-18】[facebookresearch / jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
+* 【2024-02-18】[Dataherald / dataherald](https://github.com/Dataherald/dataherald) - 
+* 【2024-02-18】[shibing624 / parrots](https://github.com/shibing624/parrots) - Automatic Speech Recognition(ASR), Text-To-Speech(TTS) engine. 中英语音识别、多角色语音合成，支持多语言，准确率高
 * 【2024-02-17】[mage-ai / mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 * 【2024-02-17】[czbag / starknet](https://github.com/czbag/starknet) - 
 * 【2024-02-17】[snarfed / bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
@@ -2376,6 +2383,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-02-18】[zed-industries / extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
+* 【2024-02-18】[hammerjs / hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 * 【2024-02-17】[brianpetro / obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
 * 【2024-02-17】[dimdenGD / OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free!
 * 【2024-02-16】[ircfspace / fragment](https://github.com/ircfspace/fragment) - توسط ابزار فرگمنت می‌تونین دامنه‌های مرده‌تون رو مجدد زنده کنید! / Using the Fragment tool, you can revive your dead domains!
@@ -3102,6 +3111,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-02-18】[temporalio / temporal](https://github.com/temporalio/temporal) - Temporal service
 * 【2024-02-17】[weaveworks / weave-gitops-enterprise](https://github.com/weaveworks/weave-gitops-enterprise) - This repo provides the enterprise level features for the weave-gitops product, including CAPI cluster creation and team workspaces.
 * 【2024-02-17】[drk1wi / Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
 * 【2024-02-16】[jfjallid / go-secdump](https://github.com/jfjallid/go-secdump) - Tool to remotely dump secrets from the Windows registry
@@ -3788,6 +3798,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-02-18】[jasonporritt / rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - m8 headless for rg351 devices
 * 【2024-02-17】[Wind4 / vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 * 【2024-02-17】[webserver-llc / angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
 * 【2024-02-17】[jcs / progman](https://github.com/jcs/progman) - progman.exe^H^H^H^H
@@ -4386,6 +4397,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-02-18】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 * 【2024-02-17】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
 * 【2024-02-17】[MalwareTech / EDR-Preloader](https://github.com/MalwareTech/EDR-Preloader) - An EDR bypass that prevents EDRs from hooking or loading DLLs into our process by hijacking the AppVerifier layer
 * 【2024-02-16】[darkluar / cosmic-station](https://github.com/darkluar/cosmic-station) - 🧪Exclusive Android Sony Playstation 2 emulator, from scratch, using Kotlin, C++ 20, OpenGLES, Vulkan, and Cubes
@@ -4955,6 +4967,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-02-18】[dmtrKovalenko / cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
+* 【2024-02-18】[hemansnation / 7-Day-AI-ML-Fundamentals-Workshop](https://github.com/hemansnation/7-Day-AI-ML-Fundamentals-Workshop) - 7 Day AI ML Fundamentals Workshop The purpose of this FREE workshop is 1. To give you a boost of getting started with AI. 2. A life-long community with a similar mindset. 3. strong grip on fundamentals that the advanced concepts will be easy to understand.
+* 【2024-02-18】[TypingMind / typingmind](https://github.com/TypingMind/typingmind) - The most advanced Web UI for AI chat
 * 【2024-02-17】[HomoEfficio / dev-tips](https://github.com/HomoEfficio/dev-tips) - 개발하다 마주쳤던 작은 문제들과 해결 방법 정리
 * 【2024-02-17】[Linux-CN / archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
 * 【2024-02-17】[builtbybel / WhyNotWinAI](https://github.com/builtbybel/WhyNotWinAI) - Check if your system can handle the new AI-powered features.
@@ -5453,6 +5468,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-02-18】[lighthouse-labs / tweeter-react](https://github.com/lighthouse-labs/tweeter-react) - This is the starter code for converting Tweeter into a React project.
+* 【2024-02-18】[artsyfriedchicken / EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) - Firefox Userchrome and sidebery style
 * 【2024-02-17】[patriksm / 10b_JavasScript_3D](https://github.com/patriksm/10b_JavasScript_3D) - 3D game using plain JavaScript
 * 【2024-02-17】[mmdmrishabh / Coding-assessment-l2-Boilerplate-code](https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code) - 
 * 【2024-02-17】[diydiagnostics / App3-coldorallergy](https://github.com/diydiagnostics/App3-coldorallergy) - App 3 assignment base repository
@@ -5981,6 +5998,11 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-02-18】[MakeYourPet / hexapod](https://github.com/MakeYourPet/hexapod) - 
+* 【2024-02-18】[ChanChiChoi / awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) - papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;
+* 【2024-02-18】[zkSync-Community-Hub / zksync-developers](https://github.com/zkSync-Community-Hub/zksync-developers) - 
+* 【2024-02-18】[felipefialho / frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
+* 【2024-02-18】[devoxx / JavaRoadmap](https://github.com/devoxx/JavaRoadmap) - The 2024 Java Developers Roadmap
 * 【2024-02-17】[mztacat / Kyoto-Chain](https://github.com/mztacat/Kyoto-Chain) - Kyoto chain on Arbitrum
 * 【2024-02-17】[keep-starknet-strange / awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) - A curated list of awesome StarkNet resources, libraries, tools and more
 * 【2024-02-17】[eliaszon / Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
