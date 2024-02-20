@@ -1479,6 +1479,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-02-20】[karpathy / minbpe](https://github.com/karpathy/minbpe) - Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
+* 【2024-02-20】[tw93 / tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
 * 【2024-02-19】[xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) - Microsoft-Outlook-Remote-Code-Execution-Vulnerability
 * 【2024-02-19】[maurosoria / dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 * 【2024-02-19】[yize8888 / maotai](https://github.com/yize8888/maotai) - i茅台，葫芦娃预约脚本
@@ -2394,6 +2396,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-02-20】[mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
+* 【2024-02-20】[catsats / backpack_exchange](https://github.com/catsats/backpack_exchange) - backpack 刷交易量 JavaScript 只刷sol/usdc
 * 【2024-02-19】[malvinval / scammer-revenge](https://github.com/malvinval/scammer-revenge) - 
 * 【2024-02-19】[xxxily / hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
 * 【2024-02-19】[thoughtbot / administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
@@ -3131,6 +3135,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-02-20】[miniflux / v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
+* 【2024-02-20】[fossabot / clash](https://github.com/fossabot/clash) - A rule based proxy in Go.
 * 【2024-02-19】[ehang-io / nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 * 【2024-02-19】[bepass-org / bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
 * 【2024-02-19】[caddyserver / caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -4426,6 +4432,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-02-20】[chancerly / jtik](https://github.com/chancerly/jtik) - Dynamic java method hook for Android，Implemented by jvmti
 * 【2024-02-19】[xenia-project / xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 * 【2024-02-18】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 * 【2024-02-17】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
@@ -4997,6 +5004,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-02-20】[capjamesg / cv-book-svg](https://github.com/capjamesg/cv-book-svg) - Turn an image of a bookshelf into an interactive SVG.
 * 【2024-02-19】[dupontgu / qr-file-share](https://github.com/dupontgu/qr-file-share) - Share small files from an offline source using only a QR code
 * 【2024-02-19】[solygambas / html-css-javascript-projects](https://github.com/solygambas/html-css-javascript-projects) - 100+ mini web projects using HTML, CSS and JavaScript.
 * 【2024-02-18】[dmtrKovalenko / cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
@@ -6034,6 +6042,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-02-20】[scroll-tech / contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) - This repository guides developers wanting to contribute to the Scroll ecosystem.
+* 【2024-02-20】[I-S00N / I-S00N](https://github.com/I-S00N/I-S00N) - 
+* 【2024-02-20】[0voice / expert_readed_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
+* 【2024-02-20】[0x4D31 / awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 * 【2024-02-19】[goatfungus / NMSSaveEditor](https://github.com/goatfungus/NMSSaveEditor) - No Man's Sky - Save Editor
 * 【2024-02-19】[cristopherRR / cristopherRR1](https://github.com/cristopherRR/cristopherRR1) - 1
 * 【2024-02-19】[SeoYoungHo / SeoYoungHo1](https://github.com/SeoYoungHo/SeoYoungHo1) - 1
