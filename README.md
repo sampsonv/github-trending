@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-02-27】[huntabyte / shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 * 【2024-02-26】[laurent22 / joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 * 【2024-02-26】[radix-vue / radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 * 【2024-02-26】[zdz / ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
@@ -1511,6 +1512,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-02-27】[czbag / scroll](https://github.com/czbag/scroll) - Скрипт по работе со Scroll
+* 【2024-02-27】[Frimkron / mud-pi](https://github.com/Frimkron/mud-pi) - A simple MUD server in Python, for teaching purposes, which could be run on a Raspberry Pi
+* 【2024-02-27】[Eladlev / AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
+* 【2024-02-27】[dnakov / r2d2](https://github.com/dnakov/r2d2) - 🤖🏴‍☠️ radare2 plugin for GPT-4 🦜. Solve crackmes automatically 🪄
+* 【2024-02-27】[hoochanlon / hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 * 【2024-02-26】[OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - 
 * 【2024-02-26】[tin-ka / Prometheus](https://github.com/tin-ka/Prometheus) - Very powerful stealer + miner + rat + keylogger
 * 【2024-02-25】[galaxyproject / galaxy](https://github.com/galaxyproject/galaxy) - Data intensive science for everyone.
@@ -3201,6 +3207,10 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-02-27】[shraddhaag / 1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.
+* 【2024-02-27】[QuilibriumNetwork / ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) - Mirror of Quilibrium git repo: ceremonyclient
+* 【2024-02-27】[tulir / whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
+* 【2024-02-27】[anacrolix / torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 * 【2024-02-26】[ra2web / ra2web-proxy](https://github.com/ra2web/ra2web-proxy) - 网页红警边缘合规安全网关，用于对Chronodivide官方客户端进行转发，并对代码和内容动态注入，实现区域合规要求
 * 【2024-02-26】[go-jet / jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 * 【2024-02-25】[TwiN / gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -4518,6 +4528,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-02-27】[dail8859 / NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 * 【2024-02-26】[pierotofy / OpenSplat](https://github.com/pierotofy/OpenSplat) - Free and open source 3D gaussian splatting in C++ 💦
 * 【2024-02-26】[cms-sw / cmssw](https://github.com/cms-sw/cmssw) - CMS Offline Software
 * 【2024-02-26】[root-project / root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
@@ -5617,6 +5628,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-02-27】[datawhalechina / hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent) - A tutorial to quickly help you understand the concept of agent and muti-agent and get started with coding development
+* 【2024-02-27】[Perseus333 / One-Fox](https://github.com/Perseus333/One-Fox) - A CSS for firefox and Floorp that provides a simple yet convenient single line UI
 * 【2024-02-25】[NewFuture / CV](https://github.com/NewFuture/CV) - A resume template written in Markdown,Yaml JSON auto generates github-pages website & PDF by Jekyll. 在线简历生成模板(超高兼容可导PDF)
 * 【2024-02-25】[AkashKobal / web-development](https://github.com/AkashKobal/web-development) - This repository enables learners to perform front-end full stack development, with emphasis on employability skills. The repository covers key technologies and architectures that enable the learners to design and implement front-end. On successful completion of this repository, the student shall be able to pursue a career in full-stack developement
 * 【2024-02-25】[creativetimofficial / blk-design-system-react](https://github.com/creativetimofficial/blk-design-system-react) - React version of BLK Design System:
@@ -6167,6 +6180,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-02-27】[joseadanof / awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
+* 【2024-02-27】[osurf / pzdy](https://github.com/osurf/pzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2024-02-26】[analoguejb / Analogue-Duo-JB](https://github.com/analoguejb/Analogue-Duo-JB) - 
 * 【2024-02-26】[warpdotdev / Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 * 【2024-02-26】[ThePBone / awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
