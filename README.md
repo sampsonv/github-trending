@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-03-02】[cloudflare / pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+* 【2024-03-02】[moom825 / xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more!
+* 【2024-03-02】[kyegomez / BitNet](https://github.com/kyegomez/BitNet) - Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch
+* 【2024-03-02】[redis / ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 * 【2024-03-01】[Netflix / bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 * 【2024-03-01】[HumanAIGC / EMO](https://github.com/HumanAIGC/EMO) - 
 * 【2024-03-01】[SuperTux / supertux](https://github.com/SuperTux/supertux) - SuperTux source code
@@ -935,6 +939,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-03-02】[ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 * 【2024-03-01】[tronprotocol / java-tron](https://github.com/tronprotocol/java-tron) - Java implementation of the Tron whitepaper
 * 【2024-03-01】[axelor / axelor-open-suite](https://github.com/axelor/axelor-open-suite) - The Axelor Open Suite based on Axelor Open Platform
 * 【2024-02-29】[exadel-inc / CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
@@ -1537,6 +1542,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-03-02】[mbzuai-oryx / MobiLlama](https://github.com/mbzuai-oryx/MobiLlama) - MobiLlama : Small Language Model tailored for edge devices
+* 【2024-03-02】[fluencelabs / dev-rewards](https://github.com/fluencelabs/dev-rewards) - 
+* 【2024-03-02】[bigcode-project / starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
+* 【2024-03-02】[Avaiga / Taipy-Chatbot-Demo](https://github.com/Avaiga/Taipy-Chatbot-Demo) - A template to create any LLM Inference Web Apps using Python only
+* 【2024-03-02】[Beomi / BitNet-Transformers](https://github.com/Beomi/BitNet-Transformers) - 0️⃣1️⃣🤗 BitNet-Transformers: Huggingface Transformers Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch with Llama(2) Architecture
 * 【2024-03-01】[qnguyen3 / chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 * 【2024-03-01】[NUS-HPC-AI-Lab / OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT) - OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference
 * 【2024-03-01】[evo-design / evo](https://github.com/evo-design/evo) - DNA foundation modeling from molecular to genome scale
@@ -2495,6 +2505,11 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-03-02】[HumanAIGC / emote-portrait-alive](https://github.com/HumanAIGC/emote-portrait-alive) - 
+* 【2024-03-02】[polyfillpolyfill / fetch](https://github.com/polyfillpolyfill/fetch) - A window.fetch JavaScript polyfill.
+* 【2024-03-02】[Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+* 【2024-03-02】[ckeditor / ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
+* 【2024-03-02】[cyu / rack-cors](https://github.com/cyu/rack-cors) - Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
 * 【2024-03-01】[piercefreeman / mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python and React.
 * 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 * 【2024-03-01】[YMFE / yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
@@ -3260,6 +3275,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-03-02】[runreveal / pql](https://github.com/runreveal/pql) - Pipelined Query Language
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 * 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
 * 【2024-02-29】[axllent / mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
@@ -3979,6 +3995,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-03-02】[arcsysu / SYsU-lang2](https://github.com/arcsysu/SYsU-lang2) - 中山大学编译原理课程实验（完全重构版本）
+* 【2024-03-02】[mackron / miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 * 【2024-03-01】[krallin / tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 * 【2024-02-29】[open-quantum-safe / liboqs](https://github.com/open-quantum-safe/liboqs) - C library for prototyping and experimenting with quantum-resistant cryptography
@@ -5182,6 +5200,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-03-02】[acgeospatial / awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery
 * 【2024-03-01】[JayZeeDesign / realtime-conversation-copilot](https://github.com/JayZeeDesign/realtime-conversation-copilot) - 
 * 【2024-03-01】[nrxschool / bootcamp-optimism](https://github.com/nrxschool/bootcamp-optimism) - 
 * 【2024-02-29】[tensorchord / ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
@@ -5705,6 +5724,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-03-02】[bluenex / baansuan_prannok](https://github.com/bluenex/baansuan_prannok) - 
 * 【2024-03-01】[patrickloeber / chatbot-deployment](https://github.com/patrickloeber/chatbot-deployment) - Deployment of PyTorch chatbot with Flask
 * 【2024-03-01】[diydiagnostics / App4-Base_Code](https://github.com/diydiagnostics/App4-Base_Code) - This is the base code for App 4 Assignment
 * 【2024-03-01】[diydiagnostics / DesktopTestRepository](https://github.com/diydiagnostics/DesktopTestRepository) - this is a test repository for practicing using GitHub Desktop
@@ -6267,6 +6287,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-03-02】[layerdiffusion / LayerDiffusion](https://github.com/layerdiffusion/LayerDiffusion) - Transparent Image Layer Diffusion using Latent Transparency
+* 【2024-03-02】[amusi / CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
+* 【2024-03-02】[blast-io / deployment](https://github.com/blast-io/deployment) - 
+* 【2024-03-02】[ValantisJewelry / TestTaskValantis](https://github.com/ValantisJewelry/TestTaskValantis) - 
 * 【2024-03-01】[microsoft / Security-101](https://github.com/microsoft/Security-101) - 7 Lessons, Kick-start Your Cybersecurity Learning.
 * 【2024-03-01】[AnsonZnl / interview-nav](https://github.com/AnsonZnl/interview-nav) - 面试网站导航，收集 IT 行业各个岗位的优质面试题网站、简历编写指南。
 * 【2024-02-29】[sina-moradbakhti / hiddify-wow-config](https://github.com/sina-moradbakhti/hiddify-wow-config) - 
