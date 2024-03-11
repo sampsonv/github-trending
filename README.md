@@ -1,6 +1,15 @@
 # github-trending
 ## All language
 
+* 【2024-03-11】[rolldown-rs / rolldown](https://github.com/rolldown-rs/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+* 【2024-03-11】[hatchet-dev / hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
+* 【2024-03-11】[cuixueshe / earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
+* 【2024-03-11】[appwrite / appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+* 【2024-03-11】[AnswerDotAI / fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
+* 【2024-03-11】[Deeptrain-Community / chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 下一代 AI 一站式解决方案，一站式 Chat + 中转 API 站点，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google Gemini (PaLM2)，Moonshot，LocalAI 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费 / 订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+* 【2024-03-11】[sugarforever / chat-ollama](https://github.com/sugarforever/chat-ollama) - 
+* 【2024-03-11】[juewuy / ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+* 【2024-03-11】[buqiyuan / nest-admin](https://github.com/buqiyuan/nest-admin) - NestJs CRUD for RESTful API 使用 Nestjs + Mysql + Typeorm + Redis + Jwt + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
 * 【2024-03-10】[jiaweizzhao / GaLore](https://github.com/jiaweizzhao/GaLore) - 
 * 【2024-03-10】[ProjectDreamland / area51](https://github.com/ProjectDreamland/area51) - Source code for Area 51 (2005)
 * 【2024-03-10】[Whomane / Whomane](https://github.com/Whomane/Whomane) - An open source wearable with camera
@@ -980,6 +989,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-03-11】[mywalkb / LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
 * 【2024-03-10】[kby-ai / FaceLivenessDetection-Android](https://github.com/kby-ai/FaceLivenessDetection-Android) - This is a demo project for 3D passive face liveness detection, which is an anti-spoofing technology.
 * 【2024-03-08】[react-native-linear-gradient / react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A <LinearGradient /> component for react-native
 * 【2024-03-07】[linkedin / openhouse](https://github.com/linkedin/openhouse) - Open Control Plane for Tables in Data Lakehouse
@@ -1600,6 +1610,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-03-11】[searxng / searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+* 【2024-03-11】[Yuukiy / JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
+* 【2024-03-11】[vwxyzjn / cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
+* 【2024-03-11】[datacontract / cli](https://github.com/datacontract/cli) - CLI to manage your datacontract.yaml files
+* 【2024-03-11】[magic-research / piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - 
 * 【2024-03-10】[W01fh4cker / CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE) - CVE-2024-27198 & CVE-2024-27199 Authentication Bypass --> RCE in JetBrains TeamCity Pre-2023.11.4
 * 【2024-03-10】[prometheusdevel / Prometheus](https://github.com/prometheusdevel/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
 * 【2024-03-10】[TobikoData / sqlmesh](https://github.com/TobikoData/sqlmesh) - Efficient data transformation and modeling framework that is backwards compatible with dbt.
@@ -2604,6 +2619,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-03-11】[safak / react-estate-ui](https://github.com/safak/react-estate-ui) - 
+* 【2024-03-11】[bruhbruhroblox / wallstreetlocal](https://github.com/bruhbruhroblox/wallstreetlocal) - Free and open-source stock tracking website for America's biggest money managers. Democratizing SEC filings by making them more accessible and useful.
+* 【2024-03-11】[open-ibc / ibc-app-solidity-template](https://github.com/open-ibc/ibc-app-solidity-template) - Template starter for IBC enabled contracts in Solidity for use with vibc-core-smart-contracts
 * 【2024-03-10】[xxxily / h5player](https://github.com/xxxily/h5player) - 视频增强脚本，支持所有H5视频网站，例如：B站、抖音、腾讯视频、优酷、爱奇艺、西瓜视频、油管（YouTube）、微博视频、知乎视频、搜狐视频、网易公开课、百度网盘、阿里云盘、ted、instagram、twitter等。全程快捷键控制，支持：倍速播放/加速播放、视频画面截图、画中画、网页全屏、调节亮度、饱和度、对比度、自定义配置功能增强等功能，为你提供愉悦的在线视频播放体验。还有视频广告快进、在线教程/教育视频倍速快学等能力
 * 【2024-03-10】[gorisanson / pikachu-volleyball](https://github.com/gorisanson/pikachu-volleyball) - Pikachu Volleyball implemented into JavaScript by reverse engineering the original game
 * 【2024-03-09】[mayfer / claude-app-generator-demo](https://github.com/mayfer/claude-app-generator-demo) - This app was generated by Claude 3 Opus in one go without help
@@ -3393,6 +3411,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-03-11】[Ehco1996 / ehco](https://github.com/Ehco1996/ehco) - ehco is a network ʚrelayɞ tool and a typo :)
+* 【2024-03-11】[charmbracelet / bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 * 【2024-03-10】[earthly / earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 * 【2024-03-10】[buger / goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 * 【2024-03-10】[googleforgames / agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
@@ -4766,6 +4786,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-03-11】[filecxx / FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client.
+* 【2024-03-11】[nextcloud / desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 * 【2024-03-10】[sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi) - 
 * 【2024-03-10】[davisking / dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 * 【2024-03-10】[CLIUtils / CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
@@ -5373,6 +5395,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-03-11】[BugBearer / GPT-INT](https://github.com/BugBearer/GPT-INT) - An extension for Visual Studio Code that integrates the power of OpenAI's GPT models into VSCode.
+* 【2024-03-11】[FinHackCN / finhack](https://github.com/FinHackCN/finhack) - FinHack®，一个易于拓展的量化金融框架，它在当前版本中集成了数据采集、因子计算、因子挖掘、因子分析、机器学习、策略编写、量化回测等全流程的量化投研工作。
 * 【2024-03-10】[AndrewVeee / nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
 * 【2024-03-10】[TeamStuQ / skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 * 【2024-03-10】[ZYYO666 / homepage](https://github.com/ZYYO666/homepage) - 我的个人主页，homepage,个人引导页,简约主页,个人导航
@@ -5914,6 +5938,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-03-11】[MafernandaMeneses / login](https://github.com/MafernandaMeneses/login) - practica de login
 * 【2024-03-10】[McShelby / hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
 * 【2024-03-10】[fauzan1892 / pos-kasir-php](https://github.com/fauzan1892/pos-kasir-php) - Source Code Aplikasi Penjualan Barang (Kasir) dengan PHP MYSQL
 * 【2024-03-10】[agicto / agi-proxy](https://github.com/agicto/agi-proxy) - 
@@ -6501,6 +6526,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-03-11】[aiboboxx / v2rayfree](https://github.com/aiboboxx/v2rayfree) - v2ray节点、免费节点、免费v2ray节点、最新公益免费v2ray节点订阅地址、免费v2ray节点每日更新、免费ss/v2ray/trojan节点、freefq
+* 【2024-03-11】[public-api-lists / public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 * 【2024-03-10】[atlassian / pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 * 【2024-03-10】[osintbrazuca / osint-brazuca](https://github.com/osintbrazuca/osint-brazuca) - Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
 * 【2024-03-10】[moonbitlang / core](https://github.com/moonbitlang/core) - MoonBit's standard library
