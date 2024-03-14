@@ -1,6 +1,15 @@
 # github-trending
 ## All language
 
+* 【2024-03-14】[deepseek-ai / DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) - DeepSeek-VL: Towards Real-World Vision-Language Understanding
+* 【2024-03-14】[tiangolo / full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+* 【2024-03-14】[microsoft / aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
+* 【2024-03-14】[ai-boost / awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+* 【2024-03-14】[teableio / teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
+* 【2024-03-14】[obsidianmd / jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
+* 【2024-03-14】[laravel / framework](https://github.com/laravel/framework) - The Laravel Framework.
+* 【2024-03-14】[ELLA-Diffusion / ELLA](https://github.com/ELLA-Diffusion/ELLA) - ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment
+* 【2024-03-14】[jacoblee93 / fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
 * 【2024-03-13】[altsem / gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
 * 【2024-03-13】[elixir-lang / elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 * 【2024-03-13】[ScoopInstaller / Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
@@ -995,6 +1004,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-03-14】[react-native-camera / react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 * 【2024-03-13】[reactor / reactor-netty](https://github.com/reactor/reactor-netty) - TCP/HTTP/UDP/QUIC client/server with Reactor over Netty
 * 【2024-03-13】[lukas-krecan / ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
 * 【2024-03-13】[smartboot / smart-mqtt](https://github.com/smartboot/smart-mqtt) - 一款开源的云原生分布式 MQTT Broker 服务器，支持海量物联网设备互联互通。
@@ -1621,6 +1631,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-03-14】[federicoazzu / five_decorators](https://github.com/federicoazzu/five_decorators) - Five useful decorators to inspire your code in Python.
+* 【2024-03-14】[d78ui98 / APKDeepLens](https://github.com/d78ui98/APKDeepLens) - Android security insights in full spectrum.
+* 【2024-03-14】[skills-cogrammar / C7-Lecture-Backpack](https://github.com/skills-cogrammar/C7-Lecture-Backpack) - Lecture Content for Software Engineering, Data Science, and Full Stack Web Development Students
 * 【2024-03-13】[Misaka-blog / chromego_merge](https://github.com/Misaka-blog/chromego_merge) - test
 * 【2024-03-13】[KhoomeiK / LlamaGym](https://github.com/KhoomeiK/LlamaGym) - Fine-tune LLM agents with online reinforcement learning
 * 【2024-03-13】[jackhawks / rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
@@ -2635,6 +2648,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-03-14】[lulu5239 / view-loggers](https://github.com/lulu5239/view-loggers) - 
 * 【2024-03-13】[colin-scott / interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean's latency numbers plotted over time
 * 【2024-03-13】[kby-ai / facecapture-web](https://github.com/kby-ai/facecapture-web) - This repository is the KBY-AI Face SDK JavaScript implementation to run on web front-end
 * 【2024-03-13】[thuservices / thuservices](https://github.com/thuservices/thuservices) - https://thu.services
@@ -3432,6 +3446,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-03-14】[cloudwego / kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 * 【2024-03-13】[awslabs / diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
 * 【2024-03-13】[golang / crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
 * 【2024-03-13】[devploit / nomore403](https://github.com/devploit/nomore403) - Tool to bypass 403/40X response codes.
@@ -4180,6 +4195,10 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-03-14】[nmap / nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
+* 【2024-03-14】[asterisk / asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
+* 【2024-03-14】[EpicGamesExt / raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+* 【2024-03-14】[rkaehn / cr_task.h](https://github.com/rkaehn/cr_task.h) - Header-only library for asynchronous tasks in C
 * 【2024-03-13】[Next-Flip / Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper firmware
 * 【2024-03-13】[SysRay / psOff_public](https://github.com/SysRay/psOff_public) - Playstation 4 Windows Emulator
 * 【2024-03-10】[lifehackerhansol / FBI](https://github.com/lifehackerhansol/FBI) - Open source title manager for the 3DS. (Archive)
@@ -4814,6 +4833,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-03-14】[thiagopeixoto / winsos-poc](https://github.com/thiagopeixoto/winsos-poc) - A PoC demonstrating code execution via DLL Side-Loading in WinSxS binaries.
 * 【2024-03-13】[suyu-emu / suyu](https://github.com/suyu-emu/suyu) - suyu, pronounced "sue-you" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 * 【2024-03-13】[TrenchBroom / TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross-Platform Level Editor
 * 【2024-03-13】[zama-ai / concrete](https://github.com/zama-ai/concrete) - Concrete: TFHE Compiler that converts python programs into FHE equivalent
@@ -5428,6 +5448,11 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-03-14】[midudev / eloquent-javascript-es](https://github.com/midudev/eloquent-javascript-es) - Traducción del libro Eloquent JavaScript en Español
+* 【2024-03-14】[J2TEAM / demo](https://github.com/J2TEAM/demo) - Code demo cho các video của JUNO_OKYO
+* 【2024-03-14】[doocs / coding-interview](https://github.com/doocs/coding-interview) - 😀 代码面试题集，包括剑指 Offer、编程之美等
+* 【2024-03-14】[schemaspy / schemaspy](https://github.com/schemaspy/schemaspy) - Database documentation built easy
+* 【2024-03-14】[learn-co-curriculum / phase-0-css-fundamentals-lab](https://github.com/learn-co-curriculum/phase-0-css-fundamentals-lab) - 
 * 【2024-03-13】[xz / new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 * 【2024-03-13】[Tailus-UI / ada-html](https://github.com/Tailus-UI/ada-html) - Modern html landing page built with tailus themer
 * 【2024-03-12】[mrchoke / workshop-portal](https://github.com/mrchoke/workshop-portal) - ส่งงาน
@@ -5975,6 +6000,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-03-14】[Thilac06 / pro](https://github.com/Thilac06/pro) - 
+* 【2024-03-14】[Futur3Sn0w / futur3f0x](https://github.com/Futur3Sn0w/futur3f0x) - My own set of tweaks+customizations applied to Firefox, mainly through userChrome.css
 * 【2024-03-13】[BingyanStudio / LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Obsidian / Typora 简历
 * 【2024-03-13】[TheBridge-FullStackDeveloper / ejercicio-useState](https://github.com/TheBridge-FullStackDeveloper/ejercicio-useState) - 
 * 【2024-03-13】[Web-programming-4022 / css-Gaming-website](https://github.com/Web-programming-4022/css-Gaming-website) - Second practice - including CSS attributes.
@@ -6570,6 +6597,11 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-03-14】[subat0mik / Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
+* 【2024-03-14】[armankhondker / best-system-design-resources](https://github.com/armankhondker/best-system-design-resources) - This repository contains System Design Interview resources to design large-scale distributed systems.
+* 【2024-03-14】[KaringX / karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
+* 【2024-03-14】[niucnet / jinricp](https://github.com/niucnet/jinricp) - 韩国BJ | 韩国女主播 | pandatv | 진리컴퍼니 | #jinricp
+* 【2024-03-14】[daveshap / Claude_Sentience](https://github.com/daveshap/Claude_Sentience) - Long conversation I had with Claude 3 Opus. I am... uncertain what this all means.
 * 【2024-03-13】[shashankrustagi / DSA-IITD-NaveenGarg](https://github.com/shashankrustagi/DSA-IITD-NaveenGarg) - DSA notes of Dr Naveen Garg, IIT Delhi, NPTEL
 * 【2024-03-13】[pilcrowOnPaper / copenhagen](https://github.com/pilcrowOnPaper/copenhagen) - A basic guideline on implementing auth for the web
 * 【2024-03-13】[PixArt-alpha / PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - New PixArt Model, Faster, Stronger, Better
