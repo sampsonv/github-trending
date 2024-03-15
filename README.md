@@ -1,6 +1,11 @@
 # github-trending
 ## All language
 
+* 【2024-03-15】[krishnaik06 / Data-Science-Gen-AI-Playlist-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024) - 
+* 【2024-03-15】[dotnet / aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+* 【2024-03-15】[withfig / autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+* 【2024-03-15】[BAAI-Agents / Cradle](https://github.com/BAAI-Agents/Cradle) - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
+* 【2024-03-15】[laravel / laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 * 【2024-03-14】[deepseek-ai / DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) - DeepSeek-VL: Towards Real-World Vision-Language Understanding
 * 【2024-03-14】[tiangolo / full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 * 【2024-03-14】[microsoft / aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
@@ -1004,6 +1009,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-03-15】[confluentinc / schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
+* 【2024-03-15】[liyupi / yu-rpc](https://github.com/liyupi/yu-rpc) - 从 0 到 1，带你开发自己的 RPC 框架
+* 【2024-03-15】[spring-projects / spring-data-redis](https://github.com/spring-projects/spring-data-redis) - Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 * 【2024-03-14】[react-native-camera / react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
 * 【2024-03-13】[reactor / reactor-netty](https://github.com/reactor/reactor-netty) - TCP/HTTP/UDP/QUIC client/server with Reactor over Netty
 * 【2024-03-13】[lukas-krecan / ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
@@ -1631,6 +1639,12 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-03-15】[openai / transformer-debugger](https://github.com/openai/transformer-debugger) - 
+* 【2024-03-15】[princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?
+* 【2024-03-15】[Ableton / maxdevtools](https://github.com/Ableton/maxdevtools) - 
+* 【2024-03-15】[pyodide / pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
+* 【2024-03-15】[materialsproject / pymatgen](https://github.com/materialsproject/pymatgen) - Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.
+* 【2024-03-15】[PygmalionAI / aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - PygmalionAI's large-scale inference engine
 * 【2024-03-14】[federicoazzu / five_decorators](https://github.com/federicoazzu/five_decorators) - Five useful decorators to inspire your code in Python.
 * 【2024-03-14】[d78ui98 / APKDeepLens](https://github.com/d78ui98/APKDeepLens) - Android security insights in full spectrum.
 * 【2024-03-14】[skills-cogrammar / C7-Lecture-Backpack](https://github.com/skills-cogrammar/C7-Lecture-Backpack) - Lecture Content for Software Engineering, Data Science, and Full Stack Web Development Students
@@ -2648,6 +2662,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-03-15】[wasmerio / winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
+* 【2024-03-15】[NodeBB / NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
+* 【2024-03-15】[codesandbox / codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 * 【2024-03-14】[lulu5239 / view-loggers](https://github.com/lulu5239/view-loggers) - 
 * 【2024-03-13】[colin-scott / interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean's latency numbers plotted over time
 * 【2024-03-13】[kby-ai / facecapture-web](https://github.com/kby-ai/facecapture-web) - This repository is the KBY-AI Face SDK JavaScript implementation to run on web front-end
@@ -4195,6 +4212,9 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-03-15】[Syllo / nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
+* 【2024-03-15】[tumuyan / RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
+* 【2024-03-15】[WayneD / rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * 【2024-03-14】[nmap / nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 * 【2024-03-14】[asterisk / asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
 * 【2024-03-14】[EpicGamesExt / raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
@@ -4833,6 +4853,11 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-03-15】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
+* 【2024-03-15】[rime / weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+* 【2024-03-15】[MetaWu2077 / Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs) - esp32 based device, mainly used for voice chat with large language models
+* 【2024-03-15】[Wh04m1001 / GamingServiceEoP](https://github.com/Wh04m1001/GamingServiceEoP) - 
+* 【2024-03-15】[suchetanrs / ORB-SLAM3-ROS2-Docker](https://github.com/suchetanrs/ORB-SLAM3-ROS2-Docker) - This repository contains a full wrapper class for running ORB-SLAM3 on a docker container with ROS2 Humble with Ubuntu 22.04.
 * 【2024-03-14】[thiagopeixoto / winsos-poc](https://github.com/thiagopeixoto/winsos-poc) - A PoC demonstrating code execution via DLL Side-Loading in WinSxS binaries.
 * 【2024-03-13】[suyu-emu / suyu](https://github.com/suyu-emu/suyu) - suyu, pronounced "sue-you" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 * 【2024-03-13】[TrenchBroom / TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross-Platform Level Editor
@@ -5448,6 +5473,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-03-15】[wuhobin / blog-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
 * 【2024-03-14】[midudev / eloquent-javascript-es](https://github.com/midudev/eloquent-javascript-es) - Traducción del libro Eloquent JavaScript en Español
 * 【2024-03-14】[J2TEAM / demo](https://github.com/J2TEAM/demo) - Code demo cho các video của JUNO_OKYO
 * 【2024-03-14】[doocs / coding-interview](https://github.com/doocs/coding-interview) - 😀 代码面试题集，包括剑指 Offer、编程之美等
@@ -6000,6 +6026,14 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-03-15】[seeli-teaching / js-devcontainer-level-2](https://github.com/seeli-teaching/js-devcontainer-level-2) - 
+* 【2024-03-15】[vishalsodani / trackactivity](https://github.com/vishalsodani/trackactivity) - Django Sample App
+* 【2024-03-15】[sarbajitD-24 / zon-coffee](https://github.com/sarbajitD-24/zon-coffee) - zon-coffee
+* 【2024-03-15】[cloudacademy / static-website-example](https://github.com/cloudacademy/static-website-example) - Static website to use with Cloud Academy labs
+* 【2024-03-15】[shurcooL / gofontwoff](https://github.com/shurcooL/gofontwoff) - Package gofontwoff provides the Go font family in Web Open Font Format.
+* 【2024-03-15】[bradtraversy / tailwind-course-projects](https://github.com/bradtraversy/tailwind-course-projects) - Projects from my TailwindCSS course
+* 【2024-03-15】[jumanjiman / puppetcamp_nyc_2013](https://github.com/jumanjiman/puppetcamp_nyc_2013) - My preso for $subject
+* 【2024-03-15】[metabrainz / geordi](https://github.com/metabrainz/geordi) - MusicBrainz label feed ingestion tools
 * 【2024-03-14】[Thilac06 / pro](https://github.com/Thilac06/pro) - 
 * 【2024-03-14】[Futur3Sn0w / futur3f0x](https://github.com/Futur3Sn0w/futur3f0x) - My own set of tweaks+customizations applied to Firefox, mainly through userChrome.css
 * 【2024-03-13】[BingyanStudio / LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Obsidian / Typora 简历
@@ -6597,6 +6631,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-03-15】[payloadbox / sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
 * 【2024-03-14】[subat0mik / Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
 * 【2024-03-14】[armankhondker / best-system-design-resources](https://github.com/armankhondker/best-system-design-resources) - This repository contains System Design Interview resources to design large-scale distributed systems.
 * 【2024-03-14】[KaringX / karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
