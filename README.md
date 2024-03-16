@@ -1,6 +1,13 @@
 # github-trending
 ## All language
 
+* 【2024-03-16】[lavague-ai / LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
+* 【2024-03-16】[Mintimate / oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate. QQ Chat-Group: 703260572
+* 【2024-03-16】[diia-open-source / ios-diia](https://github.com/diia-open-source/ios-diia) - 
+* 【2024-03-16】[tk04 / Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
+* 【2024-03-16】[diia-open-source / android-diia](https://github.com/diia-open-source/android-diia) - 
+* 【2024-03-16】[Altinity / clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
+* 【2024-03-16】[vis-three / scene-editor](https://github.com/vis-three/scene-editor) - vis-three框架衍生出的全自定义web3D场景编辑器
 * 【2024-03-15】[krishnaik06 / Data-Science-Gen-AI-Playlist-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024) - 
 * 【2024-03-15】[dotnet / aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 * 【2024-03-15】[withfig / autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -1639,6 +1646,10 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-03-16】[Project-MONAI / MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
+* 【2024-03-16】[luijait / DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
+* 【2024-03-16】[phospho-app / phospho](https://github.com/phospho-app/phospho) - Text analytics for LLM apps. PostHog for prompts. Extract evaluations, intents and events from text messages. phospho leverages LLM (OpenAI, MistralAI, Ollama, etc.)
+* 【2024-03-16】[microsoft / presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and de-identification SDK for text and images
 * 【2024-03-15】[openai / transformer-debugger](https://github.com/openai/transformer-debugger) - 
 * 【2024-03-15】[princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?
 * 【2024-03-15】[Ableton / maxdevtools](https://github.com/Ableton/maxdevtools) - 
@@ -2662,6 +2673,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-03-16】[said7388 / developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
+* 【2024-03-16】[Eclipse-Laboratories-Inc / eclipse-wallet](https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet) - 
 * 【2024-03-15】[wasmerio / winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 * 【2024-03-15】[NodeBB / NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 * 【2024-03-15】[codesandbox / codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
@@ -3463,6 +3476,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-03-16】[google / gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
 * 【2024-03-14】[cloudwego / kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 * 【2024-03-13】[awslabs / diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
 * 【2024-03-13】[golang / crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
@@ -4853,6 +4867,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
 * 【2024-03-15】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
 * 【2024-03-15】[rime / weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 * 【2024-03-15】[MetaWu2077 / Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs) - esp32 based device, mainly used for voice chat with large language models
@@ -6026,6 +6041,9 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-03-16】[boolean-uk / angular-greengrocers](https://github.com/boolean-uk/angular-greengrocers) - 
+* 【2024-03-16】[DevOpsManiac / CorpSite](https://github.com/DevOpsManiac/CorpSite) - 
+* 【2024-03-16】[obscurefreeman / typora_theme_blackout](https://github.com/obscurefreeman/typora_theme_blackout) - Blackout theme of typora
 * 【2024-03-15】[seeli-teaching / js-devcontainer-level-2](https://github.com/seeli-teaching/js-devcontainer-level-2) - 
 * 【2024-03-15】[vishalsodani / trackactivity](https://github.com/vishalsodani/trackactivity) - Django Sample App
 * 【2024-03-15】[sarbajitD-24 / zon-coffee](https://github.com/sarbajitD-24/zon-coffee) - zon-coffee
@@ -6631,6 +6649,13 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-03-16】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
+* 【2024-03-16】[telegram-sgk / SGK_Sites_and_Bots](https://github.com/telegram-sgk/SGK_Sites_and_Bots) - 免费在线社工库，免费Telegram社工库
+* 【2024-03-16】[OceanNg529 / allAI](https://github.com/OceanNg529/allAI) - 
+* 【2024-03-16】[ayadim / Nuclei-bug-hunter](https://github.com/ayadim/Nuclei-bug-hunter) - i will upload more templates here to share with the comunity.
+* 【2024-03-16】[diia-open-source / diia-setup-howto](https://github.com/diia-open-source/diia-setup-howto) - 
+* 【2024-03-16】[cipher387 / cheatsheets](https://github.com/cipher387/cheatsheets) - High quality and text versions of cheat sheets from Cyber Detective Twitter
+* 【2024-03-16】[PeachTeaaa / Aviator-Prediction-Tool](https://github.com/PeachTeaaa/Aviator-Prediction-Tool) - Best prediction tool for Aviator, requests USB cable and PC for installation on your device
 * 【2024-03-15】[payloadbox / sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
 * 【2024-03-14】[subat0mik / Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
 * 【2024-03-14】[armankhondker / best-system-design-resources](https://github.com/armankhondker/best-system-design-resources) - This repository contains System Design Interview resources to design large-scale distributed systems.
