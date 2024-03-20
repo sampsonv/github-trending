@@ -1,6 +1,12 @@
 # github-trending
 ## All language
 
+* 【2024-03-20】[xai-org / grok-1](https://github.com/xai-org/grok-1) - Grok open release
+* 【2024-03-20】[ZHO-ZHO-ZHO / ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+* 【2024-03-20】[albertan017 / LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
+* 【2024-03-20】[FlowiseAI / Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+* 【2024-03-20】[DevToys-app / DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+* 【2024-03-20】[WanyueKJ / education-online](https://github.com/WanyueKJ/education-online) - 万岳教育的web+后台管理系统。万岳教育系统(wanyue-education)，自主研发集知识付费、直播授课、在线教育功能为一体的在线/直播/题库/考试(exam)的教育平台系统
 * 【2024-03-19】[openai / grok](https://github.com/openai/grok) - 
 * 【2024-03-19】[codediodeio / rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial) - a simple webapp with rembg
 * 【2024-03-19】[the-mirror-gdp / the-mirror](https://github.com/the-mirror-gdp/the-mirror) - The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.
@@ -1031,6 +1037,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-03-20】[CodingGay / BlackShadow](https://github.com/CodingGay/BlackShadow) - 腾讯(Tencent)Shadow的二次封装项目，开袋即食版。
+* 【2024-03-20】[smilexizheng / coco-boot](https://github.com/smilexizheng/coco-boot) - test-coco-springboot
+* 【2024-03-20】[spotbugs / spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 * 【2024-03-19】[racoonman2 / ReTerraForged](https://github.com/racoonman2/ReTerraForged) - a 1.19+ port of https://github.com/TerraForged/TerraForged
 * 【2024-03-18】[Sab1e-GitHub / BadAppleJuice](https://github.com/Sab1e-GitHub/BadAppleJuice) - 参考自EvilAppleJuice的项目，用于在安卓设备上发送广播包，唤起iPhone设备的弹窗。
 * 【2024-03-18】[ItsMadruga / MdgWa](https://github.com/ItsMadruga/MdgWa) - Um módulo Xposed para personalizar seu WhatsApp.
@@ -2704,6 +2713,10 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-03-20】[JaimeObregon / observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
+* 【2024-03-20】[DeFiSolMaster / Solana-Sniper-Bot-Opensource](https://github.com/DeFiSolMaster/Solana-Sniper-Bot-Opensource) - Ultimate Solana Sniper Bot for the degens that want to snipe tokens and farm airdrop
+* 【2024-03-20】[mediacms-io / mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+* 【2024-03-20】[FiveKG / gas-listener](https://github.com/FiveKG/gas-listener) - 
 * 【2024-03-19】[JavaScript-Mastery-Pro / gsap-cc-starter](https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter) - Starter Repository of GSAP Crash Course
 * 【2024-03-19】[developersdigest / llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Groq, Mixtral, Langchain, Brave & OpenAI
 * 【2024-03-19】[pmndrs / gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
@@ -4280,6 +4293,11 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-03-20】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
+* 【2024-03-20】[pygame-community / pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
+* 【2024-03-20】[ossc-db / pg_hint_plan](https://github.com/ossc-db/pg_hint_plan) - Give PostgreSQL ability to manually force some decisions in execution plans.
+* 【2024-03-20】[Tencent / wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
+* 【2024-03-20】[ClimbSnail / SnailHeater](https://github.com/ClimbSnail/SnailHeater) - 多功能焊台（T12/JBC245、烤箱回流焊、加热台、风枪、可调电源、简易双通道示波器、函数发生器、高精度PWM脉冲）
 * 【2024-03-19】[SentientArt / TheBasement](https://github.com/SentientArt/TheBasement) - 
 * 【2024-03-18】[lmarzen / esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 * 【2024-03-18】[stm32duino / Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
@@ -4925,6 +4943,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-03-20】[a-ngo / route-planning](https://github.com/a-ngo/route-planning) - 
+* 【2024-03-20】[0voice / cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 * 【2024-03-19】[harfbuzz / harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
 * 【2024-03-19】[hluk / CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 * 【2024-03-19】[Provenance-Emu / Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started: https://wiki.provenance-emu.com |
@@ -5551,6 +5571,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-03-20】[zhugezifang / ai_timeline](https://github.com/zhugezifang/ai_timeline) - AI时间线，产品地址：http://www.ai-timeline.top
 * 【2024-03-19】[niikhiljha / Impressing-your-crush](https://github.com/niikhiljha/Impressing-your-crush) - 
 * 【2024-03-19】[Mojang / bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs) - Documentation of the Bedrock network protocol. Protocol is subject to change release over release.
 * 【2024-03-19】[coreui / coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
@@ -6109,6 +6130,12 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-03-20】[Saivenkat2005 / https-github.com-DeepakReddyG-ZeroOneCodeClub_FirstWebDevProject](https://github.com/Saivenkat2005/https-github.com-DeepakReddyG-ZeroOneCodeClub_FirstWebDevProject) - 
+* 【2024-03-20】[gathpadeepak / ZeroOneCodeClub_FirstWebDevProject](https://github.com/gathpadeepak/ZeroOneCodeClub_FirstWebDevProject) - 
+* 【2024-03-20】[adityanavgurukul / weather-app-group4](https://github.com/adityanavgurukul/weather-app-group4) - 
+* 【2024-03-20】[udacity / fend](https://github.com/udacity/fend) - General Front End Nanodegree Content Resources
+* 【2024-03-20】[ejjoo / jekyll-theme-monos](https://github.com/ejjoo/jekyll-theme-monos) - Simple and Lightweight Theme for Jekyll
+* 【2024-03-20】[LukasLen / Privacy-Extension-For-WhatsApp-Web](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web) - Hides your WhatsApp messages until you hover over them.
 * 【2024-03-19】[beeper / themes](https://github.com/beeper/themes) - Community Themes
 * 【2024-03-19】[Abhishekyadav450 / CipherGuard](https://github.com/Abhishekyadav450/CipherGuard) - 
 * 【2024-03-19】[Phillip-England / templ-quickstart](https://github.com/Phillip-England/templ-quickstart) - Scaffold an http server using Go, HTMX, Templ, and Tailwind quick and easy.
@@ -6729,6 +6756,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-03-20】[ksundong / backend-interview-question](https://github.com/ksundong/backend-interview-question) - 백엔드 개발자로 입사를 준비하며 받았던 질문, 예상했던 질문, 인터넷 참고한 질문(CC BY-NC)
 * 【2024-03-19】[Code4GovTech / C4GT](https://github.com/Code4GovTech/C4GT) - C4GT has been conceptualised as a summer coding program to create a community that can build and contribute to global digital public goods.
 * 【2024-03-19】[Deeksha2501 / Data-Structures-and-Algorithms-Notes](https://github.com/Deeksha2501/Data-Structures-and-Algorithms-Notes) - It contains all the data structures and computer fundamentals notes I made while preparing for placements.
 * 【2024-03-19】[crisbusquets / aprende-diseno-uxui](https://github.com/crisbusquets/aprende-diseno-uxui) - Este repositorio contiene una lista seleccionada de recursos para ayudarte a aprender sobre el diseño de interfaces y de experiencia del usuario. Incluye recursos como artículos, tutoriales, vídeos y cursos. Todo en español :)
