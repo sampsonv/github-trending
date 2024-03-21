@@ -1,6 +1,13 @@
 # github-trending
 ## All language
 
+* 【2024-03-21】[discord / embedded-app-sdk](https://github.com/discord/embedded-app-sdk) - 🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord.
+* 【2024-03-21】[TheMMC / In-Place_Upgrade_Helper](https://github.com/TheMMC/In-Place_Upgrade_Helper) - Helper-Tool für Windows 10/11 Inplace-Upgrades und Editionswechsel
+* 【2024-03-21】[xyflow / xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+* 【2024-03-21】[nf-core / modules](https://github.com/nf-core/modules) - Repository to host tool-specific module files for the Nextflow DSL2 community!
+* 【2024-03-21】[zylon-ai / private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+* 【2024-03-21】[Azure-Samples / contoso-chat](https://github.com/Azure-Samples/contoso-chat) - This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.
+* 【2024-03-21】[pola-rs / polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 * 【2024-03-20】[xai-org / grok-1](https://github.com/xai-org/grok-1) - Grok open release
 * 【2024-03-20】[ZHO-ZHO-ZHO / ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 * 【2024-03-20】[albertan017 / LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
@@ -1037,6 +1044,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-03-21】[01-ai / Descartes](https://github.com/01-ai/Descartes) - 
+* 【2024-03-21】[GoogleCloudPlatform / DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Cloud Dataflow Google-provided templates for solving in-Cloud data tasks
 * 【2024-03-20】[CodingGay / BlackShadow](https://github.com/CodingGay/BlackShadow) - 腾讯(Tencent)Shadow的二次封装项目，开袋即食版。
 * 【2024-03-20】[smilexizheng / coco-boot](https://github.com/smilexizheng/coco-boot) - test-coco-springboot
 * 【2024-03-20】[spotbugs / spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
@@ -2713,6 +2722,11 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-03-21】[Hyizhou1 / Tg_SuperSerch](https://github.com/Hyizhou1/Tg_SuperSerch) - 关于 TG索引机器人，telegram中文搜索群组，telegram超级索引源码，tg中文搜索，群组收录，tg搜索机器人https://t.me/spuerserch
+* 【2024-03-21】[ButzYung / SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
+* 【2024-03-21】[chalk / chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+* 【2024-03-21】[darkroomengineering / lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
+* 【2024-03-21】[coreui / coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is a free React admin template based on Bootstrap 5
 * 【2024-03-20】[JaimeObregon / observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
 * 【2024-03-20】[DeFiSolMaster / Solana-Sniper-Bot-Opensource](https://github.com/DeFiSolMaster/Solana-Sniper-Bot-Opensource) - Ultimate Solana Sniper Bot for the degens that want to snipe tokens and farm airdrop
 * 【2024-03-20】[mediacms-io / mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -3530,6 +3544,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-03-21】[veops / oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
+* 【2024-03-21】[kitabisa / teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 * 【2024-03-19】[supabase / gotrue](https://github.com/supabase/gotrue) - A JWT based API for managing users and issuing JWT tokens
 * 【2024-03-19】[burrowers / garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 * 【2024-03-18】[missingstudio / gateway](https://github.com/missingstudio/gateway) - 🌈 A Reliable AI Gateway - Core infrastructure stack for building your AI workforce
@@ -4293,6 +4309,10 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-03-21】[X1Plus / X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
+* 【2024-03-21】[xscorp / jsmug](https://github.com/xscorp/jsmug) - A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
+* 【2024-03-21】[dibyendumajumdar / ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
+* 【2024-03-21】[uber / h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 * 【2024-03-20】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
 * 【2024-03-20】[pygame-community / pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 * 【2024-03-20】[ossc-db / pg_hint_plan](https://github.com/ossc-db/pg_hint_plan) - Give PostgreSQL ability to manually force some decisions in execution plans.
@@ -4943,6 +4963,10 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-03-21】[linyacool / WebServer](https://github.com/linyacool/WebServer) - A C++ High Performance Web Server
+* 【2024-03-21】[ros-drivers / usb_cam](https://github.com/ros-drivers/usb_cam) - A ROS Driver for V4L2 USB Cameras
+* 【2024-03-21】[ros-planning / moveit2](https://github.com/ros-planning/moveit2) - 🤖 MoveIt for ROS 2
+* 【2024-03-21】[TixiaoShan / LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
 * 【2024-03-20】[a-ngo / route-planning](https://github.com/a-ngo/route-planning) - 
 * 【2024-03-20】[0voice / cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 * 【2024-03-19】[harfbuzz / harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
@@ -5571,6 +5595,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-03-21】[teenboyring / Listonline](https://github.com/teenboyring/Listonline) - 
+* 【2024-03-21】[bradtraversy / react-crash-2024](https://github.com/bradtraversy/react-crash-2024) - React jobs project from YouTube crash course
 * 【2024-03-20】[zhugezifang / ai_timeline](https://github.com/zhugezifang/ai_timeline) - AI时间线，产品地址：http://www.ai-timeline.top
 * 【2024-03-19】[niikhiljha / Impressing-your-crush](https://github.com/niikhiljha/Impressing-your-crush) - 
 * 【2024-03-19】[Mojang / bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs) - Documentation of the Bedrock network protocol. Protocol is subject to change release over release.
@@ -6130,6 +6156,10 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-03-21】[aprxi / letsbuild-ai](https://github.com/aprxi/letsbuild-ai) - Community-driven platform dedicated to sharing resources, tools, and knowledge for AI enthusiasts and developers
+* 【2024-03-21】[TheBridge-FullStackDeveloper / react-poke](https://github.com/TheBridge-FullStackDeveloper/react-poke) - 
+* 【2024-03-21】[edouard-gv / ue22-p23-web-calculator](https://github.com/edouard-gv/ue22-p23-web-calculator) - 
+* 【2024-03-21】[narasimhareddyprostack / March-FS-5](https://github.com/narasimhareddyprostack/March-FS-5) - HTML,CSS,JS, React Js, Java, Java 8 , JDBC, JSP, Hibernate, Spring Boot, MS, MYSQL, Mongo DB, Project
 * 【2024-03-20】[Saivenkat2005 / https-github.com-DeepakReddyG-ZeroOneCodeClub_FirstWebDevProject](https://github.com/Saivenkat2005/https-github.com-DeepakReddyG-ZeroOneCodeClub_FirstWebDevProject) - 
 * 【2024-03-20】[gathpadeepak / ZeroOneCodeClub_FirstWebDevProject](https://github.com/gathpadeepak/ZeroOneCodeClub_FirstWebDevProject) - 
 * 【2024-03-20】[adityanavgurukul / weather-app-group4](https://github.com/adityanavgurukul/weather-app-group4) - 
@@ -6756,6 +6786,11 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-03-21】[dotnet-smartcomponents / smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents) - Experimental, end-to-end AI features for .NET apps
+* 【2024-03-21】[mims-harvard / UniTS](https://github.com/mims-harvard/UniTS) - A unified time series model.
+* 【2024-03-21】[pamoroso / free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
+* 【2024-03-21】[Coder-World04 / Complete-Machine-Learning-](https://github.com/Coder-World04/Complete-Machine-Learning-) - This repository contains everything you need to become proficient in Machine Learning
+* 【2024-03-21】[lintstar / CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
 * 【2024-03-20】[ksundong / backend-interview-question](https://github.com/ksundong/backend-interview-question) - 백엔드 개발자로 입사를 준비하며 받았던 질문, 예상했던 질문, 인터넷 참고한 질문(CC BY-NC)
 * 【2024-03-19】[Code4GovTech / C4GT](https://github.com/Code4GovTech/C4GT) - C4GT has been conceptualised as a summer coding program to create a community that can build and contribute to global digital public goods.
 * 【2024-03-19】[Deeksha2501 / Data-Structures-and-Algorithms-Notes](https://github.com/Deeksha2501/Data-Structures-and-Algorithms-Notes) - It contains all the data structures and computer fundamentals notes I made while preparing for placements.
