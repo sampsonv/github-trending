@@ -1,6 +1,11 @@
 # github-trending
 ## All language
 
+* 【2024-04-01】[tiangolo / typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+* 【2024-04-01】[DioxusLabs / dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+* 【2024-04-01】[adrianhajdin / zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
+* 【2024-04-01】[btcpayserver / btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
+* 【2024-04-01】[Atlas-OS / Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
 * 【2024-03-31】[mshumer / gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
 * 【2024-03-31】[easychen / one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
 * 【2024-03-31】[TMElyralab / MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
@@ -1099,6 +1104,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-04-01】[Snailclimb / guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) - A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）
+* 【2024-04-01】[RikkaApps / Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 * 【2024-03-31】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 * 【2024-03-31】[apache / incubator-amoro](https://github.com/apache/incubator-amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
 * 【2024-03-30】[web3j / web3j](https://github.com/web3j/web3j) - Lightweight Java and Android library for integration with Ethereum clients
@@ -1752,6 +1759,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-04-01】[google-deepmind / long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - Benchmarking long-form factuality in large language models. Original code for our paper "Long-form factuality in large language models".
+* 【2024-04-01】[MsLolita / backpack-volume-auto](https://github.com/MsLolita/backpack-volume-auto) - 
+* 【2024-04-01】[MsLolita / grass](https://github.com/MsLolita/grass) - grass-mining
 * 【2024-03-31】[WithSecureLabs / drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 * 【2024-03-30】[NanmiCoder / CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) - 爬虫入门、爬虫进阶、高级爬虫
 * 【2024-03-30】[pentestfunctions / BlueDucky](https://github.com/pentestfunctions/BlueDucky) - 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
@@ -2817,6 +2827,10 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-04-01】[eduardoleao052 / js-torch](https://github.com/eduardoleao052/js-torch) - A JavaScript library like PyTorch, built from scratch.
+* 【2024-04-01】[XIU2 / UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
+* 【2024-04-01】[justimyhxu / GRM](https://github.com/justimyhxu/GRM) - Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation
+* 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 * 【2024-03-31】[somta / Juggle](https://github.com/somta/Juggle) - 一款适用于微服务编排，第三方api集成，私有化定制开发，编写BFF聚合层等场景的强大低码编排工具！
 * 【2024-03-31】[wahdalo / tiktok-src](https://github.com/wahdalo/tiktok-src) - Tiktok downloader & auto upload to reels facebook (with puppeteer)
 * 【2024-03-31】[OrionReed / dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
@@ -3672,6 +3686,10 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-04-01】[EverythingSuckz / TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
+* 【2024-04-01】[m1k1o / neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+* 【2024-04-01】[pojntfx / weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
+* 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 * 【2024-03-31】[shizunge / endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 * 【2024-03-31】[disingn / sunotoapi](https://github.com/disingn/sunotoapi) - 将 sunoAi web转成 openai 格式进行调用
 * 【2024-03-31】[semaphoreui / semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
@@ -4457,6 +4475,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-04-01】[Decscots / Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM) - 
+* 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 * 【2024-03-30】[airockchip / rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
 * 【2024-03-30】[Circuit-Digest / ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
 * 【2024-03-30】[ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -5130,6 +5150,11 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-04-01】[ThePhD / sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
+* 【2024-04-01】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
+* 【2024-04-01】[myscale / myscaledb](https://github.com/myscale/myscaledb) - An open-source, high-performance SQL vector database built on ClickHouse.
+* 【2024-04-01】[kasmtech / KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
+* 【2024-04-01】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 * 【2024-03-31】[tzapu / WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
 * 【2024-03-29】[oneapi-src / oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 * 【2024-03-29】[STEllAR-GROUP / hpx](https://github.com/STEllAR-GROUP/hpx) - The C++ Standard Library for Parallelism and Concurrency
@@ -5775,6 +5800,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-04-01】[EPFLXplore / XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research's robot dog project
+* 【2024-04-01】[erew123 / alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.
 * 【2024-03-31】[syhily / algorithm-anime](https://github.com/syhily/algorithm-anime) - 
 * 【2024-03-31】[okta / okta-sdk-java](https://github.com/okta/okta-sdk-java) - Java SDK for Okta Resource Management
 * 【2024-03-31】[Masterminds / html5-php](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer for PHP.
@@ -6359,6 +6386,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-04-01】[CyanVoxel / Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes) - A Series of Notebook Theme CSS Snippets for Obsidian.
+* 【2024-04-01】[ferdium / ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - Recipes encapsulate your favourite apps into Ferdium for unified notifications handling and more
 * 【2024-03-31】[bernardodangelo / CS2-SkinChanger](https://github.com/bernardodangelo/CS2-SkinChanger) - 
 * 【2024-03-31】[quarkusio / quarkus-super-heroes](https://github.com/quarkusio/quarkus-super-heroes) - Quarkus sample application - Super Heroes
 * 【2024-03-30】[mehmetkahya0 / temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
@@ -7009,6 +7038,13 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-04-01】[h4x0r-dz / Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
+* 【2024-04-01】[Allar / ue5-style-guide](https://github.com/Allar/ue5-style-guide) - An attempt to make Unreal Engine 4 projects more consistent
+* 【2024-04-01】[knassar702 / awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
+* 【2024-04-01】[BINANCECONTRACT / How-to-Create-BEP20-Token](https://github.com/BINANCECONTRACT/How-to-Create-BEP20-Token) - Step By Step Guide to How to Create BEP20 Token and list them on PANCAKE SWAP.
+* 【2024-04-01】[ashemery / malware-tools](https://github.com/ashemery/malware-tools) - A list of useful tools for Malware Analysis (will be updated regularly)
+* 【2024-04-01】[BINANCECONTRACT / Create-BEP20-Meme-Token](https://github.com/BINANCECONTRACT/Create-BEP20-Meme-Token) - Step to Step Guide for how to create meme token in bsc/bep20.
+* 【2024-04-01】[PapirusDevelopmentTeam / papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 * 【2024-03-31】[soufianetahiri / TeamsNTLMLeak](https://github.com/soufianetahiri/TeamsNTLMLeak) - Leak NTLM via Website tab in teams via MS Office
 * 【2024-03-31】[KushalVijay / GetHiredRoadmap2024](https://github.com/KushalVijay/GetHiredRoadmap2024) - 
 * 【2024-03-31】[smartcontractkit / full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
