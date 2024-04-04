@@ -1,6 +1,11 @@
 # github-trending
 ## All language
 
+* 【2024-04-04】[amlweems / xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
+* 【2024-04-04】[zyronon / douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
+* 【2024-04-04】[infiniflow / ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+* 【2024-04-04】[huggingface / cookbook](https://github.com/huggingface/cookbook) - Open-source AI cookbook
+* 【2024-04-04】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
 * 【2024-04-03】[go-nunu / nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 * 【2024-04-03】[dvlab-research / MiniGemini](https://github.com/dvlab-research/MiniGemini) - Official implementation for Mini-Gemini
 * 【2024-04-03】[city-super / Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
@@ -1111,6 +1116,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-04-04】[apache / cxf](https://github.com/apache/cxf) - Apache CXF
 * 【2024-04-03】[spring-projects / spring-security-samples](https://github.com/spring-projects/spring-security-samples) - 
 * 【2024-04-03】[preslavmihaylov / booknotes](https://github.com/preslavmihaylov/booknotes) - A collection of my book notes on various subjects, mainly computer science
 * 【2024-04-03】[siavash79 / PixelXpert](https://github.com/siavash79/PixelXpert) - mixed Xposed+Magisk module for customization of Google Pixel rom of Android 12+
@@ -1773,6 +1779,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-04-04】[X-PLUG / mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
+* 【2024-04-04】[shuxiang / MT-WMS](https://github.com/shuxiang/MT-WMS) - MT-WMS 是开源的支持多仓多货主(multi warehouses, mulit owners)的WMS(仓储管理系统) 遵循Apache License 2.0协议
 * 【2024-04-03】[xorbitsai / inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 * 【2024-04-03】[apocas / restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Precise embeddings usage and tuning.
 * 【2024-04-03】[tamilselvanarjun / quantmodels](https://github.com/tamilselvanarjun/quantmodels) - FinModels` is a Python package that provides implementations of various financial models commonly used in finance and investment analysis.
@@ -2856,6 +2864,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-04-04】[amzn / style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
 * 【2024-04-03】[safak / full-stack-estate](https://github.com/safak/full-stack-estate) - 
 * 【2024-04-03】[urbandroid-team / dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 * 【2024-04-01】[eduardoleao052 / js-torch](https://github.com/eduardoleao052/js-torch) - A JavaScript library like PyTorch, built from scratch.
@@ -3717,6 +3726,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-04-04】[babyname / fate](https://github.com/babyname/fate) - Fate is a modern science chinese name create tool.
 * 【2024-04-03】[ossf / scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 * 【2024-04-03】[fullstorydev / grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 * 【2024-04-01】[EverythingSuckz / TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
@@ -4508,6 +4518,10 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-04-04】[IchigoJam / ichigojam-firm](https://github.com/IchigoJam/ichigojam-firm) - 
+* 【2024-04-04】[Cipher7 / ChaiLdr](https://github.com/Cipher7/ChaiLdr) - AV bypass while you sip your Chai!
+* 【2024-04-04】[kyxiaxiang / Beacon_Source](https://github.com/kyxiaxiang/Beacon_Source) - not a reverse-engineered version of the Cobalt Strike Beacon
+* 【2024-04-04】[hamarituc / xz-backdoor](https://github.com/hamarituc/xz-backdoor) - 
 * 【2024-04-03】[xz-mirror / xz](https://github.com/xz-mirror/xz) - See https://github.com/tukaani-project/xz for the official repository
 * 【2024-04-03】[buserror / libmui](https://github.com/buserror/libmui) - Classic MacOS & GS/OS widget library for linux (and other?)
 * 【2024-04-02】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
@@ -5842,6 +5856,10 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-04-04】[aeonaxy-official / ReactTailwindBoilerplate](https://github.com/aeonaxy-official/ReactTailwindBoilerplate) - 
+* 【2024-04-04】[jgrahamc / gmsl](https://github.com/jgrahamc/gmsl) - GNU Make Standard Library
+* 【2024-04-04】[tailwindlabs / tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
+* 【2024-04-04】[wessamabdelwahab / CSCC1030](https://github.com/wessamabdelwahab/CSCC1030) - 
 * 【2024-04-03】[rod-trent / Copilot-for-Security](https://github.com/rod-trent/Copilot-for-Security) - 
 * 【2024-04-03】[jaiswaladi246 / Boardgame](https://github.com/jaiswaladi246/Boardgame) - 
 * 【2024-04-03】[virtualmin / virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl) - Virtualmin web hosting control panel for Webmin
@@ -6435,6 +6453,12 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-04-04】[MuhammeDTayyiP / Nevammm](https://github.com/MuhammeDTayyiP/Nevammm) - Be Invisible for many games!
+* 【2024-04-04】[ahmadhabibi14 / dotfile](https://github.com/ahmadhabibi14/dotfile) - My linux desktop configuration
+* 【2024-04-04】[CodeSpace-Academy / Module_7_StudentNo_Classcode_Group_Name-Surname_JSL07](https://github.com/CodeSpace-Academy/Module_7_StudentNo_Classcode_Group_Name-Surname_JSL07) - 
+* 【2024-04-04】[10-5-pursuit / API-Calls-with-Fetch](https://github.com/10-5-pursuit/API-Calls-with-Fetch) - 
+* 【2024-04-04】[TheBridge-FullStackDeveloper / usecontextChallenge](https://github.com/TheBridge-FullStackDeveloper/usecontextChallenge) - 
+* 【2024-04-04】[PrimeAcademy / javascript-fungus-fighter](https://github.com/PrimeAcademy/javascript-fungus-fighter) - 
 * 【2024-04-03】[Bytedesk / bytedesk](https://github.com/Bytedesk/bytedesk) - open source ai customer service system，alternative to slack + zendesk + chatpdf。企业IM + 在线客服 + AI助手，打造开源版企业微信/钉钉/飞书
 * 【2024-04-03】[TheBridge-FullStackDeveloper / props](https://github.com/TheBridge-FullStackDeveloper/props) - 
 * 【2024-04-03】[fredemmott / StreamDeck-Discord](https://github.com/fredemmott/StreamDeck-Discord) - Control the Discord application with the Elgato StreamDeck
@@ -7093,6 +7117,11 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-04-04】[bbolker / gLLMglnlmvlvMMM](https://github.com/bbolker/gLLMglnlmvlvMMM) - a generative Large Language Model for generalized linear and nonlinear multivariate latent-variable multilevel/mixed modelling
+* 【2024-04-04】[coinbase / solidity-style-guide](https://github.com/coinbase/solidity-style-guide) - 
+* 【2024-04-04】[nera-nikolayeva / r-six-s](https://github.com/nera-nikolayeva/r-six-s) - PASS - 1234
+* 【2024-04-04】[ShawMerlin / NES-Slotmaster](https://github.com/ShawMerlin/NES-Slotmaster) - A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Front Loader NES
+* 【2024-04-04】[YN3011140075 / our-flutter-template-vnc](https://github.com/YN3011140075/our-flutter-template-vnc) - 
 * 【2024-04-03】[xiaoxinxing66 / Sivan_Cache](https://github.com/xiaoxinxing66/Sivan_Cache) - 🚀 推出 SivanCacheFramework！一款轻量级、高效的 缓存框架，让 缓存操作 变得不再复杂，提升数据处理速度，为开发者节约宝贵时间。
 * 【2024-04-03】[SwiftGGTeam / letsvisionos24-files](https://github.com/SwiftGGTeam/letsvisionos24-files) - 
 * 【2024-04-03】[sbwml / TrollStore_zh_Hans](https://github.com/sbwml/TrollStore_zh_Hans) - TrollStore 简体/繁体中文
