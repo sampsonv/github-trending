@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2024-04-07】[FoundationVision / VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
+* 【2024-04-07】[avito-tech / backend-trainee-assignment-2024](https://github.com/avito-tech/backend-trainee-assignment-2024) - 
+* 【2024-04-07】[mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 * 【2024-04-06】[HardhatChad / ore-cli](https://github.com/HardhatChad/ore-cli) - 
 * 【2024-04-06】[rocketseat-education / nlw-unite-react](https://github.com/rocketseat-education/nlw-unite-react) - Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat
 * 【2024-04-06】[mshumer / gpt-author](https://github.com/mshumer/gpt-author) - 
@@ -1800,6 +1803,12 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-04-07】[InstantStyle / InstantStyle](https://github.com/InstantStyle/InstantStyle) - InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥
+* 【2024-04-07】[python / typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
+* 【2024-04-07】[PhonePe / mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
+* 【2024-04-07】[myshell-ai / JetMoE](https://github.com/myshell-ai/JetMoE) - Reaching LLaMA2 Performance with 0.1M Dollars
+* 【2024-04-07】[posit-dev / great-tables](https://github.com/posit-dev/great-tables) - Easily generate information-rich, publication-quality tables from Python
+* 【2024-04-07】[MervinPraison / PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
 * 【2024-04-06】[qilingframework / qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
 * 【2024-04-06】[zk-Call / zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Python
 * 【2024-04-06】[YaoFANGUK / video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
@@ -2894,6 +2903,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-04-07】[Ottodix / Eole-foobar-theme](https://github.com/Ottodix/Eole-foobar-theme) - Eole blows gently into your ear his nicest melodies.
+* 【2024-04-07】[ExpTechTW / TREM-electron](https://github.com/ExpTechTW/TREM-electron) - Taiwan Real-time Earthquake Monitoring ( 臺灣即時地震監測 )
 * 【2024-04-06】[missuo / FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 * 【2024-04-06】[mscdex / ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 * 【2024-04-05】[jamiebuilds / the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - ⛄ Possibly the smallest compiler ever
@@ -3760,6 +3771,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-04-07】[elastic / cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
+* 【2024-04-07】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
 * 【2024-04-06】[kube-vip / kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 * 【2024-04-06】[AlexanderGrom / go-patterns](https://github.com/AlexanderGrom/go-patterns) - Design patterns in Golang
 * 【2024-04-06】[Netflix / chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
@@ -4559,6 +4572,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-04-07】[alfiecg24 / TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 * 【2024-04-06】[aleksey-hoffman / sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 * 【2024-04-06】[NVIDIAGameWorks / Streamline](https://github.com/NVIDIAGameWorks/Streamline) - Streamline Integration Framework
 * 【2024-04-05】[renderlet / wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
@@ -5249,6 +5263,9 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-04-07】[araujo88 / important-algorithms](https://github.com/araujo88/important-algorithms) - A list of important algorithms to study
+* 【2024-04-07】[projectM-visualizer / projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
+* 【2024-04-07】[stack-of-tasks / pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
 * 【2024-04-06】[GameTechDev / PresentMon](https://github.com/GameTechDev/PresentMon) - Capture and analyze the high-level performance characteristics of graphics applications on Windows.
 * 【2024-04-06】[nukeykt / Nuked-SC55](https://github.com/nukeykt/Nuked-SC55) - SC-55mkII emulation
 * 【2024-04-06】[Neo-Maoku / SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) - 寻找可利用的白文件
@@ -5904,6 +5921,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-04-07】[OWASP / NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 * 【2024-04-06】[WICG / dbsc](https://github.com/WICG/dbsc) - 
 * 【2024-04-06】[TIM168 / technical_books](https://github.com/TIM168/technical_books) - 📚🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中♨️
 * 【2024-04-05】[rocketseat-education / nlw-unite-html-css-js](https://github.com/rocketseat-education/nlw-unite-html-css-js) - Aplicação front-end em HTML+CSS+JS desenvolvida durante o NLW Unite da Rocketseat
@@ -6505,6 +6523,9 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-04-07】[CyanVoxel / Obsidian-Colored-Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) - A Colored Sidebar CSS Snippet for Obsidian.
+* 【2024-04-07】[Miderson / 3c_Sexta](https://github.com/Miderson/3c_Sexta) - 
+* 【2024-04-07】[itscodenation / int-u4l6-23-24-student-exercises](https://github.com/itscodenation/int-u4l6-23-24-student-exercises) - 
 * 【2024-04-06】[matklad / rust-course](https://github.com/matklad/rust-course) - 
 * 【2024-04-06】[CodeSpace-Academy / Module_3_StudentNo_Classcode_Group_Name-Surname_SDF03](https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_SDF03) - 
 * 【2024-04-06】[K3rr / PandaBuy](https://github.com/K3rr/PandaBuy) - Shopping website prototype
