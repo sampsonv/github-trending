@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-04-10】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+* 【2024-04-10】[coollabsio / coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 * 【2024-04-09】[andreasfertig / cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 * 【2024-04-08】[cloudflare / orange](https://github.com/cloudflare/orange) - 
 * 【2024-04-08】[availproject / avail-light](https://github.com/availproject/avail-light) - 
@@ -1138,6 +1140,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-04-10】[Gayanukaa / Spring-Boot-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self-Learn and Testing Environment
 * 【2024-04-08】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 * 【2024-04-08】[ag2s20150909 / TTS](https://github.com/ag2s20150909/TTS) - 
 * 【2024-04-06】[tchiotludo / akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
@@ -1809,6 +1812,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-04-10】[Vision-CAIR / MiniGPT4-video](https://github.com/Vision-CAIR/MiniGPT4-video) - 
+* 【2024-04-10】[AiGptCode / Iphone-14-15-IRAN-Anten](https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten) - آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا
 * 【2024-04-09】[Libr-AI / OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Open-source solution designed to automate the process of verifying factuality
 * 【2024-04-09】[open-mmlab / mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
 * 【2024-04-09】[TMElyralab / MuseTalk](https://github.com/TMElyralab/MuseTalk) - MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
@@ -2919,6 +2924,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-04-10】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
+* 【2024-04-10】[alexpinel / Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
+* 【2024-04-10】[azl397985856 / leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 * 【2024-04-09】[langflow-ai / langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 * 【2024-04-09】[youzan / vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
 * 【2024-04-08】[curtisf / logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users.
@@ -4593,6 +4601,11 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-04-10】[espressif / esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
+* 【2024-04-10】[maharmstone / btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
+* 【2024-04-10】[civetweb / civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
+* 【2024-04-10】[migueletto / PumpkinOS](https://github.com/migueletto/PumpkinOS) - PumpkinOS is a re-implementation of PalmOS.
+* 【2024-04-10】[FascinatedBox / bonk](https://github.com/FascinatedBox/bonk) - X11 window management toolkit
 * 【2024-04-09】[BasedHardware / Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
 * 【2024-04-08】[RsyncProject / rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * 【2024-04-07】[alfiecg24 / TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
@@ -5948,6 +5961,10 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-04-10】[perfildodev / projetosdoperfil](https://github.com/perfildodev/projetosdoperfil) - Projetos de autoria do perfil do dev para os nossos seguidores. Abraços do ADM
+* 【2024-04-10】[tennc / fuzzdb](https://github.com/tennc/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+* 【2024-04-10】[doocs / technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
+* 【2024-04-10】[godbasin / front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
 * 【2024-04-09】[iofeqkurrc42 / jetbra-server-go](https://github.com/iofeqkurrc42/jetbra-server-go) - 
 * 【2024-04-09】[zengm-games / facesjs](https://github.com/zengm-games/facesjs) - A JavaScript library for generating vector-based cartoon faces
 * 【2024-04-09】[dgunning / edgartools](https://github.com/dgunning/edgartools) - Python library for working with SEC Edgar
@@ -6556,6 +6573,10 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-04-10】[piyushsachdeva / 10weeksofcloudops](https://github.com/piyushsachdeva/10weeksofcloudops) - 
+* 【2024-04-10】[TheBridge-FullStackDeveloper / hooks](https://github.com/TheBridge-FullStackDeveloper/hooks) - 
+* 【2024-04-10】[iamstevendao / vue-tel-input](https://github.com/iamstevendao/vue-tel-input) - International Telephone Input with Vue
+* 【2024-04-10】[chenjw / hacktools](https://github.com/chenjw/hacktools) - 自用
 * 【2024-04-09】[creativetimofficial / tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 * 【2024-04-09】[devemdobro / projeto-gta](https://github.com/devemdobro/projeto-gta) - 
 * 【2024-04-09】[CodegirlSchool / shopping-list](https://github.com/CodegirlSchool/shopping-list) - Домашнее задание к модулю "Основы DOM"
@@ -7237,6 +7258,9 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-04-10】[netsecfish / dlink](https://github.com/netsecfish/dlink) - 
+* 【2024-04-10】[plausible / community-edition](https://github.com/plausible/community-edition) - Example docker-compose setups for hosting Plausible Community Edition
+* 【2024-04-10】[github / codespaces-blank](https://github.com/github/codespaces-blank) - 
 * 【2024-04-09】[anu0012 / awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
 * 【2024-04-09】[godotengine / awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 * 【2024-04-09】[niucnet / jinri-cp](https://github.com/niucnet/jinri-cp) - jinricp | 韩国BJ | 韩国女主播 | pandatv | 진리컴퍼니 | jinri company
