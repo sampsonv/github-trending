@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2024-04-11】[karpathy / llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
+* 【2024-04-11】[miurla / morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
+* 【2024-04-11】[datawhalechina / self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
 * 【2024-04-10】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 * 【2024-04-10】[coollabsio / coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 * 【2024-04-09】[andreasfertig / cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
@@ -1140,6 +1143,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-04-11】[datastrato / gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high-performance, geo-distributed and federated metadata lake.
+* 【2024-04-11】[quartz-scheduler / quartz](https://github.com/quartz-scheduler/quartz) - Code for Quartz Scheduler
 * 【2024-04-10】[Gayanukaa / Spring-Boot-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self-Learn and Testing Environment
 * 【2024-04-08】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 * 【2024-04-08】[ag2s20150909 / TTS](https://github.com/ag2s20150909/TTS) - 
@@ -1812,6 +1817,10 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-04-11】[LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+* 【2024-04-11】[jmerle / imc-prosperity-2-backtester](https://github.com/jmerle/imc-prosperity-2-backtester) - Backtester for IMC Prosperity 2 algorithms
+* 【2024-04-11】[Filimoa / open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
+* 【2024-04-11】[blasty / JiaTansSSHAgent](https://github.com/blasty/JiaTansSSHAgent) - 
 * 【2024-04-10】[Vision-CAIR / MiniGPT4-video](https://github.com/Vision-CAIR/MiniGPT4-video) - 
 * 【2024-04-10】[AiGptCode / Iphone-14-15-IRAN-Anten](https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten) - آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا
 * 【2024-04-09】[Libr-AI / OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Open-source solution designed to automate the process of verifying factuality
@@ -2924,6 +2933,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-04-11】[camwiegert / typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * 【2024-04-10】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
 * 【2024-04-10】[alexpinel / Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
 * 【2024-04-10】[azl397985856 / leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
@@ -3800,6 +3810,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-04-11】[flipt-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-07】[elastic / cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 * 【2024-04-07】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
 * 【2024-04-06】[kube-vip / kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
@@ -4601,6 +4612,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-04-11】[bb-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 * 【2024-04-10】[espressif / esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
 * 【2024-04-10】[maharmstone / btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 * 【2024-04-10】[civetweb / civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
@@ -5299,6 +5311,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-04-11】[s60sc / ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) - ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via FTP or downloaded to browser.
+* 【2024-04-11】[GothenburgBitFactory / taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 * 【2024-04-09】[zk-Call / zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - "Zero-Knowledge" Proof Implementation with HMAC Communication in C++
 * 【2024-04-09】[PacktPublishing / C-High-Performance-for-Financial-Systems-](https://github.com/PacktPublishing/C-High-Performance-for-Financial-Systems-) - 
 * 【2024-04-08】[Avinash987 / Coding](https://github.com/Avinash987/Coding) - Data Structures and Algorithms (DSA) Preparation sheet
@@ -5961,6 +5975,12 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-04-11】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
+* 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
+* 【2024-04-11】[alura-challenges / challenge-one-portafolio-latam](https://github.com/alura-challenges/challenge-one-portafolio-latam) - Repositorio base para desafio 1 Cree su própio Portafolio del Challenge ONE Front end
+* 【2024-04-11】[alura-challenges / challenge-one-portfolio-br](https://github.com/alura-challenges/challenge-one-portfolio-br) - Repositorio Base para desenvolvimento do Desafio 1 Crie seu próprio Portfólio do Challenge ONE Front end
+* 【2024-04-11】[sunaku / glove80-keymaps](https://github.com/sunaku/glove80-keymaps) - "Glorious Engrammer" keymap for Glove80 keyboard
+* 【2024-04-11】[rust-lang / rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 * 【2024-04-10】[perfildodev / projetosdoperfil](https://github.com/perfildodev/projetosdoperfil) - Projetos de autoria do perfil do dev para os nossos seguidores. Abraços do ADM
 * 【2024-04-10】[tennc / fuzzdb](https://github.com/tennc/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 * 【2024-04-10】[doocs / technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
@@ -6573,6 +6593,11 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-04-11】[parthwebdev / UI-Components](https://github.com/parthwebdev/UI-Components) - Some Awesome UI Components made with HTML, CSS and JavaScript.
+* 【2024-04-11】[kpman / blog](https://github.com/kpman/blog) - Personal blog powered by Next.js
+* 【2024-04-11】[MuriithiEric / plp-task-management](https://github.com/MuriithiEric/plp-task-management) - 
+* 【2024-04-11】[TheBridge-FullStackDeveloper / redux-task](https://github.com/TheBridge-FullStackDeveloper/redux-task) - 
+* 【2024-04-11】[apache / dubbo-website](https://github.com/apache/dubbo-website) - Apache Dubbo documents
 * 【2024-04-10】[piyushsachdeva / 10weeksofcloudops](https://github.com/piyushsachdeva/10weeksofcloudops) - 
 * 【2024-04-10】[TheBridge-FullStackDeveloper / hooks](https://github.com/TheBridge-FullStackDeveloper/hooks) - 
 * 【2024-04-10】[iamstevendao / vue-tel-input](https://github.com/iamstevendao/vue-tel-input) - International Telephone Input with Vue
@@ -7258,6 +7283,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-04-11】[trusted-point / 0g-tools](https://github.com/trusted-point/0g-tools) - 0G Validator Guide
+* 【2024-04-11】[ddz16 / TSFpaper](https://github.com/ddz16/TSFpaper) - This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio-Temporal Forecasting/Prediction (STF). These papers are mainly categorized according to the type of model.
 * 【2024-04-10】[netsecfish / dlink](https://github.com/netsecfish/dlink) - 
 * 【2024-04-10】[plausible / community-edition](https://github.com/plausible/community-edition) - Example docker-compose setups for hosting Plausible Community Edition
 * 【2024-04-10】[github / codespaces-blank](https://github.com/github/codespaces-blank) - 
