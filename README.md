@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2024-04-12】[nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
+* 【2024-04-12】[tidwall / neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
+* 【2024-04-12】[code100x / cms](https://github.com/code100x/cms) - 
 * 【2024-04-11】[karpathy / llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 * 【2024-04-11】[miurla / morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 * 【2024-04-11】[datawhalechina / self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
@@ -1817,6 +1820,12 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-04-12】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
+* 【2024-04-12】[celery / celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+* 【2024-04-12】[THUDM / ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+* 【2024-04-12】[PrefectHQ / prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+* 【2024-04-12】[newren / git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+* 【2024-04-12】[cyrus-and / gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 * 【2024-04-11】[LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 * 【2024-04-11】[jmerle / imc-prosperity-2-backtester](https://github.com/jmerle/imc-prosperity-2-backtester) - Backtester for IMC Prosperity 2 algorithms
 * 【2024-04-11】[Filimoa / open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
@@ -3810,6 +3819,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-04-12】[dolthub / go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 * 【2024-04-11】[flipt-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-07】[elastic / cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 * 【2024-04-07】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
@@ -5311,6 +5321,9 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-04-12】[microsoft / proxy](https://github.com/microsoft/proxy) - Proxy: Next Generation Polymorphism in C++
+* 【2024-04-12】[Kitware / VTK](https://github.com/Kitware/VTK) - Mirror of Visualization Toolkit repository
+* 【2024-04-12】[mfem / mfem](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods
 * 【2024-04-11】[s60sc / ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) - ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via FTP or downloaded to browser.
 * 【2024-04-11】[GothenburgBitFactory / taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 * 【2024-04-09】[zk-Call / zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - "Zero-Knowledge" Proof Implementation with HMAC Communication in C++
@@ -5975,6 +5988,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-04-12】[WuSuoV / YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 * 【2024-04-11】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 * 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 * 【2024-04-11】[alura-challenges / challenge-one-portafolio-latam](https://github.com/alura-challenges/challenge-one-portafolio-latam) - Repositorio base para desafio 1 Cree su própio Portafolio del Challenge ONE Front end
@@ -6593,6 +6607,9 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-04-12】[BethMassi / HybridSharedUI](https://github.com/BethMassi/HybridSharedUI) - This is an example of a starter solution that sets up a MAUI hybrid app and a Blazor web app that shares all of its UI
+* 【2024-04-12】[open-webui / docs](https://github.com/open-webui/docs) - 
+* 【2024-04-12】[aneagoie / keiko-corp](https://github.com/aneagoie/keiko-corp) - The greatest startup ever created
 * 【2024-04-11】[parthwebdev / UI-Components](https://github.com/parthwebdev/UI-Components) - Some Awesome UI Components made with HTML, CSS and JavaScript.
 * 【2024-04-11】[kpman / blog](https://github.com/kpman/blog) - Personal blog powered by Next.js
 * 【2024-04-11】[MuriithiEric / plp-task-management](https://github.com/MuriithiEric/plp-task-management) - 
@@ -7283,6 +7300,9 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-04-12】[zhuima / awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。
+* 【2024-04-12】[ga642381 / speech-trident](https://github.com/ga642381/speech-trident) - Awesome speech/audio LLMs, representation learning, and codec models
+* 【2024-04-12】[0xk1h0 / ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 * 【2024-04-11】[trusted-point / 0g-tools](https://github.com/trusted-point/0g-tools) - 0G Validator Guide
 * 【2024-04-11】[ddz16 / TSFpaper](https://github.com/ddz16/TSFpaper) - This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio-Temporal Forecasting/Prediction (STF). These papers are mainly categorized according to the type of model.
 * 【2024-04-10】[netsecfish / dlink](https://github.com/netsecfish/dlink) - 
