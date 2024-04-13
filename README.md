@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-04-13】[YuriiCrimson / ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) - Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5
+* 【2024-04-13】[google-gemini / cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
+* 【2024-04-13】[PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
+* 【2024-04-13】[grafana / alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
 * 【2024-04-12】[nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
 * 【2024-04-12】[tidwall / neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
 * 【2024-04-12】[code100x / cms](https://github.com/code100x/cms) - 
@@ -1820,6 +1824,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-04-13】[google-deepmind / recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin.
+* 【2024-04-13】[AIRI-Institute / OmniFusion](https://github.com/AIRI-Institute/OmniFusion) - OmniFusion — a multimodal model to communicate using text and images
+* 【2024-04-13】[huggingface / parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
+* 【2024-04-13】[trekhleb / learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+* 【2024-04-13】[NaishengZhang / book-recommendation-system](https://github.com/NaishengZhang/book-recommendation-system) - Book Recommendation System
 * 【2024-04-12】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 * 【2024-04-12】[celery / celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 * 【2024-04-12】[THUDM / ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
@@ -2942,6 +2951,10 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-04-13】[apachecn / rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) - 
+* 【2024-04-13】[nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+* 【2024-04-13】[dai-shi / use-signals](https://github.com/dai-shi/use-signals) - An experimental React hook for TC39 signals
+* 【2024-04-13】[moment / moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 * 【2024-04-11】[camwiegert / typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * 【2024-04-10】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
 * 【2024-04-10】[alexpinel / Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
@@ -4622,6 +4635,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-04-13】[tukaani-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
 * 【2024-04-11】[bb-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 * 【2024-04-10】[espressif / esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
 * 【2024-04-10】[maharmstone / btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
@@ -5988,6 +6002,11 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-04-13】[ClickHouse / adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
+* 【2024-04-13】[Qadeer0937 / Dead-By-Daylight-Extrnl](https://github.com/Qadeer0937/Dead-By-Daylight-Extrnl) - for youtube video
+* 【2024-04-13】[Ben00000000 / Working-Hwid-Spoofer](https://github.com/Ben00000000/Working-Hwid-Spoofer) - 
+* 【2024-04-13】[tc39 / proposal-set-methods](https://github.com/tc39/proposal-set-methods) - Proposal for new Set methods in JS
+* 【2024-04-13】[naxiaoduo / 1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
 * 【2024-04-12】[WuSuoV / YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 * 【2024-04-11】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 * 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
@@ -6607,6 +6626,10 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-04-13】[github-copilot-workshop / copilot-petclinic](https://github.com/github-copilot-workshop/copilot-petclinic) - 
+* 【2024-04-13】[sapondanaisriwan / AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options.
+* 【2024-04-13】[ShreyNaithani / Movavi-Free-Crack](https://github.com/ShreyNaithani/Movavi-Free-Crack) - 
+* 【2024-04-13】[ISM6225 / Assignment_LookAndFeel](https://github.com/ISM6225/Assignment_LookAndFeel) - 
 * 【2024-04-12】[BethMassi / HybridSharedUI](https://github.com/BethMassi/HybridSharedUI) - This is an example of a starter solution that sets up a MAUI hybrid app and a Blazor web app that shares all of its UI
 * 【2024-04-12】[open-webui / docs](https://github.com/open-webui/docs) - 
 * 【2024-04-12】[aneagoie / keiko-corp](https://github.com/aneagoie/keiko-corp) - The greatest startup ever created
@@ -7300,6 +7323,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-04-13】[WUYANXIUSHI / BLACK_NEWS](https://github.com/WUYANXIUSHI/BLACK_NEWS) - 北京邮电大学郑凤事件完整pdf
+* 【2024-04-13】[Edr4 / XSS-Bypass-Filters](https://github.com/Edr4/XSS-Bypass-Filters) - 
+* 【2024-04-13】[eric-ai-lab / swap-anything](https://github.com/eric-ai-lab/swap-anything) - 
+* 【2024-04-13】[CLOUDUH / dual-wechat](https://github.com/CLOUDUH/dual-wechat) - 如何在Mac上通过脚本实现微信双开，并通过自动操作创建应用程序，修改图标后直接当作第二个微信使用，无需打开终端输入代码，且双开后无终端出现。
 * 【2024-04-12】[zhuima / awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。
 * 【2024-04-12】[ga642381 / speech-trident](https://github.com/ga642381/speech-trident) - Awesome speech/audio LLMs, representation learning, and codec models
 * 【2024-04-12】[0xk1h0 / ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
