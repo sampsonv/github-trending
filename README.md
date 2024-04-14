@@ -1,6 +1,12 @@
 # github-trending
 ## All language
 
+* 【2024-04-14】[eknkc / ssr-benchmark](https://github.com/eknkc/ssr-benchmark) - Benchmarking JS web framework SSR performance
+* 【2024-04-14】[itsmattkc / dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
+* 【2024-04-14】[Azure / Copilot-For-Security](https://github.com/Azure/Copilot-For-Security) - Microsoft Copilot for Security is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles
+* 【2024-04-14】[saasfly / saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
+* 【2024-04-14】[BITNP / BIThesis](https://github.com/BITNP/BIThesis) - 📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）
+* 【2024-04-14】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
 * 【2024-04-13】[YuriiCrimson / ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) - Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5
 * 【2024-04-13】[google-gemini / cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
 * 【2024-04-13】[PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
@@ -1150,6 +1156,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-04-14】[apache / hertzbeat](https://github.com/apache/hertzbeat) - HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 * 【2024-04-11】[datastrato / gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high-performance, geo-distributed and federated metadata lake.
 * 【2024-04-11】[quartz-scheduler / quartz](https://github.com/quartz-scheduler/quartz) - Code for Quartz Scheduler
 * 【2024-04-10】[Gayanukaa / Spring-Boot-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self-Learn and Testing Environment
@@ -1824,6 +1831,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-04-14】[huggingface / dataspeech](https://github.com/huggingface/dataspeech) - 
+* 【2024-04-14】[VRSEN / agency-swarm-lab](https://github.com/VRSEN/agency-swarm-lab) - 
 * 【2024-04-13】[google-deepmind / recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin.
 * 【2024-04-13】[AIRI-Institute / OmniFusion](https://github.com/AIRI-Institute/OmniFusion) - OmniFusion — a multimodal model to communicate using text and images
 * 【2024-04-13】[huggingface / parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
@@ -2951,6 +2960,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-04-14】[leibnizli / hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html/mp4/mov) App, it can convert different format pictures, support for macOS and Windows.
+* 【2024-04-14】[safak / react-firebase-chat](https://github.com/safak/react-firebase-chat) - 
+* 【2024-04-14】[pixeltris / TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 * 【2024-04-13】[apachecn / rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) - 
 * 【2024-04-13】[nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 * 【2024-04-13】[dai-shi / use-signals](https://github.com/dai-shi/use-signals) - An experimental React hook for TC39 signals
@@ -6002,6 +6014,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-04-14】[stanford-oval / storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+* 【2024-04-14】[OWASP / Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 * 【2024-04-13】[ClickHouse / adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 * 【2024-04-13】[Qadeer0937 / Dead-By-Daylight-Extrnl](https://github.com/Qadeer0937/Dead-By-Daylight-Extrnl) - for youtube video
 * 【2024-04-13】[Ben00000000 / Working-Hwid-Spoofer](https://github.com/Ben00000000/Working-Hwid-Spoofer) - 
@@ -6626,6 +6640,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-04-14】[rodolfomori / dev-previsao](https://github.com/rodolfomori/dev-previsao) - 
+* 【2024-04-14】[TheBridge-FullStackDeveloper / gitData](https://github.com/TheBridge-FullStackDeveloper/gitData) - 
 * 【2024-04-13】[github-copilot-workshop / copilot-petclinic](https://github.com/github-copilot-workshop/copilot-petclinic) - 
 * 【2024-04-13】[sapondanaisriwan / AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options.
 * 【2024-04-13】[ShreyNaithani / Movavi-Free-Crack](https://github.com/ShreyNaithani/Movavi-Free-Crack) - 
@@ -7323,6 +7339,12 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-04-14】[Abhay5855 / Mission-frontend](https://github.com/Abhay5855/Mission-frontend) - A curated list of Javascript, React, Machine coding problems, Pattern questions, basic backend knowledge and fundamentals questions all in one.
+* 【2024-04-14】[SamurAIGPT / Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
+* 【2024-04-14】[DEBAGanov / interview_questions](https://github.com/DEBAGanov/interview_questions) - Java Developer Interview Preparation Materials
+* 【2024-04-14】[tldrsec / awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
+* 【2024-04-14】[spocky / miproja1](https://github.com/spocky/miproja1) - 
+* 【2024-04-14】[dinaashraf20003 / Software-Internship-Guide](https://github.com/dinaashraf20003/Software-Internship-Guide) - Software Internship Guide for Egyptian Undergraduates
 * 【2024-04-13】[WUYANXIUSHI / BLACK_NEWS](https://github.com/WUYANXIUSHI/BLACK_NEWS) - 北京邮电大学郑凤事件完整pdf
 * 【2024-04-13】[Edr4 / XSS-Bypass-Filters](https://github.com/Edr4/XSS-Bypass-Filters) - 
 * 【2024-04-13】[eric-ai-lab / swap-anything](https://github.com/eric-ai-lab/swap-anything) - 
