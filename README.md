@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-04-29】[pytorch / torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training
+* 【2024-04-29】[plaintextpackets / netprobe_lite](https://github.com/plaintextpackets/netprobe_lite) - Simple internet performance tester written in Python
 * 【2024-04-28】[adam-maj / tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 * 【2024-04-28】[microsoft / MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 * 【2024-04-28】[EricLBuehler / mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
@@ -1213,6 +1215,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-04-29】[Col-E / Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
+* 【2024-04-29】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced.
+* 【2024-04-29】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-04-28】[reactor / reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM
 * 【2024-04-27】[OpenSPG / openspg](https://github.com/OpenSPG/openspg) - OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) kNext SDK(python): LLM-enhanced knowledge construction, reasoning and generation
 * 【2024-04-25】[react-native-cameraroll / react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library.
@@ -1911,6 +1916,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-04-29】[mbzuai-oryx / LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
+* 【2024-04-29】[sarperavci / GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
+* 【2024-04-29】[pangao1990 / PPX](https://github.com/pangao1990/PPX) - 基于 JavaScript 和 Python，一键生成 macOS 和 Windows 平台客户端应用
 * 【2024-04-28】[CrazyBoyM / phi3-Chinese](https://github.com/CrazyBoyM/phi3-Chinese) - Phi3 中文仓库
 * 【2024-04-28】[TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio) - A file and photo management application and system.
 * 【2024-04-28】[OWASP / OFFAT](https://github.com/OWASP/OFFAT) - The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities, though full compatibility with OAS v3 is pending. The project remains a work in progress, continuously evolving towards completion.
@@ -3099,6 +3107,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-04-29】[Lunakepio / Mario-Bros.js](https://github.com/Lunakepio/Mario-Bros.js) - A Mario Bros in 3D with React
+* 【2024-04-29】[minbrowser / min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 * 【2024-04-27】[fatwang2 / search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 * 【2024-04-26】[0xlau / biliplus](https://github.com/0xlau/biliplus) - 🧩 A Chrome/Edge extension to feel better in bilibili.com
 * 【2024-04-26】[ErickWendel / parallelizing-nodejs-ops](https://github.com/ErickWendel/parallelizing-nodejs-ops) - Example of how to Migrate 1M items from MongoDB to Postgres in just a few minutes using Node.js child process
@@ -4011,6 +4021,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-04-29】[talostrading / sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
+* 【2024-04-29】[ABCDELabs / Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 * 【2024-04-27】[zk-Call / zkp-hmac-communication-go](https://github.com/zk-Call/zkp-hmac-communication-go) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Go
 * 【2024-04-27】[Dhravya / radish](https://github.com/Dhravya/radish) - Super fast drop-in replacement of the in memory key-value store Redis, made in Golang
 * 【2024-04-27】[kubernetes-sigs / descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
@@ -5561,6 +5573,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-04-29】[leejet / stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
 * 【2024-04-28】[turingmotors / swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.
 * 【2024-04-28】[facebookexternal / nimble](https://github.com/facebookexternal/nimble) - New file format for storage of large columnar datasets.
 * 【2024-04-28】[prusa3d / Prusa-Firmware-ESP32-Cam](https://github.com/prusa3d/Prusa-Firmware-ESP32-Cam) - Firmware for ESP32 Cam modules to be used in Prusa Connect
@@ -6245,6 +6258,10 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-04-29】[celesWuff / waterctl](https://github.com/celesWuff/waterctl) - 深圳市常工电子“蓝牙水控器”控制程序的开源实现。适用于国内各大高校宿舍热水器。
+* 【2024-04-29】[SajedHassan / CSEx61-dockerized-pintos](https://github.com/SajedHassan/CSEx61-dockerized-pintos) - 
+* 【2024-04-29】[codewithsadee / grilli](https://github.com/codewithsadee/grilli) - Grilli is a fully responsive restaurant website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+* 【2024-04-29】[elidianaandrade / dio-lab-portfolio](https://github.com/elidianaandrade/dio-lab-portfolio) - Repositório do lab Construindo seu Portfólio Front-end do Zero da Digital Innovation One.
 * 【2024-04-28】[Jamil226 / WebAppDev](https://github.com/Jamil226/WebAppDev) - 
 * 【2024-04-28】[jaykali / lockphish](https://github.com/jaykali/lockphish) - Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
 * 【2024-04-28】[LiveDuo / destack](https://github.com/LiveDuo/destack) - Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!
@@ -7652,6 +7669,9 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-04-29】[ImplFerris / LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
+* 【2024-04-29】[arpit20adlakha / Data-Structure-Algorithms-LLD-HLD](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD) - A Data Structure Algorithms Low Level Design and High Level Design collection of resources.
+* 【2024-04-29】[Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 * 【2024-04-28】[brexhq / prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 * 【2024-04-28】[OdysseusYuan / Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 * 【2024-04-28】[Finallyt / Heroglyph](https://github.com/Finallyt/Heroglyph) - Incentives For Transforming Ethereum Validator Dynamics
