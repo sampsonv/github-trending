@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-04-30】[LukeMathWalker / zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 * 【2024-04-29】[pytorch / torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training
 * 【2024-04-29】[plaintextpackets / netprobe_lite](https://github.com/plaintextpackets/netprobe_lite) - Simple internet performance tester written in Python
 * 【2024-04-28】[adam-maj / tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
@@ -1215,6 +1216,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-04-30】[lgp547 / any-door](https://github.com/lgp547/any-door) - 
 * 【2024-04-29】[Col-E / Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 * 【2024-04-29】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced.
 * 【2024-04-29】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
@@ -1916,6 +1918,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-04-30】[autonomousvision / gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - Gaussian Opacity Fields for Efficient and Compact Surface Reconstruction in Unbounded Scenes
 * 【2024-04-29】[mbzuai-oryx / LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
 * 【2024-04-29】[sarperavci / GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
 * 【2024-04-29】[pangao1990 / PPX](https://github.com/pangao1990/PPX) - 基于 JavaScript 和 Python，一键生成 macOS 和 Windows 平台客户端应用
@@ -3107,6 +3110,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-04-30】[ibrahimaitech / IBRAHIM-MD](https://github.com/ibrahimaitech/IBRAHIM-MD) - Black panther md the fastest wabot that helps WhatsApp users to enjoy smooth life
+* 【2024-04-30】[jadehh / TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
 * 【2024-04-29】[Lunakepio / Mario-Bros.js](https://github.com/Lunakepio/Mario-Bros.js) - A Mario Bros in 3D with React
 * 【2024-04-29】[minbrowser / min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 * 【2024-04-27】[fatwang2 / search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
@@ -4021,6 +4026,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-04-30】[geektutu / 7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
 * 【2024-04-29】[talostrading / sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go.
 * 【2024-04-29】[ABCDELabs / Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 * 【2024-04-27】[zk-Call / zkp-hmac-communication-go](https://github.com/zk-Call/zkp-hmac-communication-go) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Go
@@ -4849,6 +4855,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-04-30】[raysan5 / raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 * 【2024-04-28】[KartKrewDev / RingRacers](https://github.com/KartKrewDev/RingRacers) - 
 * 【2024-04-28】[PhysicsDptAngers / polyUAnalog](https://github.com/PhysicsDptAngers/polyUAnalog) - Open source, analog and polyphonic synthesizer
 * 【2024-04-25】[OpenNJet / OpenNJet](https://github.com/OpenNJet/OpenNJet) - 
@@ -6917,6 +6924,10 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-04-30】[technomancy-dev / 00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
+* 【2024-04-30】[WinTenDev / ZiziBot-Engine](https://github.com/WinTenDev/ZiziBot-Engine) - 5th Gen ZiziBot Engine
+* 【2024-04-30】[gunners6518 / Netflix-clone](https://github.com/gunners6518/Netflix-clone) - This is a Netflix clone application made with React+TypeScript.
+* 【2024-04-30】[ibm-developer-skills-network / grihf-frontend_capstone_starter_code](https://github.com/ibm-developer-skills-network/grihf-frontend_capstone_starter_code) - frontend_capstone_starter_code
 * 【2024-04-28】[yep / yep.github.io](https://github.com/yep/yep.github.io) - GitHub page
 * 【2024-04-27】[P4ScriptsFivem / pappu-multicharacter](https://github.com/P4ScriptsFivem/pappu-multicharacter) - QBCore Multicharacter And inspired by NoPixel 4.0.
 * 【2024-04-27】[Danmendua / AlBot](https://github.com/Danmendua/AlBot) - 
@@ -7669,6 +7680,9 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-04-30】[func25 / go-practical-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
+* 【2024-04-30】[project-fika / Fika-Documentation](https://github.com/project-fika/Fika-Documentation) - 
+* 【2024-04-30】[github / roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 * 【2024-04-29】[ImplFerris / LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 * 【2024-04-29】[arpit20adlakha / Data-Structure-Algorithms-LLD-HLD](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD) - A Data Structure Algorithms Low Level Design and High Level Design collection of resources.
 * 【2024-04-29】[Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
