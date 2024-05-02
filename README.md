@@ -1,6 +1,13 @@
 # github-trending
 ## All language
 
+* 【2024-05-02】[felipemotarocha / fullstackweek-foods](https://github.com/felipemotarocha/fullstackweek-foods) - 
+* 【2024-05-02】[Brackeys / first-game-in-godot](https://github.com/Brackeys/first-game-in-godot) - Project files for our video on making your first game in Godot.
+* 【2024-05-02】[mlabonne / llm-datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning.
+* 【2024-05-02】[kubernetes / community](https://github.com/kubernetes/community) - Kubernetes community content
+* 【2024-05-02】[TheAlgorithms / Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
+* 【2024-05-02】[OpenGVLab / InternVL](https://github.com/OpenGVLab/InternVL) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源模型
+* 【2024-05-02】[microsoft / vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 * 【2024-05-01】[ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 * 【2024-05-01】[Kludex / fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 * 【2024-05-01】[obhq / jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
@@ -1222,6 +1229,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-05-02】[vvb2060 / KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
+* 【2024-05-02】[eclipse-openj9 / openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
+* 【2024-05-02】[0ofo / Deswing](https://github.com/0ofo/Deswing) - 图形化Java反序列化利用工具，集成Ysoserial
 * 【2024-05-01】[AutoMQ / automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-native fork of Kafka by separating storage to S3. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
 * 【2024-04-30】[lgp547 / any-door](https://github.com/lgp547/any-door) - 
 * 【2024-04-29】[Col-E / Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
@@ -1925,6 +1935,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-05-02】[magic-research / PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
+* 【2024-05-02】[openai / gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
+* 【2024-05-02】[plotly / dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+* 【2024-05-02】[UniModal4Reasoning / ChartVLM](https://github.com/UniModal4Reasoning/ChartVLM) - Official Repository of ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning
+* 【2024-05-02】[snap-stanford / stark](https://github.com/snap-stanford/stark) - Official Code of "STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases"
 * 【2024-05-01】[microsoft / FILM](https://github.com/microsoft/FILM) - Official repo for "Make Your LLM Fully Utilize the Context"
 * 【2024-05-01】[VinciGit00 / Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 * 【2024-04-30】[autonomousvision / gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - Gaussian Opacity Fields for Efficient and Compact Surface Reconstruction in Unbounded Scenes
@@ -3119,6 +3134,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-05-02】[websockets / ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+* 【2024-05-02】[zenoamaro / react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
+* 【2024-05-02】[hjdhnx / hipy-server](https://github.com/hjdhnx/hipy-server) - hipy t4服务后端
 * 【2024-05-01】[select2 / select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * 【2024-05-01】[iGaoWei / BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
 * 【2024-05-01】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
@@ -4039,6 +4057,9 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
+* 【2024-05-02】[kaytu-io / kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.
+* 【2024-05-02】[crowdsecurity / crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 * 【2024-05-01】[nats-io / nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 * 【2024-05-01】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node. 💾⏰💪
 * 【2024-04-30】[geektutu / 7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
@@ -4870,6 +4891,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-05-02】[Polprzewodnikowy / SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - SummerCart64 - a fully open source N64 flashcart
 * 【2024-05-01】[jstrosch / learning-malware-analysis](https://github.com/jstrosch/learning-malware-analysis) - This repository contains sample programs that mimick behavior found in real-world malware. The goal is to provide source code that can be compiled and used for learning purposes, without having to worry about handling live malware.
 * 【2024-05-01】[exploits-forsale / CVE-2024-21345](https://github.com/exploits-forsale/CVE-2024-21345) - Proof-of-Concept for CVE-2024-21345
 * 【2024-05-01】[gyf304 / dotenv](https://github.com/gyf304/dotenv) - Standalone, language agnostic dotenv
@@ -6287,6 +6309,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-05-02】[Azure / AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
+* 【2024-05-02】[opipari / DeepRobWeb](https://github.com/opipari/DeepRobWeb) - Deep Learning for Robot Perception
 * 【2024-05-01】[macadmins / sofa](https://github.com/macadmins/sofa) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
 * 【2024-05-01】[TacoGuy21 / ByeBlocker](https://github.com/TacoGuy21/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 * 【2024-04-29】[celesWuff / waterctl](https://github.com/celesWuff/waterctl) - 深圳市常工电子“蓝牙水控器”控制程序的开源实现。适用于国内各大高校宿舍热水器。
@@ -6948,6 +6972,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-05-02】[hydralauncher / hydra-website](https://github.com/hydralauncher/hydra-website) - 
+* 【2024-05-02】[efemkay / obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
 * 【2024-05-01】[moveit / moveit2_tutorials](https://github.com/moveit/moveit2_tutorials) - A sphinx-based centralized documentation repo for MoveIt 2
 * 【2024-04-30】[technomancy-dev / 00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
 * 【2024-04-30】[WinTenDev / ZiziBot-Engine](https://github.com/WinTenDev/ZiziBot-Engine) - 5th Gen ZiziBot Engine
@@ -7705,6 +7731,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-05-02】[codenihar / ml](https://github.com/codenihar/ml) - This repo contains all the resources related to the massive mass coders machine learning series
+* 【2024-05-02】[KQLMSPress / definitive-guide-kql](https://github.com/KQLMSPress/definitive-guide-kql) - Sample queries and data as part of the Microsoft Press book, The Definitive Guide to KQL
 * 【2024-05-01】[harsharock / BaseCamp](https://github.com/harsharock/BaseCamp) - BaseCamp Contracts
 * 【2024-05-01】[jkiolppm / Crypto-Miner-Soft](https://github.com/jkiolppm/Crypto-Miner-Soft) - miner bitcoin-mining crypto-miner bitcoin-miner cryptocurrency-mining xmr-miner dual-mining ton-miner btc-miner rvn-miner xna-miner ergo-miner kas-miner neox-miner ctxc-miner zephyr-miner zeph-miner aeon-miner zcash-miner open-sources-code-github
 * 【2024-05-01】[CodingChallengesFYI / SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
