@@ -1,6 +1,13 @@
 # github-trending
 ## All language
 
+* 【2024-05-04】[KindXiaoming / pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
+* 【2024-05-04】[GistNoesis / FourierKAN](https://github.com/GistNoesis/FourierKAN) - 
+* 【2024-05-04】[a-real-ai / pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models.
+* 【2024-05-04】[remix-run / remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+* 【2024-05-04】[fcori47 / basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) - 
+* 【2024-05-04】[typeorm / typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+* 【2024-05-04】[rust-lang / rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 * 【2024-05-03】[dnhkng / GlaDOS](https://github.com/dnhkng/GlaDOS) - Personality Core
 * 【2024-05-03】[TheOfficialFloW / PPPwn](https://github.com/TheOfficialFloW/PPPwn) - PPPwn - PlayStation 4 PPPoE RCE
 * 【2024-05-03】[TracecatHQ / tracecat](https://github.com/TracecatHQ/tracecat) - 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
@@ -1237,6 +1244,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-05-04】[hiteshchoudhary / React-native-projects](https://github.com/hiteshchoudhary/React-native-projects) - Learn React native with this free series on youtube (powered by Hashnode)
+* 【2024-05-04】[GoogleCloudPlatform / spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
+* 【2024-05-04】[razerdp / BasePopup](https://github.com/razerdp/BasePopup) - Android下打造通用便捷的PopupWindow弹窗库
 * 【2024-05-03】[ddd-by-examples / library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 * 【2024-05-02】[vvb2060 / KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
 * 【2024-05-02】[eclipse-openj9 / openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
@@ -1944,6 +1954,10 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-05-04】[e2b-dev / code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
+* 【2024-05-04】[dai-motoki / zoltraak](https://github.com/dai-motoki/zoltraak) - 
+* 【2024-05-04】[ToTheBeginning / PuLID](https://github.com/ToTheBeginning/PuLID) - Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
+* 【2024-05-04】[xcapt0 / gpt2_chatbot](https://github.com/xcapt0/gpt2_chatbot) - ☕ GPT-2 chatbot for daily conversation
 * 【2024-05-03】[pyinfra-dev / pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.
 * 【2024-05-03】[P1sec / QCSuper](https://github.com/P1sec/QCSuper) - QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things.
 * 【2024-05-03】[run-llama / llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
@@ -3149,6 +3163,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-05-04】[jsdelivr / jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 * 【2024-05-03】[IvanGlinkin / CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings
 * 【2024-05-03】[mouricedevs / Gifted-Md](https://github.com/mouricedevs/Gifted-Md) - Gifted Md is a Cool Multi-Device WhatsApp bot which offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 * 【2024-05-03】[TacoGuy21 / Greatsword-V3](https://github.com/TacoGuy21/Greatsword-V3) - ***Please star if you fork*** (This is an unblocker, link making tutorial attached below.)
@@ -4910,6 +4925,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-05-04】[EdgeTX / edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
+* 【2024-05-04】[lizrice / learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more
 * 【2024-05-03】[cpldcpu / BitNetMCU](https://github.com/cpldcpu/BitNetMCU) - Neural Networks with low bit weights on a CH32V003 RISC-V Microcontroller without multiplication
 * 【2024-05-02】[Polprzewodnikowy / SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - SummerCart64 - a fully open source N64 flashcart
 * 【2024-05-01】[jstrosch / learning-malware-analysis](https://github.com/jstrosch/learning-malware-analysis) - This repository contains sample programs that mimick behavior found in real-world malware. The goal is to provide source code that can be compiled and used for learning purposes, without having to worry about handling live malware.
@@ -5642,6 +5659,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-05-04】[tildearrow / furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
+* 【2024-05-04】[geektcp / Everwar](https://github.com/geektcp/Everwar) - everwar wow game server c++ 开源魔兽世界 https://uewow.com
 * 【2024-05-03】[userver-framework / userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 * 【2024-05-03】[open-navigation / navigation2](https://github.com/open-navigation/navigation2) - ROS 2 Navigation Framework and System
 * 【2024-05-03】[30hours / blah2](https://github.com/30hours/blah2) - A real-time passive radar
@@ -6334,6 +6353,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-05-04】[The-Marcy-Lab-School / 2-2-css-practice-nirvana](https://github.com/The-Marcy-Lab-School/2-2-css-practice-nirvana) - 
 * 【2024-05-02】[Azure / AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 * 【2024-05-02】[opipari / DeepRobWeb](https://github.com/opipari/DeepRobWeb) - Deep Learning for Robot Perception
 * 【2024-05-01】[macadmins / sofa](https://github.com/macadmins/sofa) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
@@ -6997,6 +7017,9 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-05-04】[anuragdevnath / Portfolio](https://github.com/anuragdevnath/Portfolio) - My portfolio
+* 【2024-05-04】[derisamedia / luci-theme-alpha](https://github.com/derisamedia/luci-theme-alpha) - Luci theme for Official Openwrt and Alpha OS build ,based on bootstrap and material luCi theme,inspired on neobird LEDE theme
+* 【2024-05-04】[Fasoo-LLM-Chat-UI-UX / llmchat-frontend](https://github.com/Fasoo-LLM-Chat-UI-UX/llmchat-frontend) - 리액트 기반 LLM Chat 웹페이지
 * 【2024-05-03】[927621BAD019 / IBM-PROJECT---MALNUTRITION-](https://github.com/927621BAD019/IBM-PROJECT---MALNUTRITION-) - 
 * 【2024-05-02】[hydralauncher / hydra-website](https://github.com/hydralauncher/hydra-website) - 
 * 【2024-05-02】[efemkay / obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout) - CSS Layout hack for Obsidian.md
@@ -7757,6 +7780,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-05-04】[birobirobiro / awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
+* 【2024-05-04】[githubnext / copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 * 【2024-05-03】[CeliaLyu / DataStructure-Algorithm-Intro](https://github.com/CeliaLyu/DataStructure-Algorithm-Intro) - 
 * 【2024-05-03】[Guilouz / Creality-Helper-Script-Wiki](https://github.com/Guilouz/Creality-Helper-Script-Wiki) - Wiki for Creality Helper Script
 * 【2024-05-03】[iNeuronai / interview-question-data-science-](https://github.com/iNeuronai/interview-question-data-science-) - 
