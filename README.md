@@ -1,6 +1,12 @@
 # github-trending
 ## All language
 
+* 【2024-05-05】[adrianhajdin / banking](https://github.com/adrianhajdin/banking) - Horizon is a modern banking platform for everyone.
+* 【2024-05-05】[verlab / accelerated_features](https://github.com/verlab/accelerated_features) - Do you need robust and fast local feature extraction? You are in the right place!
+* 【2024-05-05】[novuhq / novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+* 【2024-05-05】[TanStack / query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+* 【2024-05-05】[aws-samples / bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock + Claude
+* 【2024-05-05】[mantinedev / mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 * 【2024-05-04】[KindXiaoming / pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 * 【2024-05-04】[GistNoesis / FourierKAN](https://github.com/GistNoesis/FourierKAN) - 
 * 【2024-05-04】[a-real-ai / pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models.
@@ -1244,6 +1250,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-05-05】[apache / pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 * 【2024-05-04】[hiteshchoudhary / React-native-projects](https://github.com/hiteshchoudhary/React-native-projects) - Learn React native with this free series on youtube (powered by Hashnode)
 * 【2024-05-04】[GoogleCloudPlatform / spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
 * 【2024-05-04】[razerdp / BasePopup](https://github.com/razerdp/BasePopup) - Android下打造通用便捷的PopupWindow弹窗库
@@ -1954,6 +1961,14 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-05-05】[pypa / pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+* 【2024-05-05】[florestefano1975 / ComfyUI-HiDiffusion](https://github.com/florestefano1975/ComfyUI-HiDiffusion) - 
+* 【2024-05-05】[zgimszhd61 / prompt-collection-quickstart](https://github.com/zgimszhd61/prompt-collection-quickstart) - 
+* 【2024-05-05】[Nixtla / neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable and user friendly neural 🧠 forecasting algorithms.
+* 【2024-05-05】[quixio / quix-streams](https://github.com/quixio/quix-streams) - Quix Streams - A library for data streaming and Python Stream Processing
+* 【2024-05-05】[Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
+* 【2024-05-05】[SuperpoweredAI / spRAG](https://github.com/SuperpoweredAI/spRAG) - RAG framework for challenging queries over dense unstructured data
+* 【2024-05-05】[benx1n / HikariBot](https://github.com/benx1n/HikariBot) - 战舰世界HikariBot，支持战绩查询，基于Nonebot2全平台兼容
 * 【2024-05-04】[e2b-dev / code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
 * 【2024-05-04】[dai-motoki / zoltraak](https://github.com/dai-motoki/zoltraak) - 
 * 【2024-05-04】[ToTheBeginning / PuLID](https://github.com/ToTheBeginning/PuLID) - Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
@@ -3163,6 +3178,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-05-05】[Pandasswap / PancakeswapBot](https://github.com/Pandasswap/PancakeswapBot) - PancakeSwap Prediction Bot
+* 【2024-05-05】[tencent-connect / bot-docs](https://github.com/tencent-connect/bot-docs) - QQ频道机器人文档
+* 【2024-05-05】[AbhishekSuresh2 / Phoenix-MD](https://github.com/AbhishekSuresh2/Phoenix-MD) - ℹ️ A Simple WhatsApp Bot With Advanced Features
 * 【2024-05-04】[jsdelivr / jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 * 【2024-05-03】[IvanGlinkin / CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings
 * 【2024-05-03】[mouricedevs / Gifted-Md](https://github.com/mouricedevs/Gifted-Md) - Gifted Md is a Cool Multi-Device WhatsApp bot which offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
@@ -4090,6 +4108,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-05-05】[charmbracelet / wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 * 【2024-05-03】[ariga / atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 * 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 * 【2024-05-02】[kaytu-io / kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.
@@ -4925,6 +4944,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-05-05】[tsalvo / wipeoutPD](https://github.com/tsalvo/wipeoutPD) - port of wipeout-rewrite to Playdate
+* 【2024-05-05】[danielchasehooper / ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
 * 【2024-05-04】[EdgeTX / edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
 * 【2024-05-04】[lizrice / learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more
 * 【2024-05-03】[cpldcpu / BitNetMCU](https://github.com/cpldcpu/BitNetMCU) - Neural Networks with low bit weights on a CH32V003 RISC-V Microcontroller without multiplication
@@ -5659,6 +5680,10 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-05-05】[rondagayman307 / WhatsApp-Web-Spammer](https://github.com/rondagayman307/WhatsApp-Web-Spammer) - whatsapp web spammer 💥 spammer for whatsapp web 2024 latest update 💥 simple script to spam people on whatsapp web. whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsap scripts tools
+* 【2024-05-05】[rubakloedeil10 / WarfaceHCK](https://github.com/rubakloedeil10/WarfaceHCK) - warface warface-cheat warface-cheats warface-aim warface-aimbot warface-hack warface-hacks warface-esp warface-wallhack warface-wh warface-softaim cheat-warface cheats-warface hack-warface hacks-warface warface-free-hack warface-hack-aim warface-legit warface-rage-download-free-warface-speedbot-warface-2024-best-cheats-warface-mod-menu-skin-changer
+* 【2024-05-05】[rothdezlife34 / PointBlankHCK](https://github.com/rothdezlife34/PointBlankHCK) - point-blank point-blank-cheat point-blank-cheats point-blank-aim point-blank-aimbot point-blank-hack point-blank-hacks point-blank-esp point-blank-wallhack point-blank-wh point-blank-softaim cheat-point-blank cheats-point-blank hack-point-blank hacks-point-blank point-blank-free-hack point-blank-hack-aim point-blank-legit point-blank-rage-download
+* 【2024-05-05】[rondaundefinedyard / worldoftanksHCK](https://github.com/rondaundefinedyard/worldoftanksHCK) - wot-cheat wot-cheats wot-aim wot-aimbot wot-hack wot-hacks wot-esp wot-wallhack wot-wh cheat-wot cheats-wot world of tanks-cheat world of tanks-cheats world of tanks-aim world of tanks-aimbot world of tanks-hack world of tanks-hacks world of tanks-wallhack world of tanks-wh cheat-world of tanks hacks-world of tanks world of tanks-hack-aim
 * 【2024-05-04】[tildearrow / furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
 * 【2024-05-04】[geektcp / Everwar](https://github.com/geektcp/Everwar) - everwar wow game server c++ 开源魔兽世界 https://uewow.com
 * 【2024-05-03】[userver-framework / userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
@@ -6353,6 +6378,9 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-05-05】[yoheinakajima / prettygraph](https://github.com/yoheinakajima/prettygraph) - An experimental UI for text-to-knowledge-graph generation
+* 【2024-05-05】[MicroStrategy / did-btc-spec](https://github.com/MicroStrategy/did-btc-spec) - did:btc Method Specification
+* 【2024-05-05】[sz-games / sz-games.github.io](https://github.com/sz-games/sz-games.github.io) - The Best Way To Play Games In School
 * 【2024-05-04】[The-Marcy-Lab-School / 2-2-css-practice-nirvana](https://github.com/The-Marcy-Lab-School/2-2-css-practice-nirvana) - 
 * 【2024-05-02】[Azure / AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 * 【2024-05-02】[opipari / DeepRobWeb](https://github.com/opipari/DeepRobWeb) - Deep Learning for Robot Perception
@@ -7017,6 +7045,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-05-05】[Gkilgore / 7_Computed_Properties](https://github.com/Gkilgore/7_Computed_Properties) - 
 * 【2024-05-04】[anuragdevnath / Portfolio](https://github.com/anuragdevnath/Portfolio) - My portfolio
 * 【2024-05-04】[derisamedia / luci-theme-alpha](https://github.com/derisamedia/luci-theme-alpha) - Luci theme for Official Openwrt and Alpha OS build ,based on bootstrap and material luCi theme,inspired on neobird LEDE theme
 * 【2024-05-04】[Fasoo-LLM-Chat-UI-UX / llmchat-frontend](https://github.com/Fasoo-LLM-Chat-UI-UX/llmchat-frontend) - 리액트 기반 LLM Chat 웹페이지
@@ -7780,6 +7809,12 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-05-05】[Ouckah / Summer2025-Internships](https://github.com/Ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
+* 【2024-05-05】[GoldHEN / GoldHEN](https://github.com/GoldHEN/GoldHEN) - PS4 Homebrew Enabler
+* 【2024-05-05】[youssefHosni / Data-Science-Interview-Preperation-Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources) - Resoruce to help you to prepare for your comming data science interviews
+* 【2024-05-05】[tldrsec / prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) - Every practical and proposed defense against prompt injection.
+* 【2024-05-05】[nestjs / awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
+* 【2024-05-05】[SmartBNBGuy / How-to-Create-Honeypot-Token](https://github.com/SmartBNBGuy/How-to-Create-Honeypot-Token) - How to Create Honeypot Token | AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY | Sell OFF Token | Sell On Off Token | Sell On Off Coin BSC |Sell On Off Token BEP20
 * 【2024-05-04】[birobirobiro / awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 * 【2024-05-04】[githubnext / copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 * 【2024-05-03】[CeliaLyu / DataStructure-Algorithm-Intro](https://github.com/CeliaLyu/DataStructure-Algorithm-Intro) - 
