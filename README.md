@@ -1,6 +1,14 @@
 # github-trending
 ## All language
 
+* 【2024-05-06】[xM4ddy / OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
+* 【2024-05-06】[Blealtan / efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
+* 【2024-05-06】[lmstudio-ai / lms](https://github.com/lmstudio-ai/lms) - LM Studio in your terminal
+* 【2024-05-06】[solana-labs / solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+* 【2024-05-06】[HVision-NKU / StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
+* 【2024-05-06】[mlc-ai / web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+* 【2024-05-06】[huggingface / candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+* 【2024-05-06】[tokio-rs / axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 * 【2024-05-05】[adrianhajdin / banking](https://github.com/adrianhajdin/banking) - Horizon is a modern banking platform for everyone.
 * 【2024-05-05】[verlab / accelerated_features](https://github.com/verlab/accelerated_features) - Do you need robust and fast local feature extraction? You are in the right place!
 * 【2024-05-05】[novuhq / novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
@@ -1961,6 +1969,14 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-05-06】[eureka-research / DrEureka](https://github.com/eureka-research/DrEureka) - 
+* 【2024-05-06】[karpathy / makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
+* 【2024-05-06】[edgedb / edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+* 【2024-05-06】[prometheus-eval / prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - Evaluate your LLM's response with Prometheus 💯
+* 【2024-05-06】[PSGO / PPPwnGo](https://github.com/PSGO/PPPwnGo) - 
+* 【2024-05-06】[NVlabs / DoRA](https://github.com/NVlabs/DoRA) - [ICML2024] Official PyTorch implementation of DoRA: Weight-Decomposed Low-Rank Adaptation
+* 【2024-05-06】[SCLBD / DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) - A comprehensive benchmark of deepfake detection
+* 【2024-05-06】[lancedb / lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 * 【2024-05-05】[pypa / pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 * 【2024-05-05】[florestefano1975 / ComfyUI-HiDiffusion](https://github.com/florestefano1975/ComfyUI-HiDiffusion) - 
 * 【2024-05-05】[zgimszhd61 / prompt-collection-quickstart](https://github.com/zgimszhd61/prompt-collection-quickstart) - 
@@ -3178,6 +3194,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-05-06】[Astropeda / Asta-Md](https://github.com/Astropeda/Asta-Md) - ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀsᴛʀᴏᴘᴇᴅᴀ ᴛᴇᴀᴍ
+* 【2024-05-06】[automatisch / automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+* 【2024-05-06】[ibrahimaitech / IBRAHIM-AI-10.10](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-05】[Pandasswap / PancakeswapBot](https://github.com/Pandasswap/PancakeswapBot) - PancakeSwap Prediction Bot
 * 【2024-05-05】[tencent-connect / bot-docs](https://github.com/tencent-connect/bot-docs) - QQ频道机器人文档
 * 【2024-05-05】[AbhishekSuresh2 / Phoenix-MD](https://github.com/AbhishekSuresh2/Phoenix-MD) - ℹ️ A Simple WhatsApp Bot With Advanced Features
@@ -4108,6 +4127,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-05-06】[missuo / FreeDuckDuckGo](https://github.com/missuo/FreeDuckDuckGo) - Use DuckDuckGo for free with GPT-3.5-Turbo.
 * 【2024-05-05】[charmbracelet / wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 * 【2024-05-03】[ariga / atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 * 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
@@ -4944,6 +4964,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-05-06】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
+* 【2024-05-06】[WillPower3309 / swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 * 【2024-05-05】[tsalvo / wipeoutPD](https://github.com/tsalvo/wipeoutPD) - port of wipeout-rewrite to Playdate
 * 【2024-05-05】[danielchasehooper / ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
 * 【2024-05-04】[EdgeTX / edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
@@ -6378,6 +6400,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-05-06】[nature-of-code / noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system.
 * 【2024-05-05】[yoheinakajima / prettygraph](https://github.com/yoheinakajima/prettygraph) - An experimental UI for text-to-knowledge-graph generation
 * 【2024-05-05】[MicroStrategy / did-btc-spec](https://github.com/MicroStrategy/did-btc-spec) - did:btc Method Specification
 * 【2024-05-05】[sz-games / sz-games.github.io](https://github.com/sz-games/sz-games.github.io) - The Best Way To Play Games In School
@@ -7045,6 +7068,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-05-06】[1inch / 1inch-docs](https://github.com/1inch/1inch-docs) - 
 * 【2024-05-05】[Gkilgore / 7_Computed_Properties](https://github.com/Gkilgore/7_Computed_Properties) - 
 * 【2024-05-04】[anuragdevnath / Portfolio](https://github.com/anuragdevnath/Portfolio) - My portfolio
 * 【2024-05-04】[derisamedia / luci-theme-alpha](https://github.com/derisamedia/luci-theme-alpha) - Luci theme for Official Openwrt and Alpha OS build ,based on bootstrap and material luCi theme,inspired on neobird LEDE theme
@@ -7809,6 +7833,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-05-06】[KenneyNL / Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
+* 【2024-05-06】[CrealityOfficial / CrealityPrint](https://github.com/CrealityOfficial/CrealityPrint) - 
 * 【2024-05-05】[Ouckah / Summer2025-Internships](https://github.com/Ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-05-05】[GoldHEN / GoldHEN](https://github.com/GoldHEN/GoldHEN) - PS4 Homebrew Enabler
 * 【2024-05-05】[youssefHosni / Data-Science-Interview-Preperation-Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources) - Resoruce to help you to prepare for your comming data science interviews
