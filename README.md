@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2024-05-11】[lllyasviel / IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
+* 【2024-05-11】[sophiajt / june](https://github.com/sophiajt/june) - 
+* 【2024-05-11】[SAWARATSUKI / KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 * 【2024-05-10】[phenaproxima / starshot-prototype](https://github.com/phenaproxima/starshot-prototype) - Prototype of a new kind of Drupal, based on recipes and loaded up with contrib's best modules and themes. Not a fork or a distribution.
 * 【2024-05-10】[FunkinCrew / Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
 * 【2024-05-10】[AdityaNG / kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
@@ -1275,6 +1278,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-05-11】[weixiansen574 / HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 双轨快传-同时使用USB和WIFI传输文件到电脑
 * 【2024-05-07】[dmulloy2 / ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit.
 * 【2024-05-07】[arpitbbhayani / WikiSe](https://github.com/arpitbbhayani/WikiSe) - A wikipedia search engine that is completely built in Java and works on Wikipedia XML dumps
 * 【2024-05-05】[apache / pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
@@ -1988,6 +1992,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-05-11】[google-research / timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+* 【2024-05-11】[JaveleyQAQ / WeChatOpenDevTools-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
+* 【2024-05-11】[vocodedev / vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 * 【2024-05-09】[Kroery / DiffMOT](https://github.com/Kroery/DiffMOT) - code for CVPR2024 paper: DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction
 * 【2024-05-09】[instructlab / instructlab](https://github.com/instructlab/instructlab) - Command-line interface. Use this to chat with the model or train the model (training consumes the taxonomy data)
 * 【2024-05-08】[NVlabs / RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
@@ -3220,6 +3227,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-05-11】[react-grid-layout / react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
 * 【2024-05-10】[said7388 / github-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username. This website template is constructed with next.js and tailwind CSS, allowing you to display your work and skills as a software developer.
 * 【2024-05-10】[taikoxyz / operations](https://github.com/taikoxyz/operations) - Operations related scripts
 * 【2024-05-10】[yonggekkk / Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare代理脚本，支持workers与pages两种形式部署，实现Vless与Trojan两种协议。CF优选域名、优选官方IP反代IP多平台一键脚本
@@ -4159,6 +4167,12 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-05-11】[intigriti / misconfig-mapper](https://github.com/intigriti/misconfig-mapper) - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
+* 【2024-05-11】[kubeflow / spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
+* 【2024-05-11】[context-labs / mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top written in pure Go Lang! Under 1,000 lines of code.
+* 【2024-05-11】[go-delve / delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
+* 【2024-05-11】[aurora-develop / Duck2api](https://github.com/aurora-develop/Duck2api) - 
+* 【2024-05-11】[twmb / franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.
 * 【2024-05-09】[PeerDB-io / peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 * 【2024-05-08】[minio / minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
 * 【2024-05-07】[zhangdi168 / VitePressSimple](https://github.com/zhangdi168/VitePressSimple) - VitePress Visual Configuration Tool
@@ -5743,6 +5757,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-05-11】[svenundefinedshire / Wallet-stealer](https://github.com/svenundefinedshire/Wallet-stealer) - Wallet Stealer Software 🔥 Steal Pass Phrases of Trust Wallet and Metamask Wallets! Bitcoin Mining, Ethereum, BNB, LTC. Brute Force 12 Word Secret Phrase. Blockchain python windows brute-force wallet btc eth metamask bruteforce-attacks wallet-generator stealer trustwallet seed-phrase bscscan wallet-stealer solana-stealer crypto-stealer-scripts
 * 【2024-05-10】[lilipads / gradient_descent_viz](https://github.com/lilipads/gradient_descent_viz) - interactive visualization of 5 popular gradient descent methods with step-by-step illustration and hyperparameter tuning UI
 * 【2024-05-09】[baconpaul / airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin
 * 【2024-05-08】[dillo-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi-platform graphical web browser
@@ -6447,6 +6462,10 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-05-11】[ming1016 / SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + SwiftData + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用
+* 【2024-05-11】[EtherDream / headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏸️ ⏯️ ⏮️
+* 【2024-05-11】[retrage / lkl-js](https://github.com/retrage/lkl-js) - Run Linux kernel in your web browser directly
+* 【2024-05-11】[kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 * 【2024-05-10】[logankilpatrick / gemini-api-quickstart](https://github.com/logankilpatrick/gemini-api-quickstart) - Get up and running in under 5 minutes with the Google AI Gemini API (in Python)
 * 【2024-05-09】[Flomp / wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 * 【2024-05-08】[drduh / YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
@@ -7121,6 +7140,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-05-11】[stripe-samples / checkout-single-subscription](https://github.com/stripe-samples/checkout-single-subscription) - Learn how to combine Checkout and Billing for fast subscription pages
 * 【2024-05-10】[Param302 / SocialRepo](https://github.com/Param302/SocialRepo) - Social Repo - Your Social Handles Repository in a chrome extension.
 * 【2024-05-10】[jhonieldorschulz / html-portfolio-trabalho-2](https://github.com/jhonieldorschulz/html-portfolio-trabalho-2) - Projeto Base do 2° Trabalho de Modelagem de Sites Básicos do Curso de Engenharia de Software - BIOPARK
 * 【2024-05-10】[CodeSpace-Academy / StudentNo_Classcode_Group_Name-Surname_DJS02](https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS02) - [DJS02] Starter Code for Module 2's Project Submission
@@ -7904,6 +7924,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-05-11】[lucidrains / alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch) - Implementation of Alphafold3 in Pytorch
+* 【2024-05-11】[Lordog / dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
+* 【2024-05-11】[HotBoy-java / PotatoTool](https://github.com/HotBoy-java/PotatoTool) - 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts. With features like decryption, analysis, scanning, and traceability, it provides a user-friendly interface and diverse functionality.
+* 【2024-05-11】[Rovniced / bilibili-skin](https://github.com/Rovniced/bilibili-skin) - 哔哩哔哩个性装扮主题
 * 【2024-05-10】[ibm-granite / granite-code-models](https://github.com/ibm-granite/granite-code-models) - Granite Code Models: A Family of Open Foundation Models for Code Intelligence
 * 【2024-05-10】[datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
 * 【2024-05-10】[iyukiyama / leetcode-posts](https://github.com/iyukiyama/leetcode-posts) - yukiyama 创作的算法文章，目前共二十余万字，持续新增中。发表数月内，在力扣中国收获20w+阅读量，1w+收藏量，近5k点赞量。
