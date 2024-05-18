@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-05-18】[likejazz / llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is pure NumPy implementation for Llama 3 model.
+* 【2024-05-18】[remix-run / react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+* 【2024-05-18】[type-challenges / type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+* 【2024-05-18】[google / project-gameface](https://github.com/google/project-gameface) - 
 * 【2024-05-17】[andydunstall / piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 * 【2024-05-17】[Tencent / HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
 * 【2024-05-17】[android / kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) - Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries
@@ -1302,6 +1306,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-05-18】[TheWidlarzGroup / react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react-native
+* 【2024-05-18】[opensearch-project / opensearch-java](https://github.com/opensearch-project/opensearch-java) - Java Client for OpenSearch
 * 【2024-05-17】[elastic / apm-agent-java](https://github.com/elastic/apm-agent-java) - Elastic APM Java Agent
 * 【2024-05-17】[topiam / eiam](https://github.com/topiam/eiam) - EIAM（Employee Identity and Access Management Program）企业级开源IAM平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能！
 * 【2024-05-15】[TutorLee / Arcane](https://github.com/TutorLee/Arcane) - fortnite-aimbot fortnite-hack fortnite-cheat fortnite-wallhack fortnite-esp fortnite-wallhack fortnite-skinchanger fortnite-skin-swapper
@@ -2025,6 +2031,10 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-05-18】[yuweihao / MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision?
+* 【2024-05-18】[matplotlib / matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+* 【2024-05-18】[roboflow / sports](https://github.com/roboflow/sports) - computer vision and sports
+* 【2024-05-18】[AiGptCode / WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956](https://github.com/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956) - WordPress Auto Admin Account Creation and Reverse Shell cve-2024-27956 automates the process of creating a new administrator account in a WordPress site and executing a reverse shell on the target server. It utilizes the wp-automatic plugin's CSV injection vulnerability to execute SQL queries
 * 【2024-05-17】[livekit / agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
 * 【2024-05-17】[microsoft / EveryoneCanCode-US](https://github.com/microsoft/EveryoneCanCode-US) - Everyone Can Code Event (U.S. Edition)
 * 【2024-05-17】[AgentOps-AI / agentops](https://github.com/AgentOps-AI/agentops) - Open source Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
@@ -4241,6 +4251,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-05-18】[umutcamliyurt / PingRAT](https://github.com/umutcamliyurt/PingRAT) - PingRAT secretly passes C2 traffic through firewalls using ICMP payloads.
+* 【2024-05-18】[initia-labs / initia](https://github.com/initia-labs/initia) - 
 * 【2024-05-17】[chapar-rest / chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it will support http and grpc protocols.
 * 【2024-05-17】[containers / buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 * 【2024-05-16】[camunda / camunda-platform](https://github.com/camunda/camunda-platform) - Links to Camunda Platform 8 resources, releases, and local development config
@@ -5099,6 +5111,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-05-18】[mcknly / breadboard-os](https://github.com/mcknly/breadboard-os) - A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature-packed CLI
+* 【2024-05-18】[arut / nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 * 【2024-05-17】[Modos-Labs / Glider](https://github.com/Modos-Labs/Glider) - Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider
 * 【2024-05-17】[risinek / esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
 * 【2024-05-16】[PabloMK7 / ArticBaseServer](https://github.com/PabloMK7/ArticBaseServer) - 3DS Game Broadcaster
@@ -5849,6 +5863,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-05-18】[serge1 / ELFIO](https://github.com/serge1/ELFIO) - ELFIO - ELF (Executable and Linkable Format) reader and producer implemented as a header only C++ library
+* 【2024-05-18】[Lymphatus / caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
 * 【2024-05-17】[okalachev / flix](https://github.com/okalachev/flix) - Making an ESP32-based quadcopter from scratch
 * 【2024-05-17】[ValveSoftware / halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
 * 【2024-05-17】[google-ai-edge / mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -7271,6 +7287,12 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-05-18】[pipeops-dev / pipeops-html](https://github.com/pipeops-dev/pipeops-html) - 
+* 【2024-05-18】[Sanchana03 / Portfolio](https://github.com/Sanchana03/Portfolio) - 
+* 【2024-05-18】[Balakumarmd / Landing-Page](https://github.com/Balakumarmd/Landing-Page) - 
+* 【2024-05-18】[Balakumarmd / balakumar](https://github.com/Balakumarmd/balakumar) - 
+* 【2024-05-18】[Harikishore-Official / Landing-Page-](https://github.com/Harikishore-Official/Landing-Page-) - 
+* 【2024-05-18】[Harikishore-Official / Landing-Page](https://github.com/Harikishore-Official/Landing-Page) - 
 * 【2024-05-17】[paregorios / srp-boilerplate](https://github.com/paregorios/srp-boilerplate) - Boilerplate for the Syriac Reference Portal (built on HTML5 Boilerplate and Twitter Bootstrap via Initializr)
 * 【2024-05-17】[creativetimofficial / paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) - Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.
 * 【2024-05-17】[itscodenation / int-u5l2-23-24-student-exercises](https://github.com/itscodenation/int-u5l2-23-24-student-exercises) - 
@@ -8076,6 +8098,14 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-05-18】[upbrosai / ait](https://github.com/upbrosai/ait) - Introducing "ait," "aiself," and "aits"—new pronouns for AI systems. This repo provides definitions and examples to promote their use in referring to artificial intelligence. Contributions and multi-language versions are welcome.
+* 【2024-05-18】[pnp / copilot-prompts](https://github.com/pnp/copilot-prompts) - Examples of prompts for Microsoft Copilot
+* 【2024-05-18】[ruesandora / Initia](https://github.com/ruesandora/Initia) - 
+* 【2024-05-18】[promethron / Prometheus-Tron-Brute-Force](https://github.com/promethron/Prometheus-Tron-Brute-Force) - Tron Wallets Brute Force
+* 【2024-05-18】[twostraws / wwdc](https://github.com/twostraws/wwdc) - WWDC Community: Learning and sharing together
+* 【2024-05-18】[ProxymanApp / Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+* 【2024-05-18】[Bullas / ajudadev-rs](https://github.com/Bullas/ajudadev-rs) - Lista de iniciativas para ajudar o Rio Grande do Sul que precisam de voluntários
+* 【2024-05-18】[shenweichen / AlgoNotes](https://github.com/shenweichen/AlgoNotes) - 【浅梦学习笔记】文章汇总:包含 排序&CXR预估，召回匹配，用户画像&特征工程，推荐搜索综合 计算广告，大数据，图算法，NLP&CV，求职面试 等内容
 * 【2024-05-17】[0x676e67 / js-fuck](https://github.com/0x676e67/js-fuck) - 无视ip、账号强开gpt-4o
 * 【2024-05-17】[LayerZero-Labs / sybil-report](https://github.com/LayerZero-Labs/sybil-report) - 
 * 【2024-05-17】[langgptai / wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
