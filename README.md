@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-05-20】[adrianhajdin / portfolio](https://github.com/adrianhajdin/portfolio) - Modern & Minimal JS Mastery Portfolio
+* 【2024-05-20】[mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
+* 【2024-05-20】[rashadphz / farfalle](https://github.com/rashadphz/farfalle) - 🔍 ai search engine - self-host local or cloud language models
+* 【2024-05-20】[joye61 / pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF and GIF images intelligently
 * 【2024-05-19】[HigherOrderCO / HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 * 【2024-05-19】[HigherOrderCO / Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 * 【2024-05-19】[expo / react-conf-app](https://github.com/expo/react-conf-app) - 
@@ -1314,6 +1318,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-05-20】[P4r4d1se / heapdump_shiro_vuln](https://github.com/P4r4d1se/heapdump_shiro_vuln) - A heapdump leaks Shiro key causing RCE vulnerability environment.
 * 【2024-05-18】[TheWidlarzGroup / react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react-native
 * 【2024-05-18】[opensearch-project / opensearch-java](https://github.com/opensearch-project/opensearch-java) - Java Client for OpenSearch
 * 【2024-05-17】[elastic / apm-agent-java](https://github.com/elastic/apm-agent-java) - Elastic APM Java Agent
@@ -2039,6 +2044,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-05-20】[instaloader / instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 * 【2024-05-19】[pypa / hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * 【2024-05-19】[JadyXuan / NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
 * 【2024-05-19】[modelscope / swift](https://github.com/modelscope/swift) - ms-swift: Use PEFT or Full-parameter to finetune 200+ LLMs or 15+ MLLMs
@@ -5127,6 +5133,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-05-20】[google / wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 * 【2024-05-19】[0xNinjaCyclone / hellMaker](https://github.com/0xNinjaCyclone/hellMaker) - Generate FUD backdoors
 * 【2024-05-19】[tpunix / SAROO](https://github.com/tpunix/SAROO) - SAROO is a SEGA Saturn HDloader
 * 【2024-05-18】[mcknly / breadboard-os](https://github.com/mcknly/breadboard-os) - A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature-packed CLI
@@ -5881,6 +5888,9 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-05-20】[snort3 / snort3](https://github.com/snort3/snort3) - Snort++
+* 【2024-05-20】[yileijin / Bootstrap-3D-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
+* 【2024-05-20】[ludouzi / fooyin](https://github.com/ludouzi/fooyin) - A customisable music player
 * 【2024-05-19】[ip7z / 7zip](https://github.com/ip7z/7zip) - 7-Zip
 * 【2024-05-19】[google / lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
 * 【2024-05-19】[snake-4 / Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
@@ -6607,6 +6617,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-05-20】[nghuyhoang2509 / Office-and-Windows-Activator](https://github.com/nghuyhoang2509/Office-and-Windows-Activator) - kmsauto-free-download-2024 kmsauto-download-2024 windows-free-activation kmsauto-2024 kmsauto-download-windows-11 kmsauto-activate kmsauto-download-windows-10 windows-activate-free free-activation-tutorial kmsauto-activator-download windows-activator-download kmsauto-download kmsauto-net-download kmsauto kmsauto-free-download windows-11-activat
+* 【2024-05-20】[GameSphere-MultiPlayer / Community-Page](https://github.com/GameSphere-MultiPlayer/Community-Page) - A Chrome gaming community page is an online space within the Chrome browser where gamers connect, discuss games, share content, get updates, troubleshoot issues, join events, and interact with developers. It's a hub for all things gaming-related in the Chrome ecosystem.
 * 【2024-05-19】[Jisan-mia / dom-projects](https://github.com/Jisan-mia/dom-projects) - dom-projects is an open-source web app that helps you learn frontend development faster with a hands-on practice style. It is a collection of projects that you can use to learn HTML, CSS and JavaScript
 * 【2024-05-19】[RootMyTV / RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 * 【2024-05-19】[bincooo / chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
@@ -7312,6 +7324,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-05-20】[kaidadnd / Revolt](https://github.com/kaidadnd/Revolt) - RevoltEdge is your #1 source for Edgenuity answers . Get 100% Scores on all activities and Skip Videos! Revolt is the Best Edgenuity script & hack / Bot
 * 【2024-05-19】[niklausgerber / PreLoadMe](https://github.com/niklausgerber/PreLoadMe) - PreLoadMe, a lightweight jQuery website preloader.
 * 【2024-05-19】[Dikutal / Cookbook](https://github.com/Dikutal/Cookbook) - DIKUs shared cookbook
 * 【2024-05-18】[pipeops-dev / pipeops-html](https://github.com/pipeops-dev/pipeops-html) - 
@@ -8125,6 +8138,15 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-05-20】[pREffff / dbd](https://github.com/pREffff/dbd) - dbd dbd-cheat dbd-cheats dbd-hack dbd-hacks dbd-esp dbd-wallhack dbd-wh cheat-dbd cheats-dbd hack-dbd hacks-dbd dbd-free-hack dbd-legit dbd-rage
+* 【2024-05-20】[Kekichd / Hwid-Full-Spoof](https://github.com/Kekichd/Hwid-Full-Spoof) - hwid-spoofer hwid-spoofer-poc hwid-bypass hwid-spoofer-valorant hwid-changer hwid-spoofer-undetected hwid-spoofer-rust hwid-spoofer-apex-legends hwid-spoofer-warzone hwid-spoofer-eac hwid-spoofer-fortnite free-hwid-spoofer hwid-spoofer-apex download-free-hwid-spoofer free-hwid-changer hwid-spoofer-free-download free-download-hwid-spoofer free-down
+* 【2024-05-20】[sh1004pgf / CryptoHopperFree](https://github.com/sh1004pgf/CryptoHopperFree) - cryptohopper-crack cryptohopper-bot-crack cryptohopper-bot cryptohopper-free-bot cryptohopper-software cryptohopper-free-download cryptohopper-pro-crack cryptohopper-pro-version cryptohopper-full-version
+* 【2024-05-20】[hshaweghaas / BitcoinFlasher](https://github.com/hshaweghaas/BitcoinFlasher) - 
+* 【2024-05-20】[letthedataconfess / Data-Engineering-Books](https://github.com/letthedataconfess/Data-Engineering-Books) - 
+* 【2024-05-20】[bankme-tech / aprove-me](https://github.com/bankme-tech/aprove-me) - Este é o repositório utilizado para a realização dos testes seletivos para novos Devs na Bankme
+* 【2024-05-20】[smirnov-am / awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) - 
+* 【2024-05-20】[solana-mobile / solana-mobile-stack-sdk](https://github.com/solana-mobile/solana-mobile-stack-sdk) - 
+* 【2024-05-20】[epoch-philosophy / homepage-example](https://github.com/epoch-philosophy/homepage-example) - Homepage can be a bit difficult, and it can be tough to visualize what the YAML configuration is doing. There's also few examples out there of full configurations that are real world examples. So figured I would use my personal dashboard as a guide that could be helpful to others. Homepage's documentation below:
 * 【2024-05-19】[Glixerz / Blooket-Hacks](https://github.com/Glixerz/Blooket-Hacks) - A ton of blooket hacks
 * 【2024-05-19】[hevar / awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components) - 
 * 【2024-05-18】[upbrosai / ait](https://github.com/upbrosai/ait) - Introducing "ait," "aiself," and "aits"—new pronouns for AI systems. This repo provides definitions and examples to promote their use in referring to artificial intelligence. Contributions and multi-language versions are welcome.
