@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-05-21】[Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+* 【2024-05-21】[folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
+* 【2024-05-21】[neovim / nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
+* 【2024-05-21】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
 * 【2024-05-20】[adrianhajdin / portfolio](https://github.com/adrianhajdin/portfolio) - Modern & Minimal JS Mastery Portfolio
 * 【2024-05-20】[mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 * 【2024-05-20】[rashadphz / farfalle](https://github.com/rashadphz/farfalle) - 🔍 ai search engine - self-host local or cloud language models
@@ -1318,6 +1322,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-05-21】[spring-projects / spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) - Simplifies the development of creating a JPA-based data access layer.
 * 【2024-05-20】[P4r4d1se / heapdump_shiro_vuln](https://github.com/P4r4d1se/heapdump_shiro_vuln) - A heapdump leaks Shiro key causing RCE vulnerability environment.
 * 【2024-05-18】[TheWidlarzGroup / react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react-native
 * 【2024-05-18】[opensearch-project / opensearch-java](https://github.com/opensearch-project/opensearch-java) - Java Client for OpenSearch
@@ -2044,6 +2049,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-05-21】[AzeemIdrisi / PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
+* 【2024-05-21】[minyoungg / platonic-rep](https://github.com/minyoungg/platonic-rep) - 
 * 【2024-05-20】[instaloader / instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 * 【2024-05-19】[pypa / hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * 【2024-05-19】[JadyXuan / NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
@@ -3311,6 +3318,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-05-21】[sindresorhus / create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
+* 【2024-05-21】[laravel / breeze-next](https://github.com/laravel/breeze-next) - An application / authentication starter kit frontend in Next.js for Laravel Breeze.
 * 【2024-05-19】[responsively-org / responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 * 【2024-05-17】[google-marketing-solutions / ga4_dataform](https://github.com/google-marketing-solutions/ga4_dataform) - 
 * 【2024-05-17】[evil-huawei / evil-huawei](https://github.com/evil-huawei/evil-huawei) - Evil Huawei - 华为作过的恶
@@ -4270,6 +4279,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-05-21】[skx / cpmulator](https://github.com/skx/cpmulator) - Golang CP/M emulator for playing zork, lighthouse-of-doom, etc
+* 【2024-05-21】[NibiruChain / nibiru](https://github.com/NibiruChain/nibiru) - Nibiru Chain: The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more.
 * 【2024-05-19】[linux-do / override](https://github.com/linux-do/override) - 啥也不是
 * 【2024-05-19】[kubeflow / training-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine-Tuning on Kubernetes
 * 【2024-05-19】[firebase / firebase-admin-go](https://github.com/firebase/firebase-admin-go) - Firebase Admin Go SDK
@@ -5133,6 +5144,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-05-21】[rvaiya / keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 * 【2024-05-20】[google / wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 * 【2024-05-19】[0xNinjaCyclone / hellMaker](https://github.com/0xNinjaCyclone/hellMaker) - Generate FUD backdoors
 * 【2024-05-19】[tpunix / SAROO](https://github.com/tpunix/SAROO) - SAROO is a SEGA Saturn HDloader
@@ -5888,6 +5900,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-05-21】[jsecurity101 / ETWInspector](https://github.com/jsecurity101/ETWInspector) - 
 * 【2024-05-20】[snort3 / snort3](https://github.com/snort3/snort3) - Snort++
 * 【2024-05-20】[yileijin / Bootstrap-3D-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
 * 【2024-05-20】[ludouzi / fooyin](https://github.com/ludouzi/fooyin) - A customisable music player
@@ -6617,6 +6630,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-05-21】[jaganjavid / 100-Project](https://github.com/jaganjavid/100-Project) - ALl project
 * 【2024-05-20】[nghuyhoang2509 / Office-and-Windows-Activator](https://github.com/nghuyhoang2509/Office-and-Windows-Activator) - kmsauto-free-download-2024 kmsauto-download-2024 windows-free-activation kmsauto-2024 kmsauto-download-windows-11 kmsauto-activate kmsauto-download-windows-10 windows-activate-free free-activation-tutorial kmsauto-activator-download windows-activator-download kmsauto-download kmsauto-net-download kmsauto kmsauto-free-download windows-11-activat
 * 【2024-05-20】[GameSphere-MultiPlayer / Community-Page](https://github.com/GameSphere-MultiPlayer/Community-Page) - A Chrome gaming community page is an online space within the Chrome browser where gamers connect, discuss games, share content, get updates, troubleshoot issues, join events, and interact with developers. It's a hub for all things gaming-related in the Chrome ecosystem.
 * 【2024-05-19】[Jisan-mia / dom-projects](https://github.com/Jisan-mia/dom-projects) - dom-projects is an open-source web app that helps you learn frontend development faster with a hands-on practice style. It is a collection of projects that you can use to learn HTML, CSS and JavaScript
@@ -7324,6 +7338,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-05-21】[Artur-Galstyan / statedict2pytree](https://github.com/Artur-Galstyan/statedict2pytree) - 
 * 【2024-05-20】[kaidadnd / Revolt](https://github.com/kaidadnd/Revolt) - RevoltEdge is your #1 source for Edgenuity answers . Get 100% Scores on all activities and Skip Videos! Revolt is the Best Edgenuity script & hack / Bot
 * 【2024-05-19】[niklausgerber / PreLoadMe](https://github.com/niklausgerber/PreLoadMe) - PreLoadMe, a lightweight jQuery website preloader.
 * 【2024-05-19】[Dikutal / Cookbook](https://github.com/Dikutal/Cookbook) - DIKUs shared cookbook
@@ -8138,6 +8153,9 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-05-21】[weeeBox / mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews
+* 【2024-05-21】[ruesandora / 0rbit](https://github.com/ruesandora/0rbit) - 
+* 【2024-05-21】[trusted-point / initia-tools](https://github.com/trusted-point/initia-tools) - 
 * 【2024-05-20】[pREffff / dbd](https://github.com/pREffff/dbd) - dbd dbd-cheat dbd-cheats dbd-hack dbd-hacks dbd-esp dbd-wallhack dbd-wh cheat-dbd cheats-dbd hack-dbd hacks-dbd dbd-free-hack dbd-legit dbd-rage
 * 【2024-05-20】[Kekichd / Hwid-Full-Spoof](https://github.com/Kekichd/Hwid-Full-Spoof) - hwid-spoofer hwid-spoofer-poc hwid-bypass hwid-spoofer-valorant hwid-changer hwid-spoofer-undetected hwid-spoofer-rust hwid-spoofer-apex-legends hwid-spoofer-warzone hwid-spoofer-eac hwid-spoofer-fortnite free-hwid-spoofer hwid-spoofer-apex download-free-hwid-spoofer free-hwid-changer hwid-spoofer-free-download free-download-hwid-spoofer free-down
 * 【2024-05-20】[sh1004pgf / CryptoHopperFree](https://github.com/sh1004pgf/CryptoHopperFree) - cryptohopper-crack cryptohopper-bot-crack cryptohopper-bot cryptohopper-free-bot cryptohopper-software cryptohopper-free-download cryptohopper-pro-crack cryptohopper-pro-version cryptohopper-full-version
