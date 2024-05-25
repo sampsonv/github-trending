@@ -1,6 +1,13 @@
 # github-trending
 ## All language
 
+* 【2024-05-25】[Ph0enixKM / Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+* 【2024-05-25】[nucleuscloud / neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
+* 【2024-05-25】[vulhub / vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
+* 【2024-05-25】[foolstack-omg / block-tech-sharing](https://github.com/foolstack-omg/block-tech-sharing) - Sharing Valuable Technology & Arbitrage Skill of The Blockchain I have learned.
+* 【2024-05-25】[CADmium-Co / CADmium](https://github.com/CADmium-Co/CADmium) - A CAD program that runs in the browser
+* 【2024-05-25】[6677-ai / tap4-ai-webui](https://github.com/6677-ai/tap4-ai-webui) - One-click to deploy your own ai tools directory with the open source web-ui
+* 【2024-05-25】[astral-sh / ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 * 【2024-05-24】[JetBrains / kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 * 【2024-05-24】[psf / requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 * 【2024-05-24】[microsoft / Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.
@@ -1335,6 +1342,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-05-25】[camunda / camunda](https://github.com/camunda/camunda) - Distributed Workflow Engine for Microservices Orchestration
 * 【2024-05-24】[apache / hbase](https://github.com/apache/hbase) - Apache HBase
 * 【2024-05-23】[chiteroman / FrameworkPatch](https://github.com/chiteroman/FrameworkPatch) - Modify framework.jar to build on system level a valid certificate chain
 * 【2024-05-21】[spring-projects / spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) - Simplifies the development of creating a JPA-based data access layer.
@@ -2064,6 +2072,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-05-25】[kangpeilun / VastGaussian](https://github.com/kangpeilun/VastGaussian) - v1.0
+* 【2024-05-25】[baidubce / app-builder](https://github.com/baidubce/app-builder) - appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用
+* 【2024-05-25】[darrenburns / elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 * 【2024-05-24】[R4gd0ll / I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - OA漏洞利用工具
 * 【2024-05-23】[shamhi / TapSwapBot](https://github.com/shamhi/TapSwapBot) - Bot that mines coins in Tapswap
 * 【2024-05-23】[W01fh4cker / CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE) - Time Based SQL Injection in Zabbix Server Audit Log --> RCE
@@ -3342,6 +3353,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-05-25】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
+* 【2024-05-25】[imputnet / cobalt](https://github.com/imputnet/cobalt) - save what you love
+* 【2024-05-25】[yylive / YYEVA](https://github.com/yylive/YYEVA) - YYEVA（YY Effect Video Animate）是YYLive推出的一个开源的支持可插入动态元素的MP4动效播放器解决方案，包含设计资源输出的AE插件，客户端渲染引擎，在线预览工具。
 * 【2024-05-24】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-23】[Pactum7 / ticket-grabbing](https://github.com/Pactum7/ticket-grabbing) - 猫眼纷玩岛大麦抢票、余票监控AutoX.js脚本，手机移动端，全场次选购
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
@@ -5175,6 +5189,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-05-25】[psycopg / psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 * 【2024-05-24】[hmgle / graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 * 【2024-05-22】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
 * 【2024-05-22】[Decompollaborate / rabbitizer](https://github.com/Decompollaborate/rabbitizer) - MIPS instruction decoder
@@ -5935,6 +5950,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-05-25】[sysown / proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 * 【2024-05-23】[mrousavy / react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 * 【2024-05-22】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 * 【2024-05-22】[SaadAhla / IP-Hunter](https://github.com/SaadAhla/IP-Hunter) - Hunt for C2 servers and phishing web sites using VirusTotal API , you can modify code to kill the malicious process
@@ -6668,6 +6684,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-05-25】[nextcloud / documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
+* 【2024-05-25】[elementary-data / elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
 * 【2024-05-24】[frontend-joe / es6-components](https://github.com/frontend-joe/es6-components) - Collection of components built with HTML, CSS and JavaScript (ES6)
 * 【2024-05-24】[receptron / graphai](https://github.com/receptron/graphai) - 
 * 【2024-05-24】[OCA / partner-contact](https://github.com/OCA/partner-contact) - Odoo Partner and Contact related addons
@@ -7382,6 +7400,10 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-05-25】[readtedium / udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
+* 【2024-05-25】[Heatblur-Simulations / f-4e-manual](https://github.com/Heatblur-Simulations/f-4e-manual) - Manual of the F-4E Phantom by Heatblur Simulations
+* 【2024-05-25】[dicodingacademy / asclepius](https://github.com/dicodingacademy/asclepius) - 
+* 【2024-05-25】[rjc1704 / st-4th-hw](https://github.com/rjc1704/st-4th-hw) - 
 * 【2024-05-24】[gittyapp / gittyapp.com-version-1.0](https://github.com/gittyapp/gittyapp.com-version-1.0) - website for http://gittyapp.com
 * 【2024-05-24】[sebastiandro / Portfolio](https://github.com/sebastiandro/Portfolio) - Min tuffa portfolio
 * 【2024-05-24】[mgportada / repaso](https://github.com/mgportada/repaso) - 
@@ -8206,6 +8228,10 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-05-25】[igorbarinov / awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
+* 【2024-05-25】[datastacktv / data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
+* 【2024-05-25】[gunnarmorling / awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
+* 【2024-05-25】[h9-tect / 100days_AI](https://github.com/h9-tect/100days_AI) - 
 * 【2024-05-23】[lidlGalaxy / Crypto-Robot](https://github.com/lidlGalaxy/Crypto-Robot) - Create a Crypto Robot for yourself
 * 【2024-05-23】[shreyaschavhan / advanced-sql-injection-for-awae](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae) - 
 * 【2024-05-23】[the-web3 / layer2](https://github.com/the-web3/layer2) - 最全面的 Layer2 资料汇总
