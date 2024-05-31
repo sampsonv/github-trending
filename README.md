@@ -1,6 +1,14 @@
 # github-trending
 ## All language
 
+* 【2024-05-31】[2noise / ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
+* 【2024-05-31】[googleapis / elixir-google-api](https://github.com/googleapis/elixir-google-api) - Elixir client libraries for accessing Google APIs.
+* 【2024-05-31】[webprodigies / corinna-ai](https://github.com/webprodigies/corinna-ai) - Ai Chatbot that acts like a sales rep
+* 【2024-05-31】[TMElyralab / MusePose](https://github.com/TMElyralab/MusePose) - MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation
+* 【2024-05-31】[neondatabase / neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+* 【2024-05-31】[AI4Finance-Foundation / FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
+* 【2024-05-31】[Jeff-LiangF / streamv2v](https://github.com/Jeff-LiangF/streamv2v) - Official Pytorch implementation of StreamV2V.
+* 【2024-05-31】[Planshit / Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 * 【2024-05-30】[vladmandic / automatic](https://github.com/vladmandic/automatic) - SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models
 * 【2024-05-30】[quickwit-oss / tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 * 【2024-05-29】[didi / xiaoju-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
@@ -1358,6 +1366,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-05-31】[openkoda / openkoda](https://github.com/openkoda/openkoda) - Open source business application platform for fast development
+* 【2024-05-31】[dromara / RedisFront](https://github.com/dromara/RedisFront) - RedisFront 是一款开源免费的跨平台 Redis 桌面客户端工具, 支持单机模式, 集群模式, 哨兵模式以及 SSH 隧道连接, 欢迎下载使用.
 * 【2024-05-28】[solana-mobile / mobile-wallet-adapter](https://github.com/solana-mobile/mobile-wallet-adapter) - 
 * 【2024-05-28】[ZTFtrue / MonsterMusic](https://github.com/ZTFtrue/MonsterMusic) - A music player on android platform, developed by Andoroid composer
 * 【2024-05-27】[Kei-Luna / LunaGC_4.6.0](https://github.com/Kei-Luna/LunaGC_4.6.0) - Grassutter 4.6.0 Update
@@ -2093,6 +2103,13 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-05-31】[drivendataorg / cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+* 【2024-05-31】[huggingface / huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
+* 【2024-05-31】[ChrisBuilds / terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
+* 【2024-05-31】[adysec / ARL](https://github.com/adysec/ARL) - ARL 资产侦察灯塔系统（可运行，添加指纹，提高并发，升级工具及系统，无限制修改版）ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
+* 【2024-05-31】[OpenDriveLab / Vista](https://github.com/OpenDriveLab/Vista) - A Generalizable World Model for Autonomous Driving
+* 【2024-05-31】[OSU-NLP-Group / HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents.
+* 【2024-05-31】[lyuwenyu / RT-DETR](https://github.com/lyuwenyu/RT-DETR) - [CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
 * 【2024-05-30】[Tele-AI / TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR) - 
 * 【2024-05-30】[octo-models / octo](https://github.com/octo-models/octo) - Octo is a transformer-based robot policy trained on a diverse mix of 800k robot trajectories.
 * 【2024-05-30】[ambionics / cnext-exploits](https://github.com/ambionics/cnext-exploits) - Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc's iconv()
@@ -3394,6 +3411,10 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-05-31】[844704781 / ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) - ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O
+* 【2024-05-31】[parcel-bundler / parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
+* 【2024-05-31】[cruip / tailwind-dashboard-template](https://github.com/cruip/tailwind-dashboard-template) - Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by
+* 【2024-05-31】[jagenjo / litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
 * 【2024-05-29】[WasperAI / Wasper](https://github.com/WasperAI/Wasper) - 
 * 【2024-05-29】[frappe / gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 * 【2024-05-29】[Kingjux / Venocyber-md](https://github.com/Kingjux/Venocyber-md) - Introducing Venocyber md bot your personal chuddybuddy md you were looking for this is most powerful Whatsapp chat bot created to ensure your WhatsApp personal requirements you are all in one ✍️👋👋
@@ -4368,6 +4389,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-05-31】[patrickmn / go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+* 【2024-05-31】[open-policy-agent / gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Gatekeeper - Policy Controller for Kubernetes
 * 【2024-05-30】[yorukot / superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 * 【2024-05-30】[jetify-com / devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 * 【2024-05-29】[bxcodec / go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
@@ -5245,6 +5268,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-05-31】[webview / webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+* 【2024-05-31】[brian-smith-github / ch32v003_stt](https://github.com/brian-smith-github/ch32v003_stt) - Simple Speech-To-Text on the '10 cents' CH32V003 Microcontroller
 * 【2024-05-30】[HarbourMasters / 2ship2harkinian](https://github.com/HarbourMasters/2ship2harkinian) - 
 * 【2024-05-30】[No-Chicken / OV-Watch](https://github.com/No-Chicken/OV-Watch) - A powerful Smart Watch based on STM32, FreeRTOS, LVGL. It only cost ￥80 RMB ( $12 USD ).
 * 【2024-05-29】[CDSoft / luax](https://github.com/CDSoft/luax) - luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone executables from Lua scripts.
@@ -6016,6 +6041,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-05-31】[Offensive-Panda / RWX_MEMEORY_HUNT_AND_INJECTION_DV](https://github.com/Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV) - Abusing Windows fork API and OneDrive.exe process to inject the malicious shellcode without allocating new RWX memory region.
 * 【2024-05-30】[chinosk6 / gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify) - 学园偶像大师 本地化插件（开发中...） / Gakumas localify plugin (Developing...)
 * 【2024-05-29】[DiscoGrad / DiscoGrad](https://github.com/DiscoGrad/DiscoGrad) - DiscoGrad - automatically differentiate across conditional branches in C++ programs
 * 【2024-05-29】[microsoft / GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
@@ -6759,6 +6785,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-05-31】[iam-veeramalla / ansible-zero-to-hero](https://github.com/iam-veeramalla/ansible-zero-to-hero) - Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.
+* 【2024-05-31】[SiyangLi99 / open-alteryx-macro](https://github.com/SiyangLi99/open-alteryx-macro) - Welcome to the 'Open-Alteryx-Macro' project. This project is aimed at providing an open-source solution for managing and updating Alteryx Macros.
 * 【2024-05-30】[xyhelper / chatgpt-share-server](https://github.com/xyhelper/chatgpt-share-server) - 
 * 【2024-05-30】[wangyuchi369 / InstructAvatar](https://github.com/wangyuchi369/InstructAvatar) - Official implementation of the paper 'InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation'
 * 【2024-05-29】[akshetP / robotics-resources](https://github.com/akshetP/robotics-resources) - A complete library of resources that caters to all levels of Roboticists.
@@ -7481,6 +7509,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-05-31】[ASTD / ASTD-Website-Skeleton](https://github.com/ASTD/ASTD-Website-Skeleton) - Website Skeleton
+* 【2024-05-31】[CyB1K / PS4-Fake-PKG-Tools-3.87](https://github.com/CyB1K/PS4-Fake-PKG-Tools-3.87) - Patched 3.87 Tools
 * 【2024-05-30】[abbysheksharma / code-hub](https://github.com/abbysheksharma/code-hub) - 
 * 【2024-05-30】[murtuja43 / murtuja43.github.io](https://github.com/murtuja43/murtuja43.github.io) - This is my web dev portfolio. You may fork it and I'd also appriciate if you star this repo.😄 Visit this to see it live-⬇
 * 【2024-05-30】[jfmartinz / ResourceHub](https://github.com/jfmartinz/ResourceHub) - ResourceHub is an open-source project that serves as a one-stop repository of valuable resources curated by the amazing contributors in the community🚀
@@ -8325,6 +8355,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-05-31】[eosphoros-ai / Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Curated tutorials and resources for Large Language Models, Text2SQL, Text2DSL、Text2API、Text2Vis and more.
+* 【2024-05-31】[intel / llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
 * 【2024-05-30】[DNM-Bible / DNM-Bible](https://github.com/DNM-Bible/DNM-Bible) - Hey, this is verified list of darknet resources
 * 【2024-05-30】[hichemfelouat / ML_DL_Course](https://github.com/hichemfelouat/ML_DL_Course) - Machine Learning and Deep Learning Course
 * 【2024-05-30】[adysec / nuclei_poc](https://github.com/adysec/nuclei_poc) - Nuclei POC，每日更新
