@@ -5337,6 +5337,9 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-06-06】[riscv-software-src / riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
+* 【2024-06-06】[universal-ctags / ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
+* 【2024-06-06】[AlkaMotors / AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
 * 【2024-06-05】[CTR-tools / CTR-ModSDK](https://github.com/CTR-tools/CTR-ModSDK) - ModSDK - a modding toolkit to create mods for Crash Team Racing in C. This repository also houses an effort to fully decompile and reverse-engineer CTR in C.
 * 【2024-06-03】[Pzqqt / android_kernel_xiaomi_marble](https://github.com/Pzqqt/android_kernel_xiaomi_marble) - Melt Kernel For Redmi Note 12 Turbo (marble) / Poco F5 (marblein)
 * 【2024-06-02】[cococry / leif](https://github.com/cococry/leif) - Minimal, configurable & GPU accelerated Immediate Mode UI Library written with modern OpenGL
@@ -6118,6 +6121,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-06-06】[boostorg / beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 * 【2024-06-05】[pytorch / xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 * 【2024-06-05】[PaddlePaddle / Paddle-Lite-Demo](https://github.com/PaddlePaddle/Paddle-Lite-Demo) - lib, demo, model, data
 * 【2024-06-04】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
