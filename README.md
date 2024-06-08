@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+* 【2024-06-08】[google / mesop](https://github.com/google/mesop) - 
+* 【2024-06-08】[microsoft / vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 * 【2024-06-07】[directus / directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 * 【2024-06-04】[onuratakan / gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
 * 【2024-06-04】[folke / lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -1393,6 +1396,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-06-08】[tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
+* 【2024-06-08】[alibaba / QLExpress](https://github.com/alibaba/QLExpress) - QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.
+* 【2024-06-08】[jacoco / jacoco](https://github.com/jacoco/jacoco) - 🔬 Java Code Coverage Library
 * 【2024-06-05】[pen4uin / java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持高度自定义的 Java 内存马生成工具
 * 【2024-06-05】[graphql-java / graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 * 【2024-06-05】[pen4uin / java-echo-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持高度自定义的 Java 回显载荷生成工具
@@ -2140,6 +2146,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-06-08】[mategol / PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 * 【2024-06-05】[AiuniAI / Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 * 【2024-06-05】[tevslin / meeting-reporter](https://github.com/tevslin/meeting-reporter) - Human-AI collaboration to produce a newstory about a meeting from minutes or transcript
 * 【2024-06-05】[julep-ai / julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks. ~Supabase for building AI agents.
@@ -4453,6 +4460,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-06-08】[eksctl-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
+* 【2024-06-08】[google / osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 * 【2024-06-04】[ivoras / EncryptedNotepad2](https://github.com/ivoras/EncryptedNotepad2) - A Notepad-like simple text editor where files are saved (and later loaded) encrypted with AES-256.
 * 【2024-06-04】[heroiclabs / nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 * 【2024-06-04】[AccentDesign / gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
@@ -6125,6 +6134,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-06-08】[zealdocs / zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 * 【2024-06-07】[ByConity / ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
 * 【2024-06-07】[FEX-Emu / FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 * 【2024-06-07】[jarro2783 / cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
@@ -6883,6 +6893,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-06-08】[foundation / foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 * 【2024-06-05】[chrispsn / mesh-spreadsheet](https://github.com/chrispsn/mesh-spreadsheet) - A data and code editor that feels like a spreadsheet.
 * 【2024-06-05】[SAP / ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 * 【2024-06-04】[VA3HDL / hamdashboard](https://github.com/VA3HDL/hamdashboard) - Customizable Dashboard for Ham Radio
