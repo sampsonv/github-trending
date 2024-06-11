@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-06-11】[DaoCloud / public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
+* 【2024-06-11】[roboflow / notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.
 * 【2024-06-09】[idootop / mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 * 【2024-06-09】[hackerb9 / lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 * 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -1398,6 +1400,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-06-11】[batfish / batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches.
+* 【2024-06-11】[APIJSON / APIJSON-Demo](https://github.com/APIJSON/APIJSON-Demo) - 腾讯 APIJSON 各种语言、各种框架 的 使用示例项目、上手文档、测试数据 SQL 文件 等。Demo projects with document and SQL files for Tencent APIJSON with different programming languages and different frameworks.
 * 【2024-06-09】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern Java inference engine for LLMs
 * 【2024-06-09】[confluentinc / parallel-consumer](https://github.com/confluentinc/parallel-consumer) - Parallel Apache Kafka client wrapper with per message ACK, client side queueing, a simpler consumer/producer API with key concurrency and extendable non-blocking IO processing.
 * 【2024-06-09】[youtube / cobalt](https://github.com/youtube/cobalt) - Cobalt is a lightweight HTML5 application container
@@ -4465,6 +4469,9 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-06-11】[wzshiming / crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
+* 【2024-06-11】[danvergara / dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
+* 【2024-06-11】[imgproxy / imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 * 【2024-06-09】[playwright-community / playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 * 【2024-06-09】[rabbitmq / cluster-operator](https://github.com/rabbitmq/cluster-operator) - RabbitMQ Cluster Kubernetes Operator
 * 【2024-06-08】[eksctl-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
