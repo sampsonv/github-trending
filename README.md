@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-06-14】[fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
+* 【2024-06-14】[goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 * 【2024-06-11】[DaoCloud / public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 * 【2024-06-11】[roboflow / notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.
 * 【2024-06-09】[idootop / mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
@@ -1400,6 +1402,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-06-14】[spacious-team / investbook](https://github.com/spacious-team/investbook) - Оценка эффективности инвестиций с учетом комиссий, налогов (удержанных и ожидающихся), дивидендов и купонов.
 * 【2024-06-11】[batfish / batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches.
 * 【2024-06-11】[APIJSON / APIJSON-Demo](https://github.com/APIJSON/APIJSON-Demo) - 腾讯 APIJSON 各种语言、各种框架 的 使用示例项目、上手文档、测试数据 SQL 文件 等。Demo projects with document and SQL files for Tencent APIJSON with different programming languages and different frameworks.
 * 【2024-06-09】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern Java inference engine for LLMs
@@ -2155,6 +2158,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-06-14】[open-mmlab / mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - OpenMMLab Semantic Segmentation Toolbox and Benchmark.
 * 【2024-06-08】[mategol / PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 * 【2024-06-05】[AiuniAI / Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 * 【2024-06-05】[tevslin / meeting-reporter](https://github.com/tevslin/meeting-reporter) - Human-AI collaboration to produce a newstory about a meeting from minutes or transcript
@@ -3480,6 +3484,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-06-14】[paulmillr / chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 * 【2024-06-07】[xaboy / form-create](https://github.com/xaboy/form-create) - 🔥🔥🔥 强大的动态表单生成器，通过数据驱动表单渲染，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 * 【2024-06-07】[mishoo / UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 * 【2024-06-07】[pablokbs / peladonerd](https://github.com/pablokbs/peladonerd) - Repo con los archivos que uso para mi videos en youtube
@@ -4469,6 +4474,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-06-14】[Azure / azure-storage-fuse](https://github.com/Azure/azure-storage-fuse) - A virtual file system adapter for Azure Blob storage
+* 【2024-06-14】[hashicorp / raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 * 【2024-06-11】[wzshiming / crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
 * 【2024-06-11】[danvergara / dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 * 【2024-06-11】[imgproxy / imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -5364,6 +5371,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-06-14】[RubyMetric / chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具. Change Source for every software on every platform from the command line.
 * 【2024-06-06】[riscv-software-src / riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 * 【2024-06-06】[universal-ctags / ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 * 【2024-06-06】[AlkaMotors / AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
@@ -6148,6 +6156,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-06-14】[s3fs-fuse / s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 * 【2024-06-09】[microsoft / onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 * 【2024-06-09】[jellyfin / jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
 * 【2024-06-08】[zealdocs / zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
