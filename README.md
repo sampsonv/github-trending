@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-06-20】[open-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+* 【2024-06-20】[baptisteArno / typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
+* 【2024-06-20】[argilla-io / argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+* 【2024-06-20】[jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 * 【2024-06-19】[NVIDIA / warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
 * 【2024-06-19】[amplication / amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 * 【2024-06-19】[datawhalechina / leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
@@ -1409,6 +1413,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-06-20】[testng-team / testng](https://github.com/testng-team/testng) - TestNG testing framework
 * 【2024-06-18】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 * 【2024-06-18】[apache / incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines.
 * 【2024-06-15】[snowflakedb / snowflake-jdbc](https://github.com/snowflakedb/snowflake-jdbc) - Snowflake JDBC Driver
@@ -2173,6 +2178,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-06-20】[SkalskiP / courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
+* 【2024-06-20】[tensorflow / models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 * 【2024-06-19】[TomSchimansky / CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 * 【2024-06-19】[landing-ai / vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 * 【2024-06-19】[google-research / bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -3512,6 +3519,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-06-20】[codemirror / codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 * 【2024-06-19】[DefiLlama / chainlist](https://github.com/DefiLlama/chainlist) - 
 * 【2024-06-15】[hotwired / turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
 * 【2024-06-15】[aws-actions / amazon-ecs-deploy-task-definition](https://github.com/aws-actions/amazon-ecs-deploy-task-definition) - Registers an Amazon ECS task definition and deploys it to an ECS service.
@@ -5410,6 +5418,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-06-20】[coreutils / coreutils](https://github.com/coreutils/coreutils) - upstream mirror
 * 【2024-06-16】[KhronosGroup / Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
 * 【2024-06-16】[a0rtega / pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 * 【2024-06-15】[PCRE2Project / pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 development is now based here.
@@ -6198,6 +6207,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-06-20】[rizsotto / Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 * 【2024-06-19】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1.21.0.3 for building client side mods
 * 【2024-06-18】[Nevcairiel / LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 * 【2024-06-15】[openthread / openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
@@ -6964,6 +6974,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-06-20】[lllllllillllllillll / DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
 * 【2024-06-18】[ShreyamMaity / student-offers](https://github.com/ShreyamMaity/student-offers) - A Collection Of All Free Student Offers & Discount while you are a student.
 * 【2024-06-15】[OCA / maintenance](https://github.com/OCA/maintenance) - Odoo modules for businesses that implies maintenance tasks
 * 【2024-06-15】[foundation / foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
