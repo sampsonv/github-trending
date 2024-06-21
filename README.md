@@ -1413,6 +1413,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-06-21】[eclipse-jkube / jkube](https://github.com/eclipse-jkube/jkube) - Build and Deploy java applications on Kubernetes
 * 【2024-06-20】[testng-team / testng](https://github.com/testng-team/testng) - TestNG testing framework
 * 【2024-06-18】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 * 【2024-06-18】[apache / incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines.
@@ -2178,6 +2179,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-06-21】[XPixelGroup / BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet.
+* 【2024-06-21】[mesonbuild / meson](https://github.com/mesonbuild/meson) - The Meson Build System
+* 【2024-06-21】[labelmeai / labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 * 【2024-06-20】[SkalskiP / courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 * 【2024-06-20】[tensorflow / models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 * 【2024-06-19】[TomSchimansky / CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
@@ -6207,6 +6211,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-06-21】[vnotex / vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 * 【2024-06-20】[rizsotto / Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 * 【2024-06-19】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1.21.0.3 for building client side mods
 * 【2024-06-18】[Nevcairiel / LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
@@ -6974,6 +6979,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-06-21】[vasturiano / globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 * 【2024-06-20】[lllllllillllllillll / DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
 * 【2024-06-18】[ShreyamMaity / student-offers](https://github.com/ShreyamMaity/student-offers) - A Collection Of All Free Student Offers & Discount while you are a student.
 * 【2024-06-15】[OCA / maintenance](https://github.com/OCA/maintenance) - Odoo modules for businesses that implies maintenance tasks
