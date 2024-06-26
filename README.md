@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-06-26】[typescript-eslint / typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
 * 【2024-06-25】[modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 * 【2024-06-24】[SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-06-23】[niedev / RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real-time translation app.
@@ -1417,6 +1418,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-06-26】[xwiki / xwiki-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
 * 【2024-06-24】[DSheirer / sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR). Website:
 * 【2024-06-24】[gsantner / markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 * 【2024-06-21】[eclipse-jkube / jkube](https://github.com/eclipse-jkube/jkube) - Build and Deploy java applications on Kubernetes
@@ -2185,6 +2187,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-06-26】[microsoft / table-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evaluation metric.
+* 【2024-06-26】[cluic / wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
+* 【2024-06-26】[google / flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 * 【2024-06-25】[google / google-ctf](https://github.com/google/google-ctf) - Google CTF
 * 【2024-06-24】[Kosinkadink / ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) - Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 * 【2024-06-24】[casualsnek / onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
@@ -4532,6 +4537,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-06-26】[allegro / bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 * 【2024-06-24】[alecthomas / kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 * 【2024-06-24】[k1LoW / tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 * 【2024-06-23】[google / go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
@@ -5437,6 +5443,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-06-26】[bol-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 * 【2024-06-23】[robertdavidgraham / wc2](https://github.com/robertdavidgraham/wc2) - Investigates optimizing 'wc', the Unix word count program
 * 【2024-06-20】[coreutils / coreutils](https://github.com/coreutils/coreutils) - upstream mirror
 * 【2024-06-16】[KhronosGroup / Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
@@ -6227,6 +6234,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-06-26】[maplibre / maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
+* 【2024-06-26】[swoole / swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 * 【2024-06-25】[soulsmods / ModEngine2](https://github.com/soulsmods/ModEngine2) - Runtime injection library for modding Souls games. WIP
 * 【2024-06-24】[geektcp / UeCore](https://github.com/geektcp/UeCore) - UeCore wow game server c++ 开源魔兽世界 https://uewow.com
 * 【2024-06-21】[vnotex / vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
@@ -7741,6 +7750,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-06-26】[bencentra / centrarium](https://github.com/bencentra/centrarium) - A simple yet classy theme for your Jekyll website or blog.
 * 【2024-06-19】[microsoft / azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
 * 【2024-06-18】[BNDong / Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme : SimpleMemory
 * 【2024-06-16】[apu52 / METAVERSE](https://github.com/apu52/METAVERSE) - 🚀 Welcome to our GitHub repository, Officially accepted for GSSOC'24 🌟& SSOC'24🌟 Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute your creations 🎨, add features 🛠️, or squash bugs 🐛 in existing projects.
