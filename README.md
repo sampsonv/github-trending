@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-06-29】[microsoft / semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
+* 【2024-06-29】[stacks-network / stacks-core](https://github.com/stacks-network/stacks-core) - The Stacks blockchain implementation
 * 【2024-06-26】[typescript-eslint / typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
 * 【2024-06-25】[modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 * 【2024-06-24】[SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
@@ -2187,6 +2189,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-06-29】[yzhao062 / pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
 * 【2024-06-28】[bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 * 【2024-06-27】[frappe / hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 * 【2024-06-26】[microsoft / table-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evaluation metric.
@@ -3540,6 +3543,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-06-29】[dotenvx / dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 * 【2024-06-28】[ciiiii / cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 * 【2024-06-27】[jhuckaby / performa](https://github.com/jhuckaby/performa) - A multi-server monitoring system with a web based UI.
 * 【2024-06-25】[fent / node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
@@ -4541,6 +4545,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-06-29】[SpecterOps / BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
 * 【2024-06-28】[minio / mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters ☁️
 * 【2024-06-26】[allegro / bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 * 【2024-06-24】[alecthomas / kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
