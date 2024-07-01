@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-07-01】[ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
+* 【2024-07-01】[mrdbourke / pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+* 【2024-07-01】[goatcorp / Dalamud](https://github.com/goatcorp/Dalamud) - FFXIV plugin framework and API
+* 【2024-07-01】[ruffle-rs / ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 * 【2024-06-30】[snakers4 / silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 * 【2024-06-30】[ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 * 【2024-06-30】[goatcorp / FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) - Custom launcher for FFXIV
@@ -1423,6 +1427,11 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-07-01】[SkriptLang / Skript](https://github.com/SkriptLang/Skript) - Skript is a Spigot plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
+* 【2024-07-01】[unicode-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
+* 【2024-07-01】[dropwizard / dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
+* 【2024-07-01】[runtimeverification / k](https://github.com/runtimeverification/k) - K Framework Tools 7.0
+* 【2024-07-01】[confluentinc / ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 * 【2024-06-26】[xwiki / xwiki-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
 * 【2024-06-24】[DSheirer / sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR). Website:
 * 【2024-06-24】[gsantner / markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -2192,6 +2201,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-07-01】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 * 【2024-06-29】[yzhao062 / pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
 * 【2024-06-28】[bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 * 【2024-06-27】[frappe / hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
@@ -3546,6 +3556,9 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-07-01】[overleaf / overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+* 【2024-07-01】[antfu / vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
+* 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 * 【2024-06-30】[blueedgetechno / win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 * 【2024-06-29】[dotenvx / dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 * 【2024-06-28】[ciiiii / cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
@@ -4549,6 +4562,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-07-01】[botlabs-gg / yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
+* 【2024-07-01】[cloudfoundry / cf-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
 * 【2024-06-30】[ThreeDotsLabs / watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 * 【2024-06-30】[DataDog / dd-trace-go](https://github.com/DataDog/dd-trace-go) - Datadog Go Library including APM tracing, profiling, and security monitoring.
 * 【2024-06-29】[SpecterOps / BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
@@ -6250,6 +6265,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-07-01】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 * 【2024-06-30】[zhuzichu520 / FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
 * 【2024-06-26】[maplibre / maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
 * 【2024-06-26】[swoole / swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
@@ -7023,6 +7039,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-07-01】[elastic / ecs-dotnet](https://github.com/elastic/ecs-dotnet) - 
 * 【2024-06-30】[wppconnect-team / wa-version](https://github.com/wppconnect-team/wa-version) - 
 * 【2024-06-30】[bobbyiliev / introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 * 【2024-06-24】[ComposioHQ / composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
