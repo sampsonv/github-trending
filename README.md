@@ -1435,6 +1435,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-07-08】[EnterpriseQualityCoding / FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 * 【2024-07-07】[apache / cloudstack](https://github.com/apache/cloudstack) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
 * 【2024-07-04】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 * 【2024-07-03】[kermitt2 / grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
@@ -2212,6 +2213,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-07-08】[explorerhq / django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 * 【2024-07-07】[freelabz / secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 * 【2024-07-07】[tanelpoder / 0xtools](https://github.com/tanelpoder/0xtools) - 0x.Tools: X-Ray vision for Linux systems
 * 【2024-07-07】[qdrant / fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
@@ -5510,6 +5512,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-07-08】[zodiacon / WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
 * 【2024-07-07】[andmarti1424 / sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 * 【2024-07-05】[rui314 / 8cc](https://github.com/rui314/8cc) - A Small C Compiler
 * 【2024-07-03】[shalxmva / modxo](https://github.com/shalxmva/modxo) - Xbox LPC Port modchip using a Raspberry Pi Pico
@@ -6304,6 +6307,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-07-08】[turanszkij / WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
 * 【2024-07-05】[vslavik / diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 * 【2024-07-05】[HKUST-Aerial-Robotics / VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) - A Robust and Versatile Monocular Visual-Inertial State Estimator
 * 【2024-07-03】[triple-Mu / YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
@@ -8694,6 +8698,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-07-08】[praetorian-inc / Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
 * 【2024-07-07】[Consensys / ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 * 【2024-07-02】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 * 【2024-06-28】[ros2 / ros2](https://github.com/ros2/ros2) - The Robot Operating System, is a meta operating system for robots.
