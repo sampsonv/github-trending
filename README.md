@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-07-13】[TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) - NewPipe's core library for extracting data from streaming sites
+* 【2024-07-13】[apify / crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
 * 【2024-07-12】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 * 【2024-07-12】[RocketChat / Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 * 【2024-07-12】[ueberdosis / tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -2217,6 +2219,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-07-13】[InternLM / Tutorial](https://github.com/InternLM/Tutorial) - LLM Tutorial
 * 【2024-07-12】[milesial / Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 * 【2024-07-12】[urchade / GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024
 * 【2024-07-10】[Xpra-org / xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
@@ -5523,6 +5526,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-07-13】[zmap / zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
+* 【2024-07-13】[cnlohr / ch32v003fun](https://github.com/cnlohr/ch32v003fun) - Open source minimal stack for the ch32 line of WCH processors, including the ch32v003, a 10¢ 48 MHz RISC-V Microcontroller - as well as many other chips within the ch32v/x line.
 * 【2024-07-12】[zherczeg / sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
 * 【2024-07-12】[yarrick / iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 * 【2024-07-10】[firedancer-io / firedancer](https://github.com/firedancer-io/firedancer) - Firedancer is Jump Crypto's Solana consensus node implementation.
@@ -6322,6 +6327,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-07-13】[qiayuanl / legged_control](https://github.com/qiayuanl/legged_control) - Nonlinear MPC and WBC framework for legged robot based on OCS2 and ros-controls
 * 【2024-07-12】[sebastianstarke / AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 * 【2024-07-08】[turanszkij / WickedEngine](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics
 * 【2024-07-05】[vslavik / diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
@@ -7851,6 +7857,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-07-13】[stripe-samples / checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
 * 【2024-07-10】[primary-theme / obsidian](https://github.com/primary-theme/obsidian) - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
 * 【2024-07-10】[codeguy / php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 * 【2024-07-07】[nicejade / markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/
@@ -8717,6 +8724,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-07-13】[nostr-protocol / nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
 * 【2024-07-08】[praetorian-inc / Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
 * 【2024-07-07】[Consensys / ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 * 【2024-07-02】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
