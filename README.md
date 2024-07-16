@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-07-16】[DiceDB / dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
+* 【2024-07-16】[neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 * 【2024-07-14】[MystenLabs / sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 * 【2024-07-13】[TeamNewPipe / NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor) - NewPipe's core library for extracting data from streaming sites
 * 【2024-07-13】[apify / crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
@@ -4606,6 +4608,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-07-16】[edoardottt / scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
+* 【2024-07-16】[taubyte / tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 * 【2024-07-14】[vmware / govmomi](https://github.com/vmware/govmomi) - Go library for the VMware vSphere API
 * 【2024-07-12】[nerdswords / yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
 * 【2024-07-12】[boltdb / bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -5530,6 +5534,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-07-16】[ThirteenAG / WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
 * 【2024-07-13】[zmap / zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 * 【2024-07-13】[cnlohr / ch32v003fun](https://github.com/cnlohr/ch32v003fun) - Open source minimal stack for the ch32 line of WCH processors, including the ch32v003, a 10¢ 48 MHz RISC-V Microcontroller - as well as many other chips within the ch32v/x line.
 * 【2024-07-12】[zherczeg / sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
@@ -8728,6 +8733,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-07-16】[xlenore / ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2024-07-13】[nostr-protocol / nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
 * 【2024-07-08】[praetorian-inc / Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
 * 【2024-07-07】[Consensys / ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
