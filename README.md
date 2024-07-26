@@ -2237,6 +2237,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-07-26】[ollama / ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
+* 【2024-07-26】[google-research / neuralgcm](https://github.com/google-research/neuralgcm) - Hybrid ML + physics model of the Earth's atmosphere
 * 【2024-07-23】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 * 【2024-07-22】[crewAIInc / crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - 
 * 【2024-07-19】[facebookresearch / detr](https://github.com/facebookresearch/detr) - End-to-End Object Detection with Transformers
@@ -3614,6 +3616,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-07-26】[orestbida / cookieconsent](https://github.com/orestbida/cookieconsent) - 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 * 【2024-07-21】[kevin-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
 * 【2024-07-19】[cavi-au / Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
@@ -7165,6 +7168,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-07-26】[riggraz / no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 * 【2024-07-24】[htmlstreamofficial / preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * 【2024-07-18】[trigaten / The_Prompt_Report](https://github.com/trigaten/The_Prompt_Report) - 
 * 【2024-07-10】[paulirish / lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
