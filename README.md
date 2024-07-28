@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-07-28】[freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 * 【2024-07-27】[FishHawk / auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2024-07-25】[Netflix / maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 * 【2024-07-25】[hoppscotch / hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
@@ -1457,6 +1458,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-07-28】[apache / fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2024-07-27】[TimefoldAI / timefold-solver](https://github.com/TimefoldAI/timefold-solver) - The open source Solver AI for Java, Python and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
 * 【2024-07-24】[oshi / oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 * 【2024-07-20】[pinpoint-apm / pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
@@ -2239,6 +2241,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-07-28】[Chenyme / Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
+* 【2024-07-28】[stamparm / maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+* 【2024-07-28】[chidiwilliams / buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 * 【2024-07-26】[ollama / ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 * 【2024-07-26】[google-research / neuralgcm](https://github.com/google-research/neuralgcm) - Hybrid ML + physics model of the Earth's atmosphere
 * 【2024-07-23】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -3618,6 +3623,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-07-28】[jquery / jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library.
 * 【2024-07-26】[orestbida / cookieconsent](https://github.com/orestbida/cookieconsent) - 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 * 【2024-07-21】[kevin-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
@@ -4639,6 +4645,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-07-28】[cyclops-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 * 【2024-07-27】[rancher / local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 * 【2024-07-25】[kubernetes-sigs / controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 * 【2024-07-25】[progrium / darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
