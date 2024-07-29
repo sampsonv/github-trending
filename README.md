@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-07-29】[OpenGenerativeAI / llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 * 【2024-07-28】[freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 * 【2024-07-27】[FishHawk / auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2024-07-25】[Netflix / maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
@@ -2241,6 +2242,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-07-29】[patched-codes / patchwork](https://github.com/patched-codes/patchwork) - Automate development gruntwwork like code reviews, patching and documentation with LLM workflows.
+* 【2024-07-29】[rwv / chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 * 【2024-07-28】[Chenyme / Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
 * 【2024-07-28】[stamparm / maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 * 【2024-07-28】[chidiwilliams / buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -4645,6 +4648,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-07-29】[owasp-amass / amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 * 【2024-07-28】[cyclops-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 * 【2024-07-27】[rancher / local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 * 【2024-07-25】[kubernetes-sigs / controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
@@ -5581,6 +5585,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-07-29】[hanwckf / bl-mt798x](https://github.com/hanwckf/bl-mt798x) - ATF and u-boot for mt798x.
 * 【2024-07-24】[microsoft / ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 * 【2024-07-24】[viti95 / FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
 * 【2024-07-21】[ahrm / sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
@@ -6390,6 +6395,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-07-29】[elfmz / far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 * 【2024-07-27】[pytorch / FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 * 【2024-07-22】[OGRECave / ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
 * 【2024-07-21】[xournalpp / xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
@@ -7179,6 +7185,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-07-29】[a1ex4 / ownfoil](https://github.com/a1ex4/ownfoil) - Lightweight and customizable Tinfoil Shop manager, with automatic saves backup.
 * 【2024-07-26】[riggraz / no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 * 【2024-07-24】[htmlstreamofficial / preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * 【2024-07-18】[trigaten / The_Prompt_Report](https://github.com/trigaten/The_Prompt_Report) - 
