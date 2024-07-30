@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-07-30】[recloudstream / cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 * 【2024-07-29】[OpenGenerativeAI / llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 * 【2024-07-28】[freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 * 【2024-07-27】[FishHawk / auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
@@ -3626,6 +3627,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-07-30】[spicetify / cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 * 【2024-07-28】[jquery / jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library.
 * 【2024-07-26】[orestbida / cookieconsent](https://github.com/orestbida/cookieconsent) - 🍪 Simple cross-browser cookie-consent plugin written in vanilla js
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -5585,6 +5587,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-07-30】[c3lang / c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 * 【2024-07-29】[hanwckf / bl-mt798x](https://github.com/hanwckf/bl-mt798x) - ATF and u-boot for mt798x.
 * 【2024-07-24】[microsoft / ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 * 【2024-07-24】[viti95 / FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
@@ -6395,6 +6398,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-07-30】[zhongyang219 / MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
 * 【2024-07-29】[elfmz / far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 * 【2024-07-27】[pytorch / FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 * 【2024-07-22】[OGRECave / ogre](https://github.com/OGRECave/ogre) - scene-oriented, flexible 3D engine (C++, Python, C#, Java)
