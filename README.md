@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-08-10】[goldbergyoni / nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2024)
 * 【2024-08-09】[hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 * 【2024-08-09】[THUDM / CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 * 【2024-08-09】[Infisical / infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
@@ -2265,6 +2266,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-08-10】[heshengtao / comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) - Dify in comfyui is compatible with Omost,ChatTTS,access to Feishu,discord,and adapts to all models with similar openai interfaces, such as ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local models such as llama/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG.Supports a variety of RAG.
 * 【2024-08-09】[pytorch / rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 * 【2024-08-09】[statsmodels / statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 * 【2024-08-09】[jorhelp / Ingram](https://github.com/jorhelp/Ingram) - 网络摄像头漏洞扫描工具 | Webcam vulnerability scanning tool
@@ -3662,6 +3664,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-08-10】[cables-gl / cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 * 【2024-08-07】[hackthedev / dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
 * 【2024-08-06】[webtorrent / webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 * 【2024-08-04】[SadeghHayeri / GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -7251,6 +7254,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-08-10】[thedevdojo / pines](https://github.com/thedevdojo/pines) - The Pines UI library
+* 【2024-08-10】[seeingtheory / Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics.
 * 【2024-08-01】[Esri / calcite-design-system](https://github.com/Esri/calcite-design-system) - A monorepo containing the packages for Esri's Calcite Design System
 * 【2024-07-29】[a1ex4 / ownfoil](https://github.com/a1ex4/ownfoil) - Lightweight and customizable Tinfoil Shop manager, with automatic saves backup.
 * 【2024-07-26】[riggraz / no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
@@ -8877,6 +8882,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-08-10】[joebew42 / study-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 * 【2024-08-09】[getcursor / cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 * 【2024-08-09】[microsoft / powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos.
 * 【2024-07-25】[onceupon / Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
