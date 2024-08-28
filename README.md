@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-08-28】[khcrysalis / Feather](https://github.com/khcrysalis/Feather) - Feather is a free on-device iOS application manager/installer built with UIKit for quality.
+* 【2024-08-28】[Pierian-Data / Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 * 【2024-08-26】[casey / just](https://github.com/casey/just) - 🤖 Just a command runner
 * 【2024-08-25】[PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 * 【2024-08-25】[flxzt / rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
@@ -2302,6 +2304,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-08-28】[NUS-HPC-AI-Lab / VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 * 【2024-08-27】[PromtEngineer / Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.
 * 【2024-08-26】[google / vizier](https://github.com/google/vizier) - Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.
 * 【2024-08-26】[s0md3v / Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -3727,6 +3730,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-08-28】[evgeny-nadymov / telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 * 【2024-08-25】[EmulatorJS / EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 * 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
 * 【2024-08-23】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
@@ -6545,6 +6549,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-08-28】[unitreerobotics / unitree_ros](https://github.com/unitreerobotics/unitree_ros) - 
 * 【2024-08-26】[dpjudas / SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
 * 【2024-08-26】[man-group / ArcticDB](https://github.com/man-group/ArcticDB) - ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem.
 * 【2024-08-26】[nisargjhaveri / WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
@@ -8114,6 +8119,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-08-28】[obsidianmd / obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
 * 【2024-08-23】[ardalis / pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals) - Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith
 * 【2024-08-18】[delaneyj / datastar](https://github.com/delaneyj/datastar) - 
 * 【2024-08-16】[bradtraversy / tailwind-landing-page](https://github.com/bradtraversy/tailwind-landing-page) - 
