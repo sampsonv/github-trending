@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-08-30】[Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
+* 【2024-08-30】[dokku / dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 * 【2024-08-29】[openobserve / openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 * 【2024-08-28】[khcrysalis / Feather](https://github.com/khcrysalis/Feather) - Feather is a free on-device iOS application manager/installer built with UIKit for quality.
 * 【2024-08-28】[Pierian-Data / Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
@@ -2305,6 +2307,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-08-30】[PyCQA / bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 * 【2024-08-29】[THUDM / GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 * 【2024-08-28】[NUS-HPC-AI-Lab / VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 * 【2024-08-27】[PromtEngineer / Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.
@@ -3732,6 +3735,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-08-30】[remarkjs / react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 * 【2024-08-28】[evgeny-nadymov / telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 * 【2024-08-25】[EmulatorJS / EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - A web-based frontend for RetroArch
 * 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
@@ -6551,6 +6555,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-08-30】[colmap / glomap](https://github.com/colmap/glomap) - GLOMAP - Global Structured-from-Motion Revisited
 * 【2024-08-28】[unitreerobotics / unitree_ros](https://github.com/unitreerobotics/unitree_ros) - 
 * 【2024-08-26】[dpjudas / SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
 * 【2024-08-26】[man-group / ArcticDB](https://github.com/man-group/ArcticDB) - ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem.
@@ -8999,6 +9004,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-08-30】[dailydotdev / daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 * 【2024-08-20】[ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 * 【2024-08-18】[yolain / ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
 * 【2024-08-17】[base-org / brand-kit](https://github.com/base-org/brand-kit) - Brand guide and logos for the Base brand.
