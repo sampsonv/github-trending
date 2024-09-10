@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-09-10】[RSSNext / Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
+* 【2024-09-10】[johannesjo / super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 * 【2024-09-09】[afadil / wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 * 【2024-09-09】[HiEventsDev / Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform 🎟️
 * 【2024-09-08】[ChrisTitusTech / linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
@@ -4822,6 +4824,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-09-10】[arduino / arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 * 【2024-09-09】[dop251 / goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 * 【2024-09-03】[safing / portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 * 【2024-09-03】[txthinking / brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
