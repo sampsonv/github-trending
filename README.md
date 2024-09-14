@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-09-14】[Super-Badmen-Viper / NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS ，Electron(Vue3+Vite+TypeScript) ，Support: navidrome server
 * 【2024-09-12】[documenso / documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 * 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
 * 【2024-09-10】[RSSNext / Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
@@ -1522,6 +1523,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-09-14】[unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI
 * 【2024-09-07】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-03】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 * 【2024-09-02】[Wynntils / Wynntils](https://github.com/Wynntils/Wynntils) - Wynntils (Artemis) is a rewrite of Wynntils in 1.21 using Architectury, to support Fabric and Forge.
@@ -2330,6 +2332,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-09-14】[Future-House / paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
+* 【2024-09-14】[open-compass / VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks
 * 【2024-09-13】[runhey / OnmyojiAutoScript](https://github.com/runhey/OnmyojiAutoScript) - Onmyoji Auto Script | 阴阳师脚本
 * 【2024-09-12】[run-llama / llama_deploy](https://github.com/run-llama/llama_deploy) - 
 * 【2024-09-12】[DataDog / integrations-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent
@@ -5790,6 +5794,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-09-14】[libssh2 / libssh2](https://github.com/libssh2/libssh2) - the SSH library
 * 【2024-09-07】[sz3 / cfc](https://github.com/sz3/cfc) - Demo/test android app for libcimbar. Copy files over the cell phone camera!
 * 【2024-09-03】[bluekitchen / btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * 【2024-09-02】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
@@ -6620,6 +6625,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-09-14】[symless / synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+* 【2024-09-14】[spotify / annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 * 【2024-09-12】[turing-machines / mentals-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included).
 * 【2024-09-12】[Shopify / react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 * 【2024-09-12】[mawww / kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -8205,6 +8212,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-09-14】[dhulihan / hooligan](https://github.com/dhulihan/hooligan) - A low-lit fully responsive theme for Jekyll-Bootstrap.
 * 【2024-09-12】[connorferster / handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 * 【2024-09-09】[refact0r / system24](https://github.com/refact0r/system24) - a tui-style discord theme
 * 【2024-09-08】[smartping / smartping](https://github.com/smartping/smartping) - 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
@@ -9091,6 +9099,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-09-14】[gayanvoice / top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 * 【2024-09-13】[gmelodie / awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list wordlists for bruteforcing and fuzzing
 * 【2024-09-12】[pushsecurity / saas-attacks](https://github.com/pushsecurity/saas-attacks) - Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 * 【2024-09-12】[SwiftOnSecurity / sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
