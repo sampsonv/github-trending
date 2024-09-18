@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-09-18】[HariSekhon / DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
+* 【2024-09-18】[Morganamilo / paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 * 【2024-09-17】[krayin / laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 * 【2024-09-16】[frdel / agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 * 【2024-09-15】[sissbruecker / linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
@@ -2335,6 +2337,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-09-18】[pypa / pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
+* 【2024-09-18】[cupy / cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 * 【2024-09-17】[CadQuery / cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 * 【2024-09-17】[ai-to-ai / Auto-Gmail-Creator](https://github.com/ai-to-ai/Auto-Gmail-Creator) - Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping.
 * 【2024-09-14】[Future-House / paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
@@ -9112,6 +9116,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-09-18】[avito-tech / playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
+* 【2024-09-18】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-09-15】[oz123 / awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * 【2024-09-14】[gayanvoice / top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 * 【2024-09-13】[gmelodie / awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list wordlists for bruteforcing and fuzzing
