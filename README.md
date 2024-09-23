@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2024-09-23】[thomhurst / TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
+* 【2024-09-23】[SharifiZarchi / Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - دوره‌ی مقدمه‌ای بر یادگیری ماشین، برای دانشجویان
+* 【2024-09-23】[basecamp / kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 * 【2024-09-22】[QwenLM / Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-09-20】[achristmascarl / rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 * 【2024-09-19】[tungbq / devops-basics](https://github.com/tungbq/devops-basics) - 🚀 Practical and document place for DevOps toolchain
@@ -3796,6 +3799,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-09-23】[Neet-Nestor / Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 * 【2024-09-21】[bvaughn / react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 * 【2024-09-21】[Unitech / pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 * 【2024-09-15】[cmliu / CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
@@ -4854,6 +4858,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-09-23】[konstructio / kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 * 【2024-09-19】[getzep / zep](https://github.com/getzep/zep) - Zep: Long-Term Memory for ‍AI Assistants.
 * 【2024-09-19】[cloudflare / terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider
 * 【2024-09-16】[cloudwego / hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
@@ -5817,6 +5822,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-09-23】[TechUnRestricted / WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 * 【2024-09-20】[klonyyy / MCUViewer](https://github.com/klonyyy/MCUViewer) - Real-time embedded variable & trace viewer
 * 【2024-09-14】[libssh2 / libssh2](https://github.com/libssh2/libssh2) - the SSH library
 * 【2024-09-07】[sz3 / cfc](https://github.com/sz3/cfc) - Demo/test android app for libcimbar. Copy files over the cell phone camera!
@@ -6649,6 +6655,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-09-23】[DarthTon / Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
 * 【2024-09-21】[exaloop / codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 * 【2024-09-20】[LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 * 【2024-09-19】[Alinshans / MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
@@ -8244,6 +8251,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-09-23】[panr / hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 * 【2024-09-21】[robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 * 【2024-09-21】[zhaohuabing / hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite) - A clean, elegant blog theme for hugo
 * 【2024-09-21】[shanselman / firsttimersonly](https://github.com/shanselman/firsttimersonly) - The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
@@ -9135,6 +9143,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-09-23】[n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 * 【2024-09-22】[zakirullin / cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 * 【2024-09-18】[avito-tech / playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 * 【2024-09-18】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
