@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2024-09-27】[meta-llama / llama-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
+* 【2024-09-27】[hyperknot / openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+* 【2024-09-27】[meta-llama / llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 * 【2024-09-26】[wgh136 / PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 * 【2024-09-26】[microsoft / azurelinux](https://github.com/microsoft/azurelinux) - Linux OS for Azure 1P services and edge appliances
 * 【2024-09-25】[srush / GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
@@ -1538,6 +1541,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-09-27】[apache / parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
+* 【2024-09-27】[FasterXML / jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions
 * 【2024-09-25】[CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 * 【2024-09-21】[comet-ml / opik](https://github.com/comet-ml/opik) - Open-source end-to-end LLM Development Platform
 * 【2024-09-14】[unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI
@@ -2349,6 +2354,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-09-27】[airtai / faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
 * 【2024-09-26】[microsoft / RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.
 * 【2024-09-26】[tonquer / JMComic-qt](https://github.com/tonquer/JMComic-qt) - 禁漫天堂，18comic，使用qt实现的PC客户端，支持Windows，Linux，MacOS
 * 【2024-09-25】[ReFirmLabs / binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
@@ -3808,6 +3814,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-09-27】[ThePansmith / Monifactory](https://github.com/ThePansmith/Monifactory) - A Modern Remaster of Nomifactory
 * 【2024-09-25】[chrishubert / whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.
 * 【2024-09-23】[Neet-Nestor / Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 * 【2024-09-21】[bvaughn / react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
@@ -4868,6 +4875,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-09-27】[hemilabs / heminetwork](https://github.com/hemilabs/heminetwork) - The hemi network core daemons.
 * 【2024-09-24】[mikestefanello / pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
 * 【2024-09-23】[konstructio / kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 * 【2024-09-19】[getzep / zep](https://github.com/getzep/zep) - Zep: Long-Term Memory for ‍AI Assistants.
@@ -6667,6 +6675,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-09-27】[ksnip / ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 * 【2024-09-26】[nghttp2 / nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 * 【2024-09-23】[DarthTon / Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
 * 【2024-09-21】[exaloop / codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
