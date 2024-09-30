@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-09-30】[shuding / nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 * 【2024-09-29】[mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 * 【2024-09-29】[exo-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 * 【2024-09-29】[nikitabobko / AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
@@ -5855,6 +5856,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-09-30】[OpenPrinting / cups-browsed](https://github.com/OpenPrinting/cups-browsed) - 
 * 【2024-09-29】[orangeduck / Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 * 【2024-09-29】[OpenPrinting / cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 * 【2024-09-28】[dethrace-labs / dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
@@ -8293,6 +8295,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-09-30】[LIlGG / halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 * 【2024-09-23】[panr / hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 * 【2024-09-21】[robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 * 【2024-09-21】[zhaohuabing / hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite) - A clean, elegant blog theme for hugo
