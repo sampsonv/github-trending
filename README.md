@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-10-03】[github-linguist / linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 * 【2024-10-02】[godotengine / godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
 * 【2024-09-30】[shuding / nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 * 【2024-09-29】[mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
@@ -2370,6 +2371,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-10-03】[boto / boto3](https://github.com/boto/boto3) - AWS SDK for Python
 * 【2024-10-01】[google / langfun](https://github.com/google/langfun) - OO for LLMs
 * 【2024-09-29】[pytorch / ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
 * 【2024-09-29】[google-research / circuit_training](https://github.com/google-research/circuit_training) - 
@@ -3834,6 +3836,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-10-03】[software-mansion / radon-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo.
 * 【2024-10-02】[fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
 * 【2024-09-29】[LedgerHQ / ledger-live](https://github.com/LedgerHQ/ledger-live) - Mono-repository for packages related to Ledger Live and its JavaScript ecosystem.
 * 【2024-09-29】[brookhong / Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
@@ -4898,6 +4901,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-10-03】[peer-calls / peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
+* 【2024-10-03】[sensepost / gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 * 【2024-10-02】[childe / gohangout](https://github.com/childe/gohangout) - 使用 golang 模仿的 Logstash。用于消费 Kafka 数据，处理后写入 ES、Clickhouse 等。
 * 【2024-09-27】[hemilabs / heminetwork](https://github.com/hemilabs/heminetwork) - The hemi network core daemons.
 * 【2024-09-24】[mikestefanello / pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
@@ -5865,6 +5870,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-10-03】[zeldaret / oot](https://github.com/zeldaret/oot) - Decompilation of The Legend of Zelda: Ocarina of Time
+* 【2024-10-03】[BasedHardware / omi](https://github.com/BasedHardware/omi) - AI wearables
 * 【2024-10-02】[agherzan / meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi) - Yocto/OE BSP layer for the Raspberry Pi boards
 * 【2024-10-02】[intel / libva](https://github.com/intel/libva) - Libva is an implementation for VA-API (Video Acceleration API)
 * 【2024-10-01】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
@@ -6706,6 +6713,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-10-03】[electronicarts / EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
+* 【2024-10-03】[oneapi-src / level-zero](https://github.com/oneapi-src/level-zero) - oneAPI Level Zero Specification Headers and Loader
 * 【2024-10-02】[sonic-net / sonic-swss](https://github.com/sonic-net/sonic-swss) - SONiC Switch State Service (SwSS)
 * 【2024-10-02】[rakshasa / rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 * 【2024-10-02】[zenustech / zeno](https://github.com/zenustech/zeno) - ZEn NOde system - a simulation & rendering engine in nodes
@@ -7541,6 +7550,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-10-03】[edent / SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+* 【2024-10-03】[maximevaillancourt / digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 * 【2024-09-29】[tencentyun / qcloud-documents](https://github.com/tencentyun/qcloud-documents) - 腾讯云官方文档
 * 【2024-09-29】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 * 【2024-09-22】[git / git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
@@ -8311,6 +8322,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-10-03】[fineanmol / Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button) - Annoying Submit Button in React. Give a ⭐️ if you have liked this project and want to support it !
 * 【2024-09-30】[LIlGG / halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 * 【2024-09-23】[panr / hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 * 【2024-09-21】[robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
