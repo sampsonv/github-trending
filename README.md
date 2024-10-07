@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-10-07】[onejs / one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.
+* 【2024-10-07】[ErikBjare / gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 * 【2024-10-06】[Budibase / budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 * 【2024-10-04】[XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 * 【2024-10-04】[simplex-chat / simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -2377,6 +2379,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-10-07】[karpathy / build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
+* 【2024-10-07】[AlfredoUen / JableTV](https://github.com/AlfredoUen/JableTV) - Jable.TV Download (GUI tool)
 * 【2024-10-06】[vnpy / vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 * 【2024-10-06】[alandtse / alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 * 【2024-10-06】[infobyte / faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -4915,6 +4919,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-10-07】[chainflag / eth-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte.
 * 【2024-10-06】[terraform-linters / tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 * 【2024-10-03】[peer-calls / peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 * 【2024-10-03】[sensepost / gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
