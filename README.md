@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-10-12】[mfts / papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 * 【2024-10-11】[clinebot / cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 * 【2024-10-11】[vuejs / core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * 【2024-10-11】[hcengineering / huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
@@ -7591,6 +7592,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-10-12】[hugo-sid / hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support.
 * 【2024-10-11】[tc39 / proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
 * 【2024-10-11】[tomfran / typo](https://github.com/tomfran/typo) - A simple Hugo theme
 * 【2024-10-06】[iamrahulmahato / master-web-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects.
@@ -8370,6 +8372,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-10-12】[tocttou / hacker-blog](https://github.com/tocttou/hacker-blog) - Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. https://ashishchaudhary.in/hacker-blog
 * 【2024-10-11】[appsecco / dvja](https://github.com/appsecco/dvja) - Damn Vulnerable Java (EE) Application
 * 【2024-10-08】[divyanshudhruv / Minifolio](https://github.com/divyanshudhruv/Minifolio) - ⚡ A minimal portfolio template for Developers | 2024
 * 【2024-10-08】[SurajPratap10 / Imagine_AI](https://github.com/SurajPratap10/Imagine_AI) - The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to solve the problem of limited creativity and imagination. This is a fully mobile responsive image generator built with Node.js and Express that uses OpenAI's Dall-E models to generate images.
