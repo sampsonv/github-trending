@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-10-29】[ai16z / eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
 * 【2024-10-27】[asterinas / asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 * 【2024-10-26】[dittofeed / dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 * 【2024-10-26】[vfsfitvnm / ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
@@ -1584,6 +1585,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-10-29】[CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 * 【2024-10-25】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2024-10-23】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 * 【2024-10-23】[akhilkammila / leetcode-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter) - screenshots leetcode editorials and problems
@@ -2410,6 +2412,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-10-29】[bramstroker / homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
 * 【2024-10-27】[Netflix / metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 * 【2024-10-26】[sergree / matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 * 【2024-10-26】[pyvista / pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
@@ -4978,6 +4981,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-10-29】[maddalax / htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 * 【2024-10-27】[diggerhq / digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 * 【2024-10-27】[thomaspoignant / go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 * 【2024-10-26】[hacdias / webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
@@ -5963,6 +5967,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
 * 【2024-10-25】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 * 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
 * 【2024-10-18】[espressif / esp-iot-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.
@@ -6818,6 +6823,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-10-29】[CookiePLMonster / SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas
 * 【2024-10-25】[hiyohiyo / CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 * 【2024-10-23】[microsoft / T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU with lookup table
 * 【2024-10-21】[k4yt3x / video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
