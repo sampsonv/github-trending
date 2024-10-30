@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-10-30】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
 * 【2024-10-29】[ai16z / eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
 * 【2024-10-27】[asterinas / asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 * 【2024-10-26】[dittofeed / dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
@@ -2412,6 +2413,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-10-30】[PokeAPI / pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 * 【2024-10-29】[bramstroker / homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
 * 【2024-10-27】[Netflix / metaflow](https://github.com/Netflix/metaflow) - Open Source Platform for developing, scaling and deploying serious ML, AI, and data science systems
 * 【2024-10-26】[sergree / matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
@@ -3903,6 +3905,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-10-30】[vogler / free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 * 【2024-10-26】[titaniumnetwork-dev / Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service worker script that follows the TompHTTP specifications.
 * 【2024-10-26】[GSSoC24 / Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge) - This is the all in one place for documentation help regarding the postman challenge.
 * 【2024-10-26】[ai-shifu / ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -4981,6 +4984,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-10-30】[jozu-ai / kitops](https://github.com/jozu-ai/kitops) - Securely share and store AI/ML projects as OCI artifacts in your container registry.
+* 【2024-10-30】[gonum / gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 * 【2024-10-29】[maddalax / htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 * 【2024-10-27】[diggerhq / digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 * 【2024-10-27】[thomaspoignant / go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
@@ -5967,6 +5972,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-10-30】[antirez / load81](https://github.com/antirez/load81) - SDL based Lua programming environment for kids similar to Codea
 * 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
 * 【2024-10-25】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 * 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
@@ -6823,6 +6829,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-10-30】[hku-mars / FAST-LIVO](https://github.com/hku-mars/FAST-LIVO) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
 * 【2024-10-29】[CookiePLMonster / SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas
 * 【2024-10-25】[hiyohiyo / CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 * 【2024-10-23】[microsoft / T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU with lookup table
@@ -7670,6 +7677,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-10-30】[rustdesk / doc.rustdesk.com](https://github.com/rustdesk/doc.rustdesk.com) - Document of RustDesk
 * 【2024-10-27】[openfoodfacts / openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor
 * 【2024-10-26】[ANSHIKA-26 / WordWise](https://github.com/ANSHIKA-26/WordWise) - Blogging website
 * 【2024-10-22】[vishanurag / Canvas-Editor](https://github.com/vishanurag/Canvas-Editor) - This is a simple web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
