@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-11-02】[microsoft / genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
+* 【2024-11-02】[filamentphp / filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+* 【2024-11-02】[getmaxun / maxun](https://github.com/getmaxun/maxun) - Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]
+* 【2024-11-02】[GeostatsGuy / DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) - Python interactive dashboards for learning data science
 * 【2024-11-01】[udecode / plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 * 【2024-10-31】[Spooks4576 / Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
 * 【2024-10-30】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
@@ -7686,6 +7690,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-11-02】[QuivrHQ / MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 * 【2024-10-30】[rustdesk / doc.rustdesk.com](https://github.com/rustdesk/doc.rustdesk.com) - Document of RustDesk
 * 【2024-10-27】[openfoodfacts / openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor
 * 【2024-10-26】[ANSHIKA-26 / WordWise](https://github.com/ANSHIKA-26/WordWise) - Blogging website
@@ -9378,6 +9383,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-11-02】[elevenlabs / elevenlabs-examples](https://github.com/elevenlabs/elevenlabs-examples) - 
 * 【2024-10-27】[FUE5BASE / FUE5](https://github.com/FUE5BASE/FUE5) - FUE5 is a fan-made project with the goal to see what would Factorio look like and behave in 3D. This project has no affiliation with the official Factorio game.
 * 【2024-10-26】[yujiangshui / A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 ->
 * 【2024-10-24】[potatoqualitee / eol-dr](https://github.com/potatoqualitee/eol-dr) - A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
