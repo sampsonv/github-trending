@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-11-13】[microsoft / vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) - 
+* 【2024-11-13】[getzola / zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 * 【2024-11-11】[vercel / ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 * 【2024-11-10】[payloadcms / payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 * 【2024-11-09】[vectordotdev / vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
@@ -1602,6 +1604,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-11-13】[xdsopl / robot36](https://github.com/xdsopl/robot36) - Decode SSTV encoded audio signals to images
 * 【2024-11-11】[Dar9586 / NClientV2](https://github.com/Dar9586/NClientV2) - An unofficial NHentai android client
 * 【2024-11-10】[opensource4you / astraea](https://github.com/opensource4you/astraea) - 釋放kafka的無限潛能
 * 【2024-11-07】[LWJGL / lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.
@@ -2437,6 +2440,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-11-13】[dockur / macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
+* 【2024-11-13】[home-assistant / supervisor](https://github.com/home-assistant/supervisor) - 🏡 Home Assistant Supervisor
 * 【2024-11-12】[darrenburns / posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 * 【2024-11-11】[opendatalab / PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 * 【2024-11-11】[projectmesa / mesa](https://github.com/projectmesa/mesa) - Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.
@@ -3937,6 +3942,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-11-13】[qeeqbox / social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 * 【2024-11-11】[muxinc / media-elements](https://github.com/muxinc/media-elements) - A collection of HTMLMediaElement compatible elements and add-ons
 * 【2024-11-09】[dotnet / eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 * 【2024-11-06】[frappe / lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
@@ -6016,6 +6022,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-11-13】[pvvx / THB2](https://github.com/pvvx/THB2) - Custom firmware for Tuya devices on the PHY622x2 chipset
 * 【2024-11-10】[Cateners / tiny_computer](https://github.com/Cateners/tiny_computer) - Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 * 【2024-10-31】[imbushuo / mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
@@ -6876,6 +6883,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-11-13】[lava / matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 * 【2024-11-12】[NASA-SW-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 * 【2024-11-10】[ComodoSecurity / openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
 * 【2024-11-08】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
