@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-11-15】[motiondivision / motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 * 【2024-11-14】[microsoft / TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 * 【2024-11-14】[QwenLM / Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-11-14】[Huanshere / VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
@@ -1607,6 +1608,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-11-15】[smithy-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 * 【2024-11-13】[xdsopl / robot36](https://github.com/xdsopl/robot36) - Decode SSTV encoded audio signals to images
 * 【2024-11-11】[Dar9586 / NClientV2](https://github.com/Dar9586/NClientV2) - An unofficial NHentai android client
 * 【2024-11-10】[opensource4you / astraea](https://github.com/opensource4you/astraea) - 釋放kafka的無限潛能
@@ -2443,6 +2445,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-11-15】[aigc-apps / EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 * 【2024-11-13】[dockur / macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 * 【2024-11-13】[home-assistant / supervisor](https://github.com/home-assistant/supervisor) - 🏡 Home Assistant Supervisor
 * 【2024-11-12】[darrenburns / posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -3945,6 +3948,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-11-15】[InternLM / MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 * 【2024-11-13】[qeeqbox / social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 * 【2024-11-11】[muxinc / media-elements](https://github.com/muxinc/media-elements) - A collection of HTMLMediaElement compatible elements and add-ons
 * 【2024-11-09】[dotnet / eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
@@ -6025,6 +6029,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-11-15】[eclipse-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 * 【2024-11-13】[pvvx / THB2](https://github.com/pvvx/THB2) - Custom firmware for Tuya devices on the PHY622x2 chipset
 * 【2024-11-10】[Cateners / tiny_computer](https://github.com/Cateners/tiny_computer) - Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
