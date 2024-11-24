@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-11-24】[black-forest-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 * 【2024-11-22】[android / nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 * 【2024-11-20】[arkohut / pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。
 * 【2024-11-20】[awslabs / multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -6064,6 +6065,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-11-24】[quickjs-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
+* 【2024-11-24】[matrixcascade / PainterEngine](https://github.com/matrixcascade/PainterEngine) - PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C
 * 【2024-11-21】[simd-everywhere / simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them.
 * 【2024-11-20】[oracle / bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
 * 【2024-11-19】[libsndfile / libsndfile](https://github.com/libsndfile/libsndfile) - A C library for reading and writing sound files containing sampled audio data.
@@ -6932,6 +6935,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-11-24】[rl-tools / rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library
 * 【2024-11-22】[NVIDIA / cuda-quantum](https://github.com/NVIDIA/cuda-quantum) - C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows
 * 【2024-11-20】[fritzing / fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 * 【2024-11-19】[crawl / crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
@@ -9494,6 +9498,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-11-24】[deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 * 【2024-11-23】[svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 * 【2024-11-19】[CSS-Next / css-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.
 * 【2024-11-18】[fishttp / awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
