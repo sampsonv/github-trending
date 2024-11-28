@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-11-28】[andrewyng / aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 * 【2024-11-27】[ant-design / x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
 * 【2024-11-26】[bluesky-social / atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 * 【2024-11-25】[pingcap / autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
@@ -2462,6 +2463,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-11-28】[Abacatinhos / agenda-tech-brasil](https://github.com/Abacatinhos/agenda-tech-brasil) - Lista de eventos tech que acontecem no Brasil
+* 【2024-11-28】[sml2h3 / ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 * 【2024-11-27】[canonical / cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 * 【2024-11-27】[cvg / LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
 * 【2024-11-26】[Guovin / IPTV](https://github.com/Guovin/IPTV) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
@@ -3986,6 +3989,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-11-28】[gnmyt / Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
+* 【2024-11-28】[mohamedsamara / mern-ecommerce](https://github.com/mohamedsamara/mern-ecommerce) - 🎈 Fullstack MERN Ecommerce Application
 * 【2024-11-25】[7Sageer / sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 * 【2024-11-19】[metowolf / vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 * 【2024-11-16】[lucahammer / tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
@@ -6951,6 +6956,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-11-28】[WiseLibs / better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+* 【2024-11-28】[PerformanC / ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 * 【2024-11-27】[mitsuba-renderer / mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 * 【2024-11-24】[rl-tools / rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library
 * 【2024-11-22】[NVIDIA / cuda-quantum](https://github.com/NVIDIA/cuda-quantum) - C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows
@@ -9517,6 +9524,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-11-28】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 * 【2024-11-27】[futurice / ios-good-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
 * 【2024-11-27】[ONLYOFFICE / DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 * 【2024-11-24】[deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
