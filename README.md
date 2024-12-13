@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2024-12-13】[tursodatabase / limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
+* 【2024-12-13】[gusmanb / logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
+* 【2024-12-13】[electric-sql / electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
 * 【2024-12-12】[nexus-xyz / network-api](https://github.com/nexus-xyz/network-api) - High-performance interface for supplying compute to the Nexus network.
 * 【2024-12-12】[0xPlaygrounds / rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 * 【2024-12-11】[leerob / next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
@@ -2495,6 +2498,10 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-12-13】[sparckles / Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
+* 【2024-12-13】[quantumlib / Cirq](https://github.com/quantumlib/Cirq) - A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
+* 【2024-12-13】[pylint-dev / pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
+* 【2024-12-13】[DeMoYao100 / byrFileShare](https://github.com/DeMoYao100/byrFileShare) - 
 * 【2024-12-12】[KellerJordan / modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 5 minutes
 * 【2024-12-11】[Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 * 【2024-12-10】[kijai / ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper) - 
@@ -4038,6 +4045,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-12-13】[bluewave-labs / checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2024-12-11】[jezen / is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 * 【2024-12-10】[iancoleman / bip39](https://github.com/iancoleman/bip39) - A web tool for converting BIP39 mnemonic codes
 * 【2024-12-07】[netptop / siteproxy](https://github.com/netptop/siteproxy) - reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)
@@ -7900,6 +7908,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-12-13】[doka-guide / content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
 * 【2024-12-12】[miaoermua / CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
 * 【2024-12-06】[openbiox / weekly](https://github.com/openbiox/weekly) - 生信爱好者周刊（每周日发布）
 * 【2024-12-05】[mark-when / markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -9610,6 +9619,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-12-13】[amilajack / reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 * 【2024-12-12】[ayaka14732 / awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
 * 【2024-12-03】[skills / copilot-codespaces-vscode](https://github.com/skills/copilot-codespaces-vscode) - Develop with AI-powered code suggestions using GitHub Copilot and VS Code
 * 【2024-12-01】[NeoVertex1 / SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
