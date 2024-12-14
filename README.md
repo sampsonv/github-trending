@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2024-12-14】[mherrmann / helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 * 【2024-12-13】[tursodatabase / limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 * 【2024-12-13】[gusmanb / logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 * 【2024-12-13】[electric-sql / electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
@@ -1647,6 +1648,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2024-12-14】[mc1arke / sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
 * 【2024-12-12】[alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
 * 【2024-12-11】[Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
 * 【2024-12-09】[magefree / mage](https://github.com/magefree/mage) - Magic Another Game Engine
@@ -2498,6 +2500,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-12-14】[derv82 / wifite](https://github.com/derv82/wifite) - 
 * 【2024-12-13】[sparckles / Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 * 【2024-12-13】[quantumlib / Cirq](https://github.com/quantumlib/Cirq) - A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 * 【2024-12-13】[pylint-dev / pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
@@ -4045,6 +4048,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-12-14】[viarotel-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
 * 【2024-12-13】[bluewave-labs / checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2024-12-11】[jezen / is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 * 【2024-12-10】[iancoleman / bip39](https://github.com/iancoleman/bip39) - A web tool for converting BIP39 mnemonic codes
@@ -6155,6 +6159,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-12-14】[78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 * 【2024-12-12】[shellphish / how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 * 【2024-12-05】[mstorsjo / llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 * 【2024-12-05】[orioledb / orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
@@ -9619,6 +9624,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-12-14】[tc39 / proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 * 【2024-12-13】[amilajack / reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 * 【2024-12-12】[ayaka14732 / awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
 * 【2024-12-03】[skills / copilot-codespaces-vscode](https://github.com/skills/copilot-codespaces-vscode) - Develop with AI-powered code suggestions using GitHub Copilot and VS Code
