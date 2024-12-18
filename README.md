@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2024-12-18】[stripe / stripe-ios](https://github.com/stripe/stripe-ios) - Stripe iOS SDK
+* 【2024-12-18】[facebookresearch / AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 * 【2024-12-17】[Radarr / Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 * 【2024-12-16】[wasp-lang / wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 * 【2024-12-16】[microsoft / windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
@@ -2507,6 +2509,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2024-12-18】[linyqh / NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
+* 【2024-12-18】[unitreerobotics / unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym) - 
 * 【2024-12-17】[wger-project / wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 * 【2024-12-16】[chainstacklabs / pump-fun-bot](https://github.com/chainstacklabs/pump-fun-bot) - A fully functional pump.fun trading and sniping bot not relying on any 3rd party APIs
 * 【2024-12-14】[derv82 / wifite](https://github.com/derv82/wifite) - 
@@ -7051,6 +7055,10 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-12-18】[jgromes / RadioLib](https://github.com/jgromes/RadioLib) - Universal wireless communication library for embedded devices
+* 【2024-12-18】[moveit / moveit](https://github.com/moveit/moveit) - 🤖 The MoveIt motion planning framework
+* 【2024-12-18】[casadi / casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.
+* 【2024-12-18】[openvinotoolkit / openvino.genai](https://github.com/openvinotoolkit/openvino.genai) - Run Generative AI models with simple C++/Python API and using OpenVINO Runtime
 * 【2024-12-16】[stephenberry / glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
 * 【2024-12-15】[Detanup01 / gbe_fork](https://github.com/Detanup01/gbe_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 * 【2024-12-11】[uxlfoundation / oneTBB](https://github.com/uxlfoundation/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
@@ -7927,6 +7935,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-12-18】[Canardoux / flutter_sound](https://github.com/Canardoux/flutter_sound) - Flutter plugin for sound. Audio recorder and player.
 * 【2024-12-17】[wttdotm / traffic_cam_photobooth](https://github.com/wttdotm/traffic_cam_photobooth) - The repository for www.TrafficCamPhotobooth.com
 * 【2024-12-13】[doka-guide / content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
 * 【2024-12-12】[miaoermua / CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
@@ -8727,6 +8736,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2024-12-18】[leptos-rs / book](https://github.com/leptos-rs/book) - The home for the Leptos book, which can be found deployed at https://book.leptos.dev
 * 【2024-12-16】[SpaceTheme / Steam](https://github.com/SpaceTheme/Steam) - SpaceTheme for Steam
 * 【2024-12-06】[privacera / paig](https://github.com/privacera/paig) - PAIG (Pronounced similar to paige or payj) is an open-source project designed to protect Generative AI (GenAI) applications by ensuring security, safety, and observability.
 * 【2024-12-02】[tusharnankani / ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
@@ -9640,6 +9650,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-12-18】[run-llama / llamacloud-demo](https://github.com/run-llama/llamacloud-demo) - 
+* 【2024-12-18】[hijkzzz / Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.
 * 【2024-12-16】[acdlite / react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 * 【2024-12-15】[proxifly / free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 * 【2024-12-14】[tc39 / proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
