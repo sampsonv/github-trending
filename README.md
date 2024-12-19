@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2024-12-19】[XiaoMi / ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+* 【2024-12-19】[anoma / anoma](https://github.com/anoma/anoma) - Reference implementation of Anoma
+* 【2024-12-19】[luckjiawei / frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
+* 【2024-12-19】[seleniumbase / SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
 * 【2024-12-18】[stripe / stripe-ios](https://github.com/stripe/stripe-ios) - Stripe iOS SDK
 * 【2024-12-18】[facebookresearch / AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 * 【2024-12-17】[Radarr / Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
@@ -4061,6 +4065,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2024-12-19】[dbt-labs / docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com) - The code behind docs.getdbt.com
 * 【2024-12-16】[666ghj / Weibo_PublicOpinion_AnalysisSystem](https://github.com/666ghj/Weibo_PublicOpinion_AnalysisSystem) - An excellent Weibo public opinion analysis and prediction system.
 * 【2024-12-15】[http-party / node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 * 【2024-12-14】[viarotel-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
@@ -5167,6 +5172,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2024-12-19】[chromedp / chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 * 【2024-12-11】[direnv / direnv](https://github.com/direnv/direnv) - unclutter your .profile
 * 【2024-12-10】[D3Ext / Hooka](https://github.com/D3Ext/Hooka) - Shellcode loader generator with multiples features
 * 【2024-12-10】[42wim / matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
@@ -6174,6 +6180,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-12-19】[abishekvashok / cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 * 【2024-12-16】[LuckfoxTECH / luckfox-pico](https://github.com/LuckfoxTECH/luckfox-pico) - luckfox-pico sdk
 * 【2024-12-14】[78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 * 【2024-12-12】[shellphish / how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
@@ -7055,6 +7062,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2024-12-19】[dillongoostudios / goo-engine](https://github.com/dillongoostudios/goo-engine) - Custom build of blender with some extra NPR features.
 * 【2024-12-18】[jgromes / RadioLib](https://github.com/jgromes/RadioLib) - Universal wireless communication library for embedded devices
 * 【2024-12-18】[moveit / moveit](https://github.com/moveit/moveit) - 🤖 The MoveIt motion planning framework
 * 【2024-12-18】[casadi / casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.
@@ -9650,6 +9658,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-12-19】[jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 * 【2024-12-18】[run-llama / llamacloud-demo](https://github.com/run-llama/llamacloud-demo) - 
 * 【2024-12-18】[hijkzzz / Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.
 * 【2024-12-16】[acdlite / react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
