@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2024-12-26】[anti-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
+* 【2024-12-26】[nammayatri / nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+* 【2024-12-26】[OpenSPG / KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
 * 【2024-12-24】[malmeloo / FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 * 【2024-12-24】[rivet-gg / rivet](https://github.com/rivet-gg/rivet) - 🔩 Run and scale realtime applications with Rivet Actors.
 * 【2024-12-23】[bytedance / monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
@@ -6213,6 +6216,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2024-12-26】[libsdl-org / SDL_ttf](https://github.com/libsdl-org/SDL_ttf) - Support for TrueType (.ttf) font files with Simple Directmedia Layer.
 * 【2024-12-21】[nicbarker / clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 * 【2024-12-20】[contiki-ng / contiki-ng](https://github.com/contiki-ng/contiki-ng) - Contiki-NG: The OS for Next Generation IoT Devices
 * 【2024-12-20】[KreitinnSoftware / MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
@@ -7984,6 +7988,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2024-12-26】[openwhu / OpenWHU](https://github.com/openwhu/OpenWHU) - 武汉大学课程资料整理-WHU课代表计划
 * 【2024-12-22】[e2b-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 * 【2024-12-22】[xmldom / xmldom](https://github.com/xmldom/xmldom) - A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
 * 【2024-12-20】[web-infra-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.
@@ -9704,6 +9709,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2024-12-26】[lowercase78 / V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
 * 【2024-12-21】[phmullins / awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 * 【2024-12-20】[TalEliyahu / awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) - Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks
 * 【2024-12-20】[wwb521 / live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费
