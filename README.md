@@ -2538,6 +2538,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-01-02】[facebookresearch / Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
 * 【2025-01-01】[neuraloperator / neuraloperator](https://github.com/neuraloperator/neuraloperator) - Learning in infinite dimension with neural operators.
 * 【2024-12-30】[bottlesdevs / Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 * 【2024-12-30】[jingyaogong / minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
@@ -4106,6 +4107,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-01-02】[GoogleChrome / workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 * 【2024-12-31】[NARKOZ / hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 * 【2024-12-31】[notwaldorf / emoji-translate](https://github.com/notwaldorf/emoji-translate) - 📚 Translate text to ✨emoji ✨!
 * 【2024-12-30】[amarullz / AnimeTV](https://github.com/amarullz/AnimeTV) - Watch Anime in Your AndroidTV
@@ -5223,6 +5225,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-01-02】[tnb-labs / panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
 * 【2024-12-30】[cadence-workflow / cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 * 【2024-12-30】[prysmaticlabs / prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
 * 【2024-12-30】[qdm12 / ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
