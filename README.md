@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-01-19】[unionlabs / union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+* 【2025-01-19】[linuxserver / docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 * 【2025-01-18】[metabase / metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋
 * 【2025-01-17】[Freika / dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 * 【2025-01-17】[fluentassertions / fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
@@ -1702,6 +1704,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-01-19】[scottyab / rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
 * 【2025-01-13】[Gedsh / InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 * 【2025-01-13】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - 
 * 【2025-01-08】[CodePhiliaX / fastexcel](https://github.com/CodePhiliaX/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
@@ -2565,6 +2568,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-01-19】[databrickslabs / dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
+* 【2025-01-19】[AutoGPTQ / AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
+* 【2025-01-19】[ArchipelagoMW / Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 * 【2025-01-17】[AmberSahdev / Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
 * 【2025-01-17】[Chainlit / chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 * 【2025-01-17】[instructor-ai / instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
@@ -4151,6 +4157,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-01-19】[tengbao / vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 * 【2025-01-17】[pixelfed / pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
 * 【2025-01-15】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 * 【2025-01-11】[SuperMonster003 / AutoJs6-Documentation](https://github.com/SuperMonster003/AutoJs6-Documentation) - Documentation (with generator) for AutoJs6 [AutoJs6 文档 (带生成器)]
@@ -5276,6 +5283,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-01-19】[aquasecurity / tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 * 【2025-01-14】[yusing / go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
 * 【2025-01-13】[dlvhdr / gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 * 【2025-01-13】[icereed / paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
@@ -8101,6 +8109,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-01-19】[platzi / git-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
 * 【2025-01-17】[Born2Root / Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 * 【2025-01-15】[IBM / data-prep-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
 * 【2025-01-13】[PaulJerimy / SecCertRoadmapHTML](https://github.com/PaulJerimy/SecCertRoadmapHTML) - Security Certification Roadmap HTML5/CSS3 version
@@ -9839,6 +9848,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-01-19】[sger / RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 * 【2025-01-17】[GAIR-NLP / O1-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey
 * 【2025-01-10】[microsoft / aitour-repo-principal-list](https://github.com/microsoft/aitour-repo-principal-list) - 
 * 【2025-01-09】[jaywcjlove / docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
