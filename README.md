@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-01-25】[nextjs / saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+* 【2025-01-25】[patchy631 / ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - 
 * 【2025-01-24】[piotrostr / listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 * 【2025-01-24】[deepseek-ai / DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 * 【2025-01-21】[linera-io / linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
@@ -2579,6 +2581,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-01-25】[DepthAnything / Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 * 【2025-01-24】[joke2k / faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 * 【2025-01-24】[6tail / lunar-python](https://github.com/6tail/lunar-python) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 * 【2025-01-22】[labmlai / annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
@@ -4173,6 +4176,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-01-25】[thedevs-network / kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 * 【2025-01-24】[hotwired / turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 * 【2025-01-23】[koaning / drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter.
 * 【2025-01-21】[jesse-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
@@ -5303,6 +5307,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-01-25】[putyy / res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 * 【2025-01-24】[ethereum-optimism / superchain-registry](https://github.com/ethereum-optimism/superchain-registry) - An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem
 * 【2025-01-21】[google / osv-scalibr](https://github.com/google/osv-scalibr) - 
 * 【2025-01-20】[stonith404 / pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -6338,6 +6343,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-01-25】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
+* 【2025-01-25】[RealNeGate / Cuik](https://github.com/RealNeGate/Cuik) - A Modern C11 compiler (STILL EARLY)
 * 【2025-01-23】[oxters168 / Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 * 【2025-01-22】[nuta / operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 * 【2025-01-22】[am32-firmware / AM32](https://github.com/am32-firmware/AM32) - 
@@ -7246,6 +7253,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-01-25】[cdozdil / OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler is middleware that enables various upscaling technologies in DLSS2-only games. It allows non-Nvidia users to use upscaling by applying DLSS2 inputs to XeSS, FSR2, or FSR3.
 * 【2025-01-23】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 * 【2025-01-22】[kiwibrowser / src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 * 【2025-01-22】[borglab / gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
@@ -8147,6 +8155,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-01-25】[OCA / stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow) - Odoo Stock, Workflow and Organization
 * 【2025-01-22】[OCA / pos](https://github.com/OCA/pos) - 
 * 【2025-01-20】[xlang-ai / Spider2](https://github.com/xlang-ai/Spider2) - Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows
 * 【2025-01-19】[platzi / git-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
