@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-02-01】[jef / streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
+* 【2025-02-01】[google / meridian](https://github.com/google/meridian) - Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
 * 【2025-01-31】[block / goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 * 【2025-01-31】[n4ze3m / page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 * 【2025-01-31】[aws-samples / amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) - This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models
@@ -2596,6 +2598,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-02-01】[QwenLM / Qwen2.5-Math](https://github.com/QwenLM/Qwen2.5-Math) - A series of math-specific large language models of our Qwen2 series.
+* 【2025-02-01】[volcengine / verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
 * 【2025-01-31】[aws-samples / bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
 * 【2025-01-29】[fylein / fyle-interview-intern-backend](https://github.com/fylein/fyle-interview-intern-backend) - 
 * 【2025-01-26】[THUDM / CogAgent](https://github.com/THUDM/CogAgent) - An open-sourced end-to-end VLM-based GUI Agent
@@ -8191,6 +8195,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-02-01】[jflaherty / ptrtut13](https://github.com/jflaherty/ptrtut13) - A TUTORIAL ON POINTERS AND ARRAYS IN C
 * 【2025-01-29】[nginx / documentation](https://github.com/nginx/documentation) - Public source for docs.nginx.com
 * 【2025-01-27】[hanwenguo / hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) - a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please.
 * 【2025-01-26】[18F / handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
@@ -9013,6 +9018,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-02-01】[pythonanywhere / help_pages](https://github.com/pythonanywhere/help_pages) - The help pages for help.pythonanywhere.com
 * 【2025-01-27】[sakofchit / system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 * 【2025-01-23】[mecha-org / mecha-docs](https://github.com/mecha-org/mecha-docs) - Open Docs for Mecha Stack
 * 【2025-01-18】[felix-bohlin / ui](https://github.com/felix-bohlin/ui) - A modern, cutting edge UI library. So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.
