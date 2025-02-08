@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-02-08】[ChatGPTNextWeb / NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
 * 【2025-02-07】[Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi) - 
 * 【2025-02-06】[monasticacademy / httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 * 【2025-02-06】[elastic / integrations](https://github.com/elastic/integrations) - 
@@ -2610,6 +2611,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-02-08】[roboflow / maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma, Florence-2, and Qwen2-VL
 * 【2025-02-06】[redis / redis-py](https://github.com/redis/redis-py) - Redis Python client
 * 【2025-02-05】[tcgoetz / GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 * 【2025-02-04】[agno-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
@@ -7312,6 +7314,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-02-08】[dwhinham / mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
 * 【2025-02-06】[TigerVNC / tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 * 【2025-02-05】[mkckr0 / audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 * 【2025-02-05】[steveicarus / iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
@@ -9048,6 +9051,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-02-08】[wso2 / docs-apim](https://github.com/wso2/docs-apim) - 
 * 【2025-02-01】[pythonanywhere / help_pages](https://github.com/pythonanywhere/help_pages) - The help pages for help.pythonanywhere.com
 * 【2025-01-27】[sakofchit / system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 * 【2025-01-23】[mecha-org / mecha-docs](https://github.com/mecha-org/mecha-docs) - Open Docs for Mecha Stack
