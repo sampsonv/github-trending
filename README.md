@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-02-16】[souzatharsis / podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 * 【2025-02-15】[zaidmukaddam / scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 * 【2025-02-14】[RexanWONG / text-behind-image](https://github.com/RexanWONG/text-behind-image) - https://textbehindimage.rexanwong.xyz - create text behind image designs easily
 * 【2025-02-13】[microsoft / data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
@@ -5377,6 +5378,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-02-16】[kubernetes-sigs / lws](https://github.com/kubernetes-sigs/lws) - LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 * 【2025-02-14】[securego / gosec](https://github.com/securego/gosec) - Go security checker
 * 【2025-02-14】[MartialBE / one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * 【2025-02-13】[FerretDB / FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -8259,6 +8261,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-02-16】[mlfoundations / evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic Evals for LLMs
+* 【2025-02-16】[lm-rebooter / NuggetsBooklet](https://github.com/lm-rebooter/NuggetsBooklet) - 掘金小册
 * 【2025-02-14】[microsoft / markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 * 【2025-02-14】[CodeKageHQ / Ask-out-your-Valentine](https://github.com/CodeKageHQ/Ask-out-your-Valentine) - A playful and interactive web experience for asking someone to be your Valentine, featuring charming GIFs and dynamic responses to 'Yes' and 'No' answers. Built with HTML, Tailwind CSS, and a sprinkle of JavaScript for interactivity.
 * 【2025-02-13】[SuperSimpleDev / html-css-course](https://github.com/SuperSimpleDev/html-css-course) - Watch the course: https://youtu.be/G3e-cpL7ofc
