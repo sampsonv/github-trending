@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-02-18】[outline / outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 * 【2025-02-17】[microsoft / OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 * 【2025-02-17】[cordx56 / rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 * 【2025-02-17】[mongodb-developer / GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) - GenAI Cookbook
@@ -2627,6 +2628,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-02-18】[cocktailpeanut / fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support
 * 【2025-02-17】[av / harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 * 【2025-02-15】[dlt-hub / dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 * 【2025-02-14】[sinaptik-ai / pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
