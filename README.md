@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-02-21】[treetrum / amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Designed for downloading your Kindle eBooks in a more automated fashion than is typically permitted, this tool allows you to create backup copies of the books you've already purchased.
+* 【2025-02-21】[mastra-ai / mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 * 【2025-02-20】[docmost / docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 * 【2025-02-20】[golang-standards / project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 * 【2025-02-20】[aidenybai / react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
@@ -2633,6 +2635,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-02-21】[conan-io / conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
+* 【2025-02-21】[fastapi / fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * 【2025-02-20】[getzep / graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally-aware Knowledge Graphs
 * 【2025-02-18】[cocktailpeanut / fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support
 * 【2025-02-17】[av / harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
@@ -4252,6 +4256,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-02-21】[DavidHDev / react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 * 【2025-02-19】[damianeickhoff / HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
 * 【2025-02-17】[enatega / food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2025-02-11】[ftde0 / yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
@@ -6443,6 +6448,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-02-21】[ghaerr / elks](https://github.com/ghaerr/elks) - Embeddable Linux Kernel Subset - Linux for 8086
 * 【2025-02-14】[xiph / flac](https://github.com/xiph/flac) - Free Lossless Audio Codec
 * 【2025-02-09】[eclipse-paho / paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 * 【2025-02-05】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
@@ -9111,6 +9117,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-02-21】[open-falcon-archive / agent](https://github.com/open-falcon-archive/agent) - linux monitor agent
 * 【2025-02-11】[adriankarlen / textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
 * 【2025-02-08】[wso2 / docs-apim](https://github.com/wso2/docs-apim) - 
 * 【2025-02-01】[pythonanywhere / help_pages](https://github.com/pythonanywhere/help_pages) - The help pages for help.pythonanywhere.com
