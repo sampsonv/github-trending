@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-02-23】[koide3 / glim](https://github.com/koide3/glim) - GLIM: versatile and extensible range-based 3D localization and mapping framework
 * 【2025-02-21】[treetrum / amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Designed for downloading your Kindle eBooks in a more automated fashion than is typically permitted, this tool allows you to create backup copies of the books you've already purchased.
 * 【2025-02-21】[mastra-ai / mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
 * 【2025-02-20】[docmost / docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -2635,6 +2636,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-02-23】[fastapi / sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 * 【2025-02-21】[conan-io / conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 * 【2025-02-21】[fastapi / fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * 【2025-02-20】[getzep / graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally-aware Knowledge Graphs
@@ -5397,6 +5399,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-02-23】[subtrace / subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 * 【2025-02-16】[kubernetes-sigs / lws](https://github.com/kubernetes-sigs/lws) - LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 * 【2025-02-14】[securego / gosec](https://github.com/securego/gosec) - Go security checker
 * 【2025-02-14】[MartialBE / one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
@@ -8284,6 +8287,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-02-23】[givanz / Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores.
 * 【2025-02-19】[hackingthemarkets / interactive-brokers-web-api](https://github.com/hackingthemarkets/interactive-brokers-web-api) - A docker container and flask app for use with the Interactive Brokers Web API 1.0
 * 【2025-02-17】[usds / website](https://github.com/usds/website) - 
 * 【2025-02-16】[mlfoundations / evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic Evals for LLMs
