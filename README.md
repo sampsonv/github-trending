@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-03-05】[virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
+* 【2025-03-05】[acmesh-official / acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 * 【2025-02-28】[allenai / olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 * 【2025-02-28】[freddyaboulton / fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 * 【2025-02-27】[NirDiamant / GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
@@ -9160,6 +9162,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-03-05】[accordproject / techdocs](https://github.com/accordproject/techdocs) - Accord Project Documentation
 * 【2025-03-04】[18F / identity-saml-sinatra](https://github.com/18F/identity-saml-sinatra) - Mock relying party (user app) to send requests to ID server
 * 【2025-03-03】[cayxc / Mdmdt](https://github.com/cayxc/Mdmdt) - Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.
 * 【2025-03-01】[dtinth / vxchrome](https://github.com/dtinth/vxchrome) - A Chrome extension that listens to my voice, converts to text, and copies it to the clipboard.
