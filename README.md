@@ -1788,6 +1788,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-03-18】[kooritea / fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
 * 【2025-03-17】[sqlancer / sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
 * 【2025-03-16】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-03-14】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
@@ -4322,6 +4323,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-03-18】[exa-labs / exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 * 【2025-03-16】[learnk8s / xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 * 【2025-03-13】[clusterzx / paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 * 【2025-03-13】[steve02081504 / fount](https://github.com/steve02081504/fount) - AI character architecture/package loader in pure JS with a chat UI
@@ -5476,6 +5478,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-03-18】[marcopiovanello / yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 * 【2025-03-15】[go-vgo / robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation @vcaesar
 * 【2025-03-14】[dstotijn / hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 * 【2025-03-11】[cockroachdb / pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
@@ -7469,6 +7472,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-03-18】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 * 【2025-03-11】[thomasxm / BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) - Multilayered AV/EDR Evasion Framework
 * 【2025-03-10】[directvt / vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 * 【2025-03-10】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
@@ -10179,6 +10183,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-03-18】[notable / notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 * 【2025-03-12】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 * 【2025-03-09】[rust-embedded / awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 * 【2025-03-07】[Zzaphkiel / Seraphine](https://github.com/Zzaphkiel/Seraphine) - 
