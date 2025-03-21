@@ -1,6 +1,10 @@
 # github-trending
 ## All language
 
+* 【2025-03-21】[SakanaAI / AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+* 【2025-03-21】[sinclairtarget / git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
+* 【2025-03-21】[hotheadhacker / awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+* 【2025-03-21】[cloudflare / mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
 * 【2025-03-20】[satnaing / shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 * 【2025-03-17】[ai-christianson / RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
 * 【2025-03-17】[tj-actions / changed-files](https://github.com/tj-actions/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
@@ -1789,6 +1793,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-03-21】[synthetichealth / synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
+* 【2025-03-21】[ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 * 【2025-03-20】[dji-sdk / Mobile-SDK-Android-V5](https://github.com/dji-sdk/Mobile-SDK-Android-V5) - MSDK V5 Sample
 * 【2025-03-18】[kooritea / fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
 * 【2025-03-17】[sqlancer / sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic and performance bugs in database systems
@@ -2682,6 +2688,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-03-21】[NVIDIA / physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
+* 【2025-03-21】[ShihuaHuang95 / DEIM](https://github.com/ShihuaHuang95/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
 * 【2025-03-20】[bytedance / LatentSync](https://github.com/bytedance/LatentSync) - Taming Stable Diffusion for Lip Sync!
 * 【2025-03-20】[fatihak / InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 * 【2025-03-20】[wmariuss / awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
@@ -5484,6 +5492,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-03-21】[cloudwego / eino-examples](https://github.com/cloudwego/eino-examples) - Examples and demonstrations for using the Eino framework
 * 【2025-03-20】[mark3labs / mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 * 【2025-03-18】[marcopiovanello / yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 * 【2025-03-15】[go-vgo / robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation @vcaesar
@@ -6554,6 +6563,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-03-21】[gozfree / gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded Multimedia and Network
 * 【2025-03-20】[intel / xess](https://github.com/intel/xess) - Intel XeSS SDK
 * 【2025-03-17】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 * 【2025-03-15】[open-quantum-safe / oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
@@ -7480,6 +7490,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-03-21】[autowarefoundation / autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
 * 【2025-03-20】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
 * 【2025-03-18】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 * 【2025-03-11】[thomasxm / BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) - Multilayered AV/EDR Evasion Framework
@@ -8408,6 +8419,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-03-21】[apache / grails-core](https://github.com/apache/grails-core) - The Grails Web Application Framework
+* 【2025-03-21】[ONLYOFFICE / web-apps](https://github.com/ONLYOFFICE/web-apps) - The frontend for ONLYOFFICE Document Server which builds the program interface
 * 【2025-03-20】[docker / labs-ai-tools-for-devs](https://github.com/docker/labs-ai-tools-for-devs) - An MCP server & prompt runner for all of Docker. Simple Markdown. BYO LLM.
 * 【2025-03-17】[smaranjitghose / awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavors.
 * 【2025-03-17】[OWASP-BLT / BLT](https://github.com/OWASP-BLT/BLT) - OWASP BLT is a collection of security tools.
