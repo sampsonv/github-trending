@@ -4398,6 +4398,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-04-11】[goldbergyoni / nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 * 【2025-04-10】[jerhadf / linear-mcp-server](https://github.com/jerhadf/linear-mcp-server) - A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear.
 * 【2025-04-09】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 * 【2025-04-06】[googlecreativelab / chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
@@ -7585,6 +7586,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-04-11】[xtensor-stack / xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
 * 【2025-04-07】[kuzudb / kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 * 【2025-04-07】[NVIDIA-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
 * 【2025-04-06】[ggml-org / whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -8526,6 +8528,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-04-11】[deanmalmgren / textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 * 【2025-04-07】[rbuckton / proposal-enum](https://github.com/rbuckton/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-05】[sunnyoggcp / github-slideshow](https://github.com/sunnyoggcp/github-slideshow) - A robot powered training repository 🤖
 * 【2025-04-03】[dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -10327,6 +10330,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-04-11】[FFmpeg / asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 * 【2025-04-08】[NeverSinkDev / NeverSink-Filter-for-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 * 【2025-04-03】[SLAM-Handbook-contributors / slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 * 【2025-04-03】[wong2 / awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
