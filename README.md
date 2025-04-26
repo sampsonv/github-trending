@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-04-26】[fastrepl / hyprnote](https://github.com/fastrepl/hyprnote) - AI Notepad for back-to-back meetings. Local-first & Extensible.
+* 【2025-04-26】[tracel-ai / burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 * 【2025-04-25】[kortix-ai / suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 * 【2025-04-25】[bytedance / UI-TARS](https://github.com/bytedance/UI-TARS) - 
 * 【2025-04-22】[007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
@@ -1835,6 +1837,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-04-26】[eclipse / openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
+* 【2025-04-26】[msfroh / lucene-university](https://github.com/msfroh/lucene-university) - Self-contained worked examples of Apache Lucene features and functionality
 * 【2025-04-25】[metasfresh / metasfresh](https://github.com/metasfresh/metasfresh) - We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.
 * 【2025-04-23】[baomidou / dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务
 * 【2025-04-22】[aws-containers / retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
@@ -2743,6 +2747,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-04-26】[potamides / DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
 * 【2025-04-25】[thunlp / LLMxMapReduce](https://github.com/thunlp/LLMxMapReduce) - 
 * 【2025-04-25】[FunAudioLLM / CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 * 【2025-04-21】[robfiras / loco-mujoco](https://github.com/robfiras/loco-mujoco) - Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.
@@ -5609,6 +5614,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-04-26】[cloudflare / cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 * 【2025-04-25】[autokitteh / autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 * 【2025-04-25】[yannh / kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 * 【2025-04-23】[cloudwego / eino-ext](https://github.com/cloudwego/eino-ext) - Various extensions for the Eino framework: https://github.com/cloudwego/eino
@@ -7651,6 +7657,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-04-26】[unitreerobotics / unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco) - 
 * 【2025-04-23】[RCInet / LastEpoch_Mods](https://github.com/RCInet/LastEpoch_Mods) - MelonLoader Mods for LastEpoch
 * 【2025-04-18】[Lizonghang / prima.cpp](https://github.com/Lizonghang/prima.cpp) - prima.cpp: Speeding up 70B-scale LLM inference on low-resource everyday home clusters
 * 【2025-04-15】[HanGuo97 / flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table-Quantized LLMs
