@@ -2762,6 +2762,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-05-05】[jaakkopasanen / AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
 * 【2025-05-04】[DachunKai / Ev-DeblurVSR](https://github.com/DachunKai/Ev-DeblurVSR) - [AAAI 2025] Event-Enhanced Blurry Video Super-Resolution
 * 【2025-05-01】[vllm-project / vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
 * 【2025-05-01】[aipotheosis-labs / aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
@@ -4458,6 +4459,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-05-05】[ilyhalight / voice-over-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 * 【2025-05-03】[ubuntu / gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
 * 【2025-05-02】[muyoou / st-memory-enhancement](https://github.com/muyoou/st-memory-enhancement) - SillyTavern酒馆的长期记忆增强插件
 * 【2025-05-02】[json-schema-org / json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
@@ -5642,6 +5644,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-05-05】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
+* 【2025-05-05】[blacktop / ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 * 【2025-05-03】[benbjohnson / litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 * 【2025-05-02】[ibnaleem / gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 * 【2025-05-02】[Tencent / AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
@@ -6741,6 +6745,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-05-05】[medusalix / xone](https://github.com/medusalix/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories
 * 【2025-05-01】[torvalds / uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
 * 【2025-04-25】[microsoft / winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 * 【2025-04-23】[vgmstream / vgmstream](https://github.com/vgmstream/vgmstream) - vgmstream - A library for playback of various streamed audio formats used in video games.
@@ -9511,6 +9516,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-05-05】[fauzanmy / pehtheme-hugo](https://github.com/fauzanmy/pehtheme-hugo) - The Hugo theme is inspired by Material Design version 3, built with love using Tailwind CSS.
 * 【2025-04-18】[carbonwallet / carbonwallet.github.io](https://github.com/carbonwallet/carbonwallet.github.io) - 
 * 【2025-04-08】[aftertheflood / sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code.
 * 【2025-04-04】[CapnKitten / Translucence](https://github.com/CapnKitten/Translucence) - A translucent/frosted glass theme for Discord
