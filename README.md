@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2025-05-10】[longbridge / gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
+* 【2025-05-10】[element-plus / element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
+* 【2025-05-10】[mason-org / mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 * 【2025-05-08】[voideditor / void](https://github.com/voideditor/void) - 
 * 【2025-05-08】[evroon / bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 * 【2025-05-08】[beekeeper-studio / beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -2769,6 +2772,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-05-10】[bee-san / Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * 【2025-05-07】[Capsize-Games / airunner](https://github.com/Capsize-Games/airunner) - Privacy focused, local-first, multi-modal inference engine and agent platform for running LLMs, image generation, speech processing, and tool-based automation
 * 【2025-05-07】[HarrisonKramer / optiland](https://github.com/HarrisonKramer/optiland) - Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch.
 * 【2025-05-07】[ag2ai / ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ
@@ -5664,6 +5668,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-05-10】[databricks / terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider
 * 【2025-05-09】[hookdeck / outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
 * 【2025-05-08】[derailed / popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
 * 【2025-05-08】[rzane / docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
@@ -7725,6 +7730,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-05-10】[isledecomp / isle](https://github.com/isledecomp/isle) - A functionally complete decompilation of LEGO Island (1997)
+* 【2025-05-10】[memgraph / memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 * 【2025-05-09】[mohsenph69 / Godot-MTerrain-plugin](https://github.com/mohsenph69/Godot-MTerrain-plugin) - A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world games
 * 【2025-05-07】[conservation-laws / ryujin](https://github.com/conservation-laws/ryujin) - High-performance high-order finite element solver for hyperbolic conservation equations
 * 【2025-05-04】[ikawrakow / ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
@@ -8682,6 +8689,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-05-10】[NightProxy / Space](https://github.com/NightProxy/Space) - Space is a modern, and clean web proxy with many games, apps and features.
 * 【2025-05-07】[Blobby-Boi / ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r) - An exploit that allows ChromeOS users to kill extensions by printing iframes. The successor to ExtHang3r.
 * 【2025-05-03】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one-click.
 * 【2025-05-01】[dendianugerah / reubah](https://github.com/dendianugerah/reubah) - a web-based tool for processing images and converting documents with a simple interface
@@ -10494,6 +10502,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-05-10】[logpai / loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 * 【2025-05-01】[hzpt-inet-club / english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
 * 【2025-04-29】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 * 【2025-04-27】[ZJU-LLMs / Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
