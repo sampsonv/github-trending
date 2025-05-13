@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-05-13】[i-am-alice / 3rd-devs](https://github.com/i-am-alice/3rd-devs) - 
+* 【2025-05-13】[bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
 * 【2025-05-11】[shane-mason / FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
 * 【2025-05-11】[panaversity / learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
 * 【2025-05-10】[longbridge / gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
@@ -2774,6 +2776,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-05-13】[santinic / audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 * 【2025-05-12】[remsky / Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
 * 【2025-05-12】[airweave-ai / airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app or database
 * 【2025-05-11】[langgenius / dify-official-plugins](https://github.com/langgenius/dify-official-plugins) - 
@@ -4481,6 +4484,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-05-13】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 * 【2025-05-11】[certd / certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
 * 【2025-05-11】[DavidAnson / markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 * 【2025-05-09】[zhaoolee / ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
@@ -6782,6 +6786,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-05-13】[tio / tio](https://github.com/tio/tio) - A serial device I/O tool
 * 【2025-05-07】[skylersaleh / SkyEmu](https://github.com/skylersaleh/SkyEmu) - Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator
 * 【2025-05-05】[medusalix / xone](https://github.com/medusalix/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories
 * 【2025-05-01】[torvalds / uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
