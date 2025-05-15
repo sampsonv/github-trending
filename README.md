@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-05-15】[TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 * 【2025-05-14】[xming521 / WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
 * 【2025-05-13】[i-am-alice / 3rd-devs](https://github.com/i-am-alice/3rd-devs) - 
 * 【2025-05-13】[bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
@@ -2777,6 +2778,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-05-15】[pirxthepilot / wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 * 【2025-05-14】[pallets / click](https://github.com/pallets/click) - Python composable command line interface toolkit
 * 【2025-05-14】[simonw / files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 * 【2025-05-14】[microsoft / Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) - The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven orchestration system that manages a group of AI agents to accomplish tasks based on user input. Powered by AutoGen, Azure OpenAI, Cosmos, and infrastructure services, it provides a ready to go application to use as a reference, allowing you to hit the ground running.
@@ -8707,6 +8709,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-05-15】[thewickedkarma / blackeye-im](https://github.com/thewickedkarma/blackeye-im) - This project is now discontinued. Kindly use other working alternatives.
 * 【2025-05-11】[DhanushNehru / Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources for most of your development needs
 * 【2025-05-10】[NightProxy / Space](https://github.com/NightProxy/Space) - Space is a modern, and clean web proxy with many games, apps and features.
 * 【2025-05-07】[Blobby-Boi / ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r) - An exploit that allows ChromeOS users to kill extensions by printing iframes. The successor to ExtHang3r.
@@ -10522,6 +10525,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-05-15】[stackia / best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 * 【2025-05-11】[fudan-generative-vision / OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - [CVPR 2025] A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation
 * 【2025-05-10】[logpai / loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 * 【2025-05-01】[hzpt-inet-club / english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
