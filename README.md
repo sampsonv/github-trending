@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-05-21】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
 * 【2025-05-20】[facebook / pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 * 【2025-05-19】[ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 * 【2025-05-18】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
@@ -2786,6 +2787,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-05-21】[beeware / toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
+* 【2025-05-21】[bilibili / Index-anisora](https://github.com/bilibili/Index-anisora) - 
 * 【2025-05-16】[mikumifa / cppTickerBuy](https://github.com/mikumifa/cppTickerBuy) - cpp cp30 漫展 活动 抢票 无差别 同人展
 * 【2025-05-15】[pirxthepilot / wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 * 【2025-05-14】[pallets / click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -4499,6 +4502,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-05-21】[BaldissaraMatheus / Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
+* 【2025-05-21】[AgentDeskAI / browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 * 【2025-05-20】[kmeps4 / PSFree](https://github.com/kmeps4/PSFree) - PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 [WIP] By abc
 * 【2025-05-14】[evalstate / fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
 * 【2025-05-13】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
@@ -7769,6 +7774,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-05-21】[microsoft / WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 * 【2025-05-20】[supercollider / supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 * 【2025-05-17】[berthrage / Devil-May-Cry-3-Crimson](https://github.com/berthrage/Devil-May-Cry-3-Crimson) - New Gameplay Options, Visual/Sound updates, Multiplayer, Fixes and more for Devil May Cry 3 (HD Collection version), based on DDMK.
 * 【2025-05-10】[isledecomp / isle](https://github.com/isledecomp/isle) - A functionally complete decompilation of LEGO Island (1997)
@@ -8730,6 +8736,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-05-21】[JuergenFleiss / aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
 * 【2025-05-16】[jonbarron / jonbarron.github.io](https://github.com/jonbarron/jonbarron.github.io) - 
 * 【2025-05-15】[thewickedkarma / blackeye-im](https://github.com/thewickedkarma/blackeye-im) - This project is now discontinued. Kindly use other working alternatives.
 * 【2025-05-11】[DhanushNehru / Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources for most of your development needs
@@ -9597,6 +9604,8 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-05-21】[themesberg / flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
+* 【2025-05-21】[PrismLauncher / prismlauncher.org](https://github.com/PrismLauncher/prismlauncher.org) - The Prism Launcher website.
 * 【2025-05-11】[xiangjianan / lks](https://github.com/xiangjianan/lks) - 
 * 【2025-05-05】[fauzanmy / pehtheme-hugo](https://github.com/fauzanmy/pehtheme-hugo) - The Hugo theme is inspired by Material Design version 3, built with love using Tailwind CSS.
 * 【2025-04-18】[carbonwallet / carbonwallet.github.io](https://github.com/carbonwallet/carbonwallet.github.io) - 
