@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-05-23】[huggingface / huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
 * 【2025-05-22】[modelcontextprotocol / registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 * 【2025-05-21】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
 * 【2025-05-20】[facebook / pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
@@ -2788,6 +2789,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-05-23】[pytorch / torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
+* 【2025-05-23】[yutiansut / QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 * 【2025-05-22】[apache / iceberg-python](https://github.com/apache/iceberg-python) - Apache PyIceberg
 * 【2025-05-21】[beeware / toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
 * 【2025-05-21】[bilibili / Index-anisora](https://github.com/bilibili/Index-anisora) - 
@@ -4504,6 +4507,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-05-23】[randomstuff69 / blooketcheatsplus](https://github.com/randomstuff69/blooketcheatsplus) - blooket cheats plus blooket cheats hacks GO TO THE DISCORD IF YOU WANT TO MAKE ISSUES IN BCP ISSUES
+* 【2025-05-23】[volcengine / ai-app-lab](https://github.com/volcengine/ai-app-lab) - 
 * 【2025-05-21】[BaldissaraMatheus / Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
 * 【2025-05-21】[AgentDeskAI / browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 * 【2025-05-20】[kmeps4 / PSFree](https://github.com/kmeps4/PSFree) - PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 [WIP] By abc
@@ -6814,6 +6819,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-05-23】[vanilla-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
 * 【2025-05-18】[microsoft / documentdb](https://github.com/microsoft/documentdb) - DocumentDB is the open-source engine powering vCore-based Azure Cosmos DB for MongoDB. It offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework.
 * 【2025-05-17】[espressif / esp-webrtc-solution](https://github.com/espressif/esp-webrtc-solution) - 
 * 【2025-05-17】[strongtz / i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
@@ -7777,6 +7783,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-05-23】[google-ai-edge / LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT is the new name for TensorFlow Lite (TFLite). While the name is new, it's still the same trusted, high-performance runtime for on-device AI, now with an expanded vision.
+* 【2025-05-23】[microsoft / wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 * 【2025-05-22】[ERGO-Code / HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software
 * 【2025-05-22】[duixcom / Duix.mobile](https://github.com/duixcom/Duix.mobile) - 
 * 【2025-05-21】[microsoft / WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
@@ -10563,6 +10571,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-05-23】[skills / communicate-using-markdown](https://github.com/skills/communicate-using-markdown) - Organize ideas and collaborate using Markdown, a lightweight language for text formatting.
 * 【2025-05-22】[MicrosoftDocs / WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 * 【2025-05-22】[lvgl / lvgl_editor](https://github.com/lvgl/lvgl_editor) - 
 * 【2025-05-15】[stackia / best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
