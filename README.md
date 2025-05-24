@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2025-05-24】[XiaoYouChR / Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
+* 【2025-05-24】[anthropics / claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+* 【2025-05-24】[Fosowl / agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 * 【2025-05-23】[huggingface / huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
 * 【2025-05-22】[modelcontextprotocol / registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 * 【2025-05-21】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
@@ -2789,6 +2792,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-05-24】[ML-GSAI / LLaDA](https://github.com/ML-GSAI/LLaDA) - Official PyTorch implementation for "Large Language Diffusion Models"
+* 【2025-05-24】[qodo-ai / pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 * 【2025-05-23】[pytorch / torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
 * 【2025-05-23】[yutiansut / QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 * 【2025-05-22】[apache / iceberg-python](https://github.com/apache/iceberg-python) - Apache PyIceberg
@@ -4507,6 +4512,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-05-24】[auth0 / react-native-auth0](https://github.com/auth0/react-native-auth0) - React Native toolkit for Auth0 API
 * 【2025-05-23】[randomstuff69 / blooketcheatsplus](https://github.com/randomstuff69/blooketcheatsplus) - blooket cheats plus blooket cheats hacks GO TO THE DISCORD IF YOU WANT TO MAKE ISSUES IN BCP ISSUES
 * 【2025-05-23】[volcengine / ai-app-lab](https://github.com/volcengine/ai-app-lab) - 
 * 【2025-05-21】[BaldissaraMatheus / Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
@@ -5708,6 +5714,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-05-24】[aaPanel / BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees.
 * 【2025-05-22】[TencentCloud / tencentcloud-sdk-go](https://github.com/TencentCloud/tencentcloud-sdk-go) - Tencent Cloud API 3.0 SDK for Golang
 * 【2025-05-17】[yuin / goldmark](https://github.com/yuin/goldmark) - 🏆 A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 * 【2025-05-17】[microsoft / typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -6819,6 +6826,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-05-24】[jniebuhr / gaggimate](https://github.com/jniebuhr/gaggimate) - This project upgrades a Gaggia espresso machine with smart controls to improve your coffee-making experience. By adding a display and custom electronics, you can monitor and control the machine more easily.
+* 【2025-05-24】[FDio / vpp](https://github.com/FDio/vpp) - Mirror of VPP code base hosted at git.fd.io
 * 【2025-05-23】[vanilla-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
 * 【2025-05-18】[microsoft / documentdb](https://github.com/microsoft/documentdb) - DocumentDB is the open-source engine powering vCore-based Azure Cosmos DB for MongoDB. It offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework.
 * 【2025-05-17】[espressif / esp-webrtc-solution](https://github.com/espressif/esp-webrtc-solution) - 
@@ -7783,6 +7792,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-05-24】[pafuhana1213 / KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5
 * 【2025-05-23】[google-ai-edge / LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT is the new name for TensorFlow Lite (TFLite). While the name is new, it's still the same trusted, high-performance runtime for on-device AI, now with an expanded vision.
 * 【2025-05-23】[microsoft / wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 * 【2025-05-22】[ERGO-Code / HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software
@@ -8749,6 +8759,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-05-24】[codelucas / newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 * 【2025-05-22】[nottelabs / notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agents
 * 【2025-05-21】[JuergenFleiss / aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
 * 【2025-05-16】[jonbarron / jonbarron.github.io](https://github.com/jonbarron/jonbarron.github.io) - 
