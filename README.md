@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-06-10】[eythaann / Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 * 【2025-06-09】[tensorzero / tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 * 【2025-06-08】[Daymychen / art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
 * 【2025-06-08】[iib0011 / omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
@@ -2820,6 +2821,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-06-10】[Comfy-Org / ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 * 【2025-06-09】[r-three / common-pile](https://github.com/r-three/common-pile) - Code for collecting, processing, and preparing datasets for the Common Pile
 * 【2025-06-09】[langchain-ai / langmem](https://github.com/langchain-ai/langmem) - 
 * 【2025-06-08】[haris-musa / excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
@@ -5772,6 +5774,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-06-10】[akvorado / akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 * 【2025-06-09】[steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 * 【2025-06-07】[Glimesh / broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 * 【2025-06-05】[langhuihui / monibuca](https://github.com/langhuihui/monibuca) - 🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server
@@ -8840,6 +8843,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-06-10】[GetPublii / Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 * 【2025-06-09】[robiningelbrecht / statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 * 【2025-06-07】[TheKing-OfTime / YandexMusicModClient](https://github.com/TheKing-OfTime/YandexMusicModClient) - Modification for Yandex Music Desktop application to add some features
 * 【2025-06-04】[projectcontour / contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
