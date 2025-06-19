@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-06-19】[php / frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 * 【2025-06-18】[menloresearch / jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 * 【2025-06-18】[deepseek-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 * 【2025-06-17】[linshenkx / prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
@@ -4574,6 +4575,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-06-19】[OfficeDev / Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
 * 【2025-06-18】[rcourtman / Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
 * 【2025-06-18】[frankmcsherry / blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important.
 * 【2025-06-12】[ruvnet / rUv-dev](https://github.com/ruvnet/rUv-dev) - Ai power Dev using the rUv approach
@@ -5790,6 +5792,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-06-19】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 * 【2025-06-18】[Musixal / Backhaul](https://github.com/Musixal/Backhaul) - Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.
 * 【2025-06-17】[zachlatta / sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com
 * 【2025-06-14】[cloudreve / cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
@@ -8872,6 +8875,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-06-19】[jdm-contrib / jdm](https://github.com/jdm-contrib/jdm) - A directory of direct links to delete your account from web services.
 * 【2025-06-12】[novitechie / jetbra](https://github.com/novitechie/jetbra) - 
 * 【2025-06-11】[lowcoder-org / lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
 * 【2025-06-10】[GetPublii / Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
@@ -10711,6 +10715,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-06-19】[datawhalechina / happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
 * 【2025-06-05】[k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 * 【2025-06-02】[geerlingguy / mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 * 【2025-06-01】[skywind3000 / preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
