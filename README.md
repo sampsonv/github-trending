@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-06-23】[microsoft / edit](https://github.com/microsoft/edit) - We all edit.
+* 【2025-06-23】[donnemartin / awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
 * 【2025-06-20】[cloudflare / ai](https://github.com/cloudflare/ai) - 
 * 【2025-06-20】[firebase / genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
 * 【2025-06-20】[sunzsh / favoritesWorkflow4Alfred](https://github.com/sunzsh/favoritesWorkflow4Alfred) - 
