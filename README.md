@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-06-25】[musistudio / claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+* 【2025-06-25】[Effect-TS / effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 * 【2025-06-24】[ghostty-org / ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 * 【2025-06-24】[HarbourMasters / SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - 
 * 【2025-06-24】[isledecomp / isle-portable](https://github.com/isledecomp/isle-portable) - A portable version of LEGO Island (1997)
@@ -1914,6 +1916,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-06-25】[Winds-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
 * 【2025-06-24】[mafik / echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
 * 【2025-06-21】[alibaba / fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics.
 * 【2025-06-20】[pixelsdb / pixels](https://github.com/pixelsdb/pixels) - An efficient storage and compute engine for both on-prem and cloud-native data analytics.
@@ -2839,6 +2842,9 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-06-25】[Epodonios / v2ray-configs](https://github.com/Epodonios/v2ray-configs) - Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes
+* 【2025-06-25】[LeCAR-Lab / ASAP](https://github.com/LeCAR-Lab/ASAP) - Official implementation of "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
+* 【2025-06-25】[dendenxu / fast-gaussian-rasterization](https://github.com/dendenxu/fast-gaussian-rasterization) - A geometry-shader-based, global CUDA sorted high-performance 3D Gaussian Splatting rasterizer. Can achieve a 5-10x speedup in rendering compared to the vanialla diff-gaussian-rasterization.
 * 【2025-06-24】[subzeroid / instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
 * 【2025-06-22】[kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-21】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
@@ -5812,6 +5818,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-06-25】[weibaohui / k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 * 【2025-06-24】[kitops-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 * 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 * 【2025-06-20】[Ingenimax / agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go) - 
@@ -6946,6 +6953,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-06-25】[solosky / pixl.js](https://github.com/solosky/pixl.js) - An emulator for Amiibo!
 * 【2025-06-18】[cosmos72 / twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
 * 【2025-06-17】[espressif / esp-brookesia](https://github.com/espressif/esp-brookesia) - ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.
 * 【2025-06-17】[armory3d / armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
