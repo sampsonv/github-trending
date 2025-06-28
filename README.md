@@ -1919,6 +1919,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-06-28】[LianjiaTech / retrofit-spring-boot-starter](https://github.com/LianjiaTech/retrofit-spring-boot-starter) - A spring-boot starter for retrofit, supports rapid integration and feature enhancements.（适用于retrofit的spring-boot-starter，支持快速集成和功能增强）
 * 【2025-06-26】[junit-team / junit-framework](https://github.com/junit-team/junit-framework) - ✅ The programmer-friendly testing framework for Java and the JVM
 * 【2025-06-25】[Winds-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
 * 【2025-06-24】[mafik / echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
@@ -6968,6 +6969,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-06-28】[Safe3 / uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 * 【2025-06-27】[rxi / microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 * 【2025-06-25】[solosky / pixl.js](https://github.com/solosky/pixl.js) - An emulator for Amiibo!
 * 【2025-06-18】[cosmos72 / twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
