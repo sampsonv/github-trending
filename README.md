@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2025-07-11】[WordPress / wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
+* 【2025-07-11】[snap-stanford / Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
+* 【2025-07-11】[flutter / packages](https://github.com/flutter/packages) - A collection of useful packages maintained by the Flutter team
 * 【2025-07-10】[ed-donner / agents](https://github.com/ed-donner/agents) - Repo for the Complete Agentic AI Engineering Course
 * 【2025-07-10】[wanghongenpin / proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems
 * 【2025-07-10】[microsoft / MoGe](https://github.com/microsoft/MoGe) - [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
@@ -2871,6 +2874,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-07-11】[ali-vilab / VACE](https://github.com/ali-vilab/VACE) - Official implementations for paper: VACE: All-in-One Video Creation and Editing
+* 【2025-07-11】[huggingface / smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 * 【2025-07-10】[awslabs / mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 * 【2025-07-10】[D4Vinci / Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 * 【2025-07-10】[coleam00 / ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
@@ -5878,6 +5883,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-07-11】[beam-cloud / beta9](https://github.com/beam-cloud/beta9) - Secure, high-performance AI infrastructure in Python.
 * 【2025-07-08】[PlakarKorp / plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 * 【2025-07-07】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
 * 【2025-07-05】[yusing / godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
@@ -7024,6 +7030,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-07-11】[rbaron / b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
 * 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2025-07-08】[manaskamal / XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
 * 【2025-07-08】[mcmilk / 7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
@@ -8008,6 +8015,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-07-11】[f3d-app / f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 * 【2025-07-08】[LeagueToolkit / cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
 * 【2025-07-08】[nomacs / nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 * 【2025-07-05】[prajna-lang / prajna](https://github.com/prajna-lang/prajna) - a simple general program language
