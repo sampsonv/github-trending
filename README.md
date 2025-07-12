@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-07-12】[landing-ai / agentic-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
+* 【2025-07-12】[antiwork / flexile](https://github.com/antiwork/flexile) - Contractor payments as easy as 1-2-3
 * 【2025-07-11】[WordPress / wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
 * 【2025-07-11】[snap-stanford / Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
 * 【2025-07-11】[flutter / packages](https://github.com/flutter/packages) - A collection of useful packages maintained by the Flutter team
@@ -2874,6 +2876,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-07-12】[browser-use / macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 * 【2025-07-11】[ali-vilab / VACE](https://github.com/ali-vilab/VACE) - Official implementations for paper: VACE: All-in-One Video Creation and Editing
 * 【2025-07-11】[huggingface / smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 * 【2025-07-10】[awslabs / mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
@@ -4655,6 +4658,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-07-12】[elastic / mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - 
 * 【2025-07-10】[zereight / gitlab-mcp](https://github.com/zereight/gitlab-mcp) - gitlab mcp
 * 【2025-07-09】[HackTricks-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * 【2025-07-05】[nwjs / nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
@@ -5883,6 +5887,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-07-12】[RezaSi / go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
 * 【2025-07-11】[beam-cloud / beta9](https://github.com/beam-cloud/beta9) - Secure, high-performance AI infrastructure in Python.
 * 【2025-07-08】[PlakarKorp / plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 * 【2025-07-07】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
@@ -7030,6 +7035,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-07-12】[PufferAI / PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
 * 【2025-07-11】[rbaron / b-parasite](https://github.com/rbaron/b-parasite) - 🌱💧 An open source DIY soil moisture sensor
 * 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2025-07-08】[manaskamal / XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
@@ -8015,6 +8021,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-07-12】[lraton / FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 * 【2025-07-11】[f3d-app / f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 * 【2025-07-08】[LeagueToolkit / cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
 * 【2025-07-08】[nomacs / nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
@@ -9890,6 +9897,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-07-12】[jensimmons / cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 * 【2025-07-10】[tanabe / markdown-live-preview](https://github.com/tanabe/markdown-live-preview) - markdown editor with live preview
 * 【2025-07-09】[sapthesh / Birthday](https://github.com/sapthesh/Birthday) - The Customizable Birthday Web Template is a versatile and user-friendly website template designed to celebrate birthdays in a fun and personalized way.
 * 【2025-07-08】[MicrosoftDocs / Azure-RMSDocs](https://github.com/MicrosoftDocs/Azure-RMSDocs) - Public content repo for Azure RMS content in OPS
