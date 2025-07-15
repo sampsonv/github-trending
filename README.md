@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-07-15】[TomBursch / kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
 * 【2025-07-14】[vercel / commerce](https://github.com/vercel/commerce) - Next.js Commerce
 * 【2025-07-12】[landing-ai / agentic-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
 * 【2025-07-12】[antiwork / flexile](https://github.com/antiwork/flexile) - Contractor payments as easy as 1-2-3
