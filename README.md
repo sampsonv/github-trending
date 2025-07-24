@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-07-24】[Sjj1024 / PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 * 【2025-07-23】[karpathy / nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 * 【2025-07-23】[fujiapple852 / trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 * 【2025-07-23】[ankitects / anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
@@ -1957,6 +1958,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-07-24】[LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 * 【2025-07-18】[spinnaker / spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 * 【2025-07-14】[re-zero001 / LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 * 【2025-07-13】[GumTreeDiff / gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
@@ -5923,6 +5925,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-07-24】[tenable / terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+* 【2025-07-24】[tnborg / panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 * 【2025-07-22】[v2ray / domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
 * 【2025-07-22】[donetick / donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 * 【2025-07-21】[mudler / LocalRecall](https://github.com/mudler/LocalRecall) - 🧠 100% Local Memory layer and Knowledge base for agents with WebUI
@@ -9064,6 +9068,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-07-24】[jolibrain / colette](https://github.com/jolibrain/colette) - Multimodal RAG to search and interact locally with technical documents of any kind
 * 【2025-07-23】[Tanq16 / ExpenseOwl](https://github.com/Tanq16/ExpenseOwl) - Extremely simple, self-hosted expense tracker with a beautiful UI.
 * 【2025-07-23】[ibm-developer-skills-network / gkpbt-css-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle) - css-circle
 * 【2025-07-17】[zhtyyx / ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
