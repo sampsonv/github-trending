@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-07-30】[9001 / copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 * 【2025-07-29】[ashishpatel26 / 500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
 * 【2025-07-29】[mattermost-community / focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 * 【2025-07-28】[daveebbelaar / ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
@@ -4710,6 +4711,10 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-07-30】[zumerlab / snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
+* 【2025-07-30】[hotheadhacker / no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
+* 【2025-07-30】[zed-industries / zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
+* 【2025-07-30】[eoao / cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱 临时邮箱 邮件发送 mail
 * 【2025-07-25】[acornjs / acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 * 【2025-07-20】[MarSeventh / CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
 * 【2025-07-18】[phcode-dev / phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
@@ -5943,6 +5948,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-07-30】[inngest / inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.
 * 【2025-07-28】[jhaals / yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 * 【2025-07-27】[google / oss-rebuild](https://github.com/google/oss-rebuild) - Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
 * 【2025-07-27】[modelcontextprotocol / go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
@@ -7106,6 +7112,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-07-30】[system-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.
+* 【2025-07-30】[openvenues / libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 * 【2025-07-29】[cellos51 / balatro-gba](https://github.com/cellos51/balatro-gba) - 
 * 【2025-07-27】[EFeru / hoverboard-firmware-hack-FOC](https://github.com/EFeru/hoverboard-firmware-hack-FOC) - With Field Oriented Control (FOC)
 * 【2025-07-22】[Zelda64Recomp / Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
@@ -9988,6 +9996,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-07-30】[tw93 / weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 * 【2025-07-25】[akkva / gwfox](https://github.com/akkva/gwfox) - 果味🦊皮...
 * 【2025-07-22】[aculix / bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
 * 【2025-07-21】[Chainlift / liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
@@ -10972,6 +10981,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-07-30】[qcha / JBook](https://github.com/qcha/JBook) - Алгоритмы, паттерны, подготовка к собеседованиям, статьи и материалы по Java
 * 【2025-07-29】[melontini / bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 * 【2025-07-21】[browser-use / awesome-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
 * 【2025-07-21】[iam-veeramalla / ultimate-linux-guide](https://github.com/iam-veeramalla/ultimate-linux-guide) - Ultimate guide to learn Linux from scratch.
