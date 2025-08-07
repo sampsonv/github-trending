@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-08-07】[themactep / thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
+* 【2025-08-07】[open-edge-platform / anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
 * 【2025-08-06】[huiyadanli / RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 * 【2025-08-06】[thewh1teagle / vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 * 【2025-08-04】[flydelabs / flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
@@ -2918,6 +2920,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-08-07】[hao-ai-lab / FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
+* 【2025-08-07】[JudgmentLabs / judgeval](https://github.com/JudgmentLabs/judgeval) - The open source post-building layer for agents. Our traces + evals power agent post-training (RL, SFT), monitoring, and regression testing.
 * 【2025-08-06】[trailofbits / algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 * 【2025-08-06】[UKGovernmentBEIS / inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
 * 【2025-08-05】[resemble-ai / chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
@@ -4737,6 +4741,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-08-07】[RainyGao-GitHub / DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
 * 【2025-08-04】[crocodilestick / Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 * 【2025-08-03】[google / earthengine-api](https://github.com/google/earthengine-api) - Python and JavaScript bindings for calling the Earth Engine API.
 * 【2025-08-01】[viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -8141,6 +8146,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-08-07】[cactus-compute / cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones.
+* 【2025-08-07】[usetrmnl / trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL e-ink device firmware
 * 【2025-08-06】[duixcom / Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 全网效果最好的移动端【实时对话数字人】。 支持本地部署、多模态交互（语音、文本、表情），响应速度低于 1.5 秒，适用于直播、教学、客服、金融、政务等对隐私与实时性要求极高的场景。开箱即用，开发者友好。
 * 【2025-08-06】[deepseek-ai / FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA kernels
 * 【2025-08-03】[google / longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
