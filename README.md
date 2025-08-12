@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-08-12】[trailofbits / buttercup](https://github.com/trailofbits/buttercup) - 
 * 【2025-08-11】[idosal / git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 * 【2025-08-11】[openai / openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
 * 【2025-08-10】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
@@ -1980,6 +1981,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-08-12】[TownyAdvanced / Towny](https://github.com/TownyAdvanced/Towny) - Towny Advanced Minecraft plugin for Bukkit/Spigot.
 * 【2025-08-11】[helge17 / tuxguitar](https://github.com/helge17/tuxguitar) - Open source guitar tablature editor
 * 【2025-08-10】[FrosSky / Chevstrap](https://github.com/FrosSky/Chevstrap) - Chevstrap is an enhanced Roblox and Roblox VN launcher, built specifically for Android and inspired by Bloxstrap.
 * 【2025-08-08】[google / adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -4754,6 +4756,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-08-12】[willmiao / ComfyUI-Lora-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
+* 【2025-08-12】[MohamedRadwan-DevOps / devops-step-by-step](https://github.com/MohamedRadwan-DevOps/devops-step-by-step) - Learn DevOps Step-by-step
 * 【2025-08-09】[benborla / mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.
 * 【2025-08-09】[Kaliiiiiiiiii-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
 * 【2025-08-09】[automerge / automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -6001,6 +6005,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-08-12】[ThingsPanel / thingspanel-backend-community](https://github.com/ThingsPanel/thingspanel-backend-community) - The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.
 * 【2025-08-11】[sammcj / gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 * 【2025-08-09】[maximhq / bifrost](https://github.com/maximhq/bifrost) - The Fastest LLM Gateway with built in OTel observability and MCP gateway
 * 【2025-08-03】[hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
