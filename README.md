@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-08-20】[imsyy / SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 * 【2025-08-19】[bytebot-ai / bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 * 【2025-08-17】[IBM / mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
 * 【2025-08-17】[PixiEditor / PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
@@ -2942,6 +2943,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-08-20】[tensorlakeai / tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs
+* 【2025-08-20】[portiaAI / portia-sdk-python](https://github.com/portiaAI/portia-sdk-python) - Portia Labs Python SDK for building agentic workflows.
 * 【2025-08-18】[HunxByts / GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 * 【2025-08-15】[datalab-to / marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 * 【2025-08-14】[microsoft / magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
@@ -7203,6 +7206,8 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-08-20】[kolunmi / bazaar](https://github.com/kolunmi/bazaar) - New App Store for GNOME
+* 【2025-08-20】[dekuNukem / daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 * 【2025-08-19】[ComposersDesktop / CDP8](https://github.com/ComposersDesktop/CDP8) - New version of CDP software
 * 【2025-08-17】[duixcom / Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
 * 【2025-08-13】[armink / FlashDB](https://github.com/armink/FlashDB) - An ultra-lightweight database that supports key-value and time series data | 一款支持 KV 数据和时序数据的超轻量级数据库
@@ -9212,6 +9217,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-08-20】[circleci / circleci-docs](https://github.com/circleci/circleci-docs) - Documentation for CircleCI.
 * 【2025-08-19】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 * 【2025-08-15】[0dayCTF / reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 * 【2025-08-15】[strands-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
@@ -10110,6 +10116,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-08-20】[Parnab03 / WallGodds](https://github.com/Parnab03/WallGodds) - A modern wallpaper website offering high-quality wallpapers for mobile, tablet, and desktop devices. Features include user uploads, categorization, and profile management.
 * 【2025-08-17】[bigskysoftware / missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 * 【2025-08-09】[keshikan / DSEG](https://github.com/keshikan/DSEG) - 7-segment and 14-segment font 7セグ・14セグフォント
 * 【2025-08-08】[vinceliuice / WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
