@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-09-06】[nukeop / nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+* 【2025-09-06】[EvolutionAPI / evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
 * 【2025-09-05】[weaviate / elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
 * 【2025-09-05】[socfortress / Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 * 【2025-09-04】[jasontaylordev / CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
@@ -2974,6 +2976,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-09-06】[qwersyk / Newelle](https://github.com/qwersyk/Newelle) - Newelle - Your Ultimate Virtual Assistant
 * 【2025-09-05】[slavakurilyak / awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 * 【2025-09-04】[murtaza-nasir / maestro](https://github.com/murtaza-nasir/maestro) - MAESTRO is an AI-powered research application designed to streamline complex research tasks.
 * 【2025-09-04】[microsoft / rStar](https://github.com/microsoft/rStar) - 
@@ -8306,6 +8309,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-09-06】[haoel / leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 * 【2025-09-04】[CloudCompare / CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare main repository
 * 【2025-09-02】[ITotalJustice / sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2025-09-01】[underpig1 / octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows 🚀 Available on the Microsoft Store
@@ -9323,6 +9327,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-09-06】[polarsys / b612](https://github.com/polarsys/b612) - Eclipse B612
 * 【2025-09-02】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
 * 【2025-08-31】[MonkeyGG2 / monkeygg2.github.io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
 * 【2025-08-28】[quinlan-lab / applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
@@ -11222,6 +11227,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-09-06】[jaw9c / awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
 * 【2025-08-31】[zju3dv / MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training", Arxiv 2025.
 * 【2025-08-30】[microsoft / PowerAppsCodeApps](https://github.com/microsoft/PowerAppsCodeApps) - Create custom web application to run within Power Apps!
 * 【2025-08-24】[Arudjreis / awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
