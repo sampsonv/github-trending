@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-09-13】[CodebuffAI / codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 * 【2025-09-12】[trueadm / ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 * 【2025-09-12】[epfml / ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2025
 * 【2025-09-11】[twitter / the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
@@ -2991,6 +2992,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-09-13】[apecloud / ApeRAG](https://github.com/apecloud/ApeRAG) - ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment
 * 【2025-09-12】[sentient-agi / ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
 * 【2025-09-11】[NEKOparapa / AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。
 * 【2025-09-09】[coderamp-labs / gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -7327,6 +7329,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-09-13】[VirtualBox / virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox
 * 【2025-09-12】[mpaland / printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
 * 【2025-09-12】[hpjansson / chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 * 【2025-09-10】[izzyreal / vmpc-juce](https://github.com/izzyreal/vmpc-juce) - JUCE implementation of VMPC2000XL
@@ -8344,6 +8347,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-09-13】[argotorg / solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 * 【2025-09-12】[ashtf8 / PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 * 【2025-09-08】[AntiMicroX / antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 * 【2025-09-08】[MrNeRF / LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - LichtFeld Studio: Where reality and the digital world blend.
@@ -10270,6 +10274,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-09-13】[scholtz / wallet](https://github.com/scholtz/wallet) - Open source algorand wallet and algorand web tools - governors tools, payment gateway, ..
 * 【2025-09-11】[dend / awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 * 【2025-09-11】[rstudio-education / hopr](https://github.com/rstudio-education/hopr) - This is the development site for Hands-On Programming with R, a book that teaches how to program in R, with hands-on examples. Read the book at https://rstudio-education.github.io/hopr.
 * 【2025-09-08】[skeletonlabs / skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
@@ -11268,6 +11273,8 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-09-13】[iam-veeramalla / Kubernetes-Zero-to-Hero](https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero) - Creating this repo with an intent to make Kubernetes easy for begineers. This is a work-in-progress repo.
+* 【2025-09-13】[vanshb03 / New-Grad-2026](https://github.com/vanshb03/New-Grad-2026) - 2025 & 2026 New grad full-time roles in SWE, Quant, and PM.
 * 【2025-09-12】[karminski / one-small-step](https://github.com/karminski/one-small-step) - 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。
 * 【2025-09-11】[emarco177 / langchain-course](https://github.com/emarco177/langchain-course) - 
 * 【2025-09-10】[github / advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
