@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-09-15】[docker / mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 * 【2025-09-13】[CodebuffAI / codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 * 【2025-09-12】[trueadm / ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 * 【2025-09-12】[epfml / ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2025
@@ -2992,6 +2993,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-09-15】[CorentinJ / Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+* 【2025-09-15】[bupticybee / ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) - 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。
 * 【2025-09-14】[Dao-AILab / quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
 * 【2025-09-14】[skyzh / tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
 * 【2025-09-13】[apecloud / ApeRAG](https://github.com/apecloud/ApeRAG) - ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable K8s deployment
@@ -4866,6 +4869,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-09-15】[home-sweet-gnome / dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
 * 【2025-09-12】[github / awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 * 【2025-09-11】[debug-js / debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 * 【2025-09-10】[cloudflare / templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
@@ -6141,6 +6145,8 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-09-15】[hteen / apple-store-helper](https://github.com/hteen/apple-store-helper) - Apple Store iPhone预约助手
+* 【2025-09-15】[docker / mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
 * 【2025-09-11】[sjzar / chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 * 【2025-09-11】[muesli / duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 * 【2025-09-10】[yaml / go-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github.com/go-yaml/yaml
@@ -9371,6 +9377,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-09-15】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 * 【2025-09-06】[polarsys / b612](https://github.com/polarsys/b612) - Eclipse B612
 * 【2025-09-02】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
 * 【2025-08-31】[MonkeyGG2 / monkeygg2.github.io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
