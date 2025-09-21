@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2025-09-21】[winfunc / opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+* 【2025-09-21】[OpenMind / OM1](https://github.com/OpenMind/OM1) - Modular AI runtime for robots
+* 【2025-09-21】[OvidijusParsiunas / deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 * 【2025-09-20】[basecamp / omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 * 【2025-09-20】[bitnami / charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 * 【2025-09-18】[category-labs / monad](https://github.com/category-labs/monad) - 
@@ -3002,6 +3005,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-09-21】[google-agentic-commerce / a2a-x402](https://github.com/google-agentic-commerce/a2a-x402) - The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling agents to monetize their services through on-chain payments. This extension revives the spirit of HTTP 402 "Payment Required" for the decentralized agent ecosystem.
+* 【2025-09-21】[anthropics / claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) - 
 * 【2025-09-20】[WECENG / ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
 * 【2025-09-20】[knownsec / aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
 * 【2025-09-17】[ciromattia / kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
@@ -7356,6 +7361,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-09-21】[netblue30 / firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 * 【2025-09-19】[MidnightCommander / mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 * 【2025-09-13】[VirtualBox / virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox
 * 【2025-09-12】[mpaland / printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
@@ -11307,6 +11313,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-09-21】[guoyue2010 / lxmusic-](https://github.com/guoyue2010/lxmusic-) - lxmusic(洛雪音乐)全网最新最全音源
 * 【2025-09-20】[google-labs-code / jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 * 【2025-09-18】[SpotCompiled / SpotC-Plus-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.
 * 【2025-09-16】[snarktank / ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
