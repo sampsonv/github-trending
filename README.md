@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2025-09-28】[modelcontextprotocol / typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
+* 【2025-09-28】[imputnet / helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
+* 【2025-09-28】[ai-dynamo / dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 * 【2025-09-27】[ericciarla / trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 * 【2025-09-27】[google-gemini / gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 * 【2025-09-26】[TanStack / router](https://github.com/TanStack/router) - 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
@@ -2052,6 +2055,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-09-28】[apache / fesod](https://github.com/apache/fesod) - Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
 * 【2025-09-27】[apache / sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large-scale geospatial data
 * 【2025-09-24】[Jigsaw-Code / Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
 * 【2025-09-20】[MoshiCoCo / Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - Apple store inventory monitoring tool implemented in Java, supporting Bark, Feishu, Lark robot and other message push methods. Currently supports monitoring Apple stores in mainland China, Hong Kong, Macau, China Taiwan, Japan and other regions.
@@ -3016,6 +3020,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-09-28】[Tencent-Hunyuan / Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 * 【2025-09-27】[Wirasm / PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
 * 【2025-09-26】[StanfordVL / BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx
 * 【2025-09-25】[Klavis-AI / klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably.
@@ -4904,6 +4909,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-09-28】[perplexityai / modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 * 【2025-09-25】[asterdex / api-docs](https://github.com/asterdex/api-docs) - 
 * 【2025-09-23】[andrepimenta / claude-code-chat](https://github.com/andrepimenta/claude-code-chat) - Beautiful Claude Code Chat Interface for VS Code
 * 【2025-09-19】[angular / angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
@@ -9426,6 +9432,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-09-28】[dsc-jssstu / CamPhish](https://github.com/dsc-jssstu/CamPhish) - 
 * 【2025-09-27】[owickstrom / the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 * 【2025-09-27】[dinguschan-owo / Helios](https://github.com/dinguschan-owo/Helios) - Helios is an COMPLETELY UNBLOCKABLE proxy with tabs that can be static hosted, can be run locally, and is html css js only! This is (as far as i've found) the only true UNBLOCKABLE only HTML proxy that works with any blocking software! Plus its open sauce so you can take this code and build your own proxy! (⭐ PLEASE star if you fork! ⭐)
 * 【2025-09-26】[PhoenixPE / PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE allows you to create a customized Rescue/Recovery Environment based on Win10/Win11.
