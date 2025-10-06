@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-10-06】[aandrew-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 * 【2025-10-05】[paaatrick / playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 * 【2025-10-05】[glide-browser / glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 * 【2025-10-04】[microsoft / agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
@@ -3039,6 +3040,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-10-06】[derv82 / wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
 * 【2025-10-05】[sonic-net / sonic-utilities](https://github.com/sonic-net/sonic-utilities) - Command line utilities for the SONiC project
 * 【2025-10-04】[yichuan-w / LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 * 【2025-10-03】[h2y / Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
@@ -4937,6 +4939,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-10-06】[paperwm / PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 * 【2025-10-05】[yep-yogesh / Guessync](https://github.com/yep-yogesh/Guessync) - A full-stack, real-time multiplayer music guessing game built with React, Firebase Auth, Socket.IO, MongoDB, and Vite. Integrated with Spotify, YouTube, and GeminiAI to enable AI-powered hints, audio playback and fuzzy-matched answers.
 * 【2025-10-05】[sahat / hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 * 【2025-10-03】[Coding-Solo / godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
@@ -10397,6 +10400,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-10-06】[Gonzalo-D-Sales / obsidian-velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity) - A radically modern theme for Obsidian.
 * 【2025-10-04】[supabase / supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 * 【2025-10-04】[neeraj542 / Personal-Finance-Tracker](https://github.com/neeraj542/Personal-Finance-Tracker) - The Personal Finance Tracker is a web application designed to help individuals manage their finances effectively. It provides a user-friendly interface for tracking income and expenses, setting financial goals, and monitoring budget limits.
 * 【2025-09-29】[bahamas10 / ysap](https://github.com/bahamas10/ysap) - You Suck at Programming - Dave Eddy
