@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-10-20】[mountain-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 * 【2025-10-19】[anthropics / claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 * 【2025-10-19】[ThinkInAIXYZ / deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 * 【2025-10-18】[HuLaSpark / HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉
@@ -8528,6 +8529,7 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-10-20】[kcat / openal-soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 * 【2025-10-14】[ByteWelder / Tactility](https://github.com/ByteWelder/Tactility) - An operating system for ESP32 devices.
 * 【2025-10-14】[relativty / Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
 * 【2025-10-13】[ayoubfaouzi / al-khaser](https://github.com/ayoubfaouzi/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
