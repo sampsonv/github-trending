@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-10-29】[spipm / Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 * 【2025-10-27】[microsoft / agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 * 【2025-10-25】[isaac-sim / IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.
 * 【2025-10-24】[meta-pytorch / torchforge](https://github.com/meta-pytorch/torchforge) - PyTorch-native post-training at scale
@@ -3083,6 +3084,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-10-29】[TNTwise / REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 * 【2025-10-26】[moondevonyt / moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) - autonomous ai agents for trading in python
 * 【2025-10-24】[AsyncFuncAI / deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 * 【2025-10-23】[pollen-robotics / reachy_mini](https://github.com/pollen-robotics/reachy_mini) - Reachy Mini's SDK
@@ -9599,6 +9601,8 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-10-29】[IBM / AssetOpsBench](https://github.com/IBM/AssetOpsBench) - AssetOpsBench - Industry 4.0
+* 【2025-10-29】[skindhu / Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
 * 【2025-10-17】[CanciuCostin / android-spyware](https://github.com/CanciuCostin/android-spyware) - Rails c&c web application for spying Android devices
 * 【2025-10-17】[spencerccf / app_settings](https://github.com/spencerccf/app_settings) - Flutter plugin for accessing app phone settings for iOS and Android
 * 【2025-10-15】[o8oo8o / WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版API调试神器
@@ -10521,6 +10525,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-10-29】[n00bcodr / Jellyfish](https://github.com/n00bcodr/Jellyfish) - Jellyfin Theme inspired by Flow, Zesty and Ultrachromic
 * 【2025-10-28】[elifouts / Dotfiles](https://github.com/elifouts/Dotfiles) - My Hyprland Dotfiles For Arch!
 * 【2025-10-25】[amnweb / yasb-themes](https://github.com/amnweb/yasb-themes) - 🎨 Theme repository for YASB.
 * 【2025-10-25】[Matt-FTW / dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config
