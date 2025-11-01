@@ -2104,6 +2104,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-11-01】[Tosencen / XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
 * 【2025-10-28】[strivedi4u / hacktoberfest2025](https://github.com/strivedi4u/hacktoberfest2025) - 🌱 This repository is for beginners who want to contribute to open source through 🎉 Hacktoberfest 2025. 🚀 It’s designed to promote learning and growth in 💻 software development with fun 🧩 coding challenges and 🛠️ projects — from basic algorithms to advanced applications. 🤝 Join in, contribute, and level up your skills.
 * 【2025-10-27】[angryip / ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
 * 【2025-10-26】[torakiki / pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages
@@ -3085,6 +3086,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-11-01】[langchain-ai / deepagents](https://github.com/langchain-ai/deepagents) - 
+* 【2025-11-01】[google-agentic-commerce / AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI-Driven Payments.
 * 【2025-10-31】[Kludex / starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 * 【2025-10-31】[HKUDS / ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 * 【2025-10-31】[astral-sh / ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -5012,6 +5015,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-11-01】[aldenhallak / fishes](https://github.com/aldenhallak/fishes) - 
+* 【2025-11-01】[aunetx / blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 * 【2025-10-28】[wangwangit / SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 * 【2025-10-28】[gnmyt / MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
 * 【2025-10-26】[develop202 / migu_video](https://github.com/develop202/migu_video) - 
@@ -8571,6 +8576,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-11-01】[mozilla-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
+* 【2025-11-01】[Redot-Engine / redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
 * 【2025-10-30】[odriverobotics / ODrive](https://github.com/odriverobotics/ODrive) - High performance motor control
 * 【2025-10-28】[ange-yaghi / engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 * 【2025-10-27】[SteamClientHomebrew / Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
@@ -9611,6 +9618,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-11-01】[ranuts / document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 * 【2025-10-31】[design-tokens / community-group](https://github.com/design-tokens/community-group) - This is the official DTCG repository for the design tokens site and specification.
 * 【2025-10-30】[OCA / helpdesk](https://github.com/OCA/helpdesk) - Odoo modules for managing a HelpDesk system
 * 【2025-10-29】[IBM / AssetOpsBench](https://github.com/IBM/AssetOpsBench) - AssetOpsBench - Industry 4.0
@@ -11556,6 +11564,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2025-11-01】[PCJones / usenet-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger-Guide für das Usenet
 * 【2025-10-25】[wea-f / ByePassHub](https://github.com/wea-f/ByePassHub) - 3500+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
 * 【2025-10-24】[MicrosoftDocs / mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
 * 【2025-10-22】[blaCCkHatHacEEkr / PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
