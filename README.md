@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-11-05】[mudler / edgevpn](https://github.com/mudler/edgevpn) - ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 * 【2025-11-04】[GeeeekExplorer / nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 * 【2025-11-04】[sst / opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 * 【2025-11-02】[get-convex / chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
@@ -8585,6 +8586,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-11-05】[jurplel / qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
+* 【2025-11-05】[pqrs-org / Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 * 【2025-11-04】[BrunoLevy / learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 * 【2025-11-01】[mozilla-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 * 【2025-11-01】[Redot-Engine / redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
@@ -9628,6 +9631,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-11-05】[hillelkingqt / GeminiDesk](https://github.com/hillelkingqt/GeminiDesk) - An unofficial Electron-based Gemini Desktop App for Google Gemini – clean, fast, and always accessible.
 * 【2025-11-01】[ranuts / document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 * 【2025-10-31】[design-tokens / community-group](https://github.com/design-tokens/community-group) - This is the official DTCG repository for the design tokens site and specification.
 * 【2025-10-30】[OCA / helpdesk](https://github.com/OCA/helpdesk) - Odoo modules for managing a HelpDesk system
