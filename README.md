@@ -1,6 +1,9 @@
 # github-trending
 ## All language
 
+* 【2025-11-11】[lzhoang2801 / OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
+* 【2025-11-11】[microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
+* 【2025-11-11】[opencloud-eu / opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 * 【2025-11-10】[HyDE-Project / HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻
 * 【2025-11-10】[librespot-org / librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 * 【2025-11-09】[TodePond / GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
@@ -2120,6 +2123,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-11-11】[JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 * 【2025-11-10】[Pugmatt / BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5
 * 【2025-11-10】[AntiCope / meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
 * 【2025-11-01】[Tosencen / XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
@@ -5043,6 +5047,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-11-11】[marko-js / marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
+* 【2025-11-11】[Stremio / stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
 * 【2025-11-10】[kanoqwq / UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS) - A functional tools for zte devices (F50 | U30 Air)
 * 【2025-11-09】[leukipp / touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
 * 【2025-11-07】[aleixrodriala / wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
@@ -8618,6 +8624,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-11-11】[WiVRn / WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
+* 【2025-11-11】[TheAssassin / AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 * 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework
 * 【2025-11-05】[jurplel / qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 * 【2025-11-05】[pqrs-org / Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
