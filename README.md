@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2025-12-10】[KaijuEngine / kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 * 【2025-12-09】[slidevjs / slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 * 【2025-12-09】[cloudflare / vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 * 【2025-12-08】[NVIDIA / cutile-python](https://github.com/NVIDIA/cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
@@ -2137,6 +2138,9 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-12-10】[kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
+* 【2025-12-10】[bastillion-io / Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web-based SSH console and key management tool. Bastillion gives you a clean, browser-based way to manage SSH access across all your systems. Think of it like a bastion host with a friendly dashboard.
+* 【2025-12-10】[apache / poi](https://github.com/apache/poi) - Mirror of Apache POI gitbox. The Java API for Microsoft Documents.
 * 【2025-12-09】[risin42 / NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 * 【2025-12-09】[ZalithLauncher / ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
 * 【2025-12-08】[google / tsunami-security-scanner-plugins](https://github.com/google/tsunami-security-scanner-plugins) - This project aims to provide a central repository for many useful Tsunami Security Scanner plugins.
@@ -3127,6 +3131,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-12-10】[wasserth / TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - Tool for robust segmentation of >100 important anatomical structures in CT and MR images
 * 【2025-12-08】[DigitalPhonetics / IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Controllable and fast Text-to-Speech for over 7000 languages!
 * 【2025-12-06】[ModelTC / LightX2V](https://github.com/ModelTC/LightX2V) - Light Video Generation Inference Framework
 * 【2025-12-06】[fastapi-practices / fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - 基于 FastAPI 构建的企业级后端架构解决方案
@@ -7622,6 +7627,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-12-10】[vladelaina / Catime](https://github.com/vladelaina/Catime) - A tiny (803KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%).
 * 【2025-12-06】[stackia / rtp2httpd](https://github.com/stackia/rtp2httpd) - Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV
 * 【2025-12-05】[coredevices / PebbleOS](https://github.com/coredevices/PebbleOS) - 
 * 【2025-11-13】[apache / httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
@@ -10652,6 +10658,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2025-12-10】[stevedylandev / bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React
 * 【2025-12-08】[InioX / matugen-themes](https://github.com/InioX/matugen-themes) - 
 * 【2025-11-12】[loof2736 / scyfin](https://github.com/loof2736/scyfin) - Custom theme for Jellyfin WebUI
 * 【2025-11-09】[Au5-ai / Au5](https://github.com/Au5-ai/Au5) - Self-hosted real-time meeting note tacker for google meet.
