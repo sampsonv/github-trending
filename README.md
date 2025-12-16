@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2025-12-16】[jellyfin / jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
+* 【2025-12-16】[theOehrly / Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
 * 【2025-12-14】[ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 * 【2025-12-13】[refly-ai / refly](https://github.com/refly-ai/refly) - Vibe Workflow Platform for Non-technical Creators.
 * 【2025-12-13】[tursodatabase / turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
@@ -2144,6 +2146,8 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-12-16】[MCRcortex / voxy](https://github.com/MCRcortex/voxy) - An LoD rendering mod for minecraft
+* 【2025-12-16】[shmuelzon / home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 * 【2025-12-14】[octoshrimpy / quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 * 【2025-12-13】[zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
 * 【2025-12-12】[senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
@@ -6426,6 +6430,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-12-16】[xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 * 【2025-12-15】[VictoriaMetrics / VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 * 【2025-12-15】[negokaz / excel-mcp-server](https://github.com/negokaz/excel-mcp-server) - A Model Context Protocol (MCP) server that reads and writes MS Excel data
 * 【2025-12-13】[memodb-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io
@@ -8701,6 +8706,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2025-12-16】[SpacehuhnTech / WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
+* 【2025-12-16】[reisxd / TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 * 【2025-12-15】[OrcaSlicer / OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 * 【2025-12-12】[BCN3D / BCN3D-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
 * 【2025-12-12】[juliansteenbakker / flutter_secure_storage](https://github.com/juliansteenbakker/flutter_secure_storage) - A Flutter plugin for securely storing sensitive data using encrypted storage.
