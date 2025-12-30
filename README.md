@@ -2168,6 +2168,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2025-12-30】[ikarus23 / MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 * 【2025-12-29】[apache / groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 * 【2025-12-29】[apache / storm](https://github.com/apache/storm) - Apache Storm
 * 【2025-12-28】[higress-group / himarket](https://github.com/higress-group/himarket) - HiMarket is an enterprise-level "AI Capability Marketplace and Developer Ecosystem Hub." It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc., through standardized product formats.
@@ -3174,6 +3175,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2025-12-30】[mampfes / hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules
 * 【2025-12-28】[vibrantlabsai / ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 * 【2025-12-27】[TauricResearch / TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 * 【2025-12-27】[HKUDS / VideoRAG](https://github.com/HKUDS/VideoRAG) - [KDD'2026] "VideoRAG: Chat with Your Videos"
@@ -5148,6 +5150,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2025-12-30】[nagix / mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
+* 【2025-12-30】[ganeshrvel / openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP - Advanced Android File Transfer Application for macOS
 * 【2025-12-29】[elementdavv / internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader) - A chrome/firefox extension that download books from Internet Archive(archive.org) and HathiTrust Digital Library (hathitrust.org)
 * 【2025-12-26】[pucherot / Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 * 【2025-12-26】[parcoil / sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
@@ -6481,6 +6485,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2025-12-30】[oxc-project / tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 * 【2025-12-29】[looplj / axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
 * 【2025-12-29】[nginx / nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 * 【2025-12-24】[5rahim / seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
@@ -7717,6 +7722,10 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2025-12-30】[mruby / mruby](https://github.com/mruby/mruby) - Lightweight Ruby
+* 【2025-12-30】[vysheng / tg](https://github.com/vysheng/tg) - telegram-cli
+* 【2025-12-30】[basil00 / WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
+* 【2025-12-30】[dsp56300 / gearmulator](https://github.com/dsp56300/gearmulator) - Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs
 * 【2025-12-29】[streetpea / chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 * 【2025-12-29】[cgsecurity / testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
 * 【2025-12-21】[timescale / pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
@@ -9837,6 +9846,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2025-12-30】[json-schema-org / website](https://github.com/json-schema-org/website) - JSON Schema website
 * 【2025-12-28】[FrizzleM / BreakFree](https://github.com/FrizzleM/BreakFree) - A free iOS shortcut that lets you sideload unlimited apps on your iOS and iPadOS device using an exploit (involves DNSs and public certificates).
 * 【2025-12-27】[D-Ogi / WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA Models: A Python application leveraging state-of-the-art deep learning models to effectively remove watermarks from images with a user-friendly PyQt6 interface.
 * 【2025-12-23】[wujunwei928 / parse-video-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
