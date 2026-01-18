@@ -3203,6 +3203,7 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2026-01-18】[OpenBMB / VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
 * 【2026-01-17】[neuphonic / neutts](https://github.com/neuphonic/neutts) - On-device TTS model by Neuphonic
 * 【2026-01-17】[modelscope / evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 * 【2026-01-16】[music-assistant / server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
@@ -6546,6 +6547,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2026-01-18】[kubernetes-sigs / ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 * 【2026-01-17】[getarcaneapp / arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 * 【2026-01-16】[loong / go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers.
 * 【2026-01-12】[the-dev-tools / dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API testing that goes from HAR file to GitHub Actions in 60 seconds.
@@ -7799,6 +7801,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2026-01-18】[ValveSoftware / wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 * 【2026-01-16】[shorepine / tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 * 【2026-01-10】[armink / EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM<1.6K, RAM<0.3k), high-performance C/C++ log library. | 一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库
 * 【2026-01-07】[HermanChen / mpp](https://github.com/HermanChen/mpp) - Rockchip MPP(Media Process Platfrom)
@@ -8861,6 +8864,8 @@
 * 【2023-10-15】[skywind3000 / kcp](https://github.com/skywind3000/kcp) - ⚡ KCP - A Fast and Reliable ARQ Protocol
 ## C++
 
+* 【2026-01-18】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
+* 【2026-01-18】[wjakob / nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 * 【2026-01-17】[1q23lyc45 / KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 * 【2026-01-15】[subsurface / subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 * 【2026-01-14】[eloqdata / eloqstore](https://github.com/eloqdata/eloqstore) - Hybrid-tier key-value storage engine built on object storage & local SSDs. Engineered for batch-write efficiency and read optimization with ultra-low tail latency.
@@ -9940,6 +9945,7 @@
 * 【2023-10-15】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 ## Html
 
+* 【2026-01-18】[rickstaa / awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.
 * 【2026-01-16】[duckdb / duckdb-web](https://github.com/duckdb/duckdb-web) - 🐤 DuckDB website and documentation
 * 【2026-01-14】[fossology / fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line. As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow.
 * 【2026-01-09】[mgaudet / CompilerJobs](https://github.com/mgaudet/CompilerJobs) - A listing of compiler, language and runtime teams for people looking for jobs in this area
@@ -10890,6 +10896,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2026-01-18】[StylishThemes / GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - Dark GitHub style
 * 【2026-01-16】[lwjglgamedev / lwjglbook-bookcontents](https://github.com/lwjglgamedev/lwjglbook-bookcontents) - Book contents for the book "3D Game Development with LWJGL 3"
 * 【2026-01-15】[creativetimofficial / black-dashboard](https://github.com/creativetimofficial/black-dashboard) - 
 * 【2026-01-08】[Terminus2049 / Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
@@ -11927,6 +11934,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2026-01-18】[travisvn / awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 * 【2026-01-17】[obra / superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 * 【2026-01-13】[mithi / robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
 * 【2026-01-12】[kiloreux / awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
