@@ -2215,6 +2215,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2026-02-03】[pgjdbc / pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 * 【2026-02-02】[Trainguy9512 / locomotion](https://github.com/Trainguy9512/locomotion) - 
 * 【2026-01-28】[Vineflower / vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.
 * 【2026-01-26】[jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
@@ -7869,6 +7870,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2026-02-03】[libsdl-org / SDL_mixer](https://github.com/libsdl-org/SDL_mixer) - An audio mixer that supports various file formats for Simple Directmedia Layer.
 * 【2026-01-29】[NVIDIA / libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 * 【2026-01-27】[geo-tp / ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 * 【2026-01-24】[X11Libre / xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
@@ -10980,6 +10982,7 @@
 * 【2023-10-15】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 ## Css
 
+* 【2026-02-03】[AvengeMedia / dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - Official and Third Party Plugins & Themes for DankMaterialShell
 * 【2026-01-23】[LINCnil / CookieViz](https://github.com/LINCnil/CookieViz) - CookieViz est un outil de visualisation qui permet de mesurer l'impact des cookies lors de votre propre navigation.
 * 【2026-01-23】[g1eny0ung / hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream) - 🌱 A Hugo theme named Dream.
 * 【2026-01-22】[khaneliman / dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
