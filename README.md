@@ -1,6 +1,7 @@
 # github-trending
 ## All language
 
+* 【2026-02-11】[carlvellotti / claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
 * 【2026-02-09】[pydantic / monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 * 【2026-02-09】[home-assistant / addons](https://github.com/home-assistant/addons) - ➕ Docker add-ons for Home Assistant
 * 【2026-02-08】[KeygraphHQ / shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
@@ -2228,6 +2229,7 @@
 * 【2023-10-15】[messense / aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 ## Java
 
+* 【2026-02-11】[eddyizm / tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 * 【2026-02-10】[realnnpg / Glazed](https://github.com/realnnpg/Glazed) - Meteor client addon for DonutSMP
 * 【2026-02-09】[Ninjabrain1 / Ninjabrain-Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot) - Accurate stronghold calculator for Minecraft speedrunning.
 * 【2026-02-04】[killbill / killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
@@ -3251,6 +3253,8 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2026-02-11】[baserow / baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
+* 【2026-02-11】[suyiiyii / AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI) - AutoGLM 的现代化 Web 图形界面 - 让 AI 自动化操作 Android 设备变得简单 已进化为你的专属自动化生产力工具
 * 【2026-02-10】[IAmTomShaw / f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
 * 【2026-02-10】[ulab-uiuc / LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - LLMRouter: An Open-Source Library for LLM Routing
 * 【2026-02-09】[huggingface / speech-to-speech](https://github.com/huggingface/speech-to-speech) - Speech To Speech: an effort for an open-sourced and modular GPT4-o
@@ -5276,6 +5280,7 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2026-02-11】[dwyl / learn-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data. 🔍
 * 【2026-02-08】[xinnan-tech / xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 * 【2026-02-06】[koosoli / ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.
 * 【2026-02-06】[YUZU-Hub / appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
