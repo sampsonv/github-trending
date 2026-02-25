@@ -1,6 +1,8 @@
 # github-trending
 ## All language
 
+* 【2026-02-25】[ruvnet / ruvector](https://github.com/ruvnet/ruvector) - RuVector is a high performance Vector Graph & Ai System built in Rust, focsused on agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval.
+* 【2026-02-25】[GVCLab / PersonaLive](https://github.com/GVCLab/PersonaLive) - [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 * 【2026-02-24】[muratcankoylan / Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 * 【2026-02-24】[CompVis / stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 * 【2026-02-22】[abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
@@ -3283,6 +3285,11 @@
 * 【2023-10-15】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的官方 Java Library
 ## Python
 
+* 【2026-02-25】[smittix / intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
+* 【2026-02-25】[anthropics / claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+* 【2026-02-25】[AIDC-AI / Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+* 【2026-02-25】[zou-group / sleepfm-clinical](https://github.com/zou-group/sleepfm-clinical) - 
+* 【2026-02-25】[ShisatoYano / AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) - Python sample codes and documents about Autonomous vehicle control algorithm. This project can be used as a technical guide book to study the algorithms and the software architectures for beginners.
 * 【2026-02-24】[learning-unlimited / ESP-Website](https://github.com/learning-unlimited/ESP-Website) - A website to help manage the logistics of large, short-term educational programs
 * 【2026-02-23】[mihail911 / modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 * 【2026-02-21】[Crosstalk-Solutions / unifi-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit) - A suite of tools for UniFi network management
@@ -5327,6 +5334,8 @@
 * 【2023-10-15】[rev1si0n / lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 ## Javascript
 
+* 【2026-02-25】[badlogic / pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
+* 【2026-02-25】[journey-ad / gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 * 【2026-02-24】[liyupi / ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站
 * 【2026-02-23】[gamosoft / NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 * 【2026-02-22】[expo / skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
@@ -6696,6 +6705,7 @@
 * 【2023-10-15】[dushixiang / next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 ## Go
 
+* 【2026-02-25】[canopy-network / canopy](https://github.com/canopy-network/canopy) - The official go implementation of the Canopy Network protocol
 * 【2026-02-22】[steveyegge / gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
 * 【2026-02-19】[XTLS / RealiTLScanner](https://github.com/XTLS/RealiTLScanner) - A TLS server scanner for Reality
 * 【2026-02-17】[micro-editor / micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
@@ -7970,6 +7980,7 @@
 * 【2023-10-15】[FloatTech / ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin) - 基于 ZeroBot 的 OneBot 插件
 ## C
 
+* 【2026-02-25】[Vatuu / silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp) - An in-progress decompilation of the 1.1 US release of Silent Hill on the Playstation 1.
 * 【2026-02-24】[PKRoma / ProcessHacker](https://github.com/PKRoma/ProcessHacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware—mirror of https://github.com/processhacker2/processhacker.git
 * 【2026-02-20】[DragonMinded / libdragon](https://github.com/DragonMinded/libdragon) - Open source library for N64 development.
 * 【2026-02-20】[GameTec-live / ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI) - A GUI for the Chameleon Ultra written in Flutter for crossplatform
@@ -12165,6 +12176,7 @@
 * 【2023-10-15】[leoFitz1024 / wallhaven](https://github.com/leoFitz1024/wallhaven) - 基于wallhaven.cc的一款壁纸管理工具
 ## Unknown
 
+* 【2026-02-25】[ottosulin / awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) - A collection of awesome resources related AI security
 * 【2026-02-24】[alvi-se / ai-ublock-blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Websites I personally found that are completely generated by AI. Pull requests welcome.
 * 【2026-02-24】[lerrua / remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) - Lista de empresas com trabalho remoto no Brasil
 * 【2026-02-19】[user1342 / Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
